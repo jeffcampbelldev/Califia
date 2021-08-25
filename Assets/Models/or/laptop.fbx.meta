@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 2e6fc3dd8d657494db5b642fea7b5768
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1474966920397252857
+    second: Computer_LCD_Reed Standard [160990]|Cart-Laptop_Reed Cart-Laptop_Reed
+      [160984]|Take 001|BaseLayer
+  - first:
+      74: 894296210184422706
+    second: Computer_LCD_Reed Standard [160990]|Computer_LCD_Reed Standard [160990]|Take
+      001|BaseLayer
+  - first:
+      74: -4017926148636612586
+    second: Computer_LCD_Reed Standard [160990]|Floor Conc - 6" - Rubber Floor -
+      Blue [211487]|Take 001|BaseLay
+  - first:
+      74: -5095081766589624982
+    second: Computer_LCD_Reed Standard [160990]|Floor Conc - 6" - Rubber Floor -
+      Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 8475022436366808950
+    second: Computer_LCD_Reed Standard [160990]|Floor Conc - 6" - Rubber Floor -
+      Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 9075959609218314129
+    second: Computer_LCD_Reed Standard [160990]|Floor Conc - 6" - Rubber Floor Dark
+      Blue [316282]|Take 001|Base
+  - first:
+      74: 8565777021521055691
+    second: Computer_LCD_Reed Standard [160990]|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 8667711793021703083
+    second: Computer_LCD_Reed Standard [160990]|Surgery Stool Surgery Stool [285409]|Take
+      001|BaseLayer
+  - first:
+      74: -9100969672482917699
+    second: Computer_LCD_Reed Standard [160990]|Surgery Stool Surgery Stool [285507]|Take
+      001|BaseLayer
+  - first:
+      74: 5754586560985540864
+    second: Computer_LCD_Reed Standard [160990]|Surgery Stool Surgery Stool [318555]|Take
+      001|BaseLayer
+  - first:
+      74: 588747701882810643
+    second: Computer_LCD_Reed Standard [160990]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: 1608412258335102478
+    second: Computer_LCD_Reed Standard [160990]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: 3137374155091944936
+    second: Computer_LCD_Reed Standard [160990]|Ventilator_Reed Ventilator_Reed [160979]|Take
+      001|BaseLayer
+  - first:
+      74: -1719318162862052631
+    second: Computer_LCD_Reed Standard [160990]|w-Anesthesia_Tower 26" x 26" [226134]|Take
+      001|BaseLayer
+  - first:
+      74: -8048157513475862958
+    second: Computer_LCD_Reed Standard [160990]|w-Contamination Tray w-Contamination
+      Tray [367117]|Take 001|Bas
+  - first:
+      74: 1327480778687088166
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment - ElectroSurgical
+      Generator ESU w-M_2cc8069
+  - first:
+      74: -5611413278491989453
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment - Olympus Xenon
+      Light Source Contro_875c195
+  - first:
+      74: 3322070691610694238
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment - SurgeryRoom
+      Psymograph w-Medical _d4ab6fd
+  - first:
+      74: -3664001582092231298
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment - Trumpf - i310
+      i310 FP [263967]|Take 001|B
+  - first:
+      74: -3493679467791564201
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment - Trumpf - i310
+      i310 FP [320310]|Take 001|B
+  - first:
+      74: 4386350235372605166
+    second: Computer_LCD_Reed Standard [160990]|w-Medical Equipment -Trumpf - Titan
+      Surgery Table Titan_241c58f
+  - first:
+      74: -8354414165197326164
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -1380560467996060380
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: 8510483472712139920
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Generic - 6" [158853]|Take
+      001|BaseLayer
+  - first:
+      74: -7162016831973459520
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Generic - 6" [158854]|Take
+      001|BaseLayer
+  - first:
+      74: -925947846173831619
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Generic - 6" [158855]|Take
+      001|BaseLayer
+  - first:
+      74: 6079093831572928044
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Generic - 6" [158856]|Take
+      001|BaseLayer
+  - first:
+      74: 923192183158266312
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [242614]|Take 001
+  - first:
+      74: -3588921311885104837
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [242685]|Take 001
+  - first:
+      74: 608661641117408927
+    second: Computer_LCD_Reed Standard [160990]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [243081]|Take 001
+  - first:
+      74: 2573714878204018545
+    second: Computer_LCD_Reed Standard [160990]|Cart_Utility_Reed 35In H x 29In D
+      x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -6273958018529264868
+    second: Computer_LCD_Reed Standard [160990]|Compound Ceiling GWB on Mtl. Stud
+      [213220]|Take 001|BaseLayer
+  - first:
+      74: -2570990419494754652
+    second: Computer_LCD_Reed Standard [160990]|Compound Ceiling GWB on Mtl. Stud
+      [242839]|Take 001|BaseLayer
+  - first:
+      74: -8163611456303053477
+    second: Computer_LCD_Reed Standard [160990]|Door_Vision-Panel_Reed Door_Vision-Panel_Reed
+      [198105]|Take 001
+  - first:
+      74: 2956325516793963663
+    second: Computer_LCD_Reed Standard [160990]|Double_Flush_-_Unequal 72" x 78"
+      [211553]|Take 001|BaseLayer
+  - first:
+      74: -7710639246164721126
+    second: Computer_LCD_Reed Standard [160990]|Flat_Panel_TV_42 40 inch [228411]|Take
+      001|BaseLayer
+  - first:
+      74: -5631620451268344802
+    second: Computer_LCD_Reed Standard [160990]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [195098]|Tak
+  - first:
+      74: -8926484691721186145
+    second: Computer_LCD_Reed Standard [160990]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [211522]|Tak
+  - first:
+      74: 3006612737057091463
+    second: Computer_LCD_Reed Standard [160990]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [242155]|Tak
+  - first:
+      74: -6232654757332831624
+    second: Computer_LCD_Reed Standard [160990]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [242180]|Tak
+  - first:
+      74: -3378466110800219818
+    second: Computer_LCD_Reed Standard [160990]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [318757]|Tak
+  - first:
+      74: 6715621050294524985
+    second: Computer_LCD_Reed Standard [160990]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195214]|Take 001|B
+  - first:
+      74: 4677482546441964657
+    second: Computer_LCD_Reed Standard [160990]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195215]|Take 001|B
+  - first:
+      74: 2064697048914071310
+    second: Computer_LCD_Reed Standard [160990]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195216]|Take 001|B
+  - first:
+      74: -3687927401083325158
+    second: Computer_LCD_Reed Standard [160990]|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen
+      [243262]|Take 001
+  - first:
+      74: -7928172361675632266
+    second: Computer_LCD_Reed Standard [160990]|Plane001|Take 001|BaseLayer
+  - first:
+      74: 4222070149619271043
+    second: Computer_LCD_Reed Standard [160990]|Plane002|Take 001|BaseLayer
+  - first:
+      74: -7712693600976011436
+    second: Computer_LCD_Reed Standard [160990]|Plane003|Take 001|BaseLayer
+  - first:
+      74: -7922925428800568188
+    second: Computer_LCD_Reed Standard [160990]|Plane004|Take 001|BaseLayer
+  - first:
+      74: -6669059802901247137
+    second: Computer_LCD_Reed Standard [160990]|Plane005|Take 001|BaseLayer
+  - first:
+      74: 4825918559789568830
+    second: Computer_LCD_Reed Standard [160990]|Plane006|Take 001|BaseLayer
+  - first:
+      74: -344196092517445244
+    second: Computer_LCD_Reed Standard [160990]|Plane007|Take 001|BaseLayer
+  - first:
+      74: -6184214429230519687
+    second: Computer_LCD_Reed Standard [160990]|Plane008|Take 001|BaseLayer
+  - first:
+      74: -3538729751782680949
+    second: Computer_LCD_Reed Standard [160990]|Plane009|Take 001|BaseLayer
+  - first:
+      74: -8134161791250016289
+    second: Computer_LCD_Reed Standard [160990]|Plane014|Take 001|BaseLayer
+  - first:
+      74: -777907892525518882
+    second: Computer_LCD_Reed Standard [160990]|Plane015|Take 001|BaseLayer
+  - first:
+      74: 688853754942765114
+    second: Computer_LCD_Reed Standard [160990]|Rauland - Flush mounted - model 2521
+      Rauland - Flush mo_632cde0
+  - first:
+      74: -1352642648120880562
+    second: Computer_LCD_Reed Standard [160990]|Stand-Infusion_Reed Stand-Infusion_Reed
+      [160983]|Take 001|BaseL
+  - first:
+      74: 7097196555298220608
+    second: Computer_LCD_Reed Standard [160990]|w-Fire Alarm Box Fire Alarm Pull
+      Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 8516613794048115989
+    second: Computer_LCD_Reed Standard [160990]|w-Med Cabinet - Tall 49.5" [262813]|Take
+      001|BaseLayer
+  - first:
+      74: 2305502060079987882
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_3a88bd0
+  - first:
+      74: -2835172103975209095
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_616be44
+  - first:
+      74: -489326106321785189
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_b985b54
+  - first:
+      74: 5984705733013483029
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_f529a41
+  - first:
+      74: 2607563203294937113
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_1183ffe
+  - first:
+      74: 6619436140112210354
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_491ff65
+  - first:
+      74: -8537913365879446963
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_663f02c
+  - first:
+      74: 2091500835308540064
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_7ce1703
+  - first:
+      74: 4067702284454666304
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_8d5a40d
+  - first:
+      74: 8556341052803260259
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_920575c
+  - first:
+      74: 2882684709806552210
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_9f084db
+  - first:
+      74: 1700892358966655493
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_dad0568
+  - first:
+      74: 6662167614749122960
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_e5da27a
+  - first:
+      74: 7461690162827133764
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: 5154715041332620099
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_fb61b1a
+  - first:
+      74: -3450694627302918605
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_06d6b53
+  - first:
+      74: 39401380325395236
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_2ef.000
+  - first:
+      74: 7280710692086940327
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_4d0.000
+  - first:
+      74: -8100079348757357931
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_b19db64
+  - first:
+      74: 1215591317950959801
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_ebaec81
+  - first:
+      74: -2588780706610104113
+    second: Computer_LCD_Reed Standard [160990]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_eda4d66
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

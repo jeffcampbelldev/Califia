@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 184e16698bb31df45a699ea9e0cc6ced
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: metal aluminium
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Lights
+  - first:
+      74: 7400000
+    second: Lights|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: Lights|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: Lights|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: Lights|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: Lights|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: Lights|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: Lights|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: Lights|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: Lights|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: Lights|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: Lights|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: Lights|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: Lights|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400026
+    second: Lights|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: Lights|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: Lights|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: Lights|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: Lights|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: Lights|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: Lights|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: Lights|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: Lights|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: Lights|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: Lights|walls|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: Lights|wooden floor|Take 001|BaseLayer.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: 4875107520100773662
+    second: LightDiscs|Lights|Lights|Bedside_table_blat003|Take 001|BaseLayer|Lights|B
+  - first:
+      74: 5170080281018960712
+    second: LightDiscs|Lights|Lights|ceilung|Take 001|BaseLayer|Lights|ceilung|Take
+      00
+  - first:
+      74: 974660235024735369
+    second: LightDiscs|Lights|Lights|curtain_hospital_ward|Take 001|BaseLayer|Lights|c
+  - first:
+      74: 8096791215482356160
+    second: LightDiscs|Lights|Lights|Cylinder4465|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -4271711144767757424
+    second: LightDiscs|Lights|Lights|Cylinder4466|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -7982703291757195086
+    second: LightDiscs|Lights|Lights|Cylinder4467|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -533075065793828381
+    second: LightDiscs|Lights|Lights|Cylinder4468|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -8390755331982370924
+    second: LightDiscs|Lights|Lights|Cylinder4469|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: 5462110006467946963
+    second: LightDiscs|Lights|Lights|Cylinder4470|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: 5417862818509494467
+    second: LightDiscs|Lights|Lights|Cylinder4471|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: 1835967739330524922
+    second: LightDiscs|Lights|Lights|Cylinder4472|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -7766721186218750051
+    second: LightDiscs|Lights|Lights|Cylinder4473|Take 001|BaseLayer|Lights|Cylinder44
+  - first:
+      74: -843268284495117122
+    second: LightDiscs|Lights|Lights|Cylinder4510|Take 001|BaseLayer.001|Lights|Cylind
+  - first:
+      74: -2509838658530458619
+    second: LightDiscs|Lights|Lights|Cylinder4771|Take 001|BaseLayer|Lights|Cylinder47
+  - first:
+      74: 6656900329679857431
+    second: LightDiscs|Lights|Lights|Cylinder4772|Take 001|BaseLayer|Lights|Cylinder47
+  - first:
+      74: 4319499757285099537
+    second: LightDiscs|Lights|Lights|Cylinder4773|Take 001|BaseLayer|Lights|Cylinder47
+  - first:
+      74: -1995989138800825937
+    second: LightDiscs|Lights|Lights|Cylinder65ssa007|Take 001|BaseLayer|Lights|Cylind
+  - first:
+      74: -4338846546486087042
+    second: LightDiscs|Lights|Lights|Hospital_bed_base001|Take 001|BaseLayer|Lights|Ho
+  - first:
+      74: -1928511723373644045
+    second: LightDiscs|Lights|Lights|Locker_top001|Take 001|BaseLayer|Lights|Locker_to
+  - first:
+      74: 8105819779300189288
+    second: LightDiscs|Lights|Lights|monitor screen002|Take 001|BaseLayer|Lights|monit
+  - first:
+      74: -3592828998061435072
+    second: LightDiscs|Lights|Lights|monitor screen003|Take 001|BaseLayer|Lights|monit
+  - first:
+      74: 8571700942189120050
+    second: 'LightDiscs|Lights|Lights|plinth 2|Take 001|BaseLayer|Lights|plinth 2|Take '
+  - first:
+      74: 2957665347624631396
+    second: LightDiscs|Lights|Lights|ventilator screen002|Take 001|BaseLayer|Lights|ve
+  - first:
+      74: -6947172495338780027
+    second: LightDiscs|Lights|Lights|walls|Take 001|BaseLayer|Lights|walls|Take 001|Ba
+  - first:
+      74: 1142669358591078326
+    second: LightDiscs|Lights|Lights|wooden floor|Take 001|BaseLayer.001|Lights|wooden
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

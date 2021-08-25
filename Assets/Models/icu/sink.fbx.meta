@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 6fe643e2411e6cc42a976a0a7248bb70
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: MIRROR
+  - first:
+      21: 2100002
+    second: monitor case
+  - first:
+      21: 2100004
+    second: blue_hospital_bed.002
+  - first:
+      21: 2100006
+    second: bluePlasticVentilator.002
+  - first:
+      21: 2100008
+    second: hospital_bed_ metal1.001
+  - first:
+      21: 2100010
+    second: Chrome.000
+  - first:
+      21: 2100012
+    second: water dispenser red plastic
+  - first:
+      21: 2100014
+    second: paper towel
+  - first:
+      21: 2100016
+    second: Porcelain
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: mirror2a
+  - first:
+      74: 7400000
+    second: mirror2a|aluminium_corner002asfa|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: mirror2a|aluminium_corner003|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: mirror2a|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: mirror2a|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: mirror2a|cupboard|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: mirror2a|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: mirror2a|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: mirror2a|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: mirror2a|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: mirror2a|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: mirror2a|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: mirror2a|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: mirror2a|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: mirror2a|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: mirror2a|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: mirror2a|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400032
+    second: mirror2a|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: mirror2a|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: mirror2a|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: mirror2a|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: mirror2a|drawer back002|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: mirror2a|drawer back003223a|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: mirror2a|drawer_box001bda|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: mirror2a|drawer_box002ra2|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: mirror2a|drawer_face003|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: mirror2a|drawer_face004vas|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: mirror2a|drawer_face005221a|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: mirror2a|drawer_face0062231|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: mirror2a|drawer_face009|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: mirror2a|drawer_frame001bsa|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: mirror2a|drawer_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: mirror2a|handle014|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: mirror2a|handle015|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: mirror2a|handle016|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: mirror2a|handle017|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: mirror2a|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: mirror2a|Locker_bottom001bdae|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: mirror2a|Locker_bottom002assa|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: mirror2a|Locker_bottom004|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: mirror2a|Locker_top00122ab|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: mirror2a|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: mirror2a|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: mirror2a|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: mirror2a|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: mirror2a|OptiTherm_cold002|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: mirror2a|OptiTherm_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: mirror2a|OptiTherm_tap003|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: mirror2a|OptiTherm_tap004|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: mirror2a|OptiTherm_warm002|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: mirror2a|OptiTherm_water_cap002|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: mirror2a|Paper_towel_dispenser1a|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: mirror2a|Paper_towel_dispenser_cap|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: mirror2a|Paper_towel_dispenser_eye|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: mirror2a|Paper_towel_dispenser|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: mirror2a|Paper_towel|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: mirror2a|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: mirror2a|sanitiz|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: mirror2a|Soap_gel_dispenser001|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: mirror2a|Soap_gel_dispenser1a001|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: mirror2a|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: mirror2a|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: mirror2a|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: mirror2a|walls|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: mirror2a|Wash_basin001|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: mirror2a|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: mirror2a|wooden floor|Take 001|BaseLayer.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: 6437795142189127196
+    second: mirror2a|Box847|Take 001|BaseLayer
+  - first:
+      74: 6755505096980011684
+    second: mirror2a|Object4483|Take 001|BaseLayer
+  - first:
+      74: 4409776497999985012
+    second: mirror2a|Object4491|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

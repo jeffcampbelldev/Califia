@@ -1,0 +1,978 @@
+r1
+b12
+--------------------
+- fixed a bug causing camera to go to incorrect location when applying invos sensors to infant's knees
+- added support for Nautilus oxygenator
+* Nurse can install iv bag
+- User can replace iv bag with empty
+- fixed a bug preventing entrance to or
+
+r1
+b11
+--------------------
+* Avatars no longer can occupy same region of space
+* ICU doors open and close when avatars exit and enter
+* fixed a bug preventing entrance to or
+* removed _index from topic parameters
+
+r1
+b10
+--------------------
+* fixed an issue with tubing color
+
+r1
+b9
+--------------------
+* Fix bug preventing media monitor from working with Youtube videos
+* remove Unity logo from splash screen
+* Fixed a bug causing pump to oxy tube to lose its color
+* Fix an issue causing hemofilter drainage tube color to be incorrect
+* Fix a bug causing Unity to get stuck on a black screen, if MasterEdge sent room command, while 3D was in mosaic mode
+
+r1
+b8
+--------------------
+* Fixed a bug causing Gas Event to not work, and hence breaking comms with MasterEdge
+* Fixed a bug causing incorrect cannulas at internal jugular when switching between DL and SL circuits
+* Fixed a bug causing tubing to frequently intersect geometry
+* Fixed a bug causing tubing to forget it's color when setting ecmo equipment or cart model
+
+r1
+b7
+--------------------
+* Close button does not remove window's topmost status
+* Lowered default cart to reduce tubing collisions and improve visibility of main circuit lines
+* included 4th option for cardiohelp panel in icu catalog
+* Included cdi 550 as an ibga option in the icu catalog
+
+r1
+b6
+--------------------
+* Update names in icu catalog
+* Re-added support for both Terumo models
+* Clicking cancel on confirm close menu does not erase shared folder
+
+r1
+b5
+--------------------
+* added gravity / slack to tubes to be less linear
+* don't confirm close when called via topic
+* fixed a problem with loading/saving nav views on different culture formats
+* fixed a bug preventing blood flow color animating along delivery line with cardiohelp
+* fixed a bug where navigating to ecmo pump via quick nav / recents was not effective viewpoint
+* fixed a bug where ibga values were lost when changing ecmo cart models
+* 			"		heater cooler
+* 			"		gas blender
+
+r1
+b4
+--------------------
+* Media monitors support playing videos by youtube link
+* Fixed floating objects in ICU and OR
+* Added thresholds to panning and zooming clipboard
+* Fixed a bug where drags where interpreted as clicks when WASD or arrow keys were pressed
+* generic pump and oxygenator
+* support oxygenator swaps
+* support cart swaps
+* hoffman clamp not visible in hardware mode
+* flow probe actionable in hardware mode
+* fixed a bug preventing gas blender from being actionable in mosaid mode
+* fixed a bug preventing ecmo pump alarm from working
+* Exit requires confirmation
+
+r1
+b3
+--------------------
+* Invos sensor readings are hidden until home button is pressed, even if sensors were placed from instructor panel
+* Hemofilter overflow animation plays when hemofilter tube is disconnected
+
+r1
+v2
+--------------------
+* Clinical Case Panel's Reload button pubs scenario play mode 2
+* scenario play sub handles mode 2 by resetting to step 1
+
+r1
+v1
+--------------------
+* Alaris Infusion Pump can be used in mosaic mode
+
+r1
+v0
+--------------------
+* Removed Unity splash screen
+
+rc2
+V12
+--------------------
+* Increased text box in clipboard dropdown menu
+* Fix bug causing fluid input topics to omit a packet
+
+rc2
+V11
+--------------------
+* Added dropdown list to Clipboard
+* Added zoom buttons to clipboard
+* Circuit tubing remains visible in hardware mode
+* Hoffman clamp visibility only determined by Clamp configure
+* Hoffman clamp not interactable in hardware mode
+* Scissor clamps cannot be applied to circuit tubing in hardware mode
+* Hoffman clamp updates are spaced out by min update delay
+* Added orbital camera feature. 
+
+rc2
+V10
+--------------------
+* Clicking Hoffman Clamp registers in recent navs
+* Hoffman clamp pip percentage responds immediately to clamp configure subs
+* Hoffman quick nav is same location as clicking on clamp
+
+rc2
+V9
+--------------------
+* Added rotation direction marker to hoffman clamp
+* Added hoffman clamp amount to pip window
+
+rc2
+V8
+--------------------
+* Fix an issue preventing step from being reloaded
+* Fix a bug causing nurse and surgeon to drift over time
+* vitals monitor in OR has inconsistent text sizes
+* Liva Nova HLM is hotspot in OR
+* Send cannulas at site 0,3, and 7, on all circuit changes
+
+rc2
+V7
+--------------------
+* Reduced light intensity in opening scene
+* Circuit change pubs cannulas
+
+rc2
+V6
+--------------------
+* max zoom on clipboard
+* fix bug where hands were non functioning after going to mosaic mode
+* Removed dotted artifacts from ekg line in animated logo
+* Second tone added to wall paint
+* Adding a new View to Quick Nav jumps into edit mode for the text field
+* flow sensor resets to 0 on removal
+* Calling Avatar via pager or clickinig avatar, causes camera to look at avatar
+* show step number in clinical case tab
+* Infusion can be resumed by clicking Channel Select => start
+* Added smaller cannula sizes for infants - 10 and 12 fr
+* Infant cannulas are scaled down to fit body
+* Alaris infusion line color matches bag color
+* Added label to sechrist gas blender knobs
+
+rc2
+V5
+--------------------
+* Updated Nurse and Surgeon roles to utilize new avatars Chad and ChadDoc
+* Fixed an issue causing duplicated Views
+* Added avatars to Opening scene
+
+rc2
+V4
+--------------------
+* Fix clamp pubbing more claps than on tube
+* Fix floating clipboard on pickup
+* Brightened heater cooler numerical text
+* Vitals monitor numerical indicators fully hide in pip window
+* OR entrance animation is smoother
+* Added quick navs to OR
+* Enabled Patient, blanket, and clipboard in OR
+* Added Invos to OR
+
+rc2
+V3
+--------------------
+* Interpolated floating point data refresh period slowed down to 1 draw / sec
+* EdgeCalifia3D.ini contains build string of format rc#-V#
+* Cannula listing in circuit menu is updated when circuit is set
+* Placing default clamps removes from clamp stand
+* Hand model highlights on hover
+* Pressing escape returns item without bringing up escape menu
+* Tubes highlight on hover prior to clamp
+
+rc2
+V2
+--------------------
+* Gas Blender, Hemofilter, Infusion Pump, IBGA, and Nirs visibility can be toggled
+* if ecmo pump, heater cooler, ibga, and gas blender, are invisible, the ecmo cart itself goes away
+* Cardiohelp and IBGA screens masked during calculations
+* Add back button to clipboard
+* Clamp menu goes away by clicking on context menu buttons or nav change
+* speed up blanket application time
+* Tweaks so female height is closer to male height in patient
+* Circuit menu displays active cannula info 
+* Area of tubing around hoffman clamp is colored when fully clamp
+* Cap patient height to length of bed
+* Use wider beds for obese patients
+* decreased gas blender knob sensitivity - .01 L/degree rotation. mL knob is 1 mL/degree
+* circuit menu tab updates when circuit set via mqtt
+
+rc2
+V1
+--------------------
+* Ventilator knob sensitivity calculated at runtime based on min and max values
+* Objects can be clicked on from higher up camera positions
+* Removed blanket transparency
+* Support for No Ecmo circuit
+* Mouse clicks are more forgiving to drags
+* Added Exit button to clipboard, Replace paper fold with arrow
+* Invos can scroll and time frame can update past initial hour
+* Add subtle animation on form change
+* Adjusted click sensitivity of quick nav options
+* Ventilator knob button is slightly more forgiving to drag/clicks
+
+rc1
+V20
+--------------------
+* Fix bug causing hoffman clamp position to change on interaction
+* Added version number to escape menu
+
+rc1
+V19
+--------------------
+* Nurse no longer re-enters the room after running gem3000
+* Selecting an invos sensor and placing invos sensor move camera
+* Cal3D.exe saves existing user navs, before replacing Cal3D folder and writing prefix
+* Patient monitor settings panel is available in mosaic mode via the pulse toolbar button
+* Decreased text size for tips and captions
+
+rc1
+V18
+--------------------
+* Bug fixes:
+* Allow selection of 23fr cannulas
+* Clipboard does not drag on equip
+* Clicking recent navs pubs navigation topic
+* Clicking on equipment to navigate pubs navigation topic
+* Support Hemofilter disconnect and connect topics
+
+rc1
+V17
+--------------------
+* Basic support for XBOX-One Gamepad
+* Swapping cannulas or circuits preserves cannula depth and rotation
+* Added Delivery Means param to Patient fluid_input topic
+
+rc1
+V16
+--------------------
+* Reduced lighting affects on iv bag fluid colors
+* Added removable blanket to cover patient
+* etco2 incorperated to patient monitor
+* Updated monitor topics
+* Relaxed patient hands
+* Added Hide button to hoffman pip
+
+rc1
+V15
+--------------------
+* Replaced patient with a more realistic model
+* Increased width of vitals monitor sweep line
+* Hemofilter nav spot is drain canister, and drain is done via right click
+* Nurse can Drain Urometer or Hemofilter
+
+rc1
+V14
+--------------------
+* rename air mixer to gas blender
+* soften shadows and reflections in icu
+* move hoffman clamp pip
+* Clipboard does redraw when receiving its first form
+* Clipboard does not redraw when receiving tab_change=0 unless form is for current tab
+* When files are removed from from a tab with multiple files, cycle button goes away
+* Support for removing files or disabling tabs in the clipboard
+* support edgecalifia3d /voice / mode
+* Clamp left click is for immediate clamp (full) / unclamp - right click is for partial clamp adjust
+
+rc1
+V13
+--------------------
+* Remove priming volume bubble
+* Hoffman clamp knob less sensitive & rotation reversed
+* Fixed an issue causing double-sending scenario commands
+* Fixed an issue preventing tts commands from loading on start of sim
+* Supressed sending out clamp configurations on circuit setup / change
+* " for Cannulas
+
+rc1
+V12
+--------------------
+* Improved read-ability of invos ports, and clickability of sensors
+* Priming volume submit triggered by return key or numpad enter
+* Resized tooltip panel on opening screen
+* Infusion pump can be powered off with infusion pump module topic
+* Priming volume button activated on load step 1
+* Nurse speaks upon arriving at location
+* Increased minimum camera transition time
+
+rc1
+V11
+--------------------
+* Hemofilter segment 4 has a scissor clamp by default
+* Hemofilter volume topic takes color and volume and increments
+* Hemofilter drainage segment 5 color can be controlled
+* Hemofilter drainage can overflow after receiving 2500 mL
+* Minor UI tweaks to priming volume menu
+
+rc1
+V10
+--------------------
+* Vital monitor scroll speed adjustable. See yellow square button in bottom left
+* Going full screen preserves window on top
+* Exit App button is only visible when in full screen
+* Removed half the trash cans from Opening Scene
+* Moved ICU and OR room labels
+* Improved legibility of Drager logo
+* User can stop continuous infusion via Alaris interface
+* Hemofilter tube can be configured, and comes with Hoffman clamp by default
+* Added Hemofilter as a default locked view
+
+rc1
+V9
+--------------------
+* Azure voices language topic supports numeric payload
+* Suppress sending room status 2 when scene begins async load
+* Clamps have max value of 80
+* Added feedback to pager buttons
+
+rc1
+V8
+--------------------
+* Add hemofilter suction container to react to hemofilter volume topic
+* Clamp configure topics are echoed if position is out of bounds
+* Clamps are reset on changing circuit type
+* Modified Mosaic view to give room for bottom toolbar
+* Add zoom sliders to mosaic view windows
+* User can change view within mosaic panel
+
+rc1
+V7
+--------------------
+* Adjust default view of Ecmo Pump
+* Context sensitive Escape key as well as added escape button
+* Object interfaces have a maximum distance for interaction - mainly buttons and knobs
+* Window can be made full screen - and app can be closed from Options / escape menu
+* Info bubbles can provide additional text on mouseover
+* Overview remains a permanent fixture on the Recents panel
+* Avatar faces user and presents menu when called by pager
+* Cleaned up Infusion pump module button text
+* Picture-in-Picture window goes away when in mosaic mode
+* Handle the Azure language sub
+
+rc1
+V6
+--------------------
+* Vital trace parameters can be tweaked by clicking yellow button on bottom left of monitor
+* Hand crank visibility toggles based on mode
+* Transition from opening scene to simulation room by walking through door
+* Use Azure Speech Sdk when connected to internet
+* Allow for adjusting clamp amount on scissor clamp
+* Avatars enter to patient right by default
+* Clamp Configure topic supported.
+* Hemofilter added to the circuit - visual only
+* support priming volume pub via placeholder menu
+* Clipboard can be panned and forms can be swiped by clicking the fold icon in the lower right
+
+rc1
+V5
+--------------------
+* Invos sensors can be disconnected with site = -1
+* Invos can be powered on and off via mqtt
+* get city backdrop to change according to time of day:w
+* Bed updates based on patient height
+
+rc1
+V4
+--------------------
+* hide pager in mosaic
+* hide light fixtures on ceiling reach
+* hand crank hides when in hardware
+* ventilator can be approached by clicking on monitor
+* use outline for selection
+
+rc1
+V3
+--------------------
+* Remodeled icu to move window further back and tv up front
+* set font 32 on status bar
+* Hoffman clamp can be hidden
+* Heater cooler can be hidden
+* don't echo ibga temp mode
+* send and receive navigate signals for scenario file navs
+* Added background image to Opening Scene tip for improved visibility
+* Hide unneccessary panels while in mosaic view
+* Info text displayed on ecmo cart when in hardware mode
+* Navigation commands can be loaded from scenario file
+
+rc1
+V2
+--------------------
+* Updated catalog update topic to use json - timestamp as 64bit integer
+* Nav options from scenario catalog can be edited
+* Baked lightmaps for opening scene
+* Added idle animation in opening scene
+* Setting color of tubing applies immediately when flow is 0
+
+rc1
+V1
+--------------------
+* Version 2.0 !
+* Status bar remains visible in windowed mode
+* Ventilator screen buttons can be interacted with in mosaic mode
+* Support cat_path of Scenario_File/update topic
+* Graphics quality can be changed by pressing Escape
+* Performance stats can be viewed via Escape
+
+rc28
+V10
+--------------------
+UX
+* Mosaic mode prototype
+* III. CDI, IV. Ventilator
+* Confirm menu for skipping scenario steps
+* media monitor brings camera to it
+* smaller region to disable notification
+* ventilator font text color / bg color
+Scenario file
+* Scenario info banner
+* Unity can load parameters from scenario file locally
+* Allow jump between steps
+VAV ecmo
+* Hoffman clamp can be adjusted for height
+* Add flow sensor
+* Animate blood colors
+
+rc28
+V9
+--------------------
+* Pager call button calls role to overview position (index 0)
+* Cannula label adjustments
+* Urometer markings made more accurate to topics
+* Forms draw automatically (despite network lag)
+* Scenario file topic updates
+* Support for MasterEdge/Sim topic
+* Hardware mode renders pump invisible
+
+rc28
+V8
+--------------------
+* Click on navigation item, or confirming Circuit type, causes tab to close
+* Render circuit info on circuit panel
+* Update Quick Nav UI graphics and UX
+* Support Locked Navigation options via EdgeCalifia3D.ini
+* Add recent Nav GUI
+
+rc28
+V7
+--------------------
+* Pub Gas_Mixer/rate! upon receiving Gas_Mixer/outflow/port/connect
+* When clicking form tab - default form is the latest
+* Support Monitor/heart_rate/display and Monitor/heart_rate/calc (removed old heart_rate topic)
+* Instructor can adjust depth / rotation without triggering cannula animation 
+* Support view from above
+* Dual Lumin cannula model length is approximately to scale
+* Default Dual Lumin cannula angle puts the delivery cannula closer to patient's heart
+* Clock hours between 1-12 when AM/PM showing
+* Gas_Mixer/rate resets ml knob, and uses only liter knob
+* Circuit elements maintain settings across circuit change including clamps, colors, and size
+* Updated UI graphics for ECMO panel and Quick Nav
+* Holes widened on patient cloth
+* Tubing control points adjusted for default clamp placement
+* Infusion pump mod text clean up
+
+rc28
+V6
+--------------------
+* Camera angle stays when putting away clipboard
+* Adjusted default clamp position and default cardiohelp navigation angle
+* Pub Gas_Mixer/rate! on reconnect event (in addition to Gas_Mixer/outflow/port/connect!)
+* User can call for ACT test via Nurse1 or Nurse2
+* Adjusted Avatar dialogue canvas placement
+* User can refresh step of infinite duration
+* Fix issue with remote loading of forms (and forms out of index)
+
+rc28
+V5
+--------------------
+* Support the Squares Panel on the Getinge Cardiohelp pump
+* Prototype Gas_Mixer outflow port connect and disconnect
+* Prototype Avatar dialogue options
+* Profusionist can request Gem3000 report at a specific site
+* Lighting tweaks
+
+rc28
+V4
+--------------------
+* Updated Scenario panel graphics
+* Implemented scenario panel play, pause, seek buttons and mouse-over info
+* Support scenario pubs like jump!, play!, and pause!
+* Support scenario subs like scenario_file/update, play, pause, & step
+* Updated joystick graphics
+* Added linear sensitivity ramp to movement joystick
+* Fixed look joystick
+* Mouse drag (for looking around) should work in cloud build
+
+rc28
+V3
+--------------------
+* Wall clock text gitter resolved
+* Heater Cooler displays PASSIVE COOLING when actual is higher than set temp
+* Adjusted heater cooler max water level mark
+* Added Crescent and Avalon dl Cannulas to library
+* Mounted transonic flow sensor box
+* Added maquet flow sensor and cable
+* Support invos power, sensor, and site subs (with some restrictions
+* display code 9, sets window as NOT topmost for use in single monitor scenarios
+
+rc28
+V2
+--------------------
+* Added Dual Lumin Cannula (Placeholder)
+* Support HLM_Circuit/configure
+* Setting circuit type automatically loads default cannulas and sets available cannulas & sends cannula signal
+* Setting circuit sends cannula signals
+* Cannula signals support depth and rotation
+* Clamps are only set on active portions of tubing
+* Segment 0 includes the ibga shunt
+* Circuit menu option not finalized until Confirm clicked
+* Circuit menu Confirm button disabled while flowing
+
+rc28
+V1
+--------------------
+* Mqtt client id concats ClientId and Prefix
+* Support ECMO_Circuit/configure
+* Circuit can be changed at runtime with ECMO tab or mqtt
+
+rc27
+V4
+--------------------
+* Sub to invos values, publish invos channels
+* publish sensors! and power!
+* Invos graph updates over a scale of one hour (start and end times displayed below graph)
+* Cannulas can be removed (set to none - see Cannulas.ini)
+* ECMO tubing appears and disappears depending on if a cannula is present
+
+rc27
+V3
+--------------------
+* Add Invos to ICU
+* Rig invos buttons and clock
+* Making changes to navs, or avatar assignments, gets written to shared folder
+* On Unity app close, ini data in shared folder gets backed up to working folder
+* Alaris prepopulates target rate and vtbi from config, and patient weight
+* fluid_input sends fluid string as id
+* config_file/update! causes iv_bags to update
+* Fix to narration commands
+* fix to cannula menu usage
+
+rc27
+V2
+--------------------
+* Thin trace lines
+* Infusion pump menu
+* Clicking on an IV bag opens IV menu
+* Infusion pump and IV bag menu populates data from config_icu
+* Running pumps (non-bolus) dispatch fluid_input! topic
+* Pause button on module is rigged to pause fluid_input!
+* IV bag level reflects infusion rate
+* Avatar Action uses views for locations, and handles Y rotation
+
+rc27
+V1
+--------------------
+* Support Urine_Bag topics
+* Patient/forms modifies tabs on clipboard
+* Bringing up the clipboard reveals a form if one has been sent
+* Clicking a tab brings up an associated form
+* scrolling mouse wheel enables form zoom
+* swiping rotates between images in the same path
+
+rc26
+V3
+--------------------
+* >38c button rigged as a toggle switch on Getinge HU
+* Drager alarm strip animation
+
+rc26
+V2
+--------------------
+* Blood color of ecmo tubing remains despite switching ibga modules
+* CDI cable head "snap" audio only plays when snapping into cuvette (not side of cdi)
+* Fixes to room/navigation and room/navigation/update
+* Fix to wall_clock! topic handler
+* Added clock to cdi
+* rig heater cooler up,down buttons
+* hooked up hc topics water/level water/temperature/actual & water/temperature/setpoint (as well as setpoint pub which publishes every tenth)
+
+rc26
+--------------------
+* Support IBGA/ float topics
+* Media audio stops when new media is loaded
+* Support IBGA/modules
+* Support IBGA/model values 0 or 1 (terumo 500 vs 550)
+* audio on bpm cable-head animation
+* clipboard removed temporarily
+* support IBGA/temperature_mode! pub
+* float values snap when abs(target - val) > 1000
+
+rc25
+V10
+--------------------
+* Restored functionality of tube clamping
+* Rigged cdi temperature mode toggle button
+* Hooked up IBGA/temperature_mode to symbols in upper right and Temp box
+* Responds to IBGA/modules with screen swap (hardcoded - not usint config_icu yet)
+
+rc25
+V9
+--------------------
+* joysticks updated
+* Can click away from clipboard to hide
+* wall clock signal supported
+* avatar placement editor (can add, rename, and delete placement spots)
+	* Cannot rename or delete room_exit (element 0)
+* avatar placements correspond to config_ROOM -> [Avatar_placement]
+* avatar info is read in from config_ROOM (voices, roles, avatars, etc..)
+* unity sends config_file/update for changes to any room config
+* user can remap roles, avatars, & voices at runtime
+* ecmo pump values persist across models
+* blur unused lm vals
+* restore functionality of cannulas
+* EdgeCalifia3D/mode!=1 enables editor tools
+* Left shift key doubles movement speed
+
+rc25
+V8
+--------------------
+* Rigged remaining ecmo topics (pVen,pArt,tArt,svo2,dp,hb)
+* Provided client-side smoothing to float values (ecmo, patient monitor, quantum)
+* Fix issue causing patient forms to render "on top" of occluding geometry
+
+rc25
+V7
+--------------------
+* More detail to Lm
+* ECMO_Pump/model re-wires tubing (air and blood)
+* LM supports rpm and flow rate
+
+rc25
+V6
+--------------------
+* Support Cardiohelp_panel in Config_icu
+* Support cardiohelp/panel pub and sub topics
+* Support Heater_unit in Config_icu
+* Support HeaterCooler/model (Added placeholder Hirtz
+* Support ECMO_Pump in Config_icu
+* Support ECMO_Pump/model (Added placeholder LM)
+
+rc25
+V5
+--------------------
+* Support 3 home screen variants for cardiohelp
+* Added clock and screen label to cardiohelp header
+
+rc25
+V4
+--------------------
+* avatar walks out of room on scene_placement_index=0
+	* Each scene also supports hardcoded placements at 1 and 2
+* Support voice variants A,B,C,D (see EdgeCalifia3D.ini)
+* Fixed an issue disabling movement with keys and mouse
+* Fixed an issue disabling assignment of voices
+
+rc25
+V3
+--------------------
+* Replaced OpeningScreen graphic
+* Adjusted sensitivity of Sechrist knobs
+* Updated ini (copied from EdgeCalifia3D_NEW)
+	* 600 topics
+	* avatar!
+* Patient topics work with prefix
+
+rc25
+V2
+--------------------
+* Clicking away from Nav panel hides it
+* Added tips.txt to streamingAssetsPath (and working directory once Cal3D is called)
+* Two npc avatars supported Nurse1 and Surgeon as well as 2 navigation locations in ICU and OR scenes
+* Avatar voices are based on EdgeCalifia3D.ini (only David and Zira supported)
+
+rc25
+V1
+--------------------
+* Splash and logo rework (brighter ng)
+* Opening scene buttons removed (added tip idea)
+* Media Monitor play mode mod - only 0 (load only) and 1 (load and play) 
+* Added new editor functionality to manage Room Config [Media displays]
+* Tubing does not reposition clamps if Master Edge sends # of clamps that already == current number of clamps
+* StreamingAssets/Cal3D.exe copies files to Working directory and sets prefix
+* In Unity Editor, Config->Refresh Working Dir clears old work dir, and runs Cal3D.exe
+* Room configs are shared at the start and whenever changes are made
+
+rc25
+--------------------
+* Patient cannula signals use json format
+* TV added to icu and acts as media monitor 1
+* Added video controls and power button to media monitors
+* Splash screen and logo updates
+
+rc24
+V10
+--------------------
+* Ventilator clock matches wall clock
+* voice mode fixed
+* Cardiohelp rpm internal value changes when set via mqtt
+* Support ventilator/alarm (json)
+* Support for Patient/cannula (json)
+* Updated icon and splash screen
+* nav panel autohide added to icu
+
+rc24
+V9
+--------------------
+* Media monitor supports jpg,png,mov,wmv,mp4
+* Closed caption on Naration text fits text box
+* Restored tube clamping capability (was broken in rc24-8)
+* media monitor wait for file
+* support web sources for media
+
+rc24
+V8
+--------------------
+* Media Monitor supports rendering of images and video
+* Move/look sensitivity can be configured from the ini
+* Add test tube panel to cardiohelp and support for additional ecmo topics (tVen, tArt, hb, hct)
+* Alarm topic updated
+
+rc24
+V7
+--------------------
+* Mr. Frosty in the corner
+* Minor tweaks to act placeholder
+* Art Flow updates on top of workstation screen
+* Knob sensitivity changes (when knob is clicked)
+* Venous reservoir color matches tube coming out of reservoir
+* Occluder uses values between 0-100
+* Xray image added to screen
+* Removed fps display
+* Added views to Config_OR.ini
+* Added audio click on knob button click
+
+rc24
+V6
+--------------------
+* Left most knob pub alias changes based on the selected parameter
+* Medtronic logo moved to within bounds
+
+rc24
+V5
+--------------------
+* Support HLM tubing & reservoir colors
+* Added label (indicator strip) to HLM tubing
+* Reservoir uses HLM/venous/reservoir/volume and will animate smoothly
+* Added occluders & rigged Venous Occluder
+* Knob can be clicked as button to toggle between values
+* Added hms, act, abl, frosty, heat exchanger, and invos to scene
+* Fixed issue with monitor audio
+* Repositioned Nurse and tray
+* Minor lighting tweaks to OR table
+* Resized text on patient monitor
+* Added support for XBOX controller (PlayStation models untested)
+* Support gas_mixer/rate
+* Fio2, sweep, and art_flow sync to Vent System screen
+
+rc24
+V4
+--------------------
+* Trace rendering is continuous (as opposed to by cycle)
+* Added models to Or (humans, ventilator, hlm)
+* Support subset of HLM signals (see TopicTable.ini for 'Undefined' signals)
+* Support room navigation in OR
+
+rc24
+V3
+--------------------
+* DisplayManager uses FindWindow to get window pointer (does not work during
+splash)
+* Gas Mixer subs correctly handle floating point data types
+* Fixed shared folder access to only overwrite if streaming assets content is
+newer than shared folder
+* Overview appears as first item in ICU and OR nav panel
+* All .ini files are checked against shared path at startup
+* Trace topics are stripped of prefix before processing
+* abp smart scaling adjusted
+
+rc24
+V2
+--------------------
+* Check last write date of files in share folder before overwriting
+* Fixed an issue causing the Ventilator knob signals to not send
+
+rc24
+--------------------
+* Ventilator rigged (touch screen buttons, command dial, and silence button)
+* Ventilator topics supported
+* App uses %localappdata% folder for user data
+* Support for text to speach modes including cc
+* Fix bug where navigation updates are sent too many times
+* Added support for EdgeCalifia3D/room/navigation
+* Fixed a bug causing certain commands to fail when prefixes are used
+
+rc23
+V3
+--------------------
+* Fix to group topic handling
+* support prefixes
+* abp smart scaling
+
+rc23
+V2
+--------------------
+* ALL NUMERICAL TOPICS ARE SENT AND RECEIVED AS FLOATS ENCODED AS 4 BYTES
+* Added Try / Catch brackets around main mqtt execution loop to enable continuous execution
+* Updated logo animation (still in works)
+* Mqtt script starts during logo animation
+
+rc23
+--------------------
+* Support for EdgeCalifia3D/room/navigation/update pub
+* Support for scalar group topics like MasterEdge/group
+* Navigation enabled in OR
+* Gas blender uses 2 knobs
+* Added initial splash screen concept
+
+rc22
+--------------------
+* Minor tweaks to Cardiohelp Pump
+* Minor tweaks to gas blender labels
+* All inventory items returned on knob interact (or other interactions when those are implemented)
+* Placeholder heater cooler
+* Nav panel functional (add, edit, remove, navigate)
+* Removed digital display (with option to add back)
+* Added support for cardiohelp alarm visuals and audio
+
+rc21
+--------------------
+* Resolved a runtime exception affecting Unity Editor only
+* Ensure cannula entry angle is downward
+* 3D only responds or dispatches a /cannula topic for either arterial or venous
+* Added Oxygen and Air tubes 
+* add tube from gas blender to cardiohelp
+* upgrade gas blender model
+* rig gas blender knobs and digital output
+* hooked up gas blender pubs and subs
+* Rig black bead in gas blender
+* Numeric indicators on patient monitor can change via appropriate mqtt signals
+* Added support for RPM update delay outside of typical minupdatedelay
+* Added support for floor changes with EdgeCalifia3D/room/floor! (try values 0,1,2, or 3)
+
+rc20
+--------------------
+* changed narrator command to disclude exclamation point
+* remove loading screen going back to opening scene with room! = 0
+* added more logging to the mqtt script
+
+rc19
+--------------------
+* input sensitivity reduced
+* clamp stand repositioned
+* trace labels
+* voices demo for narrator
+
+rc18
+--------------------
+* disable scene input while loading screen or escape menu are up
+* Removed memory leak related to Tube.cs
+* logo placement
+* clock and calender addition
+* pivot widget
+* hands render on top
+
+rc17
+--------------------
+* Resized cannulas and made Venous cannulas longer than arterial
+* volume accepted from 1-100
+* frequency command accepted
+* cdi moved further back
+* gas hookups added to wall unit
+* placeholder gas blender added to scene
+* cardiohelp moved closer to feet (tubing adjusted)
+* cannula config commands (200 and 209) handled via texture changes of the
+cannulas
+* Monitor color commands processed
+* blood color and label color commands processed
+* Site added to cannula menu prototype, and dispatch cannula change signals
+(202 and 211)
+* Layout change for default angle of cardiohelp system
+
+rc16
+--------------------
+* Added support for inflow clamp topics (pub /clamps? is not yet implemented)
+* heart_rate changes rate of scrolling on monitor 
+* cdi repositioned for visibility
+* cannulas added to femeral site tubing
+* tubing rewired
+* Added support for ECMO_Pump/centrifugal/rpm sub
+* monitor pip moved to upper right
+* Added a fade effect to the cardiohelp cart to improve visbility
+* Added non-functioning prototype for cannula menu
+* On MasterEdge/sim=0, 3D returns to opening screen, and sends /room=0,
+/status=1, and display=-1 while minimizing
+
+rc15
+--------------------
+* Send /status="1" on connection to broker
+* Moved ventilator tubing to somewhat follow patient mouth
+* room! now responds to stringified numbers ("1", "2", etc...)
+* 3D responds to room! with room and room/status 
+* 3D puts up a loading screen to mask the room while it is configured
+* 3D responds to sim/status=1 by revealing scene and sending room/status=1
+(currently not checking required flags)
+* Monitor muted by default
+* Monitor/audio/volume will control main monitor volume
+* Loading screen can be silently forced off with room/status! = 1
+
+rc14
+--------------------
+* Updated Ventilator model and position
+* Removed med cart
+* Added placeholder cdi 550 machine
+* Repositioned cardiohelp and added stool. Minor material tweaks.
+* Click-based navigation is non-locking.
+* Fixed height slider so it stays up to date.
+* Added PIP window for vitals monitor
+
+rc13
+--------------------
+* Implemented /room signals (can only goto room if not in handshake state)
+* Califia3D sends back /room after /room? or /room!
+* Similarly 3D sends back /display after display! or display?
+* Added [Interactive] "defaultDisplay" to ini
+* Minor key rev is incremented when EdgeCalifia3D.ini file is overwritten
+* Changed subfunc to TopicTable.ini and use it to alias Publish topics as well 
+
+rc12
+--------------------
+* Updated clamps! and rpm! pubs
+* Added hand crank to cardiohelp cart
+* Remodelled icu and swapped in double doors
+* Disabled height slider / joystick while cam is "focused"
+
+rc11
+--------------------
+* Check 3D state before sending version/build/keyrev
+* Cache most recent !display command
+* ping back status=1 when not in handshake state
+Note: Possible states: {TESTING,HANDSHAKE,CONFIG,RUN,EXIT}
+* Send status=0 on AppQuit
+* led status indicator works in config state as well as run
+* set window as topmost on start, and not topmost on quit
+* add hooks for build? version? and keyrev?
+* added nav panel hotspot prototype

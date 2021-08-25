@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 5f1699b41290c0048950c8d64199347b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3611117943102533551
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Generic
+      - 6" [158853]|Take 001|BaseLayer
+  - first:
+      74: -5737558925881395702
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Generic
+      - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -1833552317542921548
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Generic
+      - 6" [158855]|Take 001|BaseLayer
+  - first:
+      74: -553997946646498561
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Generic
+      - 6" [158856]|Take 001|BaseLayer
+  - first:
+      74: -8162802361256914637
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [242614]|Take 001
+  - first:
+      74: 4125625849725092083
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [242685]|Take 001
+  - first:
+      74: 7737145494296333528
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: -8130282597037659109
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Cart-Laptop_Reed
+      Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: 2349333450468914543
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Cart_Utility_Reed
+      35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -4328693211195861843
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Compound Ceiling
+      GWB on Mtl. Stud [242839]|Take 001|BaseLayer
+  - first:
+      74: 1457404500081955426
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Computer_LCD_Reed
+      Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: -7911438738257048889
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Door_Vision-Panel_Reed
+      Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: -4262134335112535098
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Floor Conc - 6"
+      - Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 2759642827828760240
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Floor Conc - 6"
+      - Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: -4452537964344993831
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Floor Conc - 6"
+      - Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 164880077660547940
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Floor Conc - 6"
+      - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: -4192596075392067517
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [195098]|Tak
+  - first:
+      74: -4316648952814231420
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [211522]|Tak
+  - first:
+      74: 4830206848592013514
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 8742715935309624610
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242180]|Tak
+  - first:
+      74: 3806346346686076014
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [318757]|Tak
+  - first:
+      74: -7028484719785994137
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 5380973302319623038
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195214]|Take 001|B
+  - first:
+      74: -1453489836880721332
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: -3942909114682171572
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195216]|Take 001|B
+  - first:
+      74: -332725701033612917
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: -8317407822245296112
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Stand-Infusion_Reed
+      Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: -3498721480184677232
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Surgery Stool
+      Surgery Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: -2442413865413492301
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Surgery Stool
+      Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -6661042957202662244
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Surgery Stool
+      Surgery Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: 2525431066814050730
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: -7115409118690776052
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Ventilator-2_Reed
+      Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -7149867253885045151
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Ventilator_Reed
+      Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: 2399525794350536126
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -4833977861298857746
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Contamination
+      Tray w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: -7007364338730180872
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Med Cabinet
+      - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -4240131109034822198
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      - ElectroSurgical Generator ESU w-M_2cc8069
+  - first:
+      74: -5787086271270761963
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      - Olympus Xenon Light Source Contro_875c195
+  - first:
+      74: -4810647802750382774
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      - SurgeryRoom Psymograph w-Medical _d4ab6fd
+  - first:
+      74: 5350489566020561147
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: 8324819592756878426
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: 808998972475774828
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: 5114290896068596151
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-SurgeryRoom
+      Diffuser - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -1990002256061056097
+    second: Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|w-SurgeryRoom
+      Diffuser - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

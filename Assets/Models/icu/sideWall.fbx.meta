@@ -1,0 +1,693 @@
+fileFormatVersion: 2
+guid: fe53b2966ce3851428dbfa7c03fb3872
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: furniture_white_glossy.001
+  - first:
+      21: 2100002
+    second: white_ metal_hospital_bed.002
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: SideWall
+  - first:
+      74: 7400000
+    second: SideWall|aluminium_corner002asfa|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: SideWall|aluminium_corner003|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: SideWall|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: SideWall|Box23|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: SideWall|Box847|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: SideWall|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: SideWall|cupboard|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: SideWall|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: SideWall|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: SideWall|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: SideWall|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: SideWall|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: SideWall|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: SideWall|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: SideWall|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: SideWall|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: SideWall|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: SideWall|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400036
+    second: SideWall|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: SideWall|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: SideWall|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: SideWall|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: SideWall|door frame001|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: SideWall|door frame|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: SideWall|drawer back002|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: SideWall|drawer back003223a|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: SideWall|drawer_box001bda|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: SideWall|drawer_box002ra2|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: SideWall|drawer_face003|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: SideWall|drawer_face004vas|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: SideWall|drawer_face005221a|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: SideWall|drawer_face0062231|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: SideWall|drawer_face009|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: SideWall|drawer_frame001bsa|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: SideWall|drawer_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: SideWall|handle014|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: SideWall|handle015|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: SideWall|handle016|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: SideWall|handle017|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: SideWall|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: SideWall|lightwoodborders|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: SideWall|Locker_bottom001bdae|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: SideWall|Locker_bottom002assa|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: SideWall|Locker_bottom004|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: SideWall|Locker_top00122ab|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: SideWall|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: SideWall|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: SideWall|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: SideWall|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: SideWall|nets support|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: SideWall|Object32|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: SideWall|Object4449|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: SideWall|Object4483|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: SideWall|Object4491|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: SideWall|OptiTherm_cold002|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: SideWall|OptiTherm_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: SideWall|OptiTherm_tap003|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: SideWall|OptiTherm_tap004|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: SideWall|OptiTherm_warm002|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: SideWall|OptiTherm_water_cap002|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: SideWall|Paper_towel_dispenser1a|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: SideWall|Paper_towel_dispenser_cap|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: SideWall|Paper_towel_dispenser_eye|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: SideWall|Paper_towel_dispenser|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: SideWall|Paper_towel|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: SideWall|Plane13|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: SideWall|Plane17|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: SideWall|Plane183|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: SideWall|Plane184|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: SideWall|Plane185|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: SideWall|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: SideWall|sanitiz|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: SideWall|Soap_gel_dispenser001|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: SideWall|Soap_gel_dispenser1a001|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: SideWall|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: SideWall|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: SideWall|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: SideWall|walls|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: SideWall|Wash_basin001|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: SideWall|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+  - first:
+      74: 7400160
+    second: SideWall|wooden floor|Take 001|BaseLayer.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: -6036959958559308238
+    second: walls|FakeWall|FakeWall|Bedside_table_blat003|Take 001|BaseLayer|Fake
+  - first:
+      74: -4720325402619684093
+    second: walls|FakeWall|FakeWall|Box847|Take 001|BaseLayer|FakeWall|Box847|Tak
+  - first:
+      74: 3168269462703883863
+    second: walls|FakeWall|FakeWall|ceilung|Take 001|BaseLayer|FakeWall|ceilung|T
+  - first:
+      74: 6230530816290471214
+    second: walls|FakeWall|FakeWall|curtain_hospital_ward|Take 001|BaseLayer|Fake
+  - first:
+      74: 8826281570204220041
+    second: walls|FakeWall|FakeWall|Cylinder4510|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: 6023065032229152811
+    second: walls|FakeWall|FakeWall|Cylinder4771|Take 001|BaseLayer|FakeWall|Cyli
+  - first:
+      74: 6455599496347488422
+    second: walls|FakeWall|FakeWall|Cylinder65ssa007|Take 001|BaseLayer|FakeWall|
+  - first:
+      74: 7619745898561180577
+    second: walls|FakeWall|FakeWall|Hospital_bed_base001|Take 001|BaseLayer|FakeW
+  - first:
+      74: 1782558317472142966
+    second: walls|FakeWall|FakeWall|Locker_top001|Take 001|BaseLayer|FakeWall|Loc
+  - first:
+      74: -8186033444436444534
+    second: walls|FakeWall|FakeWall|mirror2a|Take 001|BaseLayer|FakeWall|mirror2a
+  - first:
+      74: -7878900223427588023
+    second: walls|FakeWall|FakeWall|monitor screen002|Take 001|BaseLayer|FakeWall
+  - first:
+      74: 5823960848991639219
+    second: walls|FakeWall|FakeWall|monitor screen003|Take 001|BaseLayer|FakeWall
+  - first:
+      74: -7184036061472213192
+    second: walls|FakeWall|FakeWall|Object4483|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: -107488043281365125
+    second: walls|FakeWall|FakeWall|Object4491|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: -2058787692551703330
+    second: walls|FakeWall|FakeWall|plinth 2|Take 001|BaseLayer|FakeWall|plinth 2
+  - first:
+      74: 46780767667887985
+    second: walls|FakeWall|FakeWall|ventilator screen002|Take 001|BaseLayer|FakeW
+  - first:
+      74: -7331990829717922065
+    second: 'walls|FakeWall|FakeWall|walls|Take 001|BaseLayer|FakeWall|walls|Take '
+  - first:
+      74: 8371609618535875204
+    second: walls|FakeWall|FakeWall|wooden floor|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: -4067727009389889885
+    second: walls|SideWall|SideWall|Bedside_table_blat003|Take 001|BaseLayer|Side
+  - first:
+      74: 3185402594550213950
+    second: walls|SideWall|SideWall|Box847|Take 001|BaseLayer|SideWall|Box847|Tak
+  - first:
+      74: -7273290940780133874
+    second: walls|SideWall|SideWall|ceilung|Take 001|BaseLayer|SideWall|ceilung|T
+  - first:
+      74: -2891878407946936876
+    second: walls|SideWall|SideWall|curtain_hospital_ward|Take 001|BaseLayer|Side
+  - first:
+      74: -1745686305093978291
+    second: walls|SideWall|SideWall|Cylinder4510|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: -4703907872533129615
+    second: walls|SideWall|SideWall|Cylinder4771|Take 001|BaseLayer|SideWall|Cyli
+  - first:
+      74: -2202545938018258454
+    second: walls|SideWall|SideWall|Cylinder65ssa007|Take 001|BaseLayer|SideWall|
+  - first:
+      74: -3200980958756066043
+    second: walls|SideWall|SideWall|Hospital_bed_base001|Take 001|BaseLayer|SideW
+  - first:
+      74: -1098760395102365237
+    second: walls|SideWall|SideWall|Locker_top001|Take 001|BaseLayer|SideWall|Loc
+  - first:
+      74: 7732889351520039408
+    second: walls|SideWall|SideWall|mirror2a|Take 001|BaseLayer|SideWall|mirror2a
+  - first:
+      74: -7274671065008081552
+    second: walls|SideWall|SideWall|monitor screen002|Take 001|BaseLayer|SideWall
+  - first:
+      74: 2854407795029271148
+    second: walls|SideWall|SideWall|monitor screen003|Take 001|BaseLayer|SideWall
+  - first:
+      74: 9048222209904347163
+    second: walls|SideWall|SideWall|Object4483|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: -8520583016547972363
+    second: walls|SideWall|SideWall|Object4491|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: 436184027977303113
+    second: walls|SideWall|SideWall|plinth 2|Take 001|BaseLayer|SideWall|plinth 2
+  - first:
+      74: 1766911541838137488
+    second: walls|SideWall|SideWall|ventilator screen002|Take 001|BaseLayer|SideW
+  - first:
+      74: -6955585224650821949
+    second: 'walls|SideWall|SideWall|walls|Take 001|BaseLayer|SideWall|walls|Take '
+  - first:
+      74: 6195695559071951579
+    second: walls|SideWall|SideWall|wooden floor|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: -5003679995163743398
+    second: walls|walls|walls|Bedside_table_blat003|Take 001|BaseLayer|walls|Beds
+  - first:
+      74: -4075534562839038661
+    second: walls|walls|walls|Box847|Take 001|BaseLayer|walls|Box847|Take 001|Bas
+  - first:
+      74: -7537238109660936151
+    second: walls|walls|walls|ceilung|Take 001|BaseLayer|walls|ceilung|Take 001|B
+  - first:
+      74: 5555235304020438528
+    second: walls|walls|walls|curtain_hospital_ward|Take 001|BaseLayer|walls|curt
+  - first:
+      74: -7635908132845835
+    second: walls|walls|walls|Cylinder4510|Take 001|BaseLayer.001|walls|Cylinder4
+  - first:
+      74: -6645229906096213048
+    second: walls|walls|walls|Cylinder4771|Take 001|BaseLayer|walls|Cylinder4771|
+  - first:
+      74: -7478872821388813973
+    second: walls|walls|walls|Cylinder65ssa007|Take 001|BaseLayer|walls|Cylinder6
+  - first:
+      74: -2620683596036066547
+    second: walls|walls|walls|Hospital_bed_base001|Take 001|BaseLayer|walls|Hospi
+  - first:
+      74: -8595683091601118458
+    second: walls|walls|walls|Locker_top001|Take 001|BaseLayer|walls|Locker_top00
+  - first:
+      74: 130161871196513544
+    second: walls|walls|walls|mirror2a|Take 001|BaseLayer|walls|mirror2a|Take 001
+  - first:
+      74: 7473277304106796758
+    second: 'walls|walls|walls|monitor screen002|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: -660534479374074883
+    second: 'walls|walls|walls|monitor screen003|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: 2195481162159352574
+    second: walls|walls|walls|Object4483|Take 001|BaseLayer|walls|Object4483|Take
+  - first:
+      74: 3456598960701429170
+    second: walls|walls|walls|Object4491|Take 001|BaseLayer|walls|Object4491|Take
+  - first:
+      74: 7068353545718859559
+    second: walls|walls|walls|plinth 2|Take 001|BaseLayer|walls|plinth 2|Take 001
+  - first:
+      74: -5133057740352148179
+    second: walls|walls|walls|ventilator screen002|Take 001|BaseLayer|walls|venti
+  - first:
+      74: -1774433070746961732
+    second: walls|walls|walls|walls|Take 001|BaseLayer|walls|walls|Take 001|BaseL
+  - first:
+      74: -7249645684520924639
+    second: walls|walls|walls|wooden floor|Take 001|BaseLayer.001|walls|wooden fl
+  - first:
+      74: 7404414044390588439
+    second: SideWall|FakeWall|FakeWall|Bedside_table_blat003|Take 001|BaseLayer|Fake
+  - first:
+      74: 257488665050713961
+    second: SideWall|FakeWall|FakeWall|Box847|Take 001|BaseLayer|FakeWall|Box847|Tak
+  - first:
+      74: -3549560985973788413
+    second: SideWall|FakeWall|FakeWall|ceilung|Take 001|BaseLayer|FakeWall|ceilung|T
+  - first:
+      74: 7159784652279550083
+    second: SideWall|FakeWall|FakeWall|curtain_hospital_ward|Take 001|BaseLayer|Fake
+  - first:
+      74: 8504850952057347732
+    second: SideWall|FakeWall|FakeWall|Cylinder4510|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: 3623931986464672701
+    second: SideWall|FakeWall|FakeWall|Cylinder4771|Take 001|BaseLayer|FakeWall|Cyli
+  - first:
+      74: -5011688916836950722
+    second: SideWall|FakeWall|FakeWall|Cylinder65ssa007|Take 001|BaseLayer|FakeWall|
+  - first:
+      74: -6744928069346012259
+    second: SideWall|FakeWall|FakeWall|Hospital_bed_base001|Take 001|BaseLayer|FakeW
+  - first:
+      74: 1773234712757277365
+    second: SideWall|FakeWall|FakeWall|Locker_top001|Take 001|BaseLayer|FakeWall|Loc
+  - first:
+      74: -2451265362587413261
+    second: SideWall|FakeWall|FakeWall|mirror2a|Take 001|BaseLayer|FakeWall|mirror2a
+  - first:
+      74: 4830270035805218628
+    second: SideWall|FakeWall|FakeWall|monitor screen002|Take 001|BaseLayer|FakeWall
+  - first:
+      74: -1888339278920993803
+    second: SideWall|FakeWall|FakeWall|monitor screen003|Take 001|BaseLayer|FakeWall
+  - first:
+      74: 7642585469288286845
+    second: SideWall|FakeWall|FakeWall|Object4483|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: -7931470373008778116
+    second: SideWall|FakeWall|FakeWall|Object4491|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: 7592550744223429092
+    second: SideWall|FakeWall|FakeWall|plinth 2|Take 001|BaseLayer|FakeWall|plinth
+      2
+  - first:
+      74: 3010659915039435815
+    second: SideWall|FakeWall|FakeWall|ventilator screen002|Take 001|BaseLayer|FakeW
+  - first:
+      74: -6334783957755407380
+    second: 'SideWall|FakeWall|FakeWall|walls|Take 001|BaseLayer|FakeWall|walls|Take '
+  - first:
+      74: -7713981867810848886
+    second: SideWall|FakeWall|FakeWall|wooden floor|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: -22022715782632596
+    second: SideWall|SideWall|SideWall|Bedside_table_blat003|Take 001|BaseLayer|Side
+  - first:
+      74: 8425487848526731757
+    second: SideWall|SideWall|SideWall|Box847|Take 001|BaseLayer|SideWall|Box847|Tak
+  - first:
+      74: 4559861998032497232
+    second: SideWall|SideWall|SideWall|ceilung|Take 001|BaseLayer|SideWall|ceilung|T
+  - first:
+      74: 8140056951535691282
+    second: SideWall|SideWall|SideWall|curtain_hospital_ward|Take 001|BaseLayer|Side
+  - first:
+      74: 5530272923153268006
+    second: SideWall|SideWall|SideWall|Cylinder4510|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: 3250663473524280853
+    second: SideWall|SideWall|SideWall|Cylinder4771|Take 001|BaseLayer|SideWall|Cyli
+  - first:
+      74: -4591055393166894956
+    second: SideWall|SideWall|SideWall|Cylinder65ssa007|Take 001|BaseLayer|SideWall|
+  - first:
+      74: 1207588287994504956
+    second: SideWall|SideWall|SideWall|Hospital_bed_base001|Take 001|BaseLayer|SideW
+  - first:
+      74: 2510903070258726795
+    second: SideWall|SideWall|SideWall|Locker_top001|Take 001|BaseLayer|SideWall|Loc
+  - first:
+      74: 550220610865424646
+    second: SideWall|SideWall|SideWall|mirror2a|Take 001|BaseLayer|SideWall|mirror2a
+  - first:
+      74: 528989099762175899
+    second: SideWall|SideWall|SideWall|monitor screen002|Take 001|BaseLayer|SideWall
+  - first:
+      74: 7197987475635531145
+    second: SideWall|SideWall|SideWall|monitor screen003|Take 001|BaseLayer|SideWall
+  - first:
+      74: -7866470734876563905
+    second: SideWall|SideWall|SideWall|Object4483|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: -4433367035641091883
+    second: SideWall|SideWall|SideWall|Object4491|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: -6862293599169437639
+    second: SideWall|SideWall|SideWall|plinth 2|Take 001|BaseLayer|SideWall|plinth
+      2
+  - first:
+      74: -5731763230200315417
+    second: SideWall|SideWall|SideWall|ventilator screen002|Take 001|BaseLayer|SideW
+  - first:
+      74: 3936564716887941608
+    second: 'SideWall|SideWall|SideWall|walls|Take 001|BaseLayer|SideWall|walls|Take '
+  - first:
+      74: -4400226095332064406
+    second: SideWall|SideWall|SideWall|wooden floor|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: 324046378801947951
+    second: SideWall|walls|walls|Bedside_table_blat003|Take 001|BaseLayer|walls|Beds
+  - first:
+      74: 2464789267347198843
+    second: SideWall|walls|walls|Box847|Take 001|BaseLayer|walls|Box847|Take 001|Bas
+  - first:
+      74: 6108488453208677526
+    second: SideWall|walls|walls|ceilung|Take 001|BaseLayer|walls|ceilung|Take 001|B
+  - first:
+      74: 3723974141479993309
+    second: SideWall|walls|walls|curtain_hospital_ward|Take 001|BaseLayer|walls|curt
+  - first:
+      74: 7190082725722152559
+    second: SideWall|walls|walls|Cylinder4510|Take 001|BaseLayer.001|walls|Cylinder4
+  - first:
+      74: -7819252385051833909
+    second: SideWall|walls|walls|Cylinder4771|Take 001|BaseLayer|walls|Cylinder4771|
+  - first:
+      74: -1923858451052435438
+    second: SideWall|walls|walls|Cylinder65ssa007|Take 001|BaseLayer|walls|Cylinder6
+  - first:
+      74: -8951646138360699941
+    second: SideWall|walls|walls|Hospital_bed_base001|Take 001|BaseLayer|walls|Hospi
+  - first:
+      74: 8842637587266476737
+    second: SideWall|walls|walls|Locker_top001|Take 001|BaseLayer|walls|Locker_top00
+  - first:
+      74: 1747037971454510380
+    second: SideWall|walls|walls|mirror2a|Take 001|BaseLayer|walls|mirror2a|Take
+      001
+  - first:
+      74: -7500019362846787674
+    second: 'SideWall|walls|walls|monitor screen002|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: 7021139156872833108
+    second: 'SideWall|walls|walls|monitor screen003|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: -1364325003677155255
+    second: SideWall|walls|walls|Object4483|Take 001|BaseLayer|walls|Object4483|Take
+  - first:
+      74: -5520071760103654836
+    second: SideWall|walls|walls|Object4491|Take 001|BaseLayer|walls|Object4491|Take
+  - first:
+      74: 7205591634277832598
+    second: SideWall|walls|walls|plinth 2|Take 001|BaseLayer|walls|plinth 2|Take
+      001
+  - first:
+      74: -2675574951695641577
+    second: SideWall|walls|walls|ventilator screen002|Take 001|BaseLayer|walls|venti
+  - first:
+      74: 9141351033056911353
+    second: SideWall|walls|walls|walls|Take 001|BaseLayer|walls|walls|Take 001|BaseL
+  - first:
+      74: 703121719820472518
+    second: SideWall|walls|walls|wooden floor|Take 001|BaseLayer.001|walls|wooden
+      fl
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

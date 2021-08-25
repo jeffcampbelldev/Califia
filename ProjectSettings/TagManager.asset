@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Patient
+  - HandCamera
+  - Circuit
+  - PortalTarget
+  - Cannula
+  - Hoffman
+  - Clamp
+  - Flow
+  - Blocker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Tubes
+  - Cannulas
+  - Hands
+  - Scrub
+  - Floor
+  - Interactable
+  - Widget
+  - IVs
+  - Sensors
+  - Vitals
+  - GasBlender
+  - Ventilator
+  - IBGA
+  - Navigation
+  - Gloves
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,28 @@
+Navigate to objects of interest by clicking on them or via the Quick Nav panel (lower right).
+To navigate the scene, you can use mouse pointer, keyboard (Q-W-E-A-S-D), game controller, touchscreen, on-screen joystick and Quick Nav panel.
+You can add-remove-edit Quick Nav listings (lower right).
+Navigation keys: Q - camera lower, E - camera higher, W - move forward, S - move backward, A - slide left, D - slide right.
+Selecting the vitals monitor conveniently anchors it at top right of window. Press Hide to remove.
+Change cannula by selecting patient's cannulation site. In Cannula menu, navigate left-right to change then press Select button.
+A growing library of ECMO circuits is available with the ECMO button. Make sure no flow is present when changing circuit.
+Press clamp on tubing to remove. Right-click on clamp to bring partial clamping selection. Press hand or vertical pole on cart holding clamps to put clamp away.
+Approach clamps at top of vertical pole then press to grab one, approach tubing then press to clamp tubing. Default is full clamping; clamp with right-mouse button to access partial clamping menu.
+Press clipboard at bedside to bring up; side tabs can be used to select various documents on the clipboard. When multiple documents are present, navigate with arrows or selection list. Put away clipboard by pressing away from clipboard or on hands.
+In Ventilator, select parameter to change value (lower left) then turn dial (lower right) to change. Press dial to confirm value change.
+Both Media screen and TV in room support playing videos and displaying images. Videos can be paused or use slider to jump in video.
+To deliver fluids, select IV Bag, follow Guardrails Fluids in PCU to program volume and flow rate.
+Patient's urometer can be monitored by left side of bed. Press release button to empty.
+Two Terumo CDI models are available, CDI-500 & CDI-550. Each supports two or three cuvettes.
+Set water temperature with the heating unit; with extracirculatory blood flow, notice heat transfer using the pump temperature sensor or the CDI panel.
+The INVOS oxymetry instrument supports 4 channels of sensory attached to cerebral and femoral somatic sites.
+ECMO circuit configurations available: VA ECMO, VV ECMO, VAV ECMO (two different cannulation sites for the latter two).
+Insertion depth and rotation of right IJ cannula can be modified. This affects cannula recirculation.
+ACT and GEM3000 blood sample reports display in the bedside clipboard. Summon Nurse1 to request them.
+Clinical case panel provides access to running sim scenario file. You can navigate scenario by pressing play, pause, selecting step squares in timeline.
+Case Notes can be entered by operator. These are logged in Pump Record when enabled.
+The 3 most recent navigation placements are conveniently available to the right of the Navigate button.
+Blood color in circuit tubing reflect oxygen saturation. Darker red is low sO2, brighter red is oxygen-rich blood.
+Use the snap-on flow sensor to report flow rate in various tubing branches.
+In hybrid ECMO (VAV), adjust the hoffman clamp to control flow into the IJ delivery line.
+Hemofilter volume is managed using the Fluids Panel by the Instructor.
+Press on patient's blanket to remove; press it at foot of bed to put on patient.

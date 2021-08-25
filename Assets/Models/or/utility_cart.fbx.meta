@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: b51686890889bee44b5cad3da37ffd7c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -1690547886734994908
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Cart-Laptop_Reed
+      Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: -7647511608315228350
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Cart_Utility_Reed
+      35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -1823865860438822388
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Computer_LCD_Reed
+      Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: 5130999489325493108
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Floor Conc - 6" -
+      Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 7805294259507288126
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Floor Conc - 6" -
+      Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: -6486266438811438755
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Floor Conc - 6" -
+      Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: -3783857985033708280
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Floor Conc - 6" -
+      Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: -8382957081707449496
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -5978047967455297158
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: 8071374902805421154
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Surgery Stool Surgery
+      Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: 5778693465196276728
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Surgery Stool Surgery
+      Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: 5285422687651710451
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Surgery Stool Surgery
+      Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: 5816109102634704732
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: -2017540450036888913
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Ventilator-2_Reed
+      Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -884375827682108222
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Ventilator_Reed Ventilator_Reed
+      [160979]|Take 001|BaseLayer
+  - first:
+      74: -954123225057681927
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -1829788227572641400
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Contamination Tray
+      w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: -1117172684447696838
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      - ElectroSurgical Generator ESU w-M_2cc8069
+  - first:
+      74: -4523490573696394779
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      - Olympus Xenon Light Source Contro_875c195
+  - first:
+      74: -4006766139055648064
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      - SurgeryRoom Psymograph w-Medical _d4ab6fd
+  - first:
+      74: 5447648590673770579
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: -8271886065861801660
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -2644705882820341784
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -7105060987300180190
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -5282648658178889123
+    second: Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

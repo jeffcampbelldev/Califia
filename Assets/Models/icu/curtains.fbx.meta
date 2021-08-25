@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: a577d09aa205fed4f956cc7c85b400d2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: nets
+    2100002: white_ metal_hospital_bed
+    2100004: white_ plastic_hospital_bed
+    2100006: Aluminum_matted
+    2100008: blue_hospital_bed
+    2100010: hospital bed matresse
+    2100012: incubator black plastic
+    2100014: side panel controls_type2
+    2100016: pillow
+    2100018: side panel controls_head_1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: curtain_hospital_ward
+    4300002: Hospital_bed_base001
+    7400000: curtain_hospital_ward|curtain_hospital_ward001|Take 001|BaseLayer
+    7400002: curtain_hospital_ward|curtain_hospital_ward007|Take 001|BaseLayer
+    7400004: curtain_hospital_ward|curtain_hospital_ward008|Take 001|BaseLayer
+    7400006: curtain_hospital_ward|curtain_hospital_ward|Take 001|BaseLayer
+    7400008: curtain_hospital_ward|walls|Take 001|BaseLayer
+    7400010: curtain_hospital_ward|wooden floor|Take 001|BaseLayer
+    7400012: curtain_hospital_ward|wooden floor|Take 001|BaseLayer.001
+    7400014: curtain_hospital_ward|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400016: curtain_hospital_ward|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400018: curtain_hospital_ward|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400020: curtain_hospital_ward|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400022: curtain_hospital_ward|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400024: curtain_hospital_ward|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400026: curtain_hospital_ward|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400028: curtain_hospital_ward|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400030: curtain_hospital_ward|Back_display_detail001|Take 001|BaseLayer
+    7400032: curtain_hospital_ward|bedside_table003|Take 001|BaseLayer
+    7400034: curtain_hospital_ward|bedside_table_adjuster003|Take 001|BaseLayer
+    7400036: curtain_hospital_ward|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400038: curtain_hospital_ward|Bedside_table_axis003|Take 001|BaseLayer
+    7400040: curtain_hospital_ward|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400042: curtain_hospital_ward|Bedside_table_blat003|Take 001|BaseLayer
+    7400044: curtain_hospital_ward|Bedside_table_border003|Take 001|BaseLayer
+    7400046: curtain_hospital_ward|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400048: curtain_hospital_ward|bedside_table_handle003|Take 001|BaseLayer
+    7400050: curtain_hospital_ward|bedside_table_handle_support003|Take 001|BaseLayer
+    7400052: curtain_hospital_ward|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400054: curtain_hospital_ward|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400056: curtain_hospital_ward|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400058: curtain_hospital_ward|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400060: curtain_hospital_ward|Bedside_table_support010|Take 001|BaseLayer
+    7400062: curtain_hospital_ward|Bedside_table_support011|Take 001|BaseLayer
+    7400064: curtain_hospital_ward|Bedside_table_support012|Take 001|BaseLayer
+    7400066: curtain_hospital_ward|Bedside_table_wheel053|Take 001|BaseLayer
+    7400068: curtain_hospital_ward|Bedside_table_wheel054|Take 001|BaseLayer
+    7400070: curtain_hospital_ward|Bedside_table_wheel055|Take 001|BaseLayer
+    7400072: curtain_hospital_ward|Bedside_table_wheel056|Take 001|BaseLayer
+    7400074: curtain_hospital_ward|Blue_light001|Take 001|BaseLayer
+    7400076: curtain_hospital_ward|bolt424|Take 001|BaseLayer
+    7400078: curtain_hospital_ward|bolt425|Take 001|BaseLayer
+    7400080: curtain_hospital_ward|bolt426|Take 001|BaseLayer
+    7400082: curtain_hospital_ward|bolt427|Take 001|BaseLayer
+    7400084: curtain_hospital_ward|bolt431|Take 001|BaseLayer
+    7400086: curtain_hospital_ward|bolt443|Take 001|BaseLayer
+    7400088: curtain_hospital_ward|bolt444|Take 001|BaseLayer
+    7400090: curtain_hospital_ward|bolt445|Take 001|BaseLayer
+    7400092: curtain_hospital_ward|bolt446|Take 001|BaseLayer
+    7400094: curtain_hospital_ward|bolt447|Take 001|BaseLayer
+    7400096: curtain_hospital_ward|bolt448|Take 001|BaseLayer
+    7400098: curtain_hospital_ward|bolt449|Take 001|BaseLayer
+    7400100: curtain_hospital_ward|bolt450|Take 001|BaseLayer
+    7400102: curtain_hospital_ward|bolt451|Take 001|BaseLayer
+    7400104: curtain_hospital_ward|bolt452|Take 001|BaseLayer
+    7400106: curtain_hospital_ward|bolt453|Take 001|BaseLayer
+    7400108: curtain_hospital_ward|bolt454|Take 001|BaseLayer
+    7400110: curtain_hospital_ward|bolt455|Take 001|BaseLayer
+    7400112: curtain_hospital_ward|bolt456|Take 001|BaseLayer
+    7400114: curtain_hospital_ward|bolt457|Take 001|BaseLayer
+    7400116: curtain_hospital_ward|bolt458|Take 001|BaseLayer
+    7400118: curtain_hospital_ward|bolt459|Take 001|BaseLayer
+    7400120: curtain_hospital_ward|bolt460|Take 001|BaseLayer
+    7400122: curtain_hospital_ward|bolt461|Take 001|BaseLayer
+    7400124: curtain_hospital_ward|bolt462|Take 001|BaseLayer
+    7400126: curtain_hospital_ward|bolt463|Take 001|BaseLayer
+    7400128: curtain_hospital_ward|bolt464|Take 001|BaseLayer
+    7400130: curtain_hospital_ward|bolt465|Take 001|BaseLayer
+    7400132: curtain_hospital_ward|bolt466|Take 001|BaseLayer
+    7400134: curtain_hospital_ward|bolt467|Take 001|BaseLayer
+    7400136: curtain_hospital_ward|bolt468|Take 001|BaseLayer
+    7400138: curtain_hospital_ward|bolt469|Take 001|BaseLayer
+    7400140: curtain_hospital_ward|bolt470|Take 001|BaseLayer
+    7400142: curtain_hospital_ward|bolt471|Take 001|BaseLayer
+    7400144: curtain_hospital_ward|bolt472|Take 001|BaseLayer
+    7400146: curtain_hospital_ward|bolt473|Take 001|BaseLayer
+    7400148: curtain_hospital_ward|bolt474|Take 001|BaseLayer
+    7400150: curtain_hospital_ward|bolt475|Take 001|BaseLayer
+    7400152: curtain_hospital_ward|bolt476|Take 001|BaseLayer
+    7400154: curtain_hospital_ward|bolt477|Take 001|BaseLayer
+    7400156: curtain_hospital_ward|bolt478|Take 001|BaseLayer
+    7400158: curtain_hospital_ward|bolt479|Take 001|BaseLayer
+    7400160: curtain_hospital_ward|bolt480|Take 001|BaseLayer
+    7400162: curtain_hospital_ward|bolt481|Take 001|BaseLayer
+    7400164: curtain_hospital_ward|bolt482|Take 001|BaseLayer
+    7400166: curtain_hospital_ward|bolt483|Take 001|BaseLayer
+    7400168: curtain_hospital_ward|bolt484|Take 001|BaseLayer
+    7400170: curtain_hospital_ward|bolt485|Take 001|BaseLayer
+    7400172: curtain_hospital_ward|bolt486|Take 001|BaseLayer
+    7400174: curtain_hospital_ward|bolt487|Take 001|BaseLayer
+    7400176: curtain_hospital_ward|bolt488|Take 001|BaseLayer
+    7400178: curtain_hospital_ward|bolt489|Take 001|BaseLayer
+    7400180: curtain_hospital_ward|bolt490|Take 001|BaseLayer
+    7400182: curtain_hospital_ward|bolt491|Take 001|BaseLayer
+    7400184: curtain_hospital_ward|bolt492|Take 001|BaseLayer
+    7400186: curtain_hospital_ward|bolt493|Take 001|BaseLayer
+    7400188: curtain_hospital_ward|bolt494|Take 001|BaseLayer
+    7400190: curtain_hospital_ward|bolt496|Take 001|BaseLayer
+    7400192: curtain_hospital_ward|bolt497|Take 001|BaseLayer
+    7400194: curtain_hospital_ward|bolt498|Take 001|BaseLayer
+    7400196: curtain_hospital_ward|bolt499|Take 001|BaseLayer
+    7400198: curtain_hospital_ward|bolt500|Take 001|BaseLayer
+    7400200: curtain_hospital_ward|bolt501|Take 001|BaseLayer
+    7400202: curtain_hospital_ward|bolt502|Take 001|BaseLayer
+    7400204: curtain_hospital_ward|bolt503|Take 001|BaseLayer
+    7400206: curtain_hospital_ward|bolt503|Take 001|BaseLayer.001
+    7400208: curtain_hospital_ward|bolt504|Take 001|BaseLayer
+    7400210: curtain_hospital_ward|bolt504|Take 001|BaseLayer.001
+    7400212: curtain_hospital_ward|bolt505|Take 001|BaseLayer
+    7400214: curtain_hospital_ward|bolt505|Take 001|BaseLayer.001
+    7400216: curtain_hospital_ward|bolt506|Take 001|BaseLayer
+    7400218: curtain_hospital_ward|bolt506|Take 001|BaseLayer.001
+    7400220: curtain_hospital_ward|bolt507|Take 001|BaseLayer
+    7400222: curtain_hospital_ward|bolt508|Take 001|BaseLayer
+    7400224: curtain_hospital_ward|bolt509|Take 001|BaseLayer
+    7400226: curtain_hospital_ward|bolt510|Take 001|BaseLayer
+    7400228: curtain_hospital_ward|bolt511|Take 001|BaseLayer
+    7400230: curtain_hospital_ward|bolt512|Take 001|BaseLayer
+    7400232: curtain_hospital_ward|bolt513|Take 001|BaseLayer
+    7400234: curtain_hospital_ward|bolt514|Take 001|BaseLayer
+    7400236: curtain_hospital_ward|bolt515|Take 001|BaseLayer
+    7400238: curtain_hospital_ward|bolt516|Take 001|BaseLayer
+    7400240: curtain_hospital_ward|bolt517|Take 001|BaseLayer
+    7400242: curtain_hospital_ward|bolt518|Take 001|BaseLayer
+    7400244: curtain_hospital_ward|boom segment 009|Take 001|BaseLayer
+    7400246: curtain_hospital_ward|boom segment 010|Take 001|BaseLayer
+    7400248: curtain_hospital_ward|boom segment 011|Take 001|BaseLayer
+    7400250: curtain_hospital_ward|BoomArm001|Take 001|BaseLayer
+    7400252: curtain_hospital_ward|BoomMonitor002|Take 001|BaseLayer
+    7400254: curtain_hospital_ward|Box206b007|Take 001|BaseLayer
+    7400256: curtain_hospital_ward|Box276|Take 001|BaseLayer
+    7400258: curtain_hospital_ward|Box276|Take 001|BaseLayer.001
+    7400260: curtain_hospital_ward|Box277|Take 001|BaseLayer
+    7400262: curtain_hospital_ward|Box278|Take 001|BaseLayer
+    7400264: curtain_hospital_ward|Box278|Take 001|BaseLayer.001
+    7400266: curtain_hospital_ward|Box279|Take 001|BaseLayer
+    7400268: curtain_hospital_ward|Box279|Take 001|BaseLayer.001
+    7400270: curtain_hospital_ward|Box280|Take 001|BaseLayer
+    7400272: curtain_hospital_ward|bzt040|Take 001|BaseLayer
+    7400274: curtain_hospital_ward|bzt040|Take 001|BaseLayer.001
+    7400276: curtain_hospital_ward|bzt041|Take 001|BaseLayer
+    7400278: curtain_hospital_ward|bzt041|Take 001|BaseLayer.001
+    7400280: curtain_hospital_ward|bzt042|Take 001|BaseLayer
+    7400282: curtain_hospital_ward|bzt042|Take 001|BaseLayer.001
+    7400284: curtain_hospital_ward|bzt043|Take 001|BaseLayer
+    7400286: curtain_hospital_ward|bzt043|Take 001|BaseLayer.001
+    7400288: curtain_hospital_ward|bzt044|Take 001|BaseLayer
+    7400290: curtain_hospital_ward|bzt044|Take 001|BaseLayer.001
+    7400292: curtain_hospital_ward|cable005|Take 001|BaseLayer
+    7400294: curtain_hospital_ward|cable006|Take 001|BaseLayer
+    7400296: curtain_hospital_ward|cable007|Take 001|BaseLayer
+    7400298: curtain_hospital_ward|cable008|Take 001|BaseLayer
+    7400300: curtain_hospital_ward|cable009|Take 001|BaseLayer
+    7400302: curtain_hospital_ward|card slot001|Take 001|BaseLayer
+    7400304: curtain_hospital_ward|Circle007|Take 001|BaseLayer
+    7400306: curtain_hospital_ward|Circle007|Take 001|BaseLayer.001
+    7400308: curtain_hospital_ward|Clay_Paky_case001|Take 001|BaseLayer
+    7400310: curtain_hospital_ward|Control_button001|Take 001|BaseLayer
+    7400312: curtain_hospital_ward|cooler001|Take 001|BaseLayer
+    7400314: curtain_hospital_ward|Cooler_fan002|Take 001|BaseLayer
+    7400316: curtain_hospital_ward|Cooler_propeller012|Take 001|BaseLayer
+    7400318: curtain_hospital_ward|Cooler_propeller013|Take 001|BaseLayer
+    7400320: curtain_hospital_ward|Cooler_propeller014|Take 001|BaseLayer
+    7400322: curtain_hospital_ward|Cooler_propeller015|Take 001|BaseLayer
+    7400324: curtain_hospital_ward|Cooler_propeller016|Take 001|BaseLayer
+    7400326: curtain_hospital_ward|Cooler_propeller017|Take 001|BaseLayer
+    7400328: curtain_hospital_ward|Cylinder04sd007|Take 001|BaseLayer
+    7400330: curtain_hospital_ward|Cylinder172vbbv007|Take 001|BaseLayer
+    7400332: curtain_hospital_ward|Cylinder4509|Take 001|BaseLayer
+    7400334: curtain_hospital_ward|Cylinder4510|Take 001|BaseLayer
+    7400336: curtain_hospital_ward|Cylinder4510|Take 001|BaseLayer.001
+    7400338: curtain_hospital_ward|Cylinder4511|Take 001|BaseLayer
+    7400340: curtain_hospital_ward|Cylinder4511|Take 001|BaseLayer.001
+    7400342: curtain_hospital_ward|Cylinder4512|Take 001|BaseLayer
+    7400344: curtain_hospital_ward|Cylinder4512|Take 001|BaseLayer.001
+    7400346: curtain_hospital_ward|Cylinder4513|Take 001|BaseLayer
+    7400348: curtain_hospital_ward|Cylinder4513|Take 001|BaseLayer.001
+    7400350: curtain_hospital_ward|Cylinder4514|Take 001|BaseLayer
+    7400352: curtain_hospital_ward|Cylinder4514|Take 001|BaseLayer.001
+    7400354: curtain_hospital_ward|Cylinder4515|Take 001|BaseLayer
+    7400356: curtain_hospital_ward|Cylinder4515|Take 001|BaseLayer.001
+    7400358: curtain_hospital_ward|Cylinder4516|Take 001|BaseLayer
+    7400360: curtain_hospital_ward|Cylinder4516|Take 001|BaseLayer.001
+    7400362: curtain_hospital_ward|Cylinder4517|Take 001|BaseLayer
+    7400364: curtain_hospital_ward|Cylinder4517|Take 001|BaseLayer.001
+    7400366: curtain_hospital_ward|Cylinder4518|Take 001|BaseLayer
+    7400368: curtain_hospital_ward|Cylinder4518|Take 001|BaseLayer.001
+    7400370: curtain_hospital_ward|Cylinder4519|Take 001|BaseLayer
+    7400372: curtain_hospital_ward|Cylinder4519|Take 001|BaseLayer.001
+    7400374: curtain_hospital_ward|Cylinder4520|Take 001|BaseLayer
+    7400376: curtain_hospital_ward|Cylinder4520|Take 001|BaseLayer.001
+    7400378: curtain_hospital_ward|Cylinder4521|Take 001|BaseLayer
+    7400380: curtain_hospital_ward|Cylinder4522|Take 001|BaseLayer
+    7400382: curtain_hospital_ward|Cylinder4522|Take 001|BaseLayer.001
+    7400384: curtain_hospital_ward|Cylinder4523|Take 001|BaseLayer
+    7400386: curtain_hospital_ward|Cylinder4524|Take 001|BaseLayer
+    7400388: curtain_hospital_ward|Cylinder4525|Take 001|BaseLayer
+    7400390: curtain_hospital_ward|Cylinder4525|Take 001|BaseLayer.001
+    7400392: curtain_hospital_ward|Cylinder4526|Take 001|BaseLayer
+    7400394: curtain_hospital_ward|Cylinder4526|Take 001|BaseLayer.001
+    7400396: curtain_hospital_ward|Cylinder4527|Take 001|BaseLayer
+    7400398: curtain_hospital_ward|Cylinder4527|Take 001|BaseLayer.001
+    7400400: curtain_hospital_ward|Cylinder4528|Take 001|BaseLayer
+    7400402: curtain_hospital_ward|Cylinder4528|Take 001|BaseLayer.001
+    7400404: curtain_hospital_ward|Cylinder4529|Take 001|BaseLayer
+    7400406: curtain_hospital_ward|Cylinder4529|Take 001|BaseLayer.001
+    7400408: curtain_hospital_ward|Cylinder4530|Take 001|BaseLayer
+    7400410: curtain_hospital_ward|Cylinder4530|Take 001|BaseLayer.001
+    7400412: curtain_hospital_ward|Cylinder4531|Take 001|BaseLayer
+    7400414: curtain_hospital_ward|Cylinder4531|Take 001|BaseLayer.001
+    7400416: curtain_hospital_ward|Cylinder4532|Take 001|BaseLayer
+    7400418: curtain_hospital_ward|Cylinder4532|Take 001|BaseLayer.001
+    7400420: curtain_hospital_ward|Cylinder4533|Take 001|BaseLayer
+    7400422: curtain_hospital_ward|Cylinder4533|Take 001|BaseLayer.001
+    7400424: curtain_hospital_ward|Cylinder4534|Take 001|BaseLayer
+    7400426: curtain_hospital_ward|Cylinder4534|Take 001|BaseLayer.001
+    7400428: curtain_hospital_ward|Cylinder4542|Take 001|BaseLayer
+    7400430: curtain_hospital_ward|Cylinder4543|Take 001|BaseLayer
+    7400432: curtain_hospital_ward|Cylinder4544|Take 001|BaseLayer
+    7400434: curtain_hospital_ward|Cylinder4545|Take 001|BaseLayer
+    7400436: curtain_hospital_ward|Cylinder4546|Take 001|BaseLayer
+    7400438: curtain_hospital_ward|Cylinder4769|Take 001|BaseLayer
+    7400440: curtain_hospital_ward|Cylinder4770|Take 001|BaseLayer
+    7400442: curtain_hospital_ward|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7400444: curtain_hospital_ward|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7400446: curtain_hospital_ward|Display_body001|Take 001|BaseLayer
+    7400448: curtain_hospital_ward|doctor_stool005|Take 001|BaseLayer
+    7400450: curtain_hospital_ward|doctor_stool005|Take 001|BaseLayer.001
+    7400452: curtain_hospital_ward|equipement carrier handle002|Take 001|BaseLayer
+    7400454: curtain_hospital_ward|equipment carrier body001|Take 001|BaseLayer
+    7400456: curtain_hospital_ward|equipment_carrier_shelf005|Take 001|BaseLayer
+    7400458: curtain_hospital_ward|equipment_carrier_shelf006|Take 001|BaseLayer
+    7400460: curtain_hospital_ward|equipment_carrier_shelf007|Take 001|BaseLayer
+    7400462: curtain_hospital_ward|equipment_carrier_shelf008|Take 001|BaseLayer
+    7400464: curtain_hospital_ward|Group042|Take 001|BaseLayer
+    7400466: curtain_hospital_ward|Hospital Bed001|Take 001|BaseLayer
+    7400468: curtain_hospital_ward|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7400470: curtain_hospital_ward|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7400472: curtain_hospital_ward|Hospital_bed_base001|Take 001|BaseLayer
+    7400474: curtain_hospital_ward|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7400476: curtain_hospital_ward|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7400478: curtain_hospital_ward|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7400480: curtain_hospital_ward|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7400482: curtain_hospital_ward|Hospital_bed_bumper007|Take 001|BaseLayer
+    7400484: curtain_hospital_ward|Hospital_bed_bumper008|Take 001|BaseLayer
+    7400486: curtain_hospital_ward|Hospital_bed_bumper009|Take 001|BaseLayer
+    7400488: curtain_hospital_ward|Hospital_bed_bumper010|Take 001|BaseLayer
+    7400490: curtain_hospital_ward|Hospital_bed_button012|Take 001|BaseLayer
+    7400492: curtain_hospital_ward|Hospital_bed_button013|Take 001|BaseLayer
+    7400494: curtain_hospital_ward|Hospital_bed_button_large005|Take 001|BaseLayer
+    7400496: curtain_hospital_ward|Hospital_bed_button_large006|Take 001|BaseLayer
+    7400498: curtain_hospital_ward|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7400500: curtain_hospital_ward|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7400502: curtain_hospital_ward|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7400504: curtain_hospital_ward|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7400506: curtain_hospital_ward|Hospital_bed_leg003|Take 001|BaseLayer
+    7400508: curtain_hospital_ward|Hospital_bed_leg004|Take 001|BaseLayer
+    7400510: curtain_hospital_ward|Hospital_bed_leg005|Take 001|BaseLayer
+    7400512: curtain_hospital_ward|Hospital_bed_matress001|Take 001|BaseLayer
+    7400514: curtain_hospital_ward|Hospital_bed_pedal064|Take 001|BaseLayer
+    7400516: curtain_hospital_ward|Hospital_bed_pedal065|Take 001|BaseLayer
+    7400518: curtain_hospital_ward|Hospital_bed_pedal066|Take 001|BaseLayer
+    7400520: curtain_hospital_ward|Hospital_bed_pedal067|Take 001|BaseLayer
+    7400522: curtain_hospital_ward|Hospital_bed_pedal068|Take 001|BaseLayer
+    7400524: curtain_hospital_ward|Hospital_bed_pedal069|Take 001|BaseLayer
+    7400526: curtain_hospital_ward|Hospital_bed_pedal070|Take 001|BaseLayer
+    7400528: curtain_hospital_ward|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7400530: curtain_hospital_ward|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7400532: curtain_hospital_ward|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7400534: curtain_hospital_ward|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7400536: curtain_hospital_ward|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7400538: curtain_hospital_ward|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7400540: curtain_hospital_ward|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7400542: curtain_hospital_ward|Hospital_bed_pedals001|Take 001|BaseLayer
+    7400544: curtain_hospital_ward|Hospital_bed_piston006|Take 001|BaseLayer
+    7400546: curtain_hospital_ward|Hospital_bed_piston007|Take 001|BaseLayer
+    7400548: curtain_hospital_ward|Hospital_bed_piston008|Take 001|BaseLayer
+    7400550: curtain_hospital_ward|Hospital_bed_piston009|Take 001|BaseLayer
+    7400552: curtain_hospital_ward|Hospital_bed_piston010|Take 001|BaseLayer
+    7400554: curtain_hospital_ward|Hospital_bed_piston011|Take 001|BaseLayer
+    7400556: curtain_hospital_ward|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7400558: curtain_hospital_ward|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7400560: curtain_hospital_ward|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7400562: curtain_hospital_ward|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7400564: curtain_hospital_ward|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7400566: curtain_hospital_ward|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7400568: curtain_hospital_ward|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7400570: curtain_hospital_ward|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7400572: curtain_hospital_ward|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7400574: curtain_hospital_ward|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7400576: curtain_hospital_ward|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7400578: curtain_hospital_ward|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7400580: curtain_hospital_ward|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7400582: curtain_hospital_ward|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7400584: curtain_hospital_ward|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7400586: curtain_hospital_ward|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7400588: curtain_hospital_ward|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7400590: curtain_hospital_ward|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7400592: curtain_hospital_ward|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7400594: curtain_hospital_ward|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7400596: curtain_hospital_ward|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7400598: curtain_hospital_ward|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7400600: curtain_hospital_ward|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7400602: curtain_hospital_ward|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7400604: curtain_hospital_ward|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7400606: curtain_hospital_ward|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7400608: curtain_hospital_ward|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7400610: curtain_hospital_ward|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7400612: curtain_hospital_ward|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7400614: curtain_hospital_ward|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7400616: curtain_hospital_ward|Hospital_bed_pistons002|Take 001|BaseLayer
+    7400618: curtain_hospital_ward|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7400620: curtain_hospital_ward|Hospital_bed_pole003|Take 001|BaseLayer
+    7400622: curtain_hospital_ward|Hospital_bed_pole004|Take 001|BaseLayer
+    7400624: curtain_hospital_ward|Hospital_bed_pole005|Take 001|BaseLayer
+    7400626: curtain_hospital_ward|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7400628: curtain_hospital_ward|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7400630: curtain_hospital_ward|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7400632: curtain_hospital_ward|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7400634: curtain_hospital_ward|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7400636: curtain_hospital_ward|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7400638: curtain_hospital_ward|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7400640: curtain_hospital_ward|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7400642: curtain_hospital_ward|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7400644: curtain_hospital_ward|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7400646: curtain_hospital_ward|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7400648: curtain_hospital_ward|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7400650: curtain_hospital_ward|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7400652: curtain_hospital_ward|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7400654: curtain_hospital_ward|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7400656: curtain_hospital_ward|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7400658: curtain_hospital_ward|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7400660: curtain_hospital_ward|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7400662: curtain_hospital_ward|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7400664: curtain_hospital_ward|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7400666: curtain_hospital_ward|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7400668: curtain_hospital_ward|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7400670: curtain_hospital_ward|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7400672: curtain_hospital_ward|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7400674: curtain_hospital_ward|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7400676: curtain_hospital_ward|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7400678: curtain_hospital_ward|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7400680: curtain_hospital_ward|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7400682: curtain_hospital_ward|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7400684: curtain_hospital_ward|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7400686: curtain_hospital_ward|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7400688: curtain_hospital_ward|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7400690: curtain_hospital_ward|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7400692: curtain_hospital_ward|Hospital_bed_sides001|Take 001|BaseLayer
+    7400694: curtain_hospital_ward|Hospital_bed_wheel004|Take 001|BaseLayer
+    7400696: curtain_hospital_ward|Hospital_bed_wheel005|Take 001|BaseLayer
+    7400698: curtain_hospital_ward|Hospital_bed_wheel006|Take 001|BaseLayer
+    7400700: curtain_hospital_ward|Hospital_bed_wheel007|Take 001|BaseLayer
+    7400702: curtain_hospital_ward|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7400704: curtain_hospital_ward|humidifier001|Take 001|BaseLayer
+    7400706: curtain_hospital_ward|insuflation tube040|Take 001|BaseLayer
+    7400708: curtain_hospital_ward|insuflation tube041|Take 001|BaseLayer
+    7400710: curtain_hospital_ward|insuflation tube042|Take 001|BaseLayer
+    7400712: curtain_hospital_ward|insuflation tube043|Take 001|BaseLayer
+    7400714: curtain_hospital_ward|insuflation tube044|Take 001|BaseLayer
+    7400716: curtain_hospital_ward|insuflation tube045|Take 001|BaseLayer
+    7400718: curtain_hospital_ward|insuflation tube046|Take 001|BaseLayer
+    7400720: curtain_hospital_ward|insuflation tube047|Take 001|BaseLayer
+    7400722: curtain_hospital_ward|insuflation tube049|Take 001|BaseLayer
+    7400724: curtain_hospital_ward|insuflation tube050|Take 001|BaseLayer
+    7400726: curtain_hospital_ward|insuflation tube051|Take 001|BaseLayer
+    7400728: curtain_hospital_ward|insuflation tube052|Take 001|BaseLayer
+    7400730: curtain_hospital_ward|insuflation tube053|Take 001|BaseLayer
+    7400732: curtain_hospital_ward|insuflation tube054|Take 001|BaseLayer
+    7400734: curtain_hospital_ward|insuflation tube055|Take 001|BaseLayer
+    7400736: curtain_hospital_ward|insuflation tube056|Take 001|BaseLayer
+    7400738: curtain_hospital_ward|insuflation tube057|Take 001|BaseLayer
+    7400740: curtain_hospital_ward|insuflation tube058|Take 001|BaseLayer
+    7400742: curtain_hospital_ward|insuflation tube059|Take 001|BaseLayer
+    7400744: curtain_hospital_ward|insuflation tube060|Take 001|BaseLayer
+    7400746: curtain_hospital_ward|insuflation tube061|Take 001|BaseLayer
+    7400748: curtain_hospital_ward|insuflation tube062|Take 001|BaseLayer
+    7400750: curtain_hospital_ward|insuflation tube063|Take 001|BaseLayer
+    7400752: curtain_hospital_ward|insuflation tube064|Take 001|BaseLayer
+    7400754: curtain_hospital_ward|insuflation tube065|Take 001|BaseLayer
+    7400756: curtain_hospital_ward|insuflation tube066|Take 001|BaseLayer
+    7400758: curtain_hospital_ward|insuflation tube067|Take 001|BaseLayer
+    7400760: curtain_hospital_ward|insuflation tube068|Take 001|BaseLayer
+    7400762: curtain_hospital_ward|Line033|Take 001|BaseLayer
+    7400764: curtain_hospital_ward|liquid003|Take 001|BaseLayer
+    7400766: curtain_hospital_ward|liquid004|Take 001|BaseLayer
+    7400768: curtain_hospital_ward|Locker_tray001|Take 001|BaseLayer
+    7400770: curtain_hospital_ward|medical device 01back005|Take 001|BaseLayer
+    7400772: curtain_hospital_ward|medical device 01back006|Take 001|BaseLayer
+    7400774: curtain_hospital_ward|medical device 01back007|Take 001|BaseLayer
+    7400776: curtain_hospital_ward|medical device 01back008|Take 001|BaseLayer
+    7400778: curtain_hospital_ward|medical device 01body015|Take 001|BaseLayer
+    7400780: curtain_hospital_ward|medical device 01body016|Take 001|BaseLayer
+    7400782: curtain_hospital_ward|medical device 01body017|Take 001|BaseLayer
+    7400784: curtain_hospital_ward|medical device 01body018|Take 001|BaseLayer
+    7400786: curtain_hospital_ward|medical device 01body019|Take 001|BaseLayer
+    7400788: curtain_hospital_ward|medical device 01front002|Take 001|BaseLayer
+    7400790: curtain_hospital_ward|medical device 01front003|Take 001|BaseLayer
+    7400792: curtain_hospital_ward|medical device 02front004|Take 001|BaseLayer
+    7400794: curtain_hospital_ward|medical device 02front005|Take 001|BaseLayer
+    7400796: curtain_hospital_ward|medical device side016|Take 001|BaseLayer
+    7400798: curtain_hospital_ward|medical device side017|Take 001|BaseLayer
+    7400800: curtain_hospital_ward|medical device side018|Take 001|BaseLayer
+    7400802: curtain_hospital_ward|medical device side019|Take 001|BaseLayer
+    7400804: curtain_hospital_ward|medical device side020|Take 001|BaseLayer
+    7400806: curtain_hospital_ward|medical device side021|Take 001|BaseLayer
+    7400808: curtain_hospital_ward|medical device side022|Take 001|BaseLayer
+    7400810: curtain_hospital_ward|medical device side023|Take 001|BaseLayer
+    7400812: curtain_hospital_ward|medical devices001|Take 001|BaseLayer
+    7400814: curtain_hospital_ward|medical_device005|Take 001|BaseLayer
+    7400816: curtain_hospital_ward|medical_device006|Take 001|BaseLayer
+    7400818: curtain_hospital_ward|medical_device007|Take 001|BaseLayer
+    7400820: curtain_hospital_ward|medical_device008|Take 001|BaseLayer
+    7400822: curtain_hospital_ward|medicine bottle 01 cap035|Take 001|BaseLayer
+    7400824: curtain_hospital_ward|medicine bottle 01 cap036|Take 001|BaseLayer
+    7400826: curtain_hospital_ward|medicine bottle 01 cap037|Take 001|BaseLayer
+    7400828: curtain_hospital_ward|medicine bottle 02_ut002|Take 001|BaseLayer
+    7400830: curtain_hospital_ward|medicine bottle 037|Take 001|BaseLayer
+    7400832: curtain_hospital_ward|medicine bottle 03_v002|Take 001|BaseLayer
+    7400834: curtain_hospital_ward|medicine box051|Take 001|BaseLayer
+    7400836: curtain_hospital_ward|metal ring 004|Take 001|BaseLayer
+    7400838: curtain_hospital_ward|metal ring 005|Take 001|BaseLayer
+    7400840: curtain_hospital_ward|metal ring 006|Take 001|BaseLayer
+    7400842: curtain_hospital_ward|Mobile_trolley001|Take 001|BaseLayer
+    7400844: curtain_hospital_ward|monitor joint 003|Take 001|BaseLayer
+    7400846: curtain_hospital_ward|monitor joint 004|Take 001|BaseLayer
+    7400848: curtain_hospital_ward|monitor joint019|Take 001|BaseLayer
+    7400850: curtain_hospital_ward|monitor screen002|Take 001|BaseLayer
+    7400852: curtain_hospital_ward|monitor01_body007|Take 001|BaseLayer
+    7400854: curtain_hospital_ward|Monitor_ax002|Take 001|BaseLayer
+    7400856: curtain_hospital_ward|monitorARM002|Take 001|BaseLayer
+    7400858: curtain_hospital_ward|mufa albastra017|Take 001|BaseLayer
+    7400860: curtain_hospital_ward|mufa albastra018|Take 001|BaseLayer
+    7400862: curtain_hospital_ward|mufa albastra019|Take 001|BaseLayer
+    7400864: curtain_hospital_ward|mufaalbastra013|Take 001|BaseLayer
+    7400866: curtain_hospital_ward|mufaalbastra014|Take 001|BaseLayer
+    7400868: curtain_hospital_ward|mufaalbastra015|Take 001|BaseLayer
+    7400870: curtain_hospital_ward|mufaalbastra016|Take 001|BaseLayer
+    7400872: curtain_hospital_ward|mufaalbastra017|Take 001|BaseLayer
+    7400874: curtain_hospital_ward|mufaalbastra018|Take 001|BaseLayer
+    7400876: curtain_hospital_ward|mufaalbastra019|Take 001|BaseLayer
+    7400878: curtain_hospital_ward|mufaalbastra020|Take 001|BaseLayer
+    7400880: curtain_hospital_ward|mufaalbastra021|Take 001|BaseLayer
+    7400882: curtain_hospital_ward|mufaalbastra022|Take 001|BaseLayer
+    7400884: curtain_hospital_ward|Object4468|Take 001|BaseLayer
+    7400886: curtain_hospital_ward|Object4469|Take 001|BaseLayer
+    7400888: curtain_hospital_ward|Object4470|Take 001|BaseLayer
+    7400890: curtain_hospital_ward|Object4471|Take 001|BaseLayer
+    7400892: curtain_hospital_ward|Object4472|Take 001|BaseLayer
+    7400894: curtain_hospital_ward|Object4473|Take 001|BaseLayer
+    7400896: curtain_hospital_ward|Object4474|Take 001|BaseLayer
+    7400898: curtain_hospital_ward|Object4474|Take 001|BaseLayer.001
+    7400900: curtain_hospital_ward|Object4475|Take 001|BaseLayer
+    7400902: curtain_hospital_ward|Object4475|Take 001|BaseLayer.001
+    7400904: curtain_hospital_ward|Object4476|Take 001|BaseLayer
+    7400906: curtain_hospital_ward|Object4476|Take 001|BaseLayer.001
+    7400908: curtain_hospital_ward|Object4477|Take 001|BaseLayer
+    7400910: curtain_hospital_ward|Object4477|Take 001|BaseLayer.001
+    7400912: curtain_hospital_ward|Object4478|Take 001|BaseLayer
+    7400914: curtain_hospital_ward|Object4478|Take 001|BaseLayer.001
+    7400916: curtain_hospital_ward|off button device002|Take 001|BaseLayer
+    7400918: curtain_hospital_ward|off button008|Take 001|BaseLayer
+    7400920: curtain_hospital_ward|off button009|Take 001|BaseLayer
+    7400922: curtain_hospital_ward|off button010|Take 001|BaseLayer
+    7400924: curtain_hospital_ward|on button device002|Take 001|BaseLayer
+    7400926: curtain_hospital_ward|on button008|Take 001|BaseLayer
+    7400928: curtain_hospital_ward|on button009|Take 001|BaseLayer
+    7400930: curtain_hospital_ward|on button010|Take 001|BaseLayer
+    7400932: curtain_hospital_ward|on/off button008|Take 001|BaseLayer
+    7400934: curtain_hospital_ward|on/off button009|Take 001|BaseLayer
+    7400936: curtain_hospital_ward|on/off button010|Take 001|BaseLayer
+    7400938: curtain_hospital_ward|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7400940: curtain_hospital_ward|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7400942: curtain_hospital_ward|pillow001|Take 001|BaseLayer
+    7400944: curtain_hospital_ward|plugg socket044|Take 001|BaseLayer
+    7400946: curtain_hospital_ward|plugg socket045|Take 001|BaseLayer
+    7400948: curtain_hospital_ward|plugg socket049|Take 001|BaseLayer
+    7400950: curtain_hospital_ward|plugg socket050|Take 001|BaseLayer
+    7400952: curtain_hospital_ward|plugg socket051|Take 001|BaseLayer
+    7400954: curtain_hospital_ward|plugg015|Take 001|BaseLayer
+    7400956: curtain_hospital_ward|plugg016|Take 001|BaseLayer
+    7400958: curtain_hospital_ward|plugg017|Take 001|BaseLayer
+    7400960: curtain_hospital_ward|plugg018|Take 001|BaseLayer
+    7400962: curtain_hospital_ward|plugg019|Take 001|BaseLayer
+    7400964: curtain_hospital_ward|plugg020|Take 001|BaseLayer
+    7400966: curtain_hospital_ward|plugg021|Take 001|BaseLayer
+    7400968: curtain_hospital_ward|plugg022|Take 001|BaseLayer
+    7400970: curtain_hospital_ward|plugg023|Take 001|BaseLayer
+    7400972: curtain_hospital_ward|plugg024|Take 001|BaseLayer
+    7400974: curtain_hospital_ward|plugg025|Take 001|BaseLayer
+    7400976: curtain_hospital_ward|plugg026|Take 001|BaseLayer
+    7400978: curtain_hospital_ward|plugg027|Take 001|BaseLayer
+    7400980: curtain_hospital_ward|roata045|Take 001|BaseLayer
+    7400982: curtain_hospital_ward|roata045|Take 001|BaseLayer.001
+    7400984: curtain_hospital_ward|roata046|Take 001|BaseLayer
+    7400986: curtain_hospital_ward|roata046|Take 001|BaseLayer.001
+    7400988: curtain_hospital_ward|roata047|Take 001|BaseLayer
+    7400990: curtain_hospital_ward|roata047|Take 001|BaseLayer.001
+    7400992: curtain_hospital_ward|roata048|Take 001|BaseLayer
+    7400994: curtain_hospital_ward|roata048|Take 001|BaseLayer.001
+    7400996: curtain_hospital_ward|roata049|Take 001|BaseLayer
+    7400998: curtain_hospital_ward|roata049|Take 001|BaseLayer.001
+    7401000: curtain_hospital_ward|round slot016|Take 001|BaseLayer
+    7401002: curtain_hospital_ward|round slot017|Take 001|BaseLayer
+    7401004: curtain_hospital_ward|round slot018|Take 001|BaseLayer
+    7401006: curtain_hospital_ward|round slot019|Take 001|BaseLayer
+    7401008: curtain_hospital_ward|round slot020|Take 001|BaseLayer
+    7401010: curtain_hospital_ward|round slot021|Take 001|BaseLayer
+    7401012: curtain_hospital_ward|round slot022|Take 001|BaseLayer
+    7401014: curtain_hospital_ward|round slot023|Take 001|BaseLayer
+    7401016: curtain_hospital_ward|round slot024|Take 001|BaseLayer
+    7401018: curtain_hospital_ward|round slot025|Take 001|BaseLayer
+    7401020: curtain_hospital_ward|Round_button001|Take 001|BaseLayer
+    7401022: curtain_hospital_ward|Round_Scart008|Take 001|BaseLayer
+    7401024: curtain_hospital_ward|Round_Scart009|Take 001|BaseLayer
+    7401026: curtain_hospital_ward|Round_Scart010|Take 001|BaseLayer
+    7401028: curtain_hospital_ward|Round_Scart011|Take 001|BaseLayer
+    7401030: curtain_hospital_ward|Round_Scart012|Take 001|BaseLayer
+    7401032: curtain_hospital_ward|Round_Scart013|Take 001|BaseLayer
+    7401034: curtain_hospital_ward|Round_Scart014|Take 001|BaseLayer
+    7401036: curtain_hospital_ward|Round_Scart015|Take 001|BaseLayer
+    7401038: curtain_hospital_ward|Rubber_bumper016|Take 001|BaseLayer
+    7401040: curtain_hospital_ward|Rubber_bumper017|Take 001|BaseLayer
+    7401042: curtain_hospital_ward|Rubber_bumper018|Take 001|BaseLayer
+    7401044: curtain_hospital_ward|Rubber_bumper019|Take 001|BaseLayer
+    7401046: curtain_hospital_ward|Rubber_bumper020|Take 001|BaseLayer
+    7401048: curtain_hospital_ward|Rubber_bumper021|Take 001|BaseLayer
+    7401050: curtain_hospital_ward|Rubber_bumper022|Take 001|BaseLayer
+    7401052: curtain_hospital_ward|Rubber_bumper023|Take 001|BaseLayer
+    7401054: curtain_hospital_ward|Rubber_bumper024|Take 001|BaseLayer
+    7401056: curtain_hospital_ward|Rubber_bumper_support008|Take 001|BaseLayer
+    7401058: curtain_hospital_ward|Rubber_bumper_support009|Take 001|BaseLayer
+    7401060: curtain_hospital_ward|Rubber_bumper_support010|Take 001|BaseLayer
+    7401062: curtain_hospital_ward|Rubber_bumper_support011|Take 001|BaseLayer
+    7401064: curtain_hospital_ward|Rubber_bumper_support012|Take 001|BaseLayer
+    7401066: curtain_hospital_ward|Sanitizer003|Take 001|BaseLayer
+    7401068: curtain_hospital_ward|Sanitizer004|Take 001|BaseLayer
+    7401070: curtain_hospital_ward|scart003|Take 001|BaseLayer
+    7401072: curtain_hospital_ward|scart004|Take 001|BaseLayer
+    7401074: curtain_hospital_ward|scart005|Take 001|BaseLayer
+    7401076: curtain_hospital_ward|Shape002|Take 001|BaseLayer
+    7401078: curtain_hospital_ward|shelf edge004|Take 001|BaseLayer
+    7401080: curtain_hospital_ward|shelf edge005|Take 001|BaseLayer
+    7401082: curtain_hospital_ward|shelf edge006|Take 001|BaseLayer
+    7401084: curtain_hospital_ward|shelf edge007|Take 001|BaseLayer
+    7401086: curtain_hospital_ward|side panel controls_head_002|Take 001|BaseLayer
+    7401088: curtain_hospital_ward|side panel controls_head_003|Take 001|BaseLayer
+    7401090: curtain_hospital_ward|side panel_head002|Take 001|BaseLayer
+    7401092: curtain_hospital_ward|side panel_head003|Take 001|BaseLayer
+    7401094: curtain_hospital_ward|Side_handle002|Take 001|BaseLayer
+    7401096: curtain_hospital_ward|Side_handle003|Take 001|BaseLayer
+    7401098: curtain_hospital_ward|side_panel_cap005|Take 001|BaseLayer
+    7401100: curtain_hospital_ward|side_panel_cap006|Take 001|BaseLayer
+    7401102: curtain_hospital_ward|side_panel_cap007|Take 001|BaseLayer
+    7401104: curtain_hospital_ward|side_panel_cap008|Take 001|BaseLayer
+    7401106: curtain_hospital_ward|sky boom base001|Take 001|BaseLayer
+    7401108: curtain_hospital_ward|socketA068|Take 001|BaseLayer
+    7401110: curtain_hospital_ward|socketA069|Take 001|BaseLayer
+    7401112: curtain_hospital_ward|socketA071|Take 001|BaseLayer
+    7401114: curtain_hospital_ward|socketA072|Take 001|BaseLayer
+    7401116: curtain_hospital_ward|socketA073|Take 001|BaseLayer
+    7401118: curtain_hospital_ward|socketA074|Take 001|BaseLayer
+    7401120: curtain_hospital_ward|socketA075|Take 001|BaseLayer
+    7401122: curtain_hospital_ward|socketA076|Take 001|BaseLayer
+    7401124: curtain_hospital_ward|socketA077|Take 001|BaseLayer
+    7401126: curtain_hospital_ward|socketA078|Take 001|BaseLayer
+    7401128: curtain_hospital_ward|socketA079|Take 001|BaseLayer
+    7401130: curtain_hospital_ward|socketA080|Take 001|BaseLayer
+    7401132: curtain_hospital_ward|socketA081|Take 001|BaseLayer
+    7401134: curtain_hospital_ward|socketA082|Take 001|BaseLayer
+    7401136: curtain_hospital_ward|socketA083|Take 001|BaseLayer
+    7401138: curtain_hospital_ward|socketA084|Take 001|BaseLayer
+    7401140: curtain_hospital_ward|socketA085|Take 001|BaseLayer
+    7401142: curtain_hospital_ward|socketA086|Take 001|BaseLayer
+    7401144: curtain_hospital_ward|socketA087|Take 001|BaseLayer
+    7401146: curtain_hospital_ward|socketA088|Take 001|BaseLayer
+    7401148: curtain_hospital_ward|socketA089|Take 001|BaseLayer
+    7401150: curtain_hospital_ward|SocketB076|Take 001|BaseLayer
+    7401152: curtain_hospital_ward|SocketB082|Take 001|BaseLayer
+    7401154: curtain_hospital_ward|SocketB083|Take 001|BaseLayer
+    7401156: curtain_hospital_ward|SocketB084|Take 001|BaseLayer
+    7401158: curtain_hospital_ward|SocketB085|Take 001|BaseLayer
+    7401160: curtain_hospital_ward|SocketB086|Take 001|BaseLayer
+    7401162: curtain_hospital_ward|SocketB087|Take 001|BaseLayer
+    7401164: curtain_hospital_ward|SocketB088|Take 001|BaseLayer
+    7401166: curtain_hospital_ward|SocketB089|Take 001|BaseLayer
+    7401168: curtain_hospital_ward|SocketB090|Take 001|BaseLayer
+    7401170: curtain_hospital_ward|SocketB091|Take 001|BaseLayer
+    7401172: curtain_hospital_ward|SocketB092|Take 001|BaseLayer
+    7401174: curtain_hospital_ward|SocketB093|Take 001|BaseLayer
+    7401176: curtain_hospital_ward|SocketB094|Take 001|BaseLayer
+    7401178: curtain_hospital_ward|SocketB095|Take 001|BaseLayer
+    7401180: curtain_hospital_ward|sockets012|Take 001|BaseLayer
+    7401182: curtain_hospital_ward|sockets014|Take 001|BaseLayer
+    7401184: curtain_hospital_ward|sockets015|Take 001|BaseLayer
+    7401186: curtain_hospital_ward|support017|Take 001|BaseLayer
+    7401188: curtain_hospital_ward|support018|Take 001|BaseLayer
+    7401190: curtain_hospital_ward|support019|Take 001|BaseLayer
+    7401192: curtain_hospital_ward|support020|Take 001|BaseLayer
+    7401194: curtain_hospital_ward|support021|Take 001|BaseLayer
+    7401196: curtain_hospital_ward|support022|Take 001|BaseLayer
+    7401198: curtain_hospital_ward|support023|Take 001|BaseLayer
+    7401200: curtain_hospital_ward|support024|Take 001|BaseLayer
+    7401202: curtain_hospital_ward|support025|Take 001|BaseLayer
+    7401204: curtain_hospital_ward|support026|Take 001|BaseLayer
+    7401206: curtain_hospital_ward|support027|Take 001|BaseLayer
+    7401208: curtain_hospital_ward|support028|Take 001|BaseLayer
+    7401210: curtain_hospital_ward|support029|Take 001|BaseLayer
+    7401212: curtain_hospital_ward|support030|Take 001|BaseLayer
+    7401214: curtain_hospital_ward|support031|Take 001|BaseLayer
+    7401216: curtain_hospital_ward|support032|Take 001|BaseLayer
+    7401218: curtain_hospital_ward|surgical light handle032|Take 001|BaseLayer
+    7401220: curtain_hospital_ward|surgical light handle033|Take 001|BaseLayer
+    7401222: curtain_hospital_ward|surgical light handle034|Take 001|BaseLayer
+    7401224: curtain_hospital_ward|surgical light handle035|Take 001|BaseLayer
+    7401226: curtain_hospital_ward|surgical light handle036|Take 001|BaseLayer
+    7401228: curtain_hospital_ward|surgical light handle037|Take 001|BaseLayer
+    7401230: curtain_hospital_ward|surgical light handle038|Take 001|BaseLayer
+    7401232: curtain_hospital_ward|usb slot027|Take 001|BaseLayer
+    7401234: curtain_hospital_ward|usb slot028|Take 001|BaseLayer
+    7401236: curtain_hospital_ward|usb slot029|Take 001|BaseLayer
+    7401238: curtain_hospital_ward|usb slot030|Take 001|BaseLayer
+    7401240: curtain_hospital_ward|usb slot031|Take 001|BaseLayer
+    7401242: curtain_hospital_ward|usb slot032|Take 001|BaseLayer
+    7401244: curtain_hospital_ward|usb slot033|Take 001|BaseLayer
+    7401246: curtain_hospital_ward|usb slot034|Take 001|BaseLayer
+    7401248: curtain_hospital_ward|usb slot035|Take 001|BaseLayer
+    7401250: curtain_hospital_ward|usb slot036|Take 001|BaseLayer
+    7401252: curtain_hospital_ward|usb slot037|Take 001|BaseLayer
+    7401254: curtain_hospital_ward|usb slot038|Take 001|BaseLayer
+    7401256: curtain_hospital_ward|ventilator  bag cap001|Take 001|BaseLayer
+    7401258: curtain_hospital_ward|ventilator arm adjustable support001|Take 001|BaseLayer
+    7401260: curtain_hospital_ward|ventilator arm handle002|Take 001|BaseLayer
+    7401262: curtain_hospital_ward|ventilator arm segment005|Take 001|BaseLayer
+    7401264: curtain_hospital_ward|ventilator arm segment006|Take 001|BaseLayer
+    7401266: curtain_hospital_ward|ventilator arm segment007|Take 001|BaseLayer
+    7401268: curtain_hospital_ward|ventilator arm segment008|Take 001|BaseLayer
+    7401270: curtain_hospital_ward|ventilator bag001|Take 001|BaseLayer
+    7401272: curtain_hospital_ward|ventilator box002|Take 001|BaseLayer
+    7401274: curtain_hospital_ward|ventilator brushed metal002|Take 001|BaseLayer
+    7401276: curtain_hospital_ward|ventilator controls 003|Take 001|BaseLayer
+    7401278: curtain_hospital_ward|ventilator glass004|Take 001|BaseLayer
+    7401280: curtain_hospital_ward|ventilator glass005|Take 001|BaseLayer
+    7401282: curtain_hospital_ward|ventilator glass006|Take 001|BaseLayer
+    7401284: curtain_hospital_ward|ventilator hose cap 012|Take 001|BaseLayer
+    7401286: curtain_hospital_ward|ventilator hose cap 013|Take 001|BaseLayer
+    7401288: curtain_hospital_ward|ventilator hose cap 014|Take 001|BaseLayer
+    7401290: curtain_hospital_ward|ventilator hose cap 015|Take 001|BaseLayer
+    7401292: curtain_hospital_ward|ventilator hose cap 016|Take 001|BaseLayer
+    7401294: curtain_hospital_ward|ventilator hose cap 017|Take 001|BaseLayer
+    7401296: curtain_hospital_ward|ventilator hose cap005|Take 001|BaseLayer
+    7401298: curtain_hospital_ward|ventilator hose cap006|Take 001|BaseLayer
+    7401300: curtain_hospital_ward|ventilator hose cap007|Take 001|BaseLayer
+    7401302: curtain_hospital_ward|ventilator hose cap008|Take 001|BaseLayer
+    7401304: curtain_hospital_ward|ventilator hose output003|Take 001|BaseLayer
+    7401306: curtain_hospital_ward|ventilator hose output004|Take 001|BaseLayer
+    7401308: curtain_hospital_ward|ventilator hose support 004|Take 001|BaseLayer
+    7401310: curtain_hospital_ward|ventilator hose support 005|Take 001|BaseLayer
+    7401312: curtain_hospital_ward|ventilator hose support001|Take 001|BaseLayer
+    7401314: curtain_hospital_ward|ventilator large button001|Take 001|BaseLayer
+    7401316: curtain_hospital_ward|ventilator screen002|Take 001|BaseLayer
+    7401318: curtain_hospital_ward|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7401320: curtain_hospital_ward|Ventilator_main_body001|Take 001|BaseLayer
+    7401322: curtain_hospital_ward|Ventilator_wheel004|Take 001|BaseLayer
+    7401324: curtain_hospital_ward|Ventilator_wheel005|Take 001|BaseLayer
+    7401326: curtain_hospital_ward|Ventilator_wheel005|Take 001|BaseLayer.001
+    7401328: curtain_hospital_ward|Ventilator_wheel006|Take 001|BaseLayer
+    7401330: curtain_hospital_ward|Ventilator_wheel007|Take 001|BaseLayer
+    7401332: curtain_hospital_ward|ventilatorHose006|Take 001|BaseLayer
+    7401334: curtain_hospital_ward|ventilatorHose007|Take 001|BaseLayer
+    7401336: curtain_hospital_ward|ventilatorHose008|Take 001|BaseLayer
+    7401338: curtain_hospital_ward|ventilatorHose009|Take 001|BaseLayer
+    7401340: curtain_hospital_ward|ventilatorHose010|Take 001|BaseLayer
+    7401342: curtain_hospital_ward|vga slot031|Take 001|BaseLayer
+    7401344: curtain_hospital_ward|vga slot034|Take 001|BaseLayer
+    7401346: curtain_hospital_ward|vga slot035|Take 001|BaseLayer
+    7401348: curtain_hospital_ward|wheel044|Take 001|BaseLayer
+    7401350: curtain_hospital_ward|wheel045|Take 001|BaseLayer
+    7401352: curtain_hospital_ward|Wheel_arm009|Take 001|BaseLayer
+    7401354: curtain_hospital_ward|Wheel_arm010|Take 001|BaseLayer
+    7401356: curtain_hospital_ward|Wheel_arm010|Take 001|BaseLayer.001
+    7401358: curtain_hospital_ward|Wheel_arm011|Take 001|BaseLayer
+    7401360: curtain_hospital_ward|Wheel_arm012|Take 001|BaseLayer
+    7401362: curtain_hospital_ward|wheel_ax008|Take 001|BaseLayer
+    7401364: curtain_hospital_ward|wheel_ax009|Take 001|BaseLayer
+    7401366: curtain_hospital_ward|wheel_ax009|Take 001|BaseLayer.001
+    7401368: curtain_hospital_ward|wheel_ax010|Take 001|BaseLayer
+    7401370: curtain_hospital_ward|wheel_ax011|Take 001|BaseLayer
+    7401372: curtain_hospital_ward|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7401374: curtain_hospital_ward|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7401376: curtain_hospital_ward|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7401378: curtain_hospital_ward|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7401380: curtain_hospital_ward|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7401382: curtain_hospital_ward|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7401384: curtain_hospital_ward|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7401386: curtain_hospital_ward|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7401388: curtain_hospital_ward|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7401390: curtain_hospital_ward|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7401392: curtain_hospital_ward|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7401394: curtain_hospital_ward|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7401396: curtain_hospital_ward|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7401398: curtain_hospital_ward|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7401400: curtain_hospital_ward|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7401402: curtain_hospital_ward|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7401404: curtain_hospital_ward|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7401406: curtain_hospital_ward|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7401408: curtain_hospital_ward|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7401410: curtain_hospital_ward|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7401412: curtain_hospital_ward|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7401414: curtain_hospital_ward|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7401416: curtain_hospital_ward|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7401418: curtain_hospital_ward|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7401420: curtain_hospital_ward|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7401422: curtain_hospital_ward|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7401424: curtain_hospital_ward|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7401426: curtain_hospital_ward|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7401428: curtain_hospital_ward|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7401430: curtain_hospital_ward|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7401432: curtain_hospital_ward|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7401434: curtain_hospital_ward|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7401436: curtain_hospital_ward|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7401438: curtain_hospital_ward|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7401440: curtain_hospital_ward|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7401442: curtain_hospital_ward|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7401444: curtain_hospital_ward|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7401446: curtain_hospital_ward|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7401448: curtain_hospital_ward|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7401450: curtain_hospital_ward|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7401452: curtain_hospital_ward|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7401454: curtain_hospital_ward|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7401456: curtain_hospital_ward|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7401458: curtain_hospital_ward|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7401460: curtain_hospital_ward|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7401462: curtain_hospital_ward|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7401464: curtain_hospital_ward|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7401466: curtain_hospital_ward|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7401468: curtain_hospital_ward|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7401470: curtain_hospital_ward|wheel_rubber007|Take 001|BaseLayer
+    7401472: curtain_hospital_ward|wheel_rubber008|Take 001|BaseLayer
+    7401474: curtain_hospital_ward|wheel_rubber008|Take 001|BaseLayer.001
+    7401476: curtain_hospital_ward|wheel_rubber009|Take 001|BaseLayer
+    7401478: curtain_hospital_ward|wheel_rubber010|Take 001|BaseLayer
+    7401480: curtain_hospital_ward|wheelCenterPivot004|Take 001|BaseLayer
+    7401482: curtain_hospital_ward|wheelCenterPivot005|Take 001|BaseLayer
+    7401484: curtain_hospital_ward|wheelCenterPivot005|Take 001|BaseLayer.001
+    7401486: curtain_hospital_ward|wheelCenterPivot006|Take 001|BaseLayer
+    7401488: curtain_hospital_ward|wheelCenterPivot007|Take 001|BaseLayer
+    7401490: Hospital_bed_base001|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7401492: Hospital_bed_base001|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7401494: Hospital_bed_base001|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7401496: Hospital_bed_base001|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7401498: Hospital_bed_base001|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7401500: Hospital_bed_base001|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7401502: Hospital_bed_base001|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7401504: Hospital_bed_base001|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7401506: Hospital_bed_base001|Back_display_detail001|Take 001|BaseLayer
+    7401508: Hospital_bed_base001|bedside_table003|Take 001|BaseLayer
+    7401510: Hospital_bed_base001|bedside_table_adjuster003|Take 001|BaseLayer
+    7401512: Hospital_bed_base001|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7401514: Hospital_bed_base001|Bedside_table_axis003|Take 001|BaseLayer
+    7401516: Hospital_bed_base001|Bedside_table_axis_support005|Take 001|BaseLayer
+    7401518: Hospital_bed_base001|Bedside_table_blat003|Take 001|BaseLayer
+    7401520: Hospital_bed_base001|Bedside_table_border003|Take 001|BaseLayer
+    7401522: Hospital_bed_base001|Bedside_table_borderedge003|Take 001|BaseLayer
+    7401524: Hospital_bed_base001|bedside_table_handle003|Take 001|BaseLayer
+    7401526: Hospital_bed_base001|bedside_table_handle_support003|Take 001|BaseLayer
+    7401528: Hospital_bed_base001|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7401530: Hospital_bed_base001|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7401532: Hospital_bed_base001|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7401534: Hospital_bed_base001|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7401536: Hospital_bed_base001|Bedside_table_support010|Take 001|BaseLayer
+    7401538: Hospital_bed_base001|Bedside_table_support011|Take 001|BaseLayer
+    7401540: Hospital_bed_base001|Bedside_table_support012|Take 001|BaseLayer
+    7401542: Hospital_bed_base001|Bedside_table_wheel053|Take 001|BaseLayer
+    7401544: Hospital_bed_base001|Bedside_table_wheel054|Take 001|BaseLayer
+    7401546: Hospital_bed_base001|Bedside_table_wheel055|Take 001|BaseLayer
+    7401548: Hospital_bed_base001|Bedside_table_wheel056|Take 001|BaseLayer
+    7401550: Hospital_bed_base001|Blue_light001|Take 001|BaseLayer
+    7401552: Hospital_bed_base001|bolt424|Take 001|BaseLayer
+    7401554: Hospital_bed_base001|bolt425|Take 001|BaseLayer
+    7401556: Hospital_bed_base001|bolt426|Take 001|BaseLayer
+    7401558: Hospital_bed_base001|bolt427|Take 001|BaseLayer
+    7401560: Hospital_bed_base001|bolt431|Take 001|BaseLayer
+    7401562: Hospital_bed_base001|bolt443|Take 001|BaseLayer
+    7401564: Hospital_bed_base001|bolt444|Take 001|BaseLayer
+    7401566: Hospital_bed_base001|bolt445|Take 001|BaseLayer
+    7401568: Hospital_bed_base001|bolt446|Take 001|BaseLayer
+    7401570: Hospital_bed_base001|bolt447|Take 001|BaseLayer
+    7401572: Hospital_bed_base001|bolt448|Take 001|BaseLayer
+    7401574: Hospital_bed_base001|bolt449|Take 001|BaseLayer
+    7401576: Hospital_bed_base001|bolt450|Take 001|BaseLayer
+    7401578: Hospital_bed_base001|bolt451|Take 001|BaseLayer
+    7401580: Hospital_bed_base001|bolt452|Take 001|BaseLayer
+    7401582: Hospital_bed_base001|bolt453|Take 001|BaseLayer
+    7401584: Hospital_bed_base001|bolt454|Take 001|BaseLayer
+    7401586: Hospital_bed_base001|bolt455|Take 001|BaseLayer
+    7401588: Hospital_bed_base001|bolt456|Take 001|BaseLayer
+    7401590: Hospital_bed_base001|bolt457|Take 001|BaseLayer
+    7401592: Hospital_bed_base001|bolt458|Take 001|BaseLayer
+    7401594: Hospital_bed_base001|bolt459|Take 001|BaseLayer
+    7401596: Hospital_bed_base001|bolt460|Take 001|BaseLayer
+    7401598: Hospital_bed_base001|bolt461|Take 001|BaseLayer
+    7401600: Hospital_bed_base001|bolt462|Take 001|BaseLayer
+    7401602: Hospital_bed_base001|bolt463|Take 001|BaseLayer
+    7401604: Hospital_bed_base001|bolt464|Take 001|BaseLayer
+    7401606: Hospital_bed_base001|bolt465|Take 001|BaseLayer
+    7401608: Hospital_bed_base001|bolt466|Take 001|BaseLayer
+    7401610: Hospital_bed_base001|bolt467|Take 001|BaseLayer
+    7401612: Hospital_bed_base001|bolt468|Take 001|BaseLayer
+    7401614: Hospital_bed_base001|bolt469|Take 001|BaseLayer
+    7401616: Hospital_bed_base001|bolt470|Take 001|BaseLayer
+    7401618: Hospital_bed_base001|bolt471|Take 001|BaseLayer
+    7401620: Hospital_bed_base001|bolt472|Take 001|BaseLayer
+    7401622: Hospital_bed_base001|bolt473|Take 001|BaseLayer
+    7401624: Hospital_bed_base001|bolt474|Take 001|BaseLayer
+    7401626: Hospital_bed_base001|bolt475|Take 001|BaseLayer
+    7401628: Hospital_bed_base001|bolt476|Take 001|BaseLayer
+    7401630: Hospital_bed_base001|bolt477|Take 001|BaseLayer
+    7401632: Hospital_bed_base001|bolt478|Take 001|BaseLayer
+    7401634: Hospital_bed_base001|bolt479|Take 001|BaseLayer
+    7401636: Hospital_bed_base001|bolt480|Take 001|BaseLayer
+    7401638: Hospital_bed_base001|bolt481|Take 001|BaseLayer
+    7401640: Hospital_bed_base001|bolt482|Take 001|BaseLayer
+    7401642: Hospital_bed_base001|bolt483|Take 001|BaseLayer
+    7401644: Hospital_bed_base001|bolt484|Take 001|BaseLayer
+    7401646: Hospital_bed_base001|bolt485|Take 001|BaseLayer
+    7401648: Hospital_bed_base001|bolt486|Take 001|BaseLayer
+    7401650: Hospital_bed_base001|bolt487|Take 001|BaseLayer
+    7401652: Hospital_bed_base001|bolt488|Take 001|BaseLayer
+    7401654: Hospital_bed_base001|bolt489|Take 001|BaseLayer
+    7401656: Hospital_bed_base001|bolt490|Take 001|BaseLayer
+    7401658: Hospital_bed_base001|bolt491|Take 001|BaseLayer
+    7401660: Hospital_bed_base001|bolt492|Take 001|BaseLayer
+    7401662: Hospital_bed_base001|bolt493|Take 001|BaseLayer
+    7401664: Hospital_bed_base001|bolt494|Take 001|BaseLayer
+    7401666: Hospital_bed_base001|bolt496|Take 001|BaseLayer
+    7401668: Hospital_bed_base001|bolt497|Take 001|BaseLayer
+    7401670: Hospital_bed_base001|bolt498|Take 001|BaseLayer
+    7401672: Hospital_bed_base001|bolt499|Take 001|BaseLayer
+    7401674: Hospital_bed_base001|bolt500|Take 001|BaseLayer
+    7401676: Hospital_bed_base001|bolt501|Take 001|BaseLayer
+    7401678: Hospital_bed_base001|bolt502|Take 001|BaseLayer
+    7401680: Hospital_bed_base001|bolt503|Take 001|BaseLayer
+    7401682: Hospital_bed_base001|bolt503|Take 001|BaseLayer.001
+    7401684: Hospital_bed_base001|bolt504|Take 001|BaseLayer
+    7401686: Hospital_bed_base001|bolt504|Take 001|BaseLayer.001
+    7401688: Hospital_bed_base001|bolt505|Take 001|BaseLayer
+    7401690: Hospital_bed_base001|bolt505|Take 001|BaseLayer.001
+    7401692: Hospital_bed_base001|bolt506|Take 001|BaseLayer
+    7401694: Hospital_bed_base001|bolt506|Take 001|BaseLayer.001
+    7401696: Hospital_bed_base001|bolt507|Take 001|BaseLayer
+    7401698: Hospital_bed_base001|bolt508|Take 001|BaseLayer
+    7401700: Hospital_bed_base001|bolt509|Take 001|BaseLayer
+    7401702: Hospital_bed_base001|bolt510|Take 001|BaseLayer
+    7401704: Hospital_bed_base001|bolt511|Take 001|BaseLayer
+    7401706: Hospital_bed_base001|bolt512|Take 001|BaseLayer
+    7401708: Hospital_bed_base001|bolt513|Take 001|BaseLayer
+    7401710: Hospital_bed_base001|bolt514|Take 001|BaseLayer
+    7401712: Hospital_bed_base001|bolt515|Take 001|BaseLayer
+    7401714: Hospital_bed_base001|bolt516|Take 001|BaseLayer
+    7401716: Hospital_bed_base001|bolt517|Take 001|BaseLayer
+    7401718: Hospital_bed_base001|bolt518|Take 001|BaseLayer
+    7401720: Hospital_bed_base001|boom segment 009|Take 001|BaseLayer
+    7401722: Hospital_bed_base001|boom segment 010|Take 001|BaseLayer
+    7401724: Hospital_bed_base001|boom segment 011|Take 001|BaseLayer
+    7401726: Hospital_bed_base001|BoomArm001|Take 001|BaseLayer
+    7401728: Hospital_bed_base001|BoomMonitor002|Take 001|BaseLayer
+    7401730: Hospital_bed_base001|Box206b007|Take 001|BaseLayer
+    7401732: Hospital_bed_base001|Box276|Take 001|BaseLayer
+    7401734: Hospital_bed_base001|Box276|Take 001|BaseLayer.001
+    7401736: Hospital_bed_base001|Box277|Take 001|BaseLayer
+    7401738: Hospital_bed_base001|Box278|Take 001|BaseLayer
+    7401740: Hospital_bed_base001|Box278|Take 001|BaseLayer.001
+    7401742: Hospital_bed_base001|Box279|Take 001|BaseLayer
+    7401744: Hospital_bed_base001|Box279|Take 001|BaseLayer.001
+    7401746: Hospital_bed_base001|Box280|Take 001|BaseLayer
+    7401748: Hospital_bed_base001|bzt040|Take 001|BaseLayer
+    7401750: Hospital_bed_base001|bzt040|Take 001|BaseLayer.001
+    7401752: Hospital_bed_base001|bzt041|Take 001|BaseLayer
+    7401754: Hospital_bed_base001|bzt041|Take 001|BaseLayer.001
+    7401756: Hospital_bed_base001|bzt042|Take 001|BaseLayer
+    7401758: Hospital_bed_base001|bzt042|Take 001|BaseLayer.001
+    7401760: Hospital_bed_base001|bzt043|Take 001|BaseLayer
+    7401762: Hospital_bed_base001|bzt043|Take 001|BaseLayer.001
+    7401764: Hospital_bed_base001|bzt044|Take 001|BaseLayer
+    7401766: Hospital_bed_base001|bzt044|Take 001|BaseLayer.001
+    7401768: Hospital_bed_base001|cable005|Take 001|BaseLayer
+    7401770: Hospital_bed_base001|cable006|Take 001|BaseLayer
+    7401772: Hospital_bed_base001|cable007|Take 001|BaseLayer
+    7401774: Hospital_bed_base001|cable008|Take 001|BaseLayer
+    7401776: Hospital_bed_base001|cable009|Take 001|BaseLayer
+    7401778: Hospital_bed_base001|card slot001|Take 001|BaseLayer
+    7401780: Hospital_bed_base001|Circle007|Take 001|BaseLayer
+    7401782: Hospital_bed_base001|Circle007|Take 001|BaseLayer.001
+    7401784: Hospital_bed_base001|Clay_Paky_case001|Take 001|BaseLayer
+    7401786: Hospital_bed_base001|Control_button001|Take 001|BaseLayer
+    7401788: Hospital_bed_base001|cooler001|Take 001|BaseLayer
+    7401790: Hospital_bed_base001|Cooler_fan002|Take 001|BaseLayer
+    7401792: Hospital_bed_base001|Cooler_propeller012|Take 001|BaseLayer
+    7401794: Hospital_bed_base001|Cooler_propeller013|Take 001|BaseLayer
+    7401796: Hospital_bed_base001|Cooler_propeller014|Take 001|BaseLayer
+    7401798: Hospital_bed_base001|Cooler_propeller015|Take 001|BaseLayer
+    7401800: Hospital_bed_base001|Cooler_propeller016|Take 001|BaseLayer
+    7401802: Hospital_bed_base001|Cooler_propeller017|Take 001|BaseLayer
+    7401804: Hospital_bed_base001|curtain_hospital_ward001|Take 001|BaseLayer
+    7401806: Hospital_bed_base001|curtain_hospital_ward007|Take 001|BaseLayer
+    7401808: Hospital_bed_base001|curtain_hospital_ward008|Take 001|BaseLayer
+    7401810: Hospital_bed_base001|curtain_hospital_ward|Take 001|BaseLayer
+    7401812: Hospital_bed_base001|Cylinder04sd007|Take 001|BaseLayer
+    7401814: Hospital_bed_base001|Cylinder172vbbv007|Take 001|BaseLayer
+    7401816: Hospital_bed_base001|Cylinder4509|Take 001|BaseLayer
+    7401818: Hospital_bed_base001|Cylinder4510|Take 001|BaseLayer
+    7401820: Hospital_bed_base001|Cylinder4510|Take 001|BaseLayer.001
+    7401822: Hospital_bed_base001|Cylinder4511|Take 001|BaseLayer
+    7401824: Hospital_bed_base001|Cylinder4511|Take 001|BaseLayer.001
+    7401826: Hospital_bed_base001|Cylinder4512|Take 001|BaseLayer
+    7401828: Hospital_bed_base001|Cylinder4512|Take 001|BaseLayer.001
+    7401830: Hospital_bed_base001|Cylinder4513|Take 001|BaseLayer
+    7401832: Hospital_bed_base001|Cylinder4513|Take 001|BaseLayer.001
+    7401834: Hospital_bed_base001|Cylinder4514|Take 001|BaseLayer
+    7401836: Hospital_bed_base001|Cylinder4514|Take 001|BaseLayer.001
+    7401838: Hospital_bed_base001|Cylinder4515|Take 001|BaseLayer
+    7401840: Hospital_bed_base001|Cylinder4515|Take 001|BaseLayer.001
+    7401842: Hospital_bed_base001|Cylinder4516|Take 001|BaseLayer
+    7401844: Hospital_bed_base001|Cylinder4516|Take 001|BaseLayer.001
+    7401846: Hospital_bed_base001|Cylinder4517|Take 001|BaseLayer
+    7401848: Hospital_bed_base001|Cylinder4517|Take 001|BaseLayer.001
+    7401850: Hospital_bed_base001|Cylinder4518|Take 001|BaseLayer
+    7401852: Hospital_bed_base001|Cylinder4518|Take 001|BaseLayer.001
+    7401854: Hospital_bed_base001|Cylinder4519|Take 001|BaseLayer
+    7401856: Hospital_bed_base001|Cylinder4519|Take 001|BaseLayer.001
+    7401858: Hospital_bed_base001|Cylinder4520|Take 001|BaseLayer
+    7401860: Hospital_bed_base001|Cylinder4520|Take 001|BaseLayer.001
+    7401862: Hospital_bed_base001|Cylinder4521|Take 001|BaseLayer
+    7401864: Hospital_bed_base001|Cylinder4522|Take 001|BaseLayer
+    7401866: Hospital_bed_base001|Cylinder4522|Take 001|BaseLayer.001
+    7401868: Hospital_bed_base001|Cylinder4523|Take 001|BaseLayer
+    7401870: Hospital_bed_base001|Cylinder4524|Take 001|BaseLayer
+    7401872: Hospital_bed_base001|Cylinder4525|Take 001|BaseLayer
+    7401874: Hospital_bed_base001|Cylinder4525|Take 001|BaseLayer.001
+    7401876: Hospital_bed_base001|Cylinder4526|Take 001|BaseLayer
+    7401878: Hospital_bed_base001|Cylinder4526|Take 001|BaseLayer.001
+    7401880: Hospital_bed_base001|Cylinder4527|Take 001|BaseLayer
+    7401882: Hospital_bed_base001|Cylinder4527|Take 001|BaseLayer.001
+    7401884: Hospital_bed_base001|Cylinder4528|Take 001|BaseLayer
+    7401886: Hospital_bed_base001|Cylinder4528|Take 001|BaseLayer.001
+    7401888: Hospital_bed_base001|Cylinder4529|Take 001|BaseLayer
+    7401890: Hospital_bed_base001|Cylinder4529|Take 001|BaseLayer.001
+    7401892: Hospital_bed_base001|Cylinder4530|Take 001|BaseLayer
+    7401894: Hospital_bed_base001|Cylinder4530|Take 001|BaseLayer.001
+    7401896: Hospital_bed_base001|Cylinder4531|Take 001|BaseLayer
+    7401898: Hospital_bed_base001|Cylinder4531|Take 001|BaseLayer.001
+    7401900: Hospital_bed_base001|Cylinder4532|Take 001|BaseLayer
+    7401902: Hospital_bed_base001|Cylinder4532|Take 001|BaseLayer.001
+    7401904: Hospital_bed_base001|Cylinder4533|Take 001|BaseLayer
+    7401906: Hospital_bed_base001|Cylinder4533|Take 001|BaseLayer.001
+    7401908: Hospital_bed_base001|Cylinder4534|Take 001|BaseLayer
+    7401910: Hospital_bed_base001|Cylinder4534|Take 001|BaseLayer.001
+    7401912: Hospital_bed_base001|Cylinder4542|Take 001|BaseLayer
+    7401914: Hospital_bed_base001|Cylinder4543|Take 001|BaseLayer
+    7401916: Hospital_bed_base001|Cylinder4544|Take 001|BaseLayer
+    7401918: Hospital_bed_base001|Cylinder4545|Take 001|BaseLayer
+    7401920: Hospital_bed_base001|Cylinder4546|Take 001|BaseLayer
+    7401922: Hospital_bed_base001|Cylinder4769|Take 001|BaseLayer
+    7401924: Hospital_bed_base001|Cylinder4770|Take 001|BaseLayer
+    7401926: Hospital_bed_base001|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7401928: Hospital_bed_base001|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7401930: Hospital_bed_base001|Display_body001|Take 001|BaseLayer
+    7401932: Hospital_bed_base001|doctor_stool005|Take 001|BaseLayer
+    7401934: Hospital_bed_base001|doctor_stool005|Take 001|BaseLayer.001
+    7401936: Hospital_bed_base001|equipement carrier handle002|Take 001|BaseLayer
+    7401938: Hospital_bed_base001|equipment carrier body001|Take 001|BaseLayer
+    7401940: Hospital_bed_base001|equipment_carrier_shelf005|Take 001|BaseLayer
+    7401942: Hospital_bed_base001|equipment_carrier_shelf006|Take 001|BaseLayer
+    7401944: Hospital_bed_base001|equipment_carrier_shelf007|Take 001|BaseLayer
+    7401946: Hospital_bed_base001|equipment_carrier_shelf008|Take 001|BaseLayer
+    7401948: Hospital_bed_base001|Group042|Take 001|BaseLayer
+    7401950: Hospital_bed_base001|Hospital Bed001|Take 001|BaseLayer
+    7401952: Hospital_bed_base001|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7401954: Hospital_bed_base001|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7401956: Hospital_bed_base001|Hospital_bed_base001|Take 001|BaseLayer
+    7401958: Hospital_bed_base001|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7401960: Hospital_bed_base001|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7401962: Hospital_bed_base001|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7401964: Hospital_bed_base001|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7401966: Hospital_bed_base001|Hospital_bed_bumper007|Take 001|BaseLayer
+    7401968: Hospital_bed_base001|Hospital_bed_bumper008|Take 001|BaseLayer
+    7401970: Hospital_bed_base001|Hospital_bed_bumper009|Take 001|BaseLayer
+    7401972: Hospital_bed_base001|Hospital_bed_bumper010|Take 001|BaseLayer
+    7401974: Hospital_bed_base001|Hospital_bed_button012|Take 001|BaseLayer
+    7401976: Hospital_bed_base001|Hospital_bed_button013|Take 001|BaseLayer
+    7401978: Hospital_bed_base001|Hospital_bed_button_large005|Take 001|BaseLayer
+    7401980: Hospital_bed_base001|Hospital_bed_button_large006|Take 001|BaseLayer
+    7401982: Hospital_bed_base001|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7401984: Hospital_bed_base001|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7401986: Hospital_bed_base001|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7401988: Hospital_bed_base001|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7401990: Hospital_bed_base001|Hospital_bed_leg003|Take 001|BaseLayer
+    7401992: Hospital_bed_base001|Hospital_bed_leg004|Take 001|BaseLayer
+    7401994: Hospital_bed_base001|Hospital_bed_leg005|Take 001|BaseLayer
+    7401996: Hospital_bed_base001|Hospital_bed_matress001|Take 001|BaseLayer
+    7401998: Hospital_bed_base001|Hospital_bed_pedal064|Take 001|BaseLayer
+    7402000: Hospital_bed_base001|Hospital_bed_pedal065|Take 001|BaseLayer
+    7402002: Hospital_bed_base001|Hospital_bed_pedal066|Take 001|BaseLayer
+    7402004: Hospital_bed_base001|Hospital_bed_pedal067|Take 001|BaseLayer
+    7402006: Hospital_bed_base001|Hospital_bed_pedal068|Take 001|BaseLayer
+    7402008: Hospital_bed_base001|Hospital_bed_pedal069|Take 001|BaseLayer
+    7402010: Hospital_bed_base001|Hospital_bed_pedal070|Take 001|BaseLayer
+    7402012: Hospital_bed_base001|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7402014: Hospital_bed_base001|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7402016: Hospital_bed_base001|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7402018: Hospital_bed_base001|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7402020: Hospital_bed_base001|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7402022: Hospital_bed_base001|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7402024: Hospital_bed_base001|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7402026: Hospital_bed_base001|Hospital_bed_pedals001|Take 001|BaseLayer
+    7402028: Hospital_bed_base001|Hospital_bed_piston006|Take 001|BaseLayer
+    7402030: Hospital_bed_base001|Hospital_bed_piston007|Take 001|BaseLayer
+    7402032: Hospital_bed_base001|Hospital_bed_piston008|Take 001|BaseLayer
+    7402034: Hospital_bed_base001|Hospital_bed_piston009|Take 001|BaseLayer
+    7402036: Hospital_bed_base001|Hospital_bed_piston010|Take 001|BaseLayer
+    7402038: Hospital_bed_base001|Hospital_bed_piston011|Take 001|BaseLayer
+    7402040: Hospital_bed_base001|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7402042: Hospital_bed_base001|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7402044: Hospital_bed_base001|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7402046: Hospital_bed_base001|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7402048: Hospital_bed_base001|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7402050: Hospital_bed_base001|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7402052: Hospital_bed_base001|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7402054: Hospital_bed_base001|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7402056: Hospital_bed_base001|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7402058: Hospital_bed_base001|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7402060: Hospital_bed_base001|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7402062: Hospital_bed_base001|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7402064: Hospital_bed_base001|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7402066: Hospital_bed_base001|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7402068: Hospital_bed_base001|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7402070: Hospital_bed_base001|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7402072: Hospital_bed_base001|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7402074: Hospital_bed_base001|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7402076: Hospital_bed_base001|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7402078: Hospital_bed_base001|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7402080: Hospital_bed_base001|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7402082: Hospital_bed_base001|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7402084: Hospital_bed_base001|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7402086: Hospital_bed_base001|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7402088: Hospital_bed_base001|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7402090: Hospital_bed_base001|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7402092: Hospital_bed_base001|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7402094: Hospital_bed_base001|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7402096: Hospital_bed_base001|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7402098: Hospital_bed_base001|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7402100: Hospital_bed_base001|Hospital_bed_pistons002|Take 001|BaseLayer
+    7402102: Hospital_bed_base001|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7402104: Hospital_bed_base001|Hospital_bed_pole003|Take 001|BaseLayer
+    7402106: Hospital_bed_base001|Hospital_bed_pole004|Take 001|BaseLayer
+    7402108: Hospital_bed_base001|Hospital_bed_pole005|Take 001|BaseLayer
+    7402110: Hospital_bed_base001|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7402112: Hospital_bed_base001|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7402114: Hospital_bed_base001|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7402116: Hospital_bed_base001|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7402118: Hospital_bed_base001|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7402120: Hospital_bed_base001|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7402122: Hospital_bed_base001|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7402124: Hospital_bed_base001|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7402126: Hospital_bed_base001|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7402128: Hospital_bed_base001|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7402130: Hospital_bed_base001|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7402132: Hospital_bed_base001|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7402134: Hospital_bed_base001|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7402136: Hospital_bed_base001|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7402138: Hospital_bed_base001|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7402140: Hospital_bed_base001|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7402142: Hospital_bed_base001|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7402144: Hospital_bed_base001|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7402146: Hospital_bed_base001|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7402148: Hospital_bed_base001|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7402150: Hospital_bed_base001|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7402152: Hospital_bed_base001|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7402154: Hospital_bed_base001|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7402156: Hospital_bed_base001|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7402158: Hospital_bed_base001|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7402160: Hospital_bed_base001|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7402162: Hospital_bed_base001|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7402164: Hospital_bed_base001|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7402166: Hospital_bed_base001|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7402168: Hospital_bed_base001|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7402170: Hospital_bed_base001|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7402172: Hospital_bed_base001|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7402174: Hospital_bed_base001|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7402176: Hospital_bed_base001|Hospital_bed_sides001|Take 001|BaseLayer
+    7402178: Hospital_bed_base001|Hospital_bed_wheel004|Take 001|BaseLayer
+    7402180: Hospital_bed_base001|Hospital_bed_wheel005|Take 001|BaseLayer
+    7402182: Hospital_bed_base001|Hospital_bed_wheel006|Take 001|BaseLayer
+    7402184: Hospital_bed_base001|Hospital_bed_wheel007|Take 001|BaseLayer
+    7402186: Hospital_bed_base001|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7402188: Hospital_bed_base001|humidifier001|Take 001|BaseLayer
+    7402190: Hospital_bed_base001|insuflation tube040|Take 001|BaseLayer
+    7402192: Hospital_bed_base001|insuflation tube041|Take 001|BaseLayer
+    7402194: Hospital_bed_base001|insuflation tube042|Take 001|BaseLayer
+    7402196: Hospital_bed_base001|insuflation tube043|Take 001|BaseLayer
+    7402198: Hospital_bed_base001|insuflation tube044|Take 001|BaseLayer
+    7402200: Hospital_bed_base001|insuflation tube045|Take 001|BaseLayer
+    7402202: Hospital_bed_base001|insuflation tube046|Take 001|BaseLayer
+    7402204: Hospital_bed_base001|insuflation tube047|Take 001|BaseLayer
+    7402206: Hospital_bed_base001|insuflation tube049|Take 001|BaseLayer
+    7402208: Hospital_bed_base001|insuflation tube050|Take 001|BaseLayer
+    7402210: Hospital_bed_base001|insuflation tube051|Take 001|BaseLayer
+    7402212: Hospital_bed_base001|insuflation tube052|Take 001|BaseLayer
+    7402214: Hospital_bed_base001|insuflation tube053|Take 001|BaseLayer
+    7402216: Hospital_bed_base001|insuflation tube054|Take 001|BaseLayer
+    7402218: Hospital_bed_base001|insuflation tube055|Take 001|BaseLayer
+    7402220: Hospital_bed_base001|insuflation tube056|Take 001|BaseLayer
+    7402222: Hospital_bed_base001|insuflation tube057|Take 001|BaseLayer
+    7402224: Hospital_bed_base001|insuflation tube058|Take 001|BaseLayer
+    7402226: Hospital_bed_base001|insuflation tube059|Take 001|BaseLayer
+    7402228: Hospital_bed_base001|insuflation tube060|Take 001|BaseLayer
+    7402230: Hospital_bed_base001|insuflation tube061|Take 001|BaseLayer
+    7402232: Hospital_bed_base001|insuflation tube062|Take 001|BaseLayer
+    7402234: Hospital_bed_base001|insuflation tube063|Take 001|BaseLayer
+    7402236: Hospital_bed_base001|insuflation tube064|Take 001|BaseLayer
+    7402238: Hospital_bed_base001|insuflation tube065|Take 001|BaseLayer
+    7402240: Hospital_bed_base001|insuflation tube066|Take 001|BaseLayer
+    7402242: Hospital_bed_base001|insuflation tube067|Take 001|BaseLayer
+    7402244: Hospital_bed_base001|insuflation tube068|Take 001|BaseLayer
+    7402246: Hospital_bed_base001|Line033|Take 001|BaseLayer
+    7402248: Hospital_bed_base001|liquid003|Take 001|BaseLayer
+    7402250: Hospital_bed_base001|liquid004|Take 001|BaseLayer
+    7402252: Hospital_bed_base001|Locker_tray001|Take 001|BaseLayer
+    7402254: Hospital_bed_base001|medical device 01back005|Take 001|BaseLayer
+    7402256: Hospital_bed_base001|medical device 01back006|Take 001|BaseLayer
+    7402258: Hospital_bed_base001|medical device 01back007|Take 001|BaseLayer
+    7402260: Hospital_bed_base001|medical device 01back008|Take 001|BaseLayer
+    7402262: Hospital_bed_base001|medical device 01body015|Take 001|BaseLayer
+    7402264: Hospital_bed_base001|medical device 01body016|Take 001|BaseLayer
+    7402266: Hospital_bed_base001|medical device 01body017|Take 001|BaseLayer
+    7402268: Hospital_bed_base001|medical device 01body018|Take 001|BaseLayer
+    7402270: Hospital_bed_base001|medical device 01body019|Take 001|BaseLayer
+    7402272: Hospital_bed_base001|medical device 01front002|Take 001|BaseLayer
+    7402274: Hospital_bed_base001|medical device 01front003|Take 001|BaseLayer
+    7402276: Hospital_bed_base001|medical device 02front004|Take 001|BaseLayer
+    7402278: Hospital_bed_base001|medical device 02front005|Take 001|BaseLayer
+    7402280: Hospital_bed_base001|medical device side016|Take 001|BaseLayer
+    7402282: Hospital_bed_base001|medical device side017|Take 001|BaseLayer
+    7402284: Hospital_bed_base001|medical device side018|Take 001|BaseLayer
+    7402286: Hospital_bed_base001|medical device side019|Take 001|BaseLayer
+    7402288: Hospital_bed_base001|medical device side020|Take 001|BaseLayer
+    7402290: Hospital_bed_base001|medical device side021|Take 001|BaseLayer
+    7402292: Hospital_bed_base001|medical device side022|Take 001|BaseLayer
+    7402294: Hospital_bed_base001|medical device side023|Take 001|BaseLayer
+    7402296: Hospital_bed_base001|medical devices001|Take 001|BaseLayer
+    7402298: Hospital_bed_base001|medical_device005|Take 001|BaseLayer
+    7402300: Hospital_bed_base001|medical_device006|Take 001|BaseLayer
+    7402302: Hospital_bed_base001|medical_device007|Take 001|BaseLayer
+    7402304: Hospital_bed_base001|medical_device008|Take 001|BaseLayer
+    7402306: Hospital_bed_base001|medicine bottle 01 cap035|Take 001|BaseLayer
+    7402308: Hospital_bed_base001|medicine bottle 01 cap036|Take 001|BaseLayer
+    7402310: Hospital_bed_base001|medicine bottle 01 cap037|Take 001|BaseLayer
+    7402312: Hospital_bed_base001|medicine bottle 02_ut002|Take 001|BaseLayer
+    7402314: Hospital_bed_base001|medicine bottle 037|Take 001|BaseLayer
+    7402316: Hospital_bed_base001|medicine bottle 03_v002|Take 001|BaseLayer
+    7402318: Hospital_bed_base001|medicine box051|Take 001|BaseLayer
+    7402320: Hospital_bed_base001|metal ring 004|Take 001|BaseLayer
+    7402322: Hospital_bed_base001|metal ring 005|Take 001|BaseLayer
+    7402324: Hospital_bed_base001|metal ring 006|Take 001|BaseLayer
+    7402326: Hospital_bed_base001|Mobile_trolley001|Take 001|BaseLayer
+    7402328: Hospital_bed_base001|monitor joint 003|Take 001|BaseLayer
+    7402330: Hospital_bed_base001|monitor joint 004|Take 001|BaseLayer
+    7402332: Hospital_bed_base001|monitor joint019|Take 001|BaseLayer
+    7402334: Hospital_bed_base001|monitor screen002|Take 001|BaseLayer
+    7402336: Hospital_bed_base001|monitor01_body007|Take 001|BaseLayer
+    7402338: Hospital_bed_base001|Monitor_ax002|Take 001|BaseLayer
+    7402340: Hospital_bed_base001|monitorARM002|Take 001|BaseLayer
+    7402342: Hospital_bed_base001|mufa albastra017|Take 001|BaseLayer
+    7402344: Hospital_bed_base001|mufa albastra018|Take 001|BaseLayer
+    7402346: Hospital_bed_base001|mufa albastra019|Take 001|BaseLayer
+    7402348: Hospital_bed_base001|mufaalbastra013|Take 001|BaseLayer
+    7402350: Hospital_bed_base001|mufaalbastra014|Take 001|BaseLayer
+    7402352: Hospital_bed_base001|mufaalbastra015|Take 001|BaseLayer
+    7402354: Hospital_bed_base001|mufaalbastra016|Take 001|BaseLayer
+    7402356: Hospital_bed_base001|mufaalbastra017|Take 001|BaseLayer
+    7402358: Hospital_bed_base001|mufaalbastra018|Take 001|BaseLayer
+    7402360: Hospital_bed_base001|mufaalbastra019|Take 001|BaseLayer
+    7402362: Hospital_bed_base001|mufaalbastra020|Take 001|BaseLayer
+    7402364: Hospital_bed_base001|mufaalbastra021|Take 001|BaseLayer
+    7402366: Hospital_bed_base001|mufaalbastra022|Take 001|BaseLayer
+    7402368: Hospital_bed_base001|Object4468|Take 001|BaseLayer
+    7402370: Hospital_bed_base001|Object4469|Take 001|BaseLayer
+    7402372: Hospital_bed_base001|Object4470|Take 001|BaseLayer
+    7402374: Hospital_bed_base001|Object4471|Take 001|BaseLayer
+    7402376: Hospital_bed_base001|Object4472|Take 001|BaseLayer
+    7402378: Hospital_bed_base001|Object4473|Take 001|BaseLayer
+    7402380: Hospital_bed_base001|Object4474|Take 001|BaseLayer
+    7402382: Hospital_bed_base001|Object4474|Take 001|BaseLayer.001
+    7402384: Hospital_bed_base001|Object4475|Take 001|BaseLayer
+    7402386: Hospital_bed_base001|Object4475|Take 001|BaseLayer.001
+    7402388: Hospital_bed_base001|Object4476|Take 001|BaseLayer
+    7402390: Hospital_bed_base001|Object4476|Take 001|BaseLayer.001
+    7402392: Hospital_bed_base001|Object4477|Take 001|BaseLayer
+    7402394: Hospital_bed_base001|Object4477|Take 001|BaseLayer.001
+    7402396: Hospital_bed_base001|Object4478|Take 001|BaseLayer
+    7402398: Hospital_bed_base001|Object4478|Take 001|BaseLayer.001
+    7402400: Hospital_bed_base001|off button device002|Take 001|BaseLayer
+    7402402: Hospital_bed_base001|off button008|Take 001|BaseLayer
+    7402404: Hospital_bed_base001|off button009|Take 001|BaseLayer
+    7402406: Hospital_bed_base001|off button010|Take 001|BaseLayer
+    7402408: Hospital_bed_base001|on button device002|Take 001|BaseLayer
+    7402410: Hospital_bed_base001|on button008|Take 001|BaseLayer
+    7402412: Hospital_bed_base001|on button009|Take 001|BaseLayer
+    7402414: Hospital_bed_base001|on button010|Take 001|BaseLayer
+    7402416: Hospital_bed_base001|on/off button008|Take 001|BaseLayer
+    7402418: Hospital_bed_base001|on/off button009|Take 001|BaseLayer
+    7402420: Hospital_bed_base001|on/off button010|Take 001|BaseLayer
+    7402422: Hospital_bed_base001|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7402424: Hospital_bed_base001|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7402426: Hospital_bed_base001|pillow001|Take 001|BaseLayer
+    7402428: Hospital_bed_base001|plugg socket044|Take 001|BaseLayer
+    7402430: Hospital_bed_base001|plugg socket045|Take 001|BaseLayer
+    7402432: Hospital_bed_base001|plugg socket049|Take 001|BaseLayer
+    7402434: Hospital_bed_base001|plugg socket050|Take 001|BaseLayer
+    7402436: Hospital_bed_base001|plugg socket051|Take 001|BaseLayer
+    7402438: Hospital_bed_base001|plugg015|Take 001|BaseLayer
+    7402440: Hospital_bed_base001|plugg016|Take 001|BaseLayer
+    7402442: Hospital_bed_base001|plugg017|Take 001|BaseLayer
+    7402444: Hospital_bed_base001|plugg018|Take 001|BaseLayer
+    7402446: Hospital_bed_base001|plugg019|Take 001|BaseLayer
+    7402448: Hospital_bed_base001|plugg020|Take 001|BaseLayer
+    7402450: Hospital_bed_base001|plugg021|Take 001|BaseLayer
+    7402452: Hospital_bed_base001|plugg022|Take 001|BaseLayer
+    7402454: Hospital_bed_base001|plugg023|Take 001|BaseLayer
+    7402456: Hospital_bed_base001|plugg024|Take 001|BaseLayer
+    7402458: Hospital_bed_base001|plugg025|Take 001|BaseLayer
+    7402460: Hospital_bed_base001|plugg026|Take 001|BaseLayer
+    7402462: Hospital_bed_base001|plugg027|Take 001|BaseLayer
+    7402464: Hospital_bed_base001|roata045|Take 001|BaseLayer
+    7402466: Hospital_bed_base001|roata045|Take 001|BaseLayer.001
+    7402468: Hospital_bed_base001|roata046|Take 001|BaseLayer
+    7402470: Hospital_bed_base001|roata046|Take 001|BaseLayer.001
+    7402472: Hospital_bed_base001|roata047|Take 001|BaseLayer
+    7402474: Hospital_bed_base001|roata047|Take 001|BaseLayer.001
+    7402476: Hospital_bed_base001|roata048|Take 001|BaseLayer
+    7402478: Hospital_bed_base001|roata048|Take 001|BaseLayer.001
+    7402480: Hospital_bed_base001|roata049|Take 001|BaseLayer
+    7402482: Hospital_bed_base001|roata049|Take 001|BaseLayer.001
+    7402484: Hospital_bed_base001|round slot016|Take 001|BaseLayer
+    7402486: Hospital_bed_base001|round slot017|Take 001|BaseLayer
+    7402488: Hospital_bed_base001|round slot018|Take 001|BaseLayer
+    7402490: Hospital_bed_base001|round slot019|Take 001|BaseLayer
+    7402492: Hospital_bed_base001|round slot020|Take 001|BaseLayer
+    7402494: Hospital_bed_base001|round slot021|Take 001|BaseLayer
+    7402496: Hospital_bed_base001|round slot022|Take 001|BaseLayer
+    7402498: Hospital_bed_base001|round slot023|Take 001|BaseLayer
+    7402500: Hospital_bed_base001|round slot024|Take 001|BaseLayer
+    7402502: Hospital_bed_base001|round slot025|Take 001|BaseLayer
+    7402504: Hospital_bed_base001|Round_button001|Take 001|BaseLayer
+    7402506: Hospital_bed_base001|Round_Scart008|Take 001|BaseLayer
+    7402508: Hospital_bed_base001|Round_Scart009|Take 001|BaseLayer
+    7402510: Hospital_bed_base001|Round_Scart010|Take 001|BaseLayer
+    7402512: Hospital_bed_base001|Round_Scart011|Take 001|BaseLayer
+    7402514: Hospital_bed_base001|Round_Scart012|Take 001|BaseLayer
+    7402516: Hospital_bed_base001|Round_Scart013|Take 001|BaseLayer
+    7402518: Hospital_bed_base001|Round_Scart014|Take 001|BaseLayer
+    7402520: Hospital_bed_base001|Round_Scart015|Take 001|BaseLayer
+    7402522: Hospital_bed_base001|Rubber_bumper016|Take 001|BaseLayer
+    7402524: Hospital_bed_base001|Rubber_bumper017|Take 001|BaseLayer
+    7402526: Hospital_bed_base001|Rubber_bumper018|Take 001|BaseLayer
+    7402528: Hospital_bed_base001|Rubber_bumper019|Take 001|BaseLayer
+    7402530: Hospital_bed_base001|Rubber_bumper020|Take 001|BaseLayer
+    7402532: Hospital_bed_base001|Rubber_bumper021|Take 001|BaseLayer
+    7402534: Hospital_bed_base001|Rubber_bumper022|Take 001|BaseLayer
+    7402536: Hospital_bed_base001|Rubber_bumper023|Take 001|BaseLayer
+    7402538: Hospital_bed_base001|Rubber_bumper024|Take 001|BaseLayer
+    7402540: Hospital_bed_base001|Rubber_bumper_support008|Take 001|BaseLayer
+    7402542: Hospital_bed_base001|Rubber_bumper_support009|Take 001|BaseLayer
+    7402544: Hospital_bed_base001|Rubber_bumper_support010|Take 001|BaseLayer
+    7402546: Hospital_bed_base001|Rubber_bumper_support011|Take 001|BaseLayer
+    7402548: Hospital_bed_base001|Rubber_bumper_support012|Take 001|BaseLayer
+    7402550: Hospital_bed_base001|Sanitizer003|Take 001|BaseLayer
+    7402552: Hospital_bed_base001|Sanitizer004|Take 001|BaseLayer
+    7402554: Hospital_bed_base001|scart003|Take 001|BaseLayer
+    7402556: Hospital_bed_base001|scart004|Take 001|BaseLayer
+    7402558: Hospital_bed_base001|scart005|Take 001|BaseLayer
+    7402560: Hospital_bed_base001|Shape002|Take 001|BaseLayer
+    7402562: Hospital_bed_base001|shelf edge004|Take 001|BaseLayer
+    7402564: Hospital_bed_base001|shelf edge005|Take 001|BaseLayer
+    7402566: Hospital_bed_base001|shelf edge006|Take 001|BaseLayer
+    7402568: Hospital_bed_base001|shelf edge007|Take 001|BaseLayer
+    7402570: Hospital_bed_base001|side panel controls_head_002|Take 001|BaseLayer
+    7402572: Hospital_bed_base001|side panel controls_head_003|Take 001|BaseLayer
+    7402574: Hospital_bed_base001|side panel_head002|Take 001|BaseLayer
+    7402576: Hospital_bed_base001|side panel_head003|Take 001|BaseLayer
+    7402578: Hospital_bed_base001|Side_handle002|Take 001|BaseLayer
+    7402580: Hospital_bed_base001|Side_handle003|Take 001|BaseLayer
+    7402582: Hospital_bed_base001|side_panel_cap005|Take 001|BaseLayer
+    7402584: Hospital_bed_base001|side_panel_cap006|Take 001|BaseLayer
+    7402586: Hospital_bed_base001|side_panel_cap007|Take 001|BaseLayer
+    7402588: Hospital_bed_base001|side_panel_cap008|Take 001|BaseLayer
+    7402590: Hospital_bed_base001|sky boom base001|Take 001|BaseLayer
+    7402592: Hospital_bed_base001|socketA068|Take 001|BaseLayer
+    7402594: Hospital_bed_base001|socketA069|Take 001|BaseLayer
+    7402596: Hospital_bed_base001|socketA071|Take 001|BaseLayer
+    7402598: Hospital_bed_base001|socketA072|Take 001|BaseLayer
+    7402600: Hospital_bed_base001|socketA073|Take 001|BaseLayer
+    7402602: Hospital_bed_base001|socketA074|Take 001|BaseLayer
+    7402604: Hospital_bed_base001|socketA075|Take 001|BaseLayer
+    7402606: Hospital_bed_base001|socketA076|Take 001|BaseLayer
+    7402608: Hospital_bed_base001|socketA077|Take 001|BaseLayer
+    7402610: Hospital_bed_base001|socketA078|Take 001|BaseLayer
+    7402612: Hospital_bed_base001|socketA079|Take 001|BaseLayer
+    7402614: Hospital_bed_base001|socketA080|Take 001|BaseLayer
+    7402616: Hospital_bed_base001|socketA081|Take 001|BaseLayer
+    7402618: Hospital_bed_base001|socketA082|Take 001|BaseLayer
+    7402620: Hospital_bed_base001|socketA083|Take 001|BaseLayer
+    7402622: Hospital_bed_base001|socketA084|Take 001|BaseLayer
+    7402624: Hospital_bed_base001|socketA085|Take 001|BaseLayer
+    7402626: Hospital_bed_base001|socketA086|Take 001|BaseLayer
+    7402628: Hospital_bed_base001|socketA087|Take 001|BaseLayer
+    7402630: Hospital_bed_base001|socketA088|Take 001|BaseLayer
+    7402632: Hospital_bed_base001|socketA089|Take 001|BaseLayer
+    7402634: Hospital_bed_base001|SocketB076|Take 001|BaseLayer
+    7402636: Hospital_bed_base001|SocketB082|Take 001|BaseLayer
+    7402638: Hospital_bed_base001|SocketB083|Take 001|BaseLayer
+    7402640: Hospital_bed_base001|SocketB084|Take 001|BaseLayer
+    7402642: Hospital_bed_base001|SocketB085|Take 001|BaseLayer
+    7402644: Hospital_bed_base001|SocketB086|Take 001|BaseLayer
+    7402646: Hospital_bed_base001|SocketB087|Take 001|BaseLayer
+    7402648: Hospital_bed_base001|SocketB088|Take 001|BaseLayer
+    7402650: Hospital_bed_base001|SocketB089|Take 001|BaseLayer
+    7402652: Hospital_bed_base001|SocketB090|Take 001|BaseLayer
+    7402654: Hospital_bed_base001|SocketB091|Take 001|BaseLayer
+    7402656: Hospital_bed_base001|SocketB092|Take 001|BaseLayer
+    7402658: Hospital_bed_base001|SocketB093|Take 001|BaseLayer
+    7402660: Hospital_bed_base001|SocketB094|Take 001|BaseLayer
+    7402662: Hospital_bed_base001|SocketB095|Take 001|BaseLayer
+    7402664: Hospital_bed_base001|sockets012|Take 001|BaseLayer
+    7402666: Hospital_bed_base001|sockets014|Take 001|BaseLayer
+    7402668: Hospital_bed_base001|sockets015|Take 001|BaseLayer
+    7402670: Hospital_bed_base001|support017|Take 001|BaseLayer
+    7402672: Hospital_bed_base001|support018|Take 001|BaseLayer
+    7402674: Hospital_bed_base001|support019|Take 001|BaseLayer
+    7402676: Hospital_bed_base001|support020|Take 001|BaseLayer
+    7402678: Hospital_bed_base001|support021|Take 001|BaseLayer
+    7402680: Hospital_bed_base001|support022|Take 001|BaseLayer
+    7402682: Hospital_bed_base001|support023|Take 001|BaseLayer
+    7402684: Hospital_bed_base001|support024|Take 001|BaseLayer
+    7402686: Hospital_bed_base001|support025|Take 001|BaseLayer
+    7402688: Hospital_bed_base001|support026|Take 001|BaseLayer
+    7402690: Hospital_bed_base001|support027|Take 001|BaseLayer
+    7402692: Hospital_bed_base001|support028|Take 001|BaseLayer
+    7402694: Hospital_bed_base001|support029|Take 001|BaseLayer
+    7402696: Hospital_bed_base001|support030|Take 001|BaseLayer
+    7402698: Hospital_bed_base001|support031|Take 001|BaseLayer
+    7402700: Hospital_bed_base001|support032|Take 001|BaseLayer
+    7402702: Hospital_bed_base001|surgical light handle032|Take 001|BaseLayer
+    7402704: Hospital_bed_base001|surgical light handle033|Take 001|BaseLayer
+    7402706: Hospital_bed_base001|surgical light handle034|Take 001|BaseLayer
+    7402708: Hospital_bed_base001|surgical light handle035|Take 001|BaseLayer
+    7402710: Hospital_bed_base001|surgical light handle036|Take 001|BaseLayer
+    7402712: Hospital_bed_base001|surgical light handle037|Take 001|BaseLayer
+    7402714: Hospital_bed_base001|surgical light handle038|Take 001|BaseLayer
+    7402716: Hospital_bed_base001|usb slot027|Take 001|BaseLayer
+    7402718: Hospital_bed_base001|usb slot028|Take 001|BaseLayer
+    7402720: Hospital_bed_base001|usb slot029|Take 001|BaseLayer
+    7402722: Hospital_bed_base001|usb slot030|Take 001|BaseLayer
+    7402724: Hospital_bed_base001|usb slot031|Take 001|BaseLayer
+    7402726: Hospital_bed_base001|usb slot032|Take 001|BaseLayer
+    7402728: Hospital_bed_base001|usb slot033|Take 001|BaseLayer
+    7402730: Hospital_bed_base001|usb slot034|Take 001|BaseLayer
+    7402732: Hospital_bed_base001|usb slot035|Take 001|BaseLayer
+    7402734: Hospital_bed_base001|usb slot036|Take 001|BaseLayer
+    7402736: Hospital_bed_base001|usb slot037|Take 001|BaseLayer
+    7402738: Hospital_bed_base001|usb slot038|Take 001|BaseLayer
+    7402740: Hospital_bed_base001|ventilator  bag cap001|Take 001|BaseLayer
+    7402742: Hospital_bed_base001|ventilator arm adjustable support001|Take 001|BaseLayer
+    7402744: Hospital_bed_base001|ventilator arm handle002|Take 001|BaseLayer
+    7402746: Hospital_bed_base001|ventilator arm segment005|Take 001|BaseLayer
+    7402748: Hospital_bed_base001|ventilator arm segment006|Take 001|BaseLayer
+    7402750: Hospital_bed_base001|ventilator arm segment007|Take 001|BaseLayer
+    7402752: Hospital_bed_base001|ventilator arm segment008|Take 001|BaseLayer
+    7402754: Hospital_bed_base001|ventilator bag001|Take 001|BaseLayer
+    7402756: Hospital_bed_base001|ventilator box002|Take 001|BaseLayer
+    7402758: Hospital_bed_base001|ventilator brushed metal002|Take 001|BaseLayer
+    7402760: Hospital_bed_base001|ventilator controls 003|Take 001|BaseLayer
+    7402762: Hospital_bed_base001|ventilator glass004|Take 001|BaseLayer
+    7402764: Hospital_bed_base001|ventilator glass005|Take 001|BaseLayer
+    7402766: Hospital_bed_base001|ventilator glass006|Take 001|BaseLayer
+    7402768: Hospital_bed_base001|ventilator hose cap 012|Take 001|BaseLayer
+    7402770: Hospital_bed_base001|ventilator hose cap 013|Take 001|BaseLayer
+    7402772: Hospital_bed_base001|ventilator hose cap 014|Take 001|BaseLayer
+    7402774: Hospital_bed_base001|ventilator hose cap 015|Take 001|BaseLayer
+    7402776: Hospital_bed_base001|ventilator hose cap 016|Take 001|BaseLayer
+    7402778: Hospital_bed_base001|ventilator hose cap 017|Take 001|BaseLayer
+    7402780: Hospital_bed_base001|ventilator hose cap005|Take 001|BaseLayer
+    7402782: Hospital_bed_base001|ventilator hose cap006|Take 001|BaseLayer
+    7402784: Hospital_bed_base001|ventilator hose cap007|Take 001|BaseLayer
+    7402786: Hospital_bed_base001|ventilator hose cap008|Take 001|BaseLayer
+    7402788: Hospital_bed_base001|ventilator hose output003|Take 001|BaseLayer
+    7402790: Hospital_bed_base001|ventilator hose output004|Take 001|BaseLayer
+    7402792: Hospital_bed_base001|ventilator hose support 004|Take 001|BaseLayer
+    7402794: Hospital_bed_base001|ventilator hose support 005|Take 001|BaseLayer
+    7402796: Hospital_bed_base001|ventilator hose support001|Take 001|BaseLayer
+    7402798: Hospital_bed_base001|ventilator large button001|Take 001|BaseLayer
+    7402800: Hospital_bed_base001|ventilator screen002|Take 001|BaseLayer
+    7402802: Hospital_bed_base001|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7402804: Hospital_bed_base001|Ventilator_main_body001|Take 001|BaseLayer
+    7402806: Hospital_bed_base001|Ventilator_wheel004|Take 001|BaseLayer
+    7402808: Hospital_bed_base001|Ventilator_wheel005|Take 001|BaseLayer
+    7402810: Hospital_bed_base001|Ventilator_wheel005|Take 001|BaseLayer.001
+    7402812: Hospital_bed_base001|Ventilator_wheel006|Take 001|BaseLayer
+    7402814: Hospital_bed_base001|Ventilator_wheel007|Take 001|BaseLayer
+    7402816: Hospital_bed_base001|ventilatorHose006|Take 001|BaseLayer
+    7402818: Hospital_bed_base001|ventilatorHose007|Take 001|BaseLayer
+    7402820: Hospital_bed_base001|ventilatorHose008|Take 001|BaseLayer
+    7402822: Hospital_bed_base001|ventilatorHose009|Take 001|BaseLayer
+    7402824: Hospital_bed_base001|ventilatorHose010|Take 001|BaseLayer
+    7402826: Hospital_bed_base001|vga slot031|Take 001|BaseLayer
+    7402828: Hospital_bed_base001|vga slot034|Take 001|BaseLayer
+    7402830: Hospital_bed_base001|vga slot035|Take 001|BaseLayer
+    7402832: Hospital_bed_base001|walls|Take 001|BaseLayer
+    7402834: Hospital_bed_base001|wheel044|Take 001|BaseLayer
+    7402836: Hospital_bed_base001|wheel045|Take 001|BaseLayer
+    7402838: Hospital_bed_base001|Wheel_arm009|Take 001|BaseLayer
+    7402840: Hospital_bed_base001|Wheel_arm010|Take 001|BaseLayer
+    7402842: Hospital_bed_base001|Wheel_arm010|Take 001|BaseLayer.001
+    7402844: Hospital_bed_base001|Wheel_arm011|Take 001|BaseLayer
+    7402846: Hospital_bed_base001|Wheel_arm012|Take 001|BaseLayer
+    7402848: Hospital_bed_base001|wheel_ax008|Take 001|BaseLayer
+    7402850: Hospital_bed_base001|wheel_ax009|Take 001|BaseLayer
+    7402852: Hospital_bed_base001|wheel_ax009|Take 001|BaseLayer.001
+    7402854: Hospital_bed_base001|wheel_ax010|Take 001|BaseLayer
+    7402856: Hospital_bed_base001|wheel_ax011|Take 001|BaseLayer
+    7402858: Hospital_bed_base001|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7402860: Hospital_bed_base001|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7402862: Hospital_bed_base001|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7402864: Hospital_bed_base001|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7402866: Hospital_bed_base001|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7402868: Hospital_bed_base001|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7402870: Hospital_bed_base001|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7402872: Hospital_bed_base001|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7402874: Hospital_bed_base001|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7402876: Hospital_bed_base001|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7402878: Hospital_bed_base001|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7402880: Hospital_bed_base001|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7402882: Hospital_bed_base001|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7402884: Hospital_bed_base001|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7402886: Hospital_bed_base001|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7402888: Hospital_bed_base001|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7402890: Hospital_bed_base001|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7402892: Hospital_bed_base001|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7402894: Hospital_bed_base001|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7402896: Hospital_bed_base001|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7402898: Hospital_bed_base001|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7402900: Hospital_bed_base001|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7402902: Hospital_bed_base001|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7402904: Hospital_bed_base001|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7402906: Hospital_bed_base001|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7402908: Hospital_bed_base001|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7402910: Hospital_bed_base001|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7402912: Hospital_bed_base001|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7402914: Hospital_bed_base001|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7402916: Hospital_bed_base001|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7402918: Hospital_bed_base001|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7402920: Hospital_bed_base001|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7402922: Hospital_bed_base001|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7402924: Hospital_bed_base001|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7402926: Hospital_bed_base001|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7402928: Hospital_bed_base001|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7402930: Hospital_bed_base001|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7402932: Hospital_bed_base001|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7402934: Hospital_bed_base001|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7402936: Hospital_bed_base001|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7402938: Hospital_bed_base001|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7402940: Hospital_bed_base001|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7402942: Hospital_bed_base001|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7402944: Hospital_bed_base001|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7402946: Hospital_bed_base001|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7402948: Hospital_bed_base001|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7402950: Hospital_bed_base001|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7402952: Hospital_bed_base001|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7402954: Hospital_bed_base001|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7402956: Hospital_bed_base001|wheel_rubber007|Take 001|BaseLayer
+    7402958: Hospital_bed_base001|wheel_rubber008|Take 001|BaseLayer
+    7402960: Hospital_bed_base001|wheel_rubber008|Take 001|BaseLayer.001
+    7402962: Hospital_bed_base001|wheel_rubber009|Take 001|BaseLayer
+    7402964: Hospital_bed_base001|wheel_rubber010|Take 001|BaseLayer
+    7402966: Hospital_bed_base001|wheelCenterPivot004|Take 001|BaseLayer
+    7402968: Hospital_bed_base001|wheelCenterPivot005|Take 001|BaseLayer
+    7402970: Hospital_bed_base001|wheelCenterPivot005|Take 001|BaseLayer.001
+    7402972: Hospital_bed_base001|wheelCenterPivot006|Take 001|BaseLayer
+    7402974: Hospital_bed_base001|wheelCenterPivot007|Take 001|BaseLayer
+    7402976: Hospital_bed_base001|wooden floor|Take 001|BaseLayer
+    7402978: Hospital_bed_base001|wooden floor|Take 001|BaseLayer.001
+    7402980: curtain_hospital_ward|ceilung|Take 001|BaseLayer
+    7402982: curtain_hospital_ward|Cylinder4465|Take 001|BaseLayer
+    7402984: curtain_hospital_ward|Cylinder4466|Take 001|BaseLayer
+    7402986: curtain_hospital_ward|Cylinder4467|Take 001|BaseLayer
+    7402988: curtain_hospital_ward|Cylinder4468|Take 001|BaseLayer
+    7402990: curtain_hospital_ward|Cylinder4469|Take 001|BaseLayer
+    7402992: curtain_hospital_ward|Cylinder4470|Take 001|BaseLayer
+    7402994: curtain_hospital_ward|Cylinder4471|Take 001|BaseLayer
+    7402996: curtain_hospital_ward|Cylinder4472|Take 001|BaseLayer
+    7402998: curtain_hospital_ward|Cylinder4473|Take 001|BaseLayer
+    7403000: curtain_hospital_ward|Cylinder4771|Take 001|BaseLayer
+    7403002: curtain_hospital_ward|Cylinder4772|Take 001|BaseLayer
+    7403004: curtain_hospital_ward|Cylinder4773|Take 001|BaseLayer
+    7403006: curtain_hospital_ward|Cylinder65ssa007|Take 001|BaseLayer
+    7403008: curtain_hospital_ward|Locker_top001|Take 001|BaseLayer
+    7403010: curtain_hospital_ward|monitor screen003|Take 001|BaseLayer
+    7403012: curtain_hospital_ward|plinth 2|Take 001|BaseLayer
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

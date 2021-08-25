@@ -1,0 +1,3280 @@
+fileFormatVersion: 2
+guid: adaaa82be86ce8844a3a7ac20349572f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: walls
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: walls
+  - first:
+      74: 7400000
+    second: walls|walls|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: walls|wooden floor|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: walls|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: walls|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: walls|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: walls|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: walls|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: walls|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: walls|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: walls|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: walls|Back_display_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: walls|bedside_table003|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: walls|bedside_table_adjuster003|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: walls|bedside_table_adjuster_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: walls|Bedside_table_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: walls|Bedside_table_axis_support005|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: walls|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: walls|Bedside_table_border003|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: walls|Bedside_table_borderedge003|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: walls|bedside_table_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: walls|bedside_table_handle_support003|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: walls|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: walls|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: walls|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: walls|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: walls|Bedside_table_support010|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: walls|Bedside_table_support011|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: walls|Bedside_table_support012|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: walls|Bedside_table_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: walls|Bedside_table_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: walls|Bedside_table_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: walls|Bedside_table_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: walls|Blue_light001|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: walls|bolt424|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: walls|bolt425|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: walls|bolt426|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: walls|bolt427|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: walls|bolt431|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: walls|bolt443|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: walls|bolt444|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: walls|bolt445|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: walls|bolt446|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: walls|bolt447|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: walls|bolt448|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: walls|bolt449|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: walls|bolt450|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: walls|bolt451|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: walls|bolt452|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: walls|bolt453|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: walls|bolt454|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: walls|bolt455|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: walls|bolt456|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: walls|bolt457|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: walls|bolt458|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: walls|bolt459|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: walls|bolt460|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: walls|bolt461|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: walls|bolt462|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: walls|bolt463|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: walls|bolt464|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: walls|bolt465|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: walls|bolt466|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: walls|bolt467|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: walls|bolt468|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: walls|bolt469|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: walls|bolt470|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: walls|bolt471|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: walls|bolt472|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: walls|bolt473|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: walls|bolt474|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: walls|bolt475|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: walls|bolt476|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: walls|bolt477|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: walls|bolt478|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: walls|bolt479|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: walls|bolt480|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: walls|bolt481|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: walls|bolt482|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: walls|bolt483|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: walls|bolt484|Take 001|BaseLayer
+  - first:
+      74: 7400160
+    second: walls|bolt485|Take 001|BaseLayer
+  - first:
+      74: 7400162
+    second: walls|bolt486|Take 001|BaseLayer
+  - first:
+      74: 7400164
+    second: walls|bolt487|Take 001|BaseLayer
+  - first:
+      74: 7400166
+    second: walls|bolt488|Take 001|BaseLayer
+  - first:
+      74: 7400168
+    second: walls|bolt489|Take 001|BaseLayer
+  - first:
+      74: 7400170
+    second: walls|bolt490|Take 001|BaseLayer
+  - first:
+      74: 7400172
+    second: walls|bolt491|Take 001|BaseLayer
+  - first:
+      74: 7400174
+    second: walls|bolt492|Take 001|BaseLayer
+  - first:
+      74: 7400176
+    second: walls|bolt493|Take 001|BaseLayer
+  - first:
+      74: 7400178
+    second: walls|bolt494|Take 001|BaseLayer
+  - first:
+      74: 7400180
+    second: walls|bolt496|Take 001|BaseLayer
+  - first:
+      74: 7400182
+    second: walls|bolt497|Take 001|BaseLayer
+  - first:
+      74: 7400184
+    second: walls|bolt498|Take 001|BaseLayer
+  - first:
+      74: 7400186
+    second: walls|bolt499|Take 001|BaseLayer
+  - first:
+      74: 7400188
+    second: walls|bolt500|Take 001|BaseLayer
+  - first:
+      74: 7400190
+    second: walls|bolt501|Take 001|BaseLayer
+  - first:
+      74: 7400192
+    second: walls|bolt502|Take 001|BaseLayer
+  - first:
+      74: 7400194
+    second: walls|bolt503|Take 001|BaseLayer
+  - first:
+      74: 7400196
+    second: walls|bolt503|Take 001|BaseLayer.001
+  - first:
+      74: 7400198
+    second: walls|bolt504|Take 001|BaseLayer
+  - first:
+      74: 7400200
+    second: walls|bolt504|Take 001|BaseLayer.001
+  - first:
+      74: 7400202
+    second: walls|bolt505|Take 001|BaseLayer
+  - first:
+      74: 7400204
+    second: walls|bolt505|Take 001|BaseLayer.001
+  - first:
+      74: 7400206
+    second: walls|bolt506|Take 001|BaseLayer
+  - first:
+      74: 7400208
+    second: walls|bolt506|Take 001|BaseLayer.001
+  - first:
+      74: 7400210
+    second: walls|bolt507|Take 001|BaseLayer
+  - first:
+      74: 7400212
+    second: walls|bolt508|Take 001|BaseLayer
+  - first:
+      74: 7400214
+    second: walls|bolt509|Take 001|BaseLayer
+  - first:
+      74: 7400216
+    second: walls|bolt510|Take 001|BaseLayer
+  - first:
+      74: 7400218
+    second: walls|bolt511|Take 001|BaseLayer
+  - first:
+      74: 7400220
+    second: walls|bolt512|Take 001|BaseLayer
+  - first:
+      74: 7400222
+    second: walls|bolt513|Take 001|BaseLayer
+  - first:
+      74: 7400224
+    second: walls|bolt514|Take 001|BaseLayer
+  - first:
+      74: 7400226
+    second: walls|bolt515|Take 001|BaseLayer
+  - first:
+      74: 7400228
+    second: walls|bolt516|Take 001|BaseLayer
+  - first:
+      74: 7400230
+    second: walls|bolt517|Take 001|BaseLayer
+  - first:
+      74: 7400232
+    second: walls|bolt518|Take 001|BaseLayer
+  - first:
+      74: 7400234
+    second: walls|boom segment 009|Take 001|BaseLayer
+  - first:
+      74: 7400236
+    second: walls|boom segment 010|Take 001|BaseLayer
+  - first:
+      74: 7400238
+    second: walls|boom segment 011|Take 001|BaseLayer
+  - first:
+      74: 7400240
+    second: walls|BoomArm001|Take 001|BaseLayer
+  - first:
+      74: 7400242
+    second: walls|BoomMonitor002|Take 001|BaseLayer
+  - first:
+      74: 7400244
+    second: walls|Box206b007|Take 001|BaseLayer
+  - first:
+      74: 7400246
+    second: walls|Box276|Take 001|BaseLayer
+  - first:
+      74: 7400248
+    second: walls|Box276|Take 001|BaseLayer.001
+  - first:
+      74: 7400250
+    second: walls|Box277|Take 001|BaseLayer
+  - first:
+      74: 7400252
+    second: walls|Box278|Take 001|BaseLayer
+  - first:
+      74: 7400254
+    second: walls|Box278|Take 001|BaseLayer.001
+  - first:
+      74: 7400256
+    second: walls|Box279|Take 001|BaseLayer
+  - first:
+      74: 7400258
+    second: walls|Box279|Take 001|BaseLayer.001
+  - first:
+      74: 7400260
+    second: walls|Box280|Take 001|BaseLayer
+  - first:
+      74: 7400262
+    second: walls|bzt040|Take 001|BaseLayer
+  - first:
+      74: 7400264
+    second: walls|bzt040|Take 001|BaseLayer.001
+  - first:
+      74: 7400266
+    second: walls|bzt041|Take 001|BaseLayer
+  - first:
+      74: 7400268
+    second: walls|bzt041|Take 001|BaseLayer.001
+  - first:
+      74: 7400270
+    second: walls|bzt042|Take 001|BaseLayer
+  - first:
+      74: 7400272
+    second: walls|bzt042|Take 001|BaseLayer.001
+  - first:
+      74: 7400274
+    second: walls|bzt043|Take 001|BaseLayer
+  - first:
+      74: 7400276
+    second: walls|bzt043|Take 001|BaseLayer.001
+  - first:
+      74: 7400278
+    second: walls|bzt044|Take 001|BaseLayer
+  - first:
+      74: 7400280
+    second: walls|bzt044|Take 001|BaseLayer.001
+  - first:
+      74: 7400282
+    second: walls|cable005|Take 001|BaseLayer
+  - first:
+      74: 7400284
+    second: walls|cable006|Take 001|BaseLayer
+  - first:
+      74: 7400286
+    second: walls|cable007|Take 001|BaseLayer
+  - first:
+      74: 7400288
+    second: walls|cable008|Take 001|BaseLayer
+  - first:
+      74: 7400290
+    second: walls|cable009|Take 001|BaseLayer
+  - first:
+      74: 7400292
+    second: walls|card slot001|Take 001|BaseLayer
+  - first:
+      74: 7400294
+    second: walls|Circle007|Take 001|BaseLayer
+  - first:
+      74: 7400296
+    second: walls|Circle007|Take 001|BaseLayer.001
+  - first:
+      74: 7400298
+    second: walls|Clay_Paky_case001|Take 001|BaseLayer
+  - first:
+      74: 7400300
+    second: walls|Control_button001|Take 001|BaseLayer
+  - first:
+      74: 7400302
+    second: walls|cooler001|Take 001|BaseLayer
+  - first:
+      74: 7400304
+    second: walls|Cooler_fan002|Take 001|BaseLayer
+  - first:
+      74: 7400306
+    second: walls|Cooler_propeller012|Take 001|BaseLayer
+  - first:
+      74: 7400308
+    second: walls|Cooler_propeller013|Take 001|BaseLayer
+  - first:
+      74: 7400310
+    second: walls|Cooler_propeller014|Take 001|BaseLayer
+  - first:
+      74: 7400312
+    second: walls|Cooler_propeller015|Take 001|BaseLayer
+  - first:
+      74: 7400314
+    second: walls|Cooler_propeller016|Take 001|BaseLayer
+  - first:
+      74: 7400316
+    second: walls|Cooler_propeller017|Take 001|BaseLayer
+  - first:
+      74: 7400318
+    second: walls|curtain_hospital_ward001|Take 001|BaseLayer
+  - first:
+      74: 7400320
+    second: walls|curtain_hospital_ward007|Take 001|BaseLayer
+  - first:
+      74: 7400322
+    second: walls|curtain_hospital_ward008|Take 001|BaseLayer
+  - first:
+      74: 7400324
+    second: walls|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400326
+    second: walls|Cylinder04sd007|Take 001|BaseLayer
+  - first:
+      74: 7400328
+    second: walls|Cylinder172vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400330
+    second: walls|Cylinder4509|Take 001|BaseLayer
+  - first:
+      74: 7400332
+    second: walls|Cylinder4510|Take 001|BaseLayer
+  - first:
+      74: 7400334
+    second: walls|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400336
+    second: walls|Cylinder4511|Take 001|BaseLayer
+  - first:
+      74: 7400338
+    second: walls|Cylinder4511|Take 001|BaseLayer.001
+  - first:
+      74: 7400340
+    second: walls|Cylinder4512|Take 001|BaseLayer
+  - first:
+      74: 7400342
+    second: walls|Cylinder4512|Take 001|BaseLayer.001
+  - first:
+      74: 7400344
+    second: walls|Cylinder4513|Take 001|BaseLayer
+  - first:
+      74: 7400346
+    second: walls|Cylinder4513|Take 001|BaseLayer.001
+  - first:
+      74: 7400348
+    second: walls|Cylinder4514|Take 001|BaseLayer
+  - first:
+      74: 7400350
+    second: walls|Cylinder4514|Take 001|BaseLayer.001
+  - first:
+      74: 7400352
+    second: walls|Cylinder4515|Take 001|BaseLayer
+  - first:
+      74: 7400354
+    second: walls|Cylinder4515|Take 001|BaseLayer.001
+  - first:
+      74: 7400356
+    second: walls|Cylinder4516|Take 001|BaseLayer
+  - first:
+      74: 7400358
+    second: walls|Cylinder4516|Take 001|BaseLayer.001
+  - first:
+      74: 7400360
+    second: walls|Cylinder4517|Take 001|BaseLayer
+  - first:
+      74: 7400362
+    second: walls|Cylinder4517|Take 001|BaseLayer.001
+  - first:
+      74: 7400364
+    second: walls|Cylinder4518|Take 001|BaseLayer
+  - first:
+      74: 7400366
+    second: walls|Cylinder4518|Take 001|BaseLayer.001
+  - first:
+      74: 7400368
+    second: walls|Cylinder4519|Take 001|BaseLayer
+  - first:
+      74: 7400370
+    second: walls|Cylinder4519|Take 001|BaseLayer.001
+  - first:
+      74: 7400372
+    second: walls|Cylinder4520|Take 001|BaseLayer
+  - first:
+      74: 7400374
+    second: walls|Cylinder4520|Take 001|BaseLayer.001
+  - first:
+      74: 7400376
+    second: walls|Cylinder4521|Take 001|BaseLayer
+  - first:
+      74: 7400378
+    second: walls|Cylinder4522|Take 001|BaseLayer
+  - first:
+      74: 7400380
+    second: walls|Cylinder4522|Take 001|BaseLayer.001
+  - first:
+      74: 7400382
+    second: walls|Cylinder4523|Take 001|BaseLayer
+  - first:
+      74: 7400384
+    second: walls|Cylinder4524|Take 001|BaseLayer
+  - first:
+      74: 7400386
+    second: walls|Cylinder4525|Take 001|BaseLayer
+  - first:
+      74: 7400388
+    second: walls|Cylinder4525|Take 001|BaseLayer.001
+  - first:
+      74: 7400390
+    second: walls|Cylinder4526|Take 001|BaseLayer
+  - first:
+      74: 7400392
+    second: walls|Cylinder4526|Take 001|BaseLayer.001
+  - first:
+      74: 7400394
+    second: walls|Cylinder4527|Take 001|BaseLayer
+  - first:
+      74: 7400396
+    second: walls|Cylinder4527|Take 001|BaseLayer.001
+  - first:
+      74: 7400398
+    second: walls|Cylinder4528|Take 001|BaseLayer
+  - first:
+      74: 7400400
+    second: walls|Cylinder4528|Take 001|BaseLayer.001
+  - first:
+      74: 7400402
+    second: walls|Cylinder4529|Take 001|BaseLayer
+  - first:
+      74: 7400404
+    second: walls|Cylinder4529|Take 001|BaseLayer.001
+  - first:
+      74: 7400406
+    second: walls|Cylinder4530|Take 001|BaseLayer
+  - first:
+      74: 7400408
+    second: walls|Cylinder4530|Take 001|BaseLayer.001
+  - first:
+      74: 7400410
+    second: walls|Cylinder4531|Take 001|BaseLayer
+  - first:
+      74: 7400412
+    second: walls|Cylinder4531|Take 001|BaseLayer.001
+  - first:
+      74: 7400414
+    second: walls|Cylinder4532|Take 001|BaseLayer
+  - first:
+      74: 7400416
+    second: walls|Cylinder4532|Take 001|BaseLayer.001
+  - first:
+      74: 7400418
+    second: walls|Cylinder4533|Take 001|BaseLayer
+  - first:
+      74: 7400420
+    second: walls|Cylinder4533|Take 001|BaseLayer.001
+  - first:
+      74: 7400422
+    second: walls|Cylinder4534|Take 001|BaseLayer
+  - first:
+      74: 7400424
+    second: walls|Cylinder4534|Take 001|BaseLayer.001
+  - first:
+      74: 7400426
+    second: walls|Cylinder4542|Take 001|BaseLayer
+  - first:
+      74: 7400428
+    second: walls|Cylinder4543|Take 001|BaseLayer
+  - first:
+      74: 7400430
+    second: walls|Cylinder4544|Take 001|BaseLayer
+  - first:
+      74: 7400432
+    second: walls|Cylinder4545|Take 001|BaseLayer
+  - first:
+      74: 7400434
+    second: walls|Cylinder4546|Take 001|BaseLayer
+  - first:
+      74: 7400436
+    second: walls|Cylinder4769|Take 001|BaseLayer
+  - first:
+      74: 7400438
+    second: walls|Cylinder4770|Take 001|BaseLayer
+  - first:
+      74: 7400440
+    second: walls|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+  - first:
+      74: 7400442
+    second: walls|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+  - first:
+      74: 7400444
+    second: walls|Display_body001|Take 001|BaseLayer
+  - first:
+      74: 7400446
+    second: walls|doctor_stool005|Take 001|BaseLayer
+  - first:
+      74: 7400448
+    second: walls|doctor_stool005|Take 001|BaseLayer.001
+  - first:
+      74: 7400450
+    second: walls|equipement carrier handle002|Take 001|BaseLayer
+  - first:
+      74: 7400452
+    second: walls|equipment carrier body001|Take 001|BaseLayer
+  - first:
+      74: 7400454
+    second: walls|equipment_carrier_shelf005|Take 001|BaseLayer
+  - first:
+      74: 7400456
+    second: walls|equipment_carrier_shelf006|Take 001|BaseLayer
+  - first:
+      74: 7400458
+    second: walls|equipment_carrier_shelf007|Take 001|BaseLayer
+  - first:
+      74: 7400460
+    second: walls|equipment_carrier_shelf008|Take 001|BaseLayer
+  - first:
+      74: 7400462
+    second: walls|Group042|Take 001|BaseLayer
+  - first:
+      74: 7400464
+    second: walls|Hospital Bed001|Take 001|BaseLayer
+  - first:
+      74: 7400466
+    second: walls|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400468
+    second: walls|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+  - first:
+      74: 7400470
+    second: walls|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400472
+    second: walls|Hospital_bed_base_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400474
+    second: walls|Hospital_bed_base_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400476
+    second: walls|Hospital_bed_base_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400478
+    second: walls|Hospital_bed_base_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400480
+    second: walls|Hospital_bed_bumper007|Take 001|BaseLayer
+  - first:
+      74: 7400482
+    second: walls|Hospital_bed_bumper008|Take 001|BaseLayer
+  - first:
+      74: 7400484
+    second: walls|Hospital_bed_bumper009|Take 001|BaseLayer
+  - first:
+      74: 7400486
+    second: walls|Hospital_bed_bumper010|Take 001|BaseLayer
+  - first:
+      74: 7400488
+    second: walls|Hospital_bed_button012|Take 001|BaseLayer
+  - first:
+      74: 7400490
+    second: walls|Hospital_bed_button013|Take 001|BaseLayer
+  - first:
+      74: 7400492
+    second: walls|Hospital_bed_button_large005|Take 001|BaseLayer
+  - first:
+      74: 7400494
+    second: walls|Hospital_bed_button_large006|Take 001|BaseLayer
+  - first:
+      74: 7400496
+    second: walls|Hospital_bed_footpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400498
+    second: walls|Hospital_bed_framepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400500
+    second: walls|Hospital_bed_framepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400502
+    second: walls|Hospital_bed_headpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400504
+    second: walls|Hospital_bed_leg003|Take 001|BaseLayer
+  - first:
+      74: 7400506
+    second: walls|Hospital_bed_leg004|Take 001|BaseLayer
+  - first:
+      74: 7400508
+    second: walls|Hospital_bed_leg005|Take 001|BaseLayer
+  - first:
+      74: 7400510
+    second: walls|Hospital_bed_matress001|Take 001|BaseLayer
+  - first:
+      74: 7400512
+    second: walls|Hospital_bed_pedal064|Take 001|BaseLayer
+  - first:
+      74: 7400514
+    second: walls|Hospital_bed_pedal065|Take 001|BaseLayer
+  - first:
+      74: 7400516
+    second: walls|Hospital_bed_pedal066|Take 001|BaseLayer
+  - first:
+      74: 7400518
+    second: walls|Hospital_bed_pedal067|Take 001|BaseLayer
+  - first:
+      74: 7400520
+    second: walls|Hospital_bed_pedal068|Take 001|BaseLayer
+  - first:
+      74: 7400522
+    second: walls|Hospital_bed_pedal069|Take 001|BaseLayer
+  - first:
+      74: 7400524
+    second: walls|Hospital_bed_pedal070|Take 001|BaseLayer
+  - first:
+      74: 7400526
+    second: walls|Hospital_bed_pedal2a001|Take 001|BaseLayer
+  - first:
+      74: 7400528
+    second: walls|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+  - first:
+      74: 7400530
+    second: walls|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+  - first:
+      74: 7400532
+    second: walls|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+  - first:
+      74: 7400534
+    second: walls|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+  - first:
+      74: 7400536
+    second: walls|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+  - first:
+      74: 7400538
+    second: walls|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+  - first:
+      74: 7400540
+    second: walls|Hospital_bed_pedals001|Take 001|BaseLayer
+  - first:
+      74: 7400542
+    second: walls|Hospital_bed_piston006|Take 001|BaseLayer
+  - first:
+      74: 7400544
+    second: walls|Hospital_bed_piston007|Take 001|BaseLayer
+  - first:
+      74: 7400546
+    second: walls|Hospital_bed_piston008|Take 001|BaseLayer
+  - first:
+      74: 7400548
+    second: walls|Hospital_bed_piston009|Take 001|BaseLayer
+  - first:
+      74: 7400550
+    second: walls|Hospital_bed_piston010|Take 001|BaseLayer
+  - first:
+      74: 7400552
+    second: walls|Hospital_bed_piston011|Take 001|BaseLayer
+  - first:
+      74: 7400554
+    second: walls|hospital_bed_piston_cap030|Take 001|BaseLayer
+  - first:
+      74: 7400556
+    second: walls|hospital_bed_piston_cap031|Take 001|BaseLayer
+  - first:
+      74: 7400558
+    second: walls|hospital_bed_piston_cap032|Take 001|BaseLayer
+  - first:
+      74: 7400560
+    second: walls|hospital_bed_piston_cap033|Take 001|BaseLayer
+  - first:
+      74: 7400562
+    second: walls|hospital_bed_piston_cap034|Take 001|BaseLayer
+  - first:
+      74: 7400564
+    second: walls|hospital_bed_piston_cap035|Take 001|BaseLayer
+  - first:
+      74: 7400566
+    second: walls|hospital_bed_piston_cap036|Take 001|BaseLayer
+  - first:
+      74: 7400568
+    second: walls|hospital_bed_piston_cap037|Take 001|BaseLayer
+  - first:
+      74: 7400570
+    second: walls|hospital_bed_piston_cap038|Take 001|BaseLayer
+  - first:
+      74: 7400572
+    second: walls|hospital_bed_piston_cap039|Take 001|BaseLayer
+  - first:
+      74: 7400574
+    second: walls|hospital_bed_piston_cap040|Take 001|BaseLayer
+  - first:
+      74: 7400576
+    second: walls|hospital_bed_piston_cap041|Take 001|BaseLayer
+  - first:
+      74: 7400578
+    second: walls|hospital_bed_piston_cap042|Take 001|BaseLayer
+  - first:
+      74: 7400580
+    second: walls|hospital_bed_piston_cap043|Take 001|BaseLayer
+  - first:
+      74: 7400582
+    second: walls|hospital_bed_piston_cap044|Take 001|BaseLayer
+  - first:
+      74: 7400584
+    second: walls|hospital_bed_piston_cap045|Take 001|BaseLayer
+  - first:
+      74: 7400586
+    second: walls|hospital_bed_piston_cap046|Take 001|BaseLayer
+  - first:
+      74: 7400588
+    second: walls|hospital_bed_piston_cap047|Take 001|BaseLayer
+  - first:
+      74: 7400590
+    second: walls|hospital_bed_piston_cap048|Take 001|BaseLayer
+  - first:
+      74: 7400592
+    second: walls|hospital_bed_piston_cap049|Take 001|BaseLayer
+  - first:
+      74: 7400594
+    second: walls|hospital_bed_piston_cap050|Take 001|BaseLayer
+  - first:
+      74: 7400596
+    second: walls|hospital_bed_piston_cap051|Take 001|BaseLayer
+  - first:
+      74: 7400598
+    second: walls|hospital_bed_piston_cap052|Take 001|BaseLayer
+  - first:
+      74: 7400600
+    second: walls|hospital_bed_piston_cap053|Take 001|BaseLayer
+  - first:
+      74: 7400602
+    second: walls|hospital_bed_piston_cap054|Take 001|BaseLayer
+  - first:
+      74: 7400604
+    second: walls|hospital_bed_piston_cap055|Take 001|BaseLayer
+  - first:
+      74: 7400606
+    second: walls|hospital_bed_piston_cap056|Take 001|BaseLayer
+  - first:
+      74: 7400608
+    second: walls|hospital_bed_piston_cap057|Take 001|BaseLayer
+  - first:
+      74: 7400610
+    second: walls|hospital_bed_piston_cap058|Take 001|BaseLayer
+  - first:
+      74: 7400612
+    second: walls|hospital_bed_piston_cap059|Take 001|BaseLayer
+  - first:
+      74: 7400614
+    second: walls|Hospital_bed_pistons002|Take 001|BaseLayer
+  - first:
+      74: 7400616
+    second: walls|Hospital_bed_pistons2a001|Take 001|BaseLayer
+  - first:
+      74: 7400618
+    second: walls|Hospital_bed_pole003|Take 001|BaseLayer
+  - first:
+      74: 7400620
+    second: walls|Hospital_bed_pole004|Take 001|BaseLayer
+  - first:
+      74: 7400622
+    second: walls|Hospital_bed_pole005|Take 001|BaseLayer
+  - first:
+      74: 7400624
+    second: walls|Hospital_bed_pole_support006|Take 001|BaseLayer
+  - first:
+      74: 7400626
+    second: walls|Hospital_bed_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400628
+    second: walls|Hospital_bed_pole_support008|Take 001|BaseLayer
+  - first:
+      74: 7400630
+    second: walls|Hospital_bed_pole_support009|Take 001|BaseLayer
+  - first:
+      74: 7400632
+    second: walls|Hospital_bed_pole_support010|Take 001|BaseLayer
+  - first:
+      74: 7400634
+    second: walls|Hospital_bed_pole_support011|Take 001|BaseLayer
+  - first:
+      74: 7400636
+    second: walls|Hospital_bed_side_caps013|Take 001|BaseLayer
+  - first:
+      74: 7400638
+    second: walls|Hospital_bed_side_caps014|Take 001|BaseLayer
+  - first:
+      74: 7400640
+    second: walls|Hospital_bed_side_caps015|Take 001|BaseLayer
+  - first:
+      74: 7400642
+    second: walls|Hospital_bed_side_caps016|Take 001|BaseLayer
+  - first:
+      74: 7400644
+    second: walls|Hospital_bed_side_caps017|Take 001|BaseLayer
+  - first:
+      74: 7400646
+    second: walls|Hospital_bed_side_caps018|Take 001|BaseLayer
+  - first:
+      74: 7400648
+    second: walls|Hospital_bed_side_caps019|Take 001|BaseLayer
+  - first:
+      74: 7400650
+    second: walls|Hospital_bed_side_caps020|Take 001|BaseLayer
+  - first:
+      74: 7400652
+    second: walls|Hospital_bed_side_caps021|Take 001|BaseLayer
+  - first:
+      74: 7400654
+    second: walls|Hospital_bed_side_caps022|Take 001|BaseLayer
+  - first:
+      74: 7400656
+    second: walls|Hospital_bed_side_caps023|Take 001|BaseLayer
+  - first:
+      74: 7400658
+    second: walls|Hospital_bed_side_caps024|Take 001|BaseLayer
+  - first:
+      74: 7400660
+    second: walls|Hospital_bed_side_caps025|Take 001|BaseLayer
+  - first:
+      74: 7400662
+    second: walls|Hospital_bed_side_hinge008|Take 001|BaseLayer
+  - first:
+      74: 7400664
+    second: walls|Hospital_bed_side_hinge009|Take 001|BaseLayer
+  - first:
+      74: 7400666
+    second: walls|Hospital_bed_side_hinge010|Take 001|BaseLayer
+  - first:
+      74: 7400668
+    second: walls|Hospital_bed_side_hinge011|Take 001|BaseLayer
+  - first:
+      74: 7400670
+    second: walls|Hospital_bed_side_hinge012|Take 001|BaseLayer
+  - first:
+      74: 7400672
+    second: walls|Hospital_bed_side_hinge013|Take 001|BaseLayer
+  - first:
+      74: 7400674
+    second: walls|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400676
+    second: walls|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400678
+    second: walls|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+  - first:
+      74: 7400680
+    second: walls|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+  - first:
+      74: 7400682
+    second: walls|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+  - first:
+      74: 7400684
+    second: walls|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+  - first:
+      74: 7400686
+    second: walls|Hospital_bed_sidepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400688
+    second: walls|Hospital_bed_sidepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400690
+    second: walls|Hospital_bed_sides001|Take 001|BaseLayer
+  - first:
+      74: 7400692
+    second: walls|Hospital_bed_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400694
+    second: walls|Hospital_bed_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400696
+    second: walls|Hospital_bed_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400698
+    second: walls|Hospital_bed_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400700
+    second: walls|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400702
+    second: walls|humidifier001|Take 001|BaseLayer
+  - first:
+      74: 7400704
+    second: walls|insuflation tube040|Take 001|BaseLayer
+  - first:
+      74: 7400706
+    second: walls|insuflation tube041|Take 001|BaseLayer
+  - first:
+      74: 7400708
+    second: walls|insuflation tube042|Take 001|BaseLayer
+  - first:
+      74: 7400710
+    second: walls|insuflation tube043|Take 001|BaseLayer
+  - first:
+      74: 7400712
+    second: walls|insuflation tube044|Take 001|BaseLayer
+  - first:
+      74: 7400714
+    second: walls|insuflation tube045|Take 001|BaseLayer
+  - first:
+      74: 7400716
+    second: walls|insuflation tube046|Take 001|BaseLayer
+  - first:
+      74: 7400718
+    second: walls|insuflation tube047|Take 001|BaseLayer
+  - first:
+      74: 7400720
+    second: walls|insuflation tube049|Take 001|BaseLayer
+  - first:
+      74: 7400722
+    second: walls|insuflation tube050|Take 001|BaseLayer
+  - first:
+      74: 7400724
+    second: walls|insuflation tube051|Take 001|BaseLayer
+  - first:
+      74: 7400726
+    second: walls|insuflation tube052|Take 001|BaseLayer
+  - first:
+      74: 7400728
+    second: walls|insuflation tube053|Take 001|BaseLayer
+  - first:
+      74: 7400730
+    second: walls|insuflation tube054|Take 001|BaseLayer
+  - first:
+      74: 7400732
+    second: walls|insuflation tube055|Take 001|BaseLayer
+  - first:
+      74: 7400734
+    second: walls|insuflation tube056|Take 001|BaseLayer
+  - first:
+      74: 7400736
+    second: walls|insuflation tube057|Take 001|BaseLayer
+  - first:
+      74: 7400738
+    second: walls|insuflation tube058|Take 001|BaseLayer
+  - first:
+      74: 7400740
+    second: walls|insuflation tube059|Take 001|BaseLayer
+  - first:
+      74: 7400742
+    second: walls|insuflation tube060|Take 001|BaseLayer
+  - first:
+      74: 7400744
+    second: walls|insuflation tube061|Take 001|BaseLayer
+  - first:
+      74: 7400746
+    second: walls|insuflation tube062|Take 001|BaseLayer
+  - first:
+      74: 7400748
+    second: walls|insuflation tube063|Take 001|BaseLayer
+  - first:
+      74: 7400750
+    second: walls|insuflation tube064|Take 001|BaseLayer
+  - first:
+      74: 7400752
+    second: walls|insuflation tube065|Take 001|BaseLayer
+  - first:
+      74: 7400754
+    second: walls|insuflation tube066|Take 001|BaseLayer
+  - first:
+      74: 7400756
+    second: walls|insuflation tube067|Take 001|BaseLayer
+  - first:
+      74: 7400758
+    second: walls|insuflation tube068|Take 001|BaseLayer
+  - first:
+      74: 7400760
+    second: walls|Line033|Take 001|BaseLayer
+  - first:
+      74: 7400762
+    second: walls|liquid003|Take 001|BaseLayer
+  - first:
+      74: 7400764
+    second: walls|liquid004|Take 001|BaseLayer
+  - first:
+      74: 7400766
+    second: walls|Locker_tray001|Take 001|BaseLayer
+  - first:
+      74: 7400768
+    second: walls|medical device 01back005|Take 001|BaseLayer
+  - first:
+      74: 7400770
+    second: walls|medical device 01back006|Take 001|BaseLayer
+  - first:
+      74: 7400772
+    second: walls|medical device 01back007|Take 001|BaseLayer
+  - first:
+      74: 7400774
+    second: walls|medical device 01back008|Take 001|BaseLayer
+  - first:
+      74: 7400776
+    second: walls|medical device 01body015|Take 001|BaseLayer
+  - first:
+      74: 7400778
+    second: walls|medical device 01body016|Take 001|BaseLayer
+  - first:
+      74: 7400780
+    second: walls|medical device 01body017|Take 001|BaseLayer
+  - first:
+      74: 7400782
+    second: walls|medical device 01body018|Take 001|BaseLayer
+  - first:
+      74: 7400784
+    second: walls|medical device 01body019|Take 001|BaseLayer
+  - first:
+      74: 7400786
+    second: walls|medical device 01front002|Take 001|BaseLayer
+  - first:
+      74: 7400788
+    second: walls|medical device 01front003|Take 001|BaseLayer
+  - first:
+      74: 7400790
+    second: walls|medical device 02front004|Take 001|BaseLayer
+  - first:
+      74: 7400792
+    second: walls|medical device 02front005|Take 001|BaseLayer
+  - first:
+      74: 7400794
+    second: walls|medical device side016|Take 001|BaseLayer
+  - first:
+      74: 7400796
+    second: walls|medical device side017|Take 001|BaseLayer
+  - first:
+      74: 7400798
+    second: walls|medical device side018|Take 001|BaseLayer
+  - first:
+      74: 7400800
+    second: walls|medical device side019|Take 001|BaseLayer
+  - first:
+      74: 7400802
+    second: walls|medical device side020|Take 001|BaseLayer
+  - first:
+      74: 7400804
+    second: walls|medical device side021|Take 001|BaseLayer
+  - first:
+      74: 7400806
+    second: walls|medical device side022|Take 001|BaseLayer
+  - first:
+      74: 7400808
+    second: walls|medical device side023|Take 001|BaseLayer
+  - first:
+      74: 7400810
+    second: walls|medical devices001|Take 001|BaseLayer
+  - first:
+      74: 7400812
+    second: walls|medical_device005|Take 001|BaseLayer
+  - first:
+      74: 7400814
+    second: walls|medical_device006|Take 001|BaseLayer
+  - first:
+      74: 7400816
+    second: walls|medical_device007|Take 001|BaseLayer
+  - first:
+      74: 7400818
+    second: walls|medical_device008|Take 001|BaseLayer
+  - first:
+      74: 7400820
+    second: walls|medicine bottle 01 cap035|Take 001|BaseLayer
+  - first:
+      74: 7400822
+    second: walls|medicine bottle 01 cap036|Take 001|BaseLayer
+  - first:
+      74: 7400824
+    second: walls|medicine bottle 01 cap037|Take 001|BaseLayer
+  - first:
+      74: 7400826
+    second: walls|medicine bottle 02_ut002|Take 001|BaseLayer
+  - first:
+      74: 7400828
+    second: walls|medicine bottle 037|Take 001|BaseLayer
+  - first:
+      74: 7400830
+    second: walls|medicine bottle 03_v002|Take 001|BaseLayer
+  - first:
+      74: 7400832
+    second: walls|medicine box051|Take 001|BaseLayer
+  - first:
+      74: 7400834
+    second: walls|metal ring 004|Take 001|BaseLayer
+  - first:
+      74: 7400836
+    second: walls|metal ring 005|Take 001|BaseLayer
+  - first:
+      74: 7400838
+    second: walls|metal ring 006|Take 001|BaseLayer
+  - first:
+      74: 7400840
+    second: walls|Mobile_trolley001|Take 001|BaseLayer
+  - first:
+      74: 7400842
+    second: walls|monitor joint 003|Take 001|BaseLayer
+  - first:
+      74: 7400844
+    second: walls|monitor joint 004|Take 001|BaseLayer
+  - first:
+      74: 7400846
+    second: walls|monitor joint019|Take 001|BaseLayer
+  - first:
+      74: 7400848
+    second: walls|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400850
+    second: walls|monitor01_body007|Take 001|BaseLayer
+  - first:
+      74: 7400852
+    second: walls|Monitor_ax002|Take 001|BaseLayer
+  - first:
+      74: 7400854
+    second: walls|monitorARM002|Take 001|BaseLayer
+  - first:
+      74: 7400856
+    second: walls|mufa albastra017|Take 001|BaseLayer
+  - first:
+      74: 7400858
+    second: walls|mufa albastra018|Take 001|BaseLayer
+  - first:
+      74: 7400860
+    second: walls|mufa albastra019|Take 001|BaseLayer
+  - first:
+      74: 7400862
+    second: walls|mufaalbastra013|Take 001|BaseLayer
+  - first:
+      74: 7400864
+    second: walls|mufaalbastra014|Take 001|BaseLayer
+  - first:
+      74: 7400866
+    second: walls|mufaalbastra015|Take 001|BaseLayer
+  - first:
+      74: 7400868
+    second: walls|mufaalbastra016|Take 001|BaseLayer
+  - first:
+      74: 7400870
+    second: walls|mufaalbastra017|Take 001|BaseLayer
+  - first:
+      74: 7400872
+    second: walls|mufaalbastra018|Take 001|BaseLayer
+  - first:
+      74: 7400874
+    second: walls|mufaalbastra019|Take 001|BaseLayer
+  - first:
+      74: 7400876
+    second: walls|mufaalbastra020|Take 001|BaseLayer
+  - first:
+      74: 7400878
+    second: walls|mufaalbastra021|Take 001|BaseLayer
+  - first:
+      74: 7400880
+    second: walls|mufaalbastra022|Take 001|BaseLayer
+  - first:
+      74: 7400882
+    second: walls|Object4468|Take 001|BaseLayer
+  - first:
+      74: 7400884
+    second: walls|Object4469|Take 001|BaseLayer
+  - first:
+      74: 7400886
+    second: walls|Object4470|Take 001|BaseLayer
+  - first:
+      74: 7400888
+    second: walls|Object4471|Take 001|BaseLayer
+  - first:
+      74: 7400890
+    second: walls|Object4472|Take 001|BaseLayer
+  - first:
+      74: 7400892
+    second: walls|Object4473|Take 001|BaseLayer
+  - first:
+      74: 7400894
+    second: walls|Object4474|Take 001|BaseLayer
+  - first:
+      74: 7400896
+    second: walls|Object4474|Take 001|BaseLayer.001
+  - first:
+      74: 7400898
+    second: walls|Object4475|Take 001|BaseLayer
+  - first:
+      74: 7400900
+    second: walls|Object4475|Take 001|BaseLayer.001
+  - first:
+      74: 7400902
+    second: walls|Object4476|Take 001|BaseLayer
+  - first:
+      74: 7400904
+    second: walls|Object4476|Take 001|BaseLayer.001
+  - first:
+      74: 7400906
+    second: walls|Object4477|Take 001|BaseLayer
+  - first:
+      74: 7400908
+    second: walls|Object4477|Take 001|BaseLayer.001
+  - first:
+      74: 7400910
+    second: walls|Object4478|Take 001|BaseLayer
+  - first:
+      74: 7400912
+    second: walls|Object4478|Take 001|BaseLayer.001
+  - first:
+      74: 7400914
+    second: walls|off button device002|Take 001|BaseLayer
+  - first:
+      74: 7400916
+    second: walls|off button008|Take 001|BaseLayer
+  - first:
+      74: 7400918
+    second: walls|off button009|Take 001|BaseLayer
+  - first:
+      74: 7400920
+    second: walls|off button010|Take 001|BaseLayer
+  - first:
+      74: 7400922
+    second: walls|on button device002|Take 001|BaseLayer
+  - first:
+      74: 7400924
+    second: walls|on button008|Take 001|BaseLayer
+  - first:
+      74: 7400926
+    second: walls|on button009|Take 001|BaseLayer
+  - first:
+      74: 7400928
+    second: walls|on button010|Take 001|BaseLayer
+  - first:
+      74: 7400930
+    second: walls|on/off button008|Take 001|BaseLayer
+  - first:
+      74: 7400932
+    second: walls|on/off button009|Take 001|BaseLayer
+  - first:
+      74: 7400934
+    second: walls|on/off button010|Take 001|BaseLayer
+  - first:
+      74: 7400936
+    second: walls|padding_hospital_bed_panels004|Take 001|BaseLayer
+  - first:
+      74: 7400938
+    second: walls|padding_hospital_bed_panels005|Take 001|BaseLayer
+  - first:
+      74: 7400940
+    second: walls|pillow001|Take 001|BaseLayer
+  - first:
+      74: 7400942
+    second: walls|plugg socket044|Take 001|BaseLayer
+  - first:
+      74: 7400944
+    second: walls|plugg socket045|Take 001|BaseLayer
+  - first:
+      74: 7400946
+    second: walls|plugg socket049|Take 001|BaseLayer
+  - first:
+      74: 7400948
+    second: walls|plugg socket050|Take 001|BaseLayer
+  - first:
+      74: 7400950
+    second: walls|plugg socket051|Take 001|BaseLayer
+  - first:
+      74: 7400952
+    second: walls|plugg015|Take 001|BaseLayer
+  - first:
+      74: 7400954
+    second: walls|plugg016|Take 001|BaseLayer
+  - first:
+      74: 7400956
+    second: walls|plugg017|Take 001|BaseLayer
+  - first:
+      74: 7400958
+    second: walls|plugg018|Take 001|BaseLayer
+  - first:
+      74: 7400960
+    second: walls|plugg019|Take 001|BaseLayer
+  - first:
+      74: 7400962
+    second: walls|plugg020|Take 001|BaseLayer
+  - first:
+      74: 7400964
+    second: walls|plugg021|Take 001|BaseLayer
+  - first:
+      74: 7400966
+    second: walls|plugg022|Take 001|BaseLayer
+  - first:
+      74: 7400968
+    second: walls|plugg023|Take 001|BaseLayer
+  - first:
+      74: 7400970
+    second: walls|plugg024|Take 001|BaseLayer
+  - first:
+      74: 7400972
+    second: walls|plugg025|Take 001|BaseLayer
+  - first:
+      74: 7400974
+    second: walls|plugg026|Take 001|BaseLayer
+  - first:
+      74: 7400976
+    second: walls|plugg027|Take 001|BaseLayer
+  - first:
+      74: 7400978
+    second: walls|roata045|Take 001|BaseLayer
+  - first:
+      74: 7400980
+    second: walls|roata045|Take 001|BaseLayer.001
+  - first:
+      74: 7400982
+    second: walls|roata046|Take 001|BaseLayer
+  - first:
+      74: 7400984
+    second: walls|roata046|Take 001|BaseLayer.001
+  - first:
+      74: 7400986
+    second: walls|roata047|Take 001|BaseLayer
+  - first:
+      74: 7400988
+    second: walls|roata047|Take 001|BaseLayer.001
+  - first:
+      74: 7400990
+    second: walls|roata048|Take 001|BaseLayer
+  - first:
+      74: 7400992
+    second: walls|roata048|Take 001|BaseLayer.001
+  - first:
+      74: 7400994
+    second: walls|roata049|Take 001|BaseLayer
+  - first:
+      74: 7400996
+    second: walls|roata049|Take 001|BaseLayer.001
+  - first:
+      74: 7400998
+    second: walls|round slot016|Take 001|BaseLayer
+  - first:
+      74: 7401000
+    second: walls|round slot017|Take 001|BaseLayer
+  - first:
+      74: 7401002
+    second: walls|round slot018|Take 001|BaseLayer
+  - first:
+      74: 7401004
+    second: walls|round slot019|Take 001|BaseLayer
+  - first:
+      74: 7401006
+    second: walls|round slot020|Take 001|BaseLayer
+  - first:
+      74: 7401008
+    second: walls|round slot021|Take 001|BaseLayer
+  - first:
+      74: 7401010
+    second: walls|round slot022|Take 001|BaseLayer
+  - first:
+      74: 7401012
+    second: walls|round slot023|Take 001|BaseLayer
+  - first:
+      74: 7401014
+    second: walls|round slot024|Take 001|BaseLayer
+  - first:
+      74: 7401016
+    second: walls|round slot025|Take 001|BaseLayer
+  - first:
+      74: 7401018
+    second: walls|Round_button001|Take 001|BaseLayer
+  - first:
+      74: 7401020
+    second: walls|Round_Scart008|Take 001|BaseLayer
+  - first:
+      74: 7401022
+    second: walls|Round_Scart009|Take 001|BaseLayer
+  - first:
+      74: 7401024
+    second: walls|Round_Scart010|Take 001|BaseLayer
+  - first:
+      74: 7401026
+    second: walls|Round_Scart011|Take 001|BaseLayer
+  - first:
+      74: 7401028
+    second: walls|Round_Scart012|Take 001|BaseLayer
+  - first:
+      74: 7401030
+    second: walls|Round_Scart013|Take 001|BaseLayer
+  - first:
+      74: 7401032
+    second: walls|Round_Scart014|Take 001|BaseLayer
+  - first:
+      74: 7401034
+    second: walls|Round_Scart015|Take 001|BaseLayer
+  - first:
+      74: 7401036
+    second: walls|Rubber_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7401038
+    second: walls|Rubber_bumper017|Take 001|BaseLayer
+  - first:
+      74: 7401040
+    second: walls|Rubber_bumper018|Take 001|BaseLayer
+  - first:
+      74: 7401042
+    second: walls|Rubber_bumper019|Take 001|BaseLayer
+  - first:
+      74: 7401044
+    second: walls|Rubber_bumper020|Take 001|BaseLayer
+  - first:
+      74: 7401046
+    second: walls|Rubber_bumper021|Take 001|BaseLayer
+  - first:
+      74: 7401048
+    second: walls|Rubber_bumper022|Take 001|BaseLayer
+  - first:
+      74: 7401050
+    second: walls|Rubber_bumper023|Take 001|BaseLayer
+  - first:
+      74: 7401052
+    second: walls|Rubber_bumper024|Take 001|BaseLayer
+  - first:
+      74: 7401054
+    second: walls|Rubber_bumper_support008|Take 001|BaseLayer
+  - first:
+      74: 7401056
+    second: walls|Rubber_bumper_support009|Take 001|BaseLayer
+  - first:
+      74: 7401058
+    second: walls|Rubber_bumper_support010|Take 001|BaseLayer
+  - first:
+      74: 7401060
+    second: walls|Rubber_bumper_support011|Take 001|BaseLayer
+  - first:
+      74: 7401062
+    second: walls|Rubber_bumper_support012|Take 001|BaseLayer
+  - first:
+      74: 7401064
+    second: walls|Sanitizer003|Take 001|BaseLayer
+  - first:
+      74: 7401066
+    second: walls|Sanitizer004|Take 001|BaseLayer
+  - first:
+      74: 7401068
+    second: walls|scart003|Take 001|BaseLayer
+  - first:
+      74: 7401070
+    second: walls|scart004|Take 001|BaseLayer
+  - first:
+      74: 7401072
+    second: walls|scart005|Take 001|BaseLayer
+  - first:
+      74: 7401074
+    second: walls|Shape002|Take 001|BaseLayer
+  - first:
+      74: 7401076
+    second: walls|shelf edge004|Take 001|BaseLayer
+  - first:
+      74: 7401078
+    second: walls|shelf edge005|Take 001|BaseLayer
+  - first:
+      74: 7401080
+    second: walls|shelf edge006|Take 001|BaseLayer
+  - first:
+      74: 7401082
+    second: walls|shelf edge007|Take 001|BaseLayer
+  - first:
+      74: 7401084
+    second: walls|side panel controls_head_002|Take 001|BaseLayer
+  - first:
+      74: 7401086
+    second: walls|side panel controls_head_003|Take 001|BaseLayer
+  - first:
+      74: 7401088
+    second: walls|side panel_head002|Take 001|BaseLayer
+  - first:
+      74: 7401090
+    second: walls|side panel_head003|Take 001|BaseLayer
+  - first:
+      74: 7401092
+    second: walls|Side_handle002|Take 001|BaseLayer
+  - first:
+      74: 7401094
+    second: walls|Side_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401096
+    second: walls|side_panel_cap005|Take 001|BaseLayer
+  - first:
+      74: 7401098
+    second: walls|side_panel_cap006|Take 001|BaseLayer
+  - first:
+      74: 7401100
+    second: walls|side_panel_cap007|Take 001|BaseLayer
+  - first:
+      74: 7401102
+    second: walls|side_panel_cap008|Take 001|BaseLayer
+  - first:
+      74: 7401104
+    second: walls|sky boom base001|Take 001|BaseLayer
+  - first:
+      74: 7401106
+    second: walls|socketA068|Take 001|BaseLayer
+  - first:
+      74: 7401108
+    second: walls|socketA069|Take 001|BaseLayer
+  - first:
+      74: 7401110
+    second: walls|socketA071|Take 001|BaseLayer
+  - first:
+      74: 7401112
+    second: walls|socketA072|Take 001|BaseLayer
+  - first:
+      74: 7401114
+    second: walls|socketA073|Take 001|BaseLayer
+  - first:
+      74: 7401116
+    second: walls|socketA074|Take 001|BaseLayer
+  - first:
+      74: 7401118
+    second: walls|socketA075|Take 001|BaseLayer
+  - first:
+      74: 7401120
+    second: walls|socketA076|Take 001|BaseLayer
+  - first:
+      74: 7401122
+    second: walls|socketA077|Take 001|BaseLayer
+  - first:
+      74: 7401124
+    second: walls|socketA078|Take 001|BaseLayer
+  - first:
+      74: 7401126
+    second: walls|socketA079|Take 001|BaseLayer
+  - first:
+      74: 7401128
+    second: walls|socketA080|Take 001|BaseLayer
+  - first:
+      74: 7401130
+    second: walls|socketA081|Take 001|BaseLayer
+  - first:
+      74: 7401132
+    second: walls|socketA082|Take 001|BaseLayer
+  - first:
+      74: 7401134
+    second: walls|socketA083|Take 001|BaseLayer
+  - first:
+      74: 7401136
+    second: walls|socketA084|Take 001|BaseLayer
+  - first:
+      74: 7401138
+    second: walls|socketA085|Take 001|BaseLayer
+  - first:
+      74: 7401140
+    second: walls|socketA086|Take 001|BaseLayer
+  - first:
+      74: 7401142
+    second: walls|socketA087|Take 001|BaseLayer
+  - first:
+      74: 7401144
+    second: walls|socketA088|Take 001|BaseLayer
+  - first:
+      74: 7401146
+    second: walls|socketA089|Take 001|BaseLayer
+  - first:
+      74: 7401148
+    second: walls|SocketB076|Take 001|BaseLayer
+  - first:
+      74: 7401150
+    second: walls|SocketB082|Take 001|BaseLayer
+  - first:
+      74: 7401152
+    second: walls|SocketB083|Take 001|BaseLayer
+  - first:
+      74: 7401154
+    second: walls|SocketB084|Take 001|BaseLayer
+  - first:
+      74: 7401156
+    second: walls|SocketB085|Take 001|BaseLayer
+  - first:
+      74: 7401158
+    second: walls|SocketB086|Take 001|BaseLayer
+  - first:
+      74: 7401160
+    second: walls|SocketB087|Take 001|BaseLayer
+  - first:
+      74: 7401162
+    second: walls|SocketB088|Take 001|BaseLayer
+  - first:
+      74: 7401164
+    second: walls|SocketB089|Take 001|BaseLayer
+  - first:
+      74: 7401166
+    second: walls|SocketB090|Take 001|BaseLayer
+  - first:
+      74: 7401168
+    second: walls|SocketB091|Take 001|BaseLayer
+  - first:
+      74: 7401170
+    second: walls|SocketB092|Take 001|BaseLayer
+  - first:
+      74: 7401172
+    second: walls|SocketB093|Take 001|BaseLayer
+  - first:
+      74: 7401174
+    second: walls|SocketB094|Take 001|BaseLayer
+  - first:
+      74: 7401176
+    second: walls|SocketB095|Take 001|BaseLayer
+  - first:
+      74: 7401178
+    second: walls|sockets012|Take 001|BaseLayer
+  - first:
+      74: 7401180
+    second: walls|sockets014|Take 001|BaseLayer
+  - first:
+      74: 7401182
+    second: walls|sockets015|Take 001|BaseLayer
+  - first:
+      74: 7401184
+    second: walls|support017|Take 001|BaseLayer
+  - first:
+      74: 7401186
+    second: walls|support018|Take 001|BaseLayer
+  - first:
+      74: 7401188
+    second: walls|support019|Take 001|BaseLayer
+  - first:
+      74: 7401190
+    second: walls|support020|Take 001|BaseLayer
+  - first:
+      74: 7401192
+    second: walls|support021|Take 001|BaseLayer
+  - first:
+      74: 7401194
+    second: walls|support022|Take 001|BaseLayer
+  - first:
+      74: 7401196
+    second: walls|support023|Take 001|BaseLayer
+  - first:
+      74: 7401198
+    second: walls|support024|Take 001|BaseLayer
+  - first:
+      74: 7401200
+    second: walls|support025|Take 001|BaseLayer
+  - first:
+      74: 7401202
+    second: walls|support026|Take 001|BaseLayer
+  - first:
+      74: 7401204
+    second: walls|support027|Take 001|BaseLayer
+  - first:
+      74: 7401206
+    second: walls|support028|Take 001|BaseLayer
+  - first:
+      74: 7401208
+    second: walls|support029|Take 001|BaseLayer
+  - first:
+      74: 7401210
+    second: walls|support030|Take 001|BaseLayer
+  - first:
+      74: 7401212
+    second: walls|support031|Take 001|BaseLayer
+  - first:
+      74: 7401214
+    second: walls|support032|Take 001|BaseLayer
+  - first:
+      74: 7401216
+    second: walls|surgical light handle032|Take 001|BaseLayer
+  - first:
+      74: 7401218
+    second: walls|surgical light handle033|Take 001|BaseLayer
+  - first:
+      74: 7401220
+    second: walls|surgical light handle034|Take 001|BaseLayer
+  - first:
+      74: 7401222
+    second: walls|surgical light handle035|Take 001|BaseLayer
+  - first:
+      74: 7401224
+    second: walls|surgical light handle036|Take 001|BaseLayer
+  - first:
+      74: 7401226
+    second: walls|surgical light handle037|Take 001|BaseLayer
+  - first:
+      74: 7401228
+    second: walls|surgical light handle038|Take 001|BaseLayer
+  - first:
+      74: 7401230
+    second: walls|usb slot027|Take 001|BaseLayer
+  - first:
+      74: 7401232
+    second: walls|usb slot028|Take 001|BaseLayer
+  - first:
+      74: 7401234
+    second: walls|usb slot029|Take 001|BaseLayer
+  - first:
+      74: 7401236
+    second: walls|usb slot030|Take 001|BaseLayer
+  - first:
+      74: 7401238
+    second: walls|usb slot031|Take 001|BaseLayer
+  - first:
+      74: 7401240
+    second: walls|usb slot032|Take 001|BaseLayer
+  - first:
+      74: 7401242
+    second: walls|usb slot033|Take 001|BaseLayer
+  - first:
+      74: 7401244
+    second: walls|usb slot034|Take 001|BaseLayer
+  - first:
+      74: 7401246
+    second: walls|usb slot035|Take 001|BaseLayer
+  - first:
+      74: 7401248
+    second: walls|usb slot036|Take 001|BaseLayer
+  - first:
+      74: 7401250
+    second: walls|usb slot037|Take 001|BaseLayer
+  - first:
+      74: 7401252
+    second: walls|usb slot038|Take 001|BaseLayer
+  - first:
+      74: 7401254
+    second: walls|ventilator  bag cap001|Take 001|BaseLayer
+  - first:
+      74: 7401256
+    second: walls|ventilator arm adjustable support001|Take 001|BaseLayer
+  - first:
+      74: 7401258
+    second: walls|ventilator arm handle002|Take 001|BaseLayer
+  - first:
+      74: 7401260
+    second: walls|ventilator arm segment005|Take 001|BaseLayer
+  - first:
+      74: 7401262
+    second: walls|ventilator arm segment006|Take 001|BaseLayer
+  - first:
+      74: 7401264
+    second: walls|ventilator arm segment007|Take 001|BaseLayer
+  - first:
+      74: 7401266
+    second: walls|ventilator arm segment008|Take 001|BaseLayer
+  - first:
+      74: 7401268
+    second: walls|ventilator bag001|Take 001|BaseLayer
+  - first:
+      74: 7401270
+    second: walls|ventilator box002|Take 001|BaseLayer
+  - first:
+      74: 7401272
+    second: walls|ventilator brushed metal002|Take 001|BaseLayer
+  - first:
+      74: 7401274
+    second: walls|ventilator controls 003|Take 001|BaseLayer
+  - first:
+      74: 7401276
+    second: walls|ventilator glass004|Take 001|BaseLayer
+  - first:
+      74: 7401278
+    second: walls|ventilator glass005|Take 001|BaseLayer
+  - first:
+      74: 7401280
+    second: walls|ventilator glass006|Take 001|BaseLayer
+  - first:
+      74: 7401282
+    second: walls|ventilator hose cap 012|Take 001|BaseLayer
+  - first:
+      74: 7401284
+    second: walls|ventilator hose cap 013|Take 001|BaseLayer
+  - first:
+      74: 7401286
+    second: walls|ventilator hose cap 014|Take 001|BaseLayer
+  - first:
+      74: 7401288
+    second: walls|ventilator hose cap 015|Take 001|BaseLayer
+  - first:
+      74: 7401290
+    second: walls|ventilator hose cap 016|Take 001|BaseLayer
+  - first:
+      74: 7401292
+    second: walls|ventilator hose cap 017|Take 001|BaseLayer
+  - first:
+      74: 7401294
+    second: walls|ventilator hose cap005|Take 001|BaseLayer
+  - first:
+      74: 7401296
+    second: walls|ventilator hose cap006|Take 001|BaseLayer
+  - first:
+      74: 7401298
+    second: walls|ventilator hose cap007|Take 001|BaseLayer
+  - first:
+      74: 7401300
+    second: walls|ventilator hose cap008|Take 001|BaseLayer
+  - first:
+      74: 7401302
+    second: walls|ventilator hose output003|Take 001|BaseLayer
+  - first:
+      74: 7401304
+    second: walls|ventilator hose output004|Take 001|BaseLayer
+  - first:
+      74: 7401306
+    second: walls|ventilator hose support 004|Take 001|BaseLayer
+  - first:
+      74: 7401308
+    second: walls|ventilator hose support 005|Take 001|BaseLayer
+  - first:
+      74: 7401310
+    second: walls|ventilator hose support001|Take 001|BaseLayer
+  - first:
+      74: 7401312
+    second: walls|ventilator large button001|Take 001|BaseLayer
+  - first:
+      74: 7401314
+    second: walls|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7401316
+    second: walls|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+  - first:
+      74: 7401318
+    second: walls|Ventilator_main_body001|Take 001|BaseLayer
+  - first:
+      74: 7401320
+    second: walls|Ventilator_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7401322
+    second: walls|Ventilator_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7401324
+    second: walls|Ventilator_wheel005|Take 001|BaseLayer.001
+  - first:
+      74: 7401326
+    second: walls|Ventilator_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7401328
+    second: walls|Ventilator_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7401330
+    second: walls|ventilatorHose006|Take 001|BaseLayer
+  - first:
+      74: 7401332
+    second: walls|ventilatorHose007|Take 001|BaseLayer
+  - first:
+      74: 7401334
+    second: walls|ventilatorHose008|Take 001|BaseLayer
+  - first:
+      74: 7401336
+    second: walls|ventilatorHose009|Take 001|BaseLayer
+  - first:
+      74: 7401338
+    second: walls|ventilatorHose010|Take 001|BaseLayer
+  - first:
+      74: 7401340
+    second: walls|vga slot031|Take 001|BaseLayer
+  - first:
+      74: 7401342
+    second: walls|vga slot034|Take 001|BaseLayer
+  - first:
+      74: 7401344
+    second: walls|vga slot035|Take 001|BaseLayer
+  - first:
+      74: 7401346
+    second: walls|wheel044|Take 001|BaseLayer
+  - first:
+      74: 7401348
+    second: walls|wheel045|Take 001|BaseLayer
+  - first:
+      74: 7401350
+    second: walls|Wheel_arm009|Take 001|BaseLayer
+  - first:
+      74: 7401352
+    second: walls|Wheel_arm010|Take 001|BaseLayer
+  - first:
+      74: 7401354
+    second: walls|Wheel_arm010|Take 001|BaseLayer.001
+  - first:
+      74: 7401356
+    second: walls|Wheel_arm011|Take 001|BaseLayer
+  - first:
+      74: 7401358
+    second: walls|Wheel_arm012|Take 001|BaseLayer
+  - first:
+      74: 7401360
+    second: walls|wheel_ax008|Take 001|BaseLayer
+  - first:
+      74: 7401362
+    second: walls|wheel_ax009|Take 001|BaseLayer
+  - first:
+      74: 7401364
+    second: walls|wheel_ax009|Take 001|BaseLayer.001
+  - first:
+      74: 7401366
+    second: walls|wheel_ax010|Take 001|BaseLayer
+  - first:
+      74: 7401368
+    second: walls|wheel_ax011|Take 001|BaseLayer
+  - first:
+      74: 7401370
+    second: walls|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7401372
+    second: walls|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7401374
+    second: walls|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7401376
+    second: walls|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7401378
+    second: walls|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+  - first:
+      74: 7401380
+    second: walls|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+  - first:
+      74: 7401382
+    second: walls|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7401384
+    second: walls|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7401386
+    second: walls|Wheel_Hospital_bed118|Take 001|BaseLayer
+  - first:
+      74: 7401388
+    second: walls|Wheel_Hospital_bed119|Take 001|BaseLayer
+  - first:
+      74: 7401390
+    second: walls|Wheel_Hospital_bed120|Take 001|BaseLayer
+  - first:
+      74: 7401392
+    second: walls|Wheel_Hospital_bed121|Take 001|BaseLayer
+  - first:
+      74: 7401394
+    second: walls|Wheel_Hospital_bed122|Take 001|BaseLayer
+  - first:
+      74: 7401396
+    second: walls|Wheel_Hospital_bed123|Take 001|BaseLayer
+  - first:
+      74: 7401398
+    second: walls|Wheel_Hospital_bed124|Take 001|BaseLayer
+  - first:
+      74: 7401400
+    second: walls|Wheel_Hospital_bed125|Take 001|BaseLayer
+  - first:
+      74: 7401402
+    second: walls|Wheel_Hospital_bed126|Take 001|BaseLayer
+  - first:
+      74: 7401404
+    second: walls|Wheel_Hospital_bed127|Take 001|BaseLayer
+  - first:
+      74: 7401406
+    second: walls|Wheel_Hospital_bed128|Take 001|BaseLayer
+  - first:
+      74: 7401408
+    second: walls|Wheel_Hospital_bed129|Take 001|BaseLayer
+  - first:
+      74: 7401410
+    second: walls|Wheel_Hospital_bed130|Take 001|BaseLayer
+  - first:
+      74: 7401412
+    second: walls|Wheel_Hospital_bed131|Take 001|BaseLayer
+  - first:
+      74: 7401414
+    second: walls|Wheel_Hospital_bed132|Take 001|BaseLayer
+  - first:
+      74: 7401416
+    second: walls|Wheel_Hospital_bed133|Take 001|BaseLayer
+  - first:
+      74: 7401418
+    second: walls|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+  - first:
+      74: 7401420
+    second: walls|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+  - first:
+      74: 7401422
+    second: walls|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+  - first:
+      74: 7401424
+    second: walls|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+  - first:
+      74: 7401426
+    second: walls|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+  - first:
+      74: 7401428
+    second: walls|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+  - first:
+      74: 7401430
+    second: walls|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+  - first:
+      74: 7401432
+    second: walls|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+  - first:
+      74: 7401434
+    second: walls|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+  - first:
+      74: 7401436
+    second: walls|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+  - first:
+      74: 7401438
+    second: walls|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+  - first:
+      74: 7401440
+    second: walls|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+  - first:
+      74: 7401442
+    second: walls|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+  - first:
+      74: 7401444
+    second: walls|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+  - first:
+      74: 7401446
+    second: walls|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+  - first:
+      74: 7401448
+    second: walls|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+  - first:
+      74: 7401450
+    second: walls|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+  - first:
+      74: 7401452
+    second: walls|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+  - first:
+      74: 7401454
+    second: walls|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+  - first:
+      74: 7401456
+    second: walls|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+  - first:
+      74: 7401458
+    second: walls|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+  - first:
+      74: 7401460
+    second: walls|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+  - first:
+      74: 7401462
+    second: walls|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+  - first:
+      74: 7401464
+    second: walls|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+  - first:
+      74: 7401466
+    second: walls|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+  - first:
+      74: 7401468
+    second: walls|wheel_rubber007|Take 001|BaseLayer
+  - first:
+      74: 7401470
+    second: walls|wheel_rubber008|Take 001|BaseLayer
+  - first:
+      74: 7401472
+    second: walls|wheel_rubber008|Take 001|BaseLayer.001
+  - first:
+      74: 7401474
+    second: walls|wheel_rubber009|Take 001|BaseLayer
+  - first:
+      74: 7401476
+    second: walls|wheel_rubber010|Take 001|BaseLayer
+  - first:
+      74: 7401478
+    second: walls|wheelCenterPivot004|Take 001|BaseLayer
+  - first:
+      74: 7401480
+    second: walls|wheelCenterPivot005|Take 001|BaseLayer
+  - first:
+      74: 7401482
+    second: walls|wheelCenterPivot005|Take 001|BaseLayer.001
+  - first:
+      74: 7401484
+    second: walls|wheelCenterPivot006|Take 001|BaseLayer
+  - first:
+      74: 7401486
+    second: walls|wheelCenterPivot007|Take 001|BaseLayer
+  - first:
+      74: 7401488
+    second: walls|wooden floor|Take 001|BaseLayer.001
+  - first:
+      74: 7401490
+    second: walls|black_fill_console072|Take 001|BaseLayer
+  - first:
+      74: 7401492
+    second: walls|black_fill_console073|Take 001|BaseLayer
+  - first:
+      74: 7401494
+    second: walls|black_fill_console074|Take 001|BaseLayer
+  - first:
+      74: 7401496
+    second: walls|black_fill_console075|Take 001|BaseLayer
+  - first:
+      74: 7401498
+    second: walls|black_fill_console076|Take 001|BaseLayer
+  - first:
+      74: 7401500
+    second: walls|black_fill_console077|Take 001|BaseLayer
+  - first:
+      74: 7401502
+    second: walls|black_fill_console078|Take 001|BaseLayer
+  - first:
+      74: 7401504
+    second: walls|black_fill_console079|Take 001|BaseLayer
+  - first:
+      74: 7401506
+    second: walls|black_fill_console080|Take 001|BaseLayer
+  - first:
+      74: 7401508
+    second: walls|black_fill_console081|Take 001|BaseLayer
+  - first:
+      74: 7401510
+    second: walls|black_fill_console082|Take 001|BaseLayer
+  - first:
+      74: 7401512
+    second: walls|black_fill_console116|Take 001|BaseLayer
+  - first:
+      74: 7401514
+    second: walls|bolt432|Take 001|BaseLayer
+  - first:
+      74: 7401516
+    second: walls|bolt433|Take 001|BaseLayer
+  - first:
+      74: 7401518
+    second: walls|bolt434|Take 001|BaseLayer
+  - first:
+      74: 7401520
+    second: walls|bolt435|Take 001|BaseLayer
+  - first:
+      74: 7401522
+    second: walls|bolt436|Take 001|BaseLayer
+  - first:
+      74: 7401524
+    second: walls|bolt437|Take 001|BaseLayer
+  - first:
+      74: 7401526
+    second: walls|bolt438|Take 001|BaseLayer
+  - first:
+      74: 7401528
+    second: walls|bolt439|Take 001|BaseLayer
+  - first:
+      74: 7401530
+    second: walls|bolt439|Take 001|BaseLayer.001
+  - first:
+      74: 7401532
+    second: walls|bolt440|Take 001|BaseLayer
+  - first:
+      74: 7401534
+    second: walls|bolt440|Take 001|BaseLayer.001
+  - first:
+      74: 7401536
+    second: walls|bolt441|Take 001|BaseLayer
+  - first:
+      74: 7401538
+    second: walls|bolt442|Take 001|BaseLayer
+  - first:
+      74: 7401540
+    second: walls|bolt442|Take 001|BaseLayer.001
+  - first:
+      74: 7401542
+    second: walls|bolt443|Take 001|BaseLayer.001
+  - first:
+      74: 7401544
+    second: walls|bolt444|Take 001|BaseLayer.001
+  - first:
+      74: 7401546
+    second: walls|bolt519|Take 001|BaseLayer
+  - first:
+      74: 7401548
+    second: walls|bolt520|Take 001|BaseLayer
+  - first:
+      74: 7401550
+    second: walls|bolt521|Take 001|BaseLayer
+  - first:
+      74: 7401552
+    second: walls|bolt522|Take 001|BaseLayer
+  - first:
+      74: 7401554
+    second: walls|bolt523|Take 001|BaseLayer
+  - first:
+      74: 7401556
+    second: walls|bolt524|Take 001|BaseLayer
+  - first:
+      74: 7401558
+    second: walls|bolt525|Take 001|BaseLayer
+  - first:
+      74: 7401560
+    second: walls|bolt526|Take 001|BaseLayer
+  - first:
+      74: 7401562
+    second: walls|bolt527|Take 001|BaseLayer
+  - first:
+      74: 7401564
+    second: walls|bolt528|Take 001|BaseLayer
+  - first:
+      74: 7401566
+    second: walls|bolt529|Take 001|BaseLayer
+  - first:
+      74: 7401568
+    second: walls|bolt530|Take 001|BaseLayer
+  - first:
+      74: 7401570
+    second: walls|bolt531|Take 001|BaseLayer
+  - first:
+      74: 7401572
+    second: walls|bolt532|Take 001|BaseLayer
+  - first:
+      74: 7401574
+    second: walls|bolt533|Take 001|BaseLayer
+  - first:
+      74: 7401576
+    second: walls|bolt534|Take 001|BaseLayer
+  - first:
+      74: 7401578
+    second: walls|bolt535|Take 001|BaseLayer
+  - first:
+      74: 7401580
+    second: walls|bolt536|Take 001|BaseLayer
+  - first:
+      74: 7401582
+    second: walls|bolt537|Take 001|BaseLayer
+  - first:
+      74: 7401584
+    second: walls|bolt538|Take 001|BaseLayer
+  - first:
+      74: 7401586
+    second: walls|Box205a007|Take 001|BaseLayer
+  - first:
+      74: 7401588
+    second: walls|Box206b007|Take 001|BaseLayer.001
+  - first:
+      74: 7401590
+    second: walls|Box281|Take 001|BaseLayer
+  - first:
+      74: 7401592
+    second: walls|Box282|Take 001|BaseLayer
+  - first:
+      74: 7401594
+    second: walls|Box283|Take 001|BaseLayer
+  - first:
+      74: 7401596
+    second: walls|Box284|Take 001|BaseLayer
+  - first:
+      74: 7401598
+    second: walls|ChamferBox013|Take 001|BaseLayer
+  - first:
+      74: 7401600
+    second: walls|ChamferCyl099|Take 001|BaseLayer
+  - first:
+      74: 7401602
+    second: walls|ChamferCyl100|Take 001|BaseLayer
+  - first:
+      74: 7401604
+    second: walls|console air_socket006|Take 001|BaseLayer
+  - first:
+      74: 7401606
+    second: walls|console_bolt130|Take 001|BaseLayer
+  - first:
+      74: 7401608
+    second: walls|console_bolt131|Take 001|BaseLayer
+  - first:
+      74: 7401610
+    second: walls|console_bolt132|Take 001|BaseLayer
+  - first:
+      74: 7401612
+    second: walls|console_bolt133|Take 001|BaseLayer
+  - first:
+      74: 7401614
+    second: walls|console_bolt134|Take 001|BaseLayer
+  - first:
+      74: 7401616
+    second: walls|console_bolt135|Take 001|BaseLayer
+  - first:
+      74: 7401618
+    second: walls|console_bolt136|Take 001|BaseLayer
+  - first:
+      74: 7401620
+    second: walls|console_bolt137|Take 001|BaseLayer
+  - first:
+      74: 7401622
+    second: walls|console_bolt138|Take 001|BaseLayer
+  - first:
+      74: 7401624
+    second: walls|console_bolt139|Take 001|BaseLayer
+  - first:
+      74: 7401626
+    second: walls|console_bolt170|Take 001|BaseLayer
+  - first:
+      74: 7401628
+    second: walls|console_bolt171|Take 001|BaseLayer
+  - first:
+      74: 7401630
+    second: walls|console_button_large024|Take 001|BaseLayer
+  - first:
+      74: 7401632
+    second: walls|console_button_large025|Take 001|BaseLayer
+  - first:
+      74: 7401634
+    second: walls|console_button_large026|Take 001|BaseLayer
+  - first:
+      74: 7401636
+    second: walls|console_button_large027|Take 001|BaseLayer
+  - first:
+      74: 7401638
+    second: walls|console_lamp013|Take 001|BaseLayer
+  - first:
+      74: 7401640
+    second: walls|console_lamp014|Take 001|BaseLayer
+  - first:
+      74: 7401642
+    second: walls|console_socket007|Take 001|BaseLayer
+  - first:
+      74: 7401644
+    second: walls|consoler_button032|Take 001|BaseLayer
+  - first:
+      74: 7401646
+    second: walls|consoler_button033|Take 001|BaseLayer
+  - first:
+      74: 7401648
+    second: walls|consoler_button034|Take 001|BaseLayer
+  - first:
+      74: 7401650
+    second: walls|consoler_button035|Take 001|BaseLayer
+  - first:
+      74: 7401652
+    second: walls|consoler_button036|Take 001|BaseLayer
+  - first:
+      74: 7401654
+    second: walls|consoler_button053|Take 001|BaseLayer
+  - first:
+      74: 7401656
+    second: walls|Cylinder01a007|Take 001|BaseLayer
+  - first:
+      74: 7401658
+    second: walls|Cylinder02fggsa007|Take 001|BaseLayer
+  - first:
+      74: 7401660
+    second: walls|Cylinder03vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7401662
+    second: walls|Cylinder04sd007|Take 001|BaseLayer.001
+  - first:
+      74: 7401664
+    second: walls|Cylinder159ass007|Take 001|BaseLayer
+  - first:
+      74: 7401666
+    second: walls|Cylinder16033d007|Take 001|BaseLayer
+  - first:
+      74: 7401668
+    second: walls|Cylinder171fddf007|Take 001|BaseLayer
+  - first:
+      74: 7401670
+    second: walls|Cylinder172vbbv007|Take 001|BaseLayer.001
+  - first:
+      74: 7401672
+    second: walls|Cylinder173assa007|Take 001|BaseLayer
+  - first:
+      74: 7401674
+    second: walls|Cylinder4541|Take 001|BaseLayer
+  - first:
+      74: 7401676
+    second: walls|Cylinder4542|Take 001|BaseLayer.001
+  - first:
+      74: 7401678
+    second: walls|Cylinder4543|Take 001|BaseLayer.001
+  - first:
+      74: 7401680
+    second: walls|Cylinder4544|Take 001|BaseLayer.001
+  - first:
+      74: 7401682
+    second: walls|Cylinder4545|Take 001|BaseLayer.001
+  - first:
+      74: 7401684
+    second: walls|Cylinder4546|Take 001|BaseLayer.001
+  - first:
+      74: 7401686
+    second: walls|Cylinder4547|Take 001|BaseLayer
+  - first:
+      74: 7401688
+    second: walls|Cylinder4548|Take 001|BaseLayer
+  - first:
+      74: 7401690
+    second: walls|Cylinder4549|Take 001|BaseLayer
+  - first:
+      74: 7401692
+    second: walls|Cylinder4550|Take 001|BaseLayer
+  - first:
+      74: 7401694
+    second: walls|Cylinder4551|Take 001|BaseLayer
+  - first:
+      74: 7401696
+    second: walls|Cylinder4552|Take 001|BaseLayer
+  - first:
+      74: 7401698
+    second: walls|Cylinder4553|Take 001|BaseLayer
+  - first:
+      74: 7401700
+    second: walls|Cylinder4554|Take 001|BaseLayer
+  - first:
+      74: 7401702
+    second: walls|Cylinder4555|Take 001|BaseLayer
+  - first:
+      74: 7401704
+    second: walls|Cylinder4556|Take 001|BaseLayer
+  - first:
+      74: 7401706
+    second: walls|Cylinder4557|Take 001|BaseLayer
+  - first:
+      74: 7401708
+    second: walls|Cylinder4558|Take 001|BaseLayer
+  - first:
+      74: 7401710
+    second: walls|Cylinder4559|Take 001|BaseLayer
+  - first:
+      74: 7401712
+    second: walls|Cylinder4560|Take 001|BaseLayer
+  - first:
+      74: 7401714
+    second: walls|Cylinder4561|Take 001|BaseLayer
+  - first:
+      74: 7401716
+    second: walls|Cylinder4562|Take 001|BaseLayer
+  - first:
+      74: 7401718
+    second: walls|Cylinder4563|Take 001|BaseLayer
+  - first:
+      74: 7401720
+    second: walls|Cylinder4564|Take 001|BaseLayer
+  - first:
+      74: 7401722
+    second: walls|Cylinder4565|Take 001|BaseLayer
+  - first:
+      74: 7401724
+    second: walls|Cylinder4566|Take 001|BaseLayer
+  - first:
+      74: 7401726
+    second: walls|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7401728
+    second: walls|Cylinder69ddssa007|Take 001|BaseLayer
+  - first:
+      74: 7401730
+    second: walls|electrical socket_incubator060|Take 001|BaseLayer
+  - first:
+      74: 7401732
+    second: walls|electrical socket_incubator061|Take 001|BaseLayer
+  - first:
+      74: 7401734
+    second: walls|electrical socket_incubator062|Take 001|BaseLayer
+  - first:
+      74: 7401736
+    second: walls|electrical socket_incubator063|Take 001|BaseLayer
+  - first:
+      74: 7401738
+    second: walls|electrical socket_incubator064|Take 001|BaseLayer
+  - first:
+      74: 7401740
+    second: walls|electrical socket_incubator065|Take 001|BaseLayer
+  - first:
+      74: 7401742
+    second: walls|electrical socket_incubator066|Take 001|BaseLayer
+  - first:
+      74: 7401744
+    second: walls|electrical socket_incubator067|Take 001|BaseLayer
+  - first:
+      74: 7401746
+    second: walls|electrical socket_incubator068|Take 001|BaseLayer
+  - first:
+      74: 7401748
+    second: walls|electrical socket_incubator069|Take 001|BaseLayer
+  - first:
+      74: 7401750
+    second: walls|electrical socket_incubator070|Take 001|BaseLayer
+  - first:
+      74: 7401752
+    second: walls|Group042|Take 001|BaseLayer.001
+  - first:
+      74: 7401754
+    second: walls|Group043|Take 001|BaseLayer
+  - first:
+      74: 7401756
+    second: walls|Group044|Take 001|BaseLayer
+  - first:
+      74: 7401758
+    second: walls|Group045|Take 001|BaseLayer
+  - first:
+      74: 7401760
+    second: walls|Group12a007|Take 001|BaseLayer
+  - first:
+      74: 7401762
+    second: walls|Group14a007|Take 001|BaseLayer
+  - first:
+      74: 7401764
+    second: walls|Helix004|Take 001|BaseLayer
+  - first:
+      74: 7401766
+    second: walls|Helix012|Take 001|BaseLayer
+  - first:
+      74: 7401768
+    second: walls|Hospital_bed_side_caps023|Take 001|BaseLayer.001
+  - first:
+      74: 7401770
+    second: walls|Infant_warmer_switch022|Take 001|BaseLayer
+  - first:
+      74: 7401772
+    second: walls|Infant_warmer_switch023|Take 001|BaseLayer
+  - first:
+      74: 7401774
+    second: walls|insuflation tube048|Take 001|BaseLayer
+  - first:
+      74: 7401776
+    second: walls|insuflation tube069|Take 001|BaseLayer
+  - first:
+      74: 7401778
+    second: walls|insuflation tube070|Take 001|BaseLayer
+  - first:
+      74: 7401780
+    second: walls|insuflation tube071|Take 001|BaseLayer
+  - first:
+      74: 7401782
+    second: walls|insuflation tube072|Take 001|BaseLayer
+  - first:
+      74: 7401784
+    second: walls|insuflation tube073|Take 001|BaseLayer
+  - first:
+      74: 7401786
+    second: walls|insuflation tube074|Take 001|BaseLayer
+  - first:
+      74: 7401788
+    second: walls|insuflation tube075|Take 001|BaseLayer
+  - first:
+      74: 7401790
+    second: walls|insuflation tube076|Take 001|BaseLayer
+  - first:
+      74: 7401792
+    second: walls|insuflation tube189|Take 001|BaseLayer
+  - first:
+      74: 7401794
+    second: walls|iv pole007|Take 001|BaseLayer
+  - first:
+      74: 7401796
+    second: walls|lamp_neon064|Take 001|BaseLayer
+  - first:
+      74: 7401798
+    second: walls|lamp_neon065|Take 001|BaseLayer
+  - first:
+      74: 7401800
+    second: walls|lamp_neon066|Take 001|BaseLayer
+  - first:
+      74: 7401802
+    second: walls|lamp_neon067|Take 001|BaseLayer
+  - first:
+      74: 7401804
+    second: walls|lamp_neon068|Take 001|BaseLayer
+  - first:
+      74: 7401806
+    second: walls|lamp_neon069|Take 001|BaseLayer
+  - first:
+      74: 7401808
+    second: walls|lamp_neon070|Take 001|BaseLayer
+  - first:
+      74: 7401810
+    second: walls|lamp_neon071|Take 001|BaseLayer
+  - first:
+      74: 7401812
+    second: walls|Line01assadss007|Take 001|BaseLayer
+  - first:
+      74: 7401814
+    second: walls|Line034|Take 001|BaseLayer
+  - first:
+      74: 7401816
+    second: walls|Line035|Take 001|BaseLayer
+  - first:
+      74: 7401818
+    second: walls|Line036|Take 001|BaseLayer
+  - first:
+      74: 7401820
+    second: walls|Line037|Take 001|BaseLayer
+  - first:
+      74: 7401822
+    second: walls|Line038|Take 001|BaseLayer
+  - first:
+      74: 7401824
+    second: walls|Line03bc007|Take 001|BaseLayer
+  - first:
+      74: 7401826
+    second: walls|Medical Console006|Take 001|BaseLayer
+  - first:
+      74: 7401828
+    second: walls|MEdicalAir001|Take 001|BaseLayer
+  - first:
+      74: 7401830
+    second: walls|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7401832
+    second: walls|monitor01_body008|Take 001|BaseLayer
+  - first:
+      74: 7401834
+    second: walls|Monitor_ax003|Take 001|BaseLayer
+  - first:
+      74: 7401836
+    second: walls|MONITOR_PIVOT001|Take 001|BaseLayer
+  - first:
+      74: 7401838
+    second: walls|monitorARM003|Take 001|BaseLayer
+  - first:
+      74: 7401840
+    second: walls|Object4479|Take 001|BaseLayer
+  - first:
+      74: 7401842
+    second: walls|Object4480|Take 001|BaseLayer
+  - first:
+      74: 7401844
+    second: walls|Object4481|Take 001|BaseLayer
+  - first:
+      74: 7401846
+    second: walls|Object4482|Take 001|BaseLayer
+  - first:
+      74: 7401848
+    second: walls|oxygen socket035|Take 001|BaseLayer
+  - first:
+      74: 7401850
+    second: walls|oxygen socket036|Take 001|BaseLayer
+  - first:
+      74: 7401852
+    second: walls|oxygen socket037|Take 001|BaseLayer
+  - first:
+      74: 7401854
+    second: walls|oxygen socket038|Take 001|BaseLayer
+  - first:
+      74: 7401856
+    second: walls|oxygen socket051|Take 001|BaseLayer
+  - first:
+      74: 7401858
+    second: walls|plugg socket046|Take 001|BaseLayer
+  - first:
+      74: 7401860
+    second: walls|plugg socket047|Take 001|BaseLayer
+  - first:
+      74: 7401862
+    second: walls|plugg socket048|Take 001|BaseLayer
+  - first:
+      74: 7401864
+    second: walls|plugg socket052|Take 001|BaseLayer
+  - first:
+      74: 7401866
+    second: walls|plugg socket053|Take 001|BaseLayer
+  - first:
+      74: 7401868
+    second: walls|plugg socket054|Take 001|BaseLayer
+  - first:
+      74: 7401870
+    second: walls|plugg socket055|Take 001|BaseLayer
+  - first:
+      74: 7401872
+    second: walls|plugg socket056|Take 001|BaseLayer
+  - first:
+      74: 7401874
+    second: walls|plugg socket057|Take 001|BaseLayer
+  - first:
+      74: 7401876
+    second: walls|socketA070|Take 001|BaseLayer
+  - first:
+      74: 7401878
+    second: walls|socketA090|Take 001|BaseLayer
+  - first:
+      74: 7401880
+    second: walls|socketA091|Take 001|BaseLayer
+  - first:
+      74: 7401882
+    second: walls|socketA092|Take 001|BaseLayer
+  - first:
+      74: 7401884
+    second: walls|socketA093|Take 001|BaseLayer
+  - first:
+      74: 7401886
+    second: walls|SocketB077|Take 001|BaseLayer
+  - first:
+      74: 7401888
+    second: walls|SocketB078|Take 001|BaseLayer
+  - first:
+      74: 7401890
+    second: walls|SocketB079|Take 001|BaseLayer
+  - first:
+      74: 7401892
+    second: walls|SocketB080|Take 001|BaseLayer
+  - first:
+      74: 7401894
+    second: walls|SocketB081|Take 001|BaseLayer
+  - first:
+      74: 7401896
+    second: walls|SocketB096|Take 001|BaseLayer
+  - first:
+      74: 7401898
+    second: walls|SocketB097|Take 001|BaseLayer
+  - first:
+      74: 7401900
+    second: walls|SocketB098|Take 001|BaseLayer
+  - first:
+      74: 7401902
+    second: walls|SocketB099|Take 001|BaseLayer
+  - first:
+      74: 7401904
+    second: walls|sockets013|Take 001|BaseLayer
+  - first:
+      74: 7401906
+    second: walls|surgical light handle039|Take 001|BaseLayer
+  - first:
+      74: 7401908
+    second: walls|switch_body_incubator104|Take 001|BaseLayer
+  - first:
+      74: 7401910
+    second: walls|switch_body_incubator105|Take 001|BaseLayer
+  - first:
+      74: 7401912
+    second: walls|switch_body_incubator106|Take 001|BaseLayer
+  - first:
+      74: 7401914
+    second: walls|switch_body_incubator107|Take 001|BaseLayer
+  - first:
+      74: 7401916
+    second: walls|switch_body_incubator108|Take 001|BaseLayer
+  - first:
+      74: 7401918
+    second: walls|switch_body_incubator109|Take 001|BaseLayer
+  - first:
+      74: 7401920
+    second: walls|switch_body_incubator110|Take 001|BaseLayer
+  - first:
+      74: 7401922
+    second: walls|switch_body_incubator111|Take 001|BaseLayer
+  - first:
+      74: 7401924
+    second: walls|switch_body_incubator112|Take 001|BaseLayer
+  - first:
+      74: 7401926
+    second: walls|switch_body_incubator113|Take 001|BaseLayer
+  - first:
+      74: 7401928
+    second: walls|switch_body_incubator114|Take 001|BaseLayer
+  - first:
+      74: 7401930
+    second: walls|switch_body_incubator115|Take 001|BaseLayer
+  - first:
+      74: 7401932
+    second: walls|switch_body_incubator116|Take 001|BaseLayer
+  - first:
+      74: 7401934
+    second: walls|switch_body_incubator117|Take 001|BaseLayer
+  - first:
+      74: 7401936
+    second: walls|switch_body_incubator118|Take 001|BaseLayer
+  - first:
+      74: 7401938
+    second: walls|switch_body_incubator164|Take 001|BaseLayer
+  - first:
+      74: 7401940
+    second: walls|switch_incubator030|Take 001|BaseLayer
+  - first:
+      74: 7401942
+    second: walls|switch_incubator031|Take 001|BaseLayer
+  - first:
+      74: 7401944
+    second: walls|switch_incubator032|Take 001|BaseLayer
+  - first:
+      74: 7401946
+    second: walls|switch_incubator033|Take 001|BaseLayer
+  - first:
+      74: 7401948
+    second: walls|switch_incubator034|Take 001|BaseLayer
+  - first:
+      74: 7401950
+    second: walls|usb slot026|Take 001|BaseLayer
+  - first:
+      74: 7401952
+    second: walls|vga slot032|Take 001|BaseLayer
+  - first:
+      74: 7401954
+    second: walls|vga slot033|Take 001|BaseLayer
+  - first:
+      74: 7401956
+    second: walls|WardConsole001|Take 001|BaseLayer
+  - first:
+      74: 7401958
+    second: walls|warmer_lamp016|Take 001|BaseLayer
+  - first:
+      74: 7401960
+    second: walls|warmer_lamp017|Take 001|BaseLayer
+  - first:
+      74: 7401962
+    second: walls|Warmer_lamp_blades016|Take 001|BaseLayer
+  - first:
+      74: 7401964
+    second: walls|Warmer_lamp_blades017|Take 001|BaseLayer
+  - first:
+      74: 7401966
+    second: walls|warmer_lamp_glass016|Take 001|BaseLayer
+  - first:
+      74: 7401968
+    second: walls|warmer_lamp_glass017|Take 001|BaseLayer
+  - first:
+      74: 7401970
+    second: walls|warmer_lamp_shade016|Take 001|BaseLayer
+  - first:
+      74: 7401972
+    second: walls|warmer_lamp_shade017|Take 001|BaseLayer
+  - first:
+      74: 7401974
+    second: walls|wheel044|Take 001|BaseLayer.001
+  - first:
+      74: 7401976
+    second: walls|wheel045|Take 001|BaseLayer.001
+  - first:
+      74: 7401978
+    second: walls|wheel046|Take 001|BaseLayer
+  - first:
+      74: 7401980
+    second: walls|wheel047|Take 001|BaseLayer
+  - first:
+      74: 7401982
+    second: walls|wheel048|Take 001|BaseLayer
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: -2942116067252177268
+    second: walls|Box847|Take 001|BaseLayer
+  - first:
+      74: 388184589423743121
+    second: walls|ceilung|Take 001|BaseLayer
+  - first:
+      74: 3591204527709531522
+    second: walls|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 6910247816290096426
+    second: walls|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7956498385635893361
+    second: walls|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 9010454336139637658
+    second: walls|Object4483|Take 001|BaseLayer
+  - first:
+      74: 5336040430608064039
+    second: walls|Object4491|Take 001|BaseLayer
+  - first:
+      74: 994172344717252498
+    second: walls|plinth 2|Take 001|BaseLayer
+  - first:
+      74: -6036959958559308238
+    second: walls|FakeWall|FakeWall|Bedside_table_blat003|Take 001|BaseLayer|Fake
+  - first:
+      74: -4720325402619684093
+    second: walls|FakeWall|FakeWall|Box847|Take 001|BaseLayer|FakeWall|Box847|Tak
+  - first:
+      74: 3168269462703883863
+    second: walls|FakeWall|FakeWall|ceilung|Take 001|BaseLayer|FakeWall|ceilung|T
+  - first:
+      74: 6230530816290471214
+    second: walls|FakeWall|FakeWall|curtain_hospital_ward|Take 001|BaseLayer|Fake
+  - first:
+      74: 8826281570204220041
+    second: walls|FakeWall|FakeWall|Cylinder4510|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: 6023065032229152811
+    second: walls|FakeWall|FakeWall|Cylinder4771|Take 001|BaseLayer|FakeWall|Cyli
+  - first:
+      74: 6455599496347488422
+    second: walls|FakeWall|FakeWall|Cylinder65ssa007|Take 001|BaseLayer|FakeWall|
+  - first:
+      74: 7619745898561180577
+    second: walls|FakeWall|FakeWall|Hospital_bed_base001|Take 001|BaseLayer|FakeW
+  - first:
+      74: 1782558317472142966
+    second: walls|FakeWall|FakeWall|Locker_top001|Take 001|BaseLayer|FakeWall|Loc
+  - first:
+      74: -8186033444436444534
+    second: walls|FakeWall|FakeWall|mirror2a|Take 001|BaseLayer|FakeWall|mirror2a
+  - first:
+      74: -7878900223427588023
+    second: walls|FakeWall|FakeWall|monitor screen002|Take 001|BaseLayer|FakeWall
+  - first:
+      74: 5823960848991639219
+    second: walls|FakeWall|FakeWall|monitor screen003|Take 001|BaseLayer|FakeWall
+  - first:
+      74: -7184036061472213192
+    second: walls|FakeWall|FakeWall|Object4483|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: -107488043281365125
+    second: walls|FakeWall|FakeWall|Object4491|Take 001|BaseLayer|FakeWall|Object
+  - first:
+      74: -2058787692551703330
+    second: walls|FakeWall|FakeWall|plinth 2|Take 001|BaseLayer|FakeWall|plinth 2
+  - first:
+      74: 46780767667887985
+    second: walls|FakeWall|FakeWall|ventilator screen002|Take 001|BaseLayer|FakeW
+  - first:
+      74: -7331990829717922065
+    second: 'walls|FakeWall|FakeWall|walls|Take 001|BaseLayer|FakeWall|walls|Take '
+  - first:
+      74: 8371609618535875204
+    second: walls|FakeWall|FakeWall|wooden floor|Take 001|BaseLayer.001|FakeWall|
+  - first:
+      74: -4067727009389889885
+    second: walls|SideWall|SideWall|Bedside_table_blat003|Take 001|BaseLayer|Side
+  - first:
+      74: 3185402594550213950
+    second: walls|SideWall|SideWall|Box847|Take 001|BaseLayer|SideWall|Box847|Tak
+  - first:
+      74: -7273290940780133874
+    second: walls|SideWall|SideWall|ceilung|Take 001|BaseLayer|SideWall|ceilung|T
+  - first:
+      74: -2891878407946936876
+    second: walls|SideWall|SideWall|curtain_hospital_ward|Take 001|BaseLayer|Side
+  - first:
+      74: -1745686305093978291
+    second: walls|SideWall|SideWall|Cylinder4510|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: -4703907872533129615
+    second: walls|SideWall|SideWall|Cylinder4771|Take 001|BaseLayer|SideWall|Cyli
+  - first:
+      74: -2202545938018258454
+    second: walls|SideWall|SideWall|Cylinder65ssa007|Take 001|BaseLayer|SideWall|
+  - first:
+      74: -3200980958756066043
+    second: walls|SideWall|SideWall|Hospital_bed_base001|Take 001|BaseLayer|SideW
+  - first:
+      74: -1098760395102365237
+    second: walls|SideWall|SideWall|Locker_top001|Take 001|BaseLayer|SideWall|Loc
+  - first:
+      74: 7732889351520039408
+    second: walls|SideWall|SideWall|mirror2a|Take 001|BaseLayer|SideWall|mirror2a
+  - first:
+      74: -7274671065008081552
+    second: walls|SideWall|SideWall|monitor screen002|Take 001|BaseLayer|SideWall
+  - first:
+      74: 2854407795029271148
+    second: walls|SideWall|SideWall|monitor screen003|Take 001|BaseLayer|SideWall
+  - first:
+      74: 9048222209904347163
+    second: walls|SideWall|SideWall|Object4483|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: -8520583016547972363
+    second: walls|SideWall|SideWall|Object4491|Take 001|BaseLayer|SideWall|Object
+  - first:
+      74: 436184027977303113
+    second: walls|SideWall|SideWall|plinth 2|Take 001|BaseLayer|SideWall|plinth 2
+  - first:
+      74: 1766911541838137488
+    second: walls|SideWall|SideWall|ventilator screen002|Take 001|BaseLayer|SideW
+  - first:
+      74: -6955585224650821949
+    second: 'walls|SideWall|SideWall|walls|Take 001|BaseLayer|SideWall|walls|Take '
+  - first:
+      74: 6195695559071951579
+    second: walls|SideWall|SideWall|wooden floor|Take 001|BaseLayer.001|SideWall|
+  - first:
+      74: -5003679995163743398
+    second: walls|walls|walls|Bedside_table_blat003|Take 001|BaseLayer|walls|Beds
+  - first:
+      74: -4075534562839038661
+    second: walls|walls|walls|Box847|Take 001|BaseLayer|walls|Box847|Take 001|Bas
+  - first:
+      74: -7537238109660936151
+    second: walls|walls|walls|ceilung|Take 001|BaseLayer|walls|ceilung|Take 001|B
+  - first:
+      74: 5555235304020438528
+    second: walls|walls|walls|curtain_hospital_ward|Take 001|BaseLayer|walls|curt
+  - first:
+      74: -7635908132845835
+    second: walls|walls|walls|Cylinder4510|Take 001|BaseLayer.001|walls|Cylinder4
+  - first:
+      74: -6645229906096213048
+    second: walls|walls|walls|Cylinder4771|Take 001|BaseLayer|walls|Cylinder4771|
+  - first:
+      74: -7478872821388813973
+    second: walls|walls|walls|Cylinder65ssa007|Take 001|BaseLayer|walls|Cylinder6
+  - first:
+      74: -2620683596036066547
+    second: walls|walls|walls|Hospital_bed_base001|Take 001|BaseLayer|walls|Hospi
+  - first:
+      74: -8595683091601118458
+    second: walls|walls|walls|Locker_top001|Take 001|BaseLayer|walls|Locker_top00
+  - first:
+      74: 130161871196513544
+    second: walls|walls|walls|mirror2a|Take 001|BaseLayer|walls|mirror2a|Take 001
+  - first:
+      74: 7473277304106796758
+    second: 'walls|walls|walls|monitor screen002|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: -660534479374074883
+    second: 'walls|walls|walls|monitor screen003|Take 001|BaseLayer|walls|monitor '
+  - first:
+      74: 2195481162159352574
+    second: walls|walls|walls|Object4483|Take 001|BaseLayer|walls|Object4483|Take
+  - first:
+      74: 3456598960701429170
+    second: walls|walls|walls|Object4491|Take 001|BaseLayer|walls|Object4491|Take
+  - first:
+      74: 7068353545718859559
+    second: walls|walls|walls|plinth 2|Take 001|BaseLayer|walls|plinth 2|Take 001
+  - first:
+      74: -5133057740352148179
+    second: walls|walls|walls|ventilator screen002|Take 001|BaseLayer|walls|venti
+  - first:
+      74: -1774433070746961732
+    second: walls|walls|walls|walls|Take 001|BaseLayer|walls|walls|Take 001|BaseL
+  - first:
+      74: -7249645684520924639
+    second: walls|walls|walls|wooden floor|Take 001|BaseLayer.001|walls|wooden fl
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

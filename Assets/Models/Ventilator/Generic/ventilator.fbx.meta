@@ -1,0 +1,2651 @@
+fileFormatVersion: 2
+guid: c80332c63ad4fa14e8acfe78df298455
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: VEntilator Display
+  - first:
+      21: 2100002
+    second: bluePlasticVentilator
+  - first:
+      21: 2100004
+    second: Light_blue
+  - first:
+      21: 2100006
+    second: Chrome.003
+  - first:
+      21: 2100008
+    second: incubator black plastic.004
+  - first:
+      21: 2100010
+    second: surgical light black plastic.001
+  - first:
+      21: 2100012
+    second: white_ plastic_monitor
+  - first:
+      21: 2100014
+    second: Aluminum_matted.004
+  - first:
+      21: 2100016
+    second: surgical yellow
+  - first:
+      21: 2100018
+    second: white_ plastic_hospital_bed.003
+  - first:
+      21: 2100020
+    second: surgical blue plastic.000
+  - first:
+      21: 2100022
+    second: surgical white
+  - first:
+      21: 2100024
+    second: Rubber_clean
+  - first:
+      21: 2100026
+    second: ventilator controls2
+  - first:
+      21: 2100028
+    second: Glass
+  - first:
+      21: 2100030
+    second: Plastic_Translucent_White
+  - first:
+      21: 2100032
+    second: Plastic_Translucent_Red
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: ventilator screen002
+  - first:
+      74: 7400000
+    second: ventilator screen002|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: ventilator screen002|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: ventilator screen002|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: ventilator screen002|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: ventilator screen002|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: ventilator screen002|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: ventilator screen002|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: ventilator screen002|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: ventilator screen002|Back_display_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: ventilator screen002|bedside_table003|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: ventilator screen002|bedside_table_adjuster003|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: ventilator screen002|bedside_table_adjuster_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: ventilator screen002|Bedside_table_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: ventilator screen002|Bedside_table_axis_support005|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: ventilator screen002|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: ventilator screen002|Bedside_table_border003|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: ventilator screen002|Bedside_table_borderedge003|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: ventilator screen002|bedside_table_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: ventilator screen002|bedside_table_handle_support003|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: ventilator screen002|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: ventilator screen002|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: ventilator screen002|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: ventilator screen002|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: ventilator screen002|Bedside_table_support010|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: ventilator screen002|Bedside_table_support011|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: ventilator screen002|Bedside_table_support012|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: ventilator screen002|Bedside_table_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: ventilator screen002|Bedside_table_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: ventilator screen002|Bedside_table_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: ventilator screen002|Bedside_table_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: ventilator screen002|Blue_light001|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: ventilator screen002|bolt424|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: ventilator screen002|bolt425|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: ventilator screen002|bolt426|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: ventilator screen002|bolt427|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: ventilator screen002|bolt431|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: ventilator screen002|bolt503|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: ventilator screen002|bolt504|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: ventilator screen002|bolt505|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: ventilator screen002|bolt506|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: ventilator screen002|Box206b007|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: ventilator screen002|Box276|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: ventilator screen002|Box276|Take 001|BaseLayer.001
+  - first:
+      74: 7400086
+    second: ventilator screen002|Box277|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: ventilator screen002|Box278|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: ventilator screen002|Box278|Take 001|BaseLayer.001
+  - first:
+      74: 7400092
+    second: ventilator screen002|Box279|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: ventilator screen002|Box279|Take 001|BaseLayer.001
+  - first:
+      74: 7400096
+    second: ventilator screen002|Box280|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: ventilator screen002|bzt040|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: ventilator screen002|bzt040|Take 001|BaseLayer.001
+  - first:
+      74: 7400102
+    second: ventilator screen002|bzt041|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: ventilator screen002|bzt041|Take 001|BaseLayer.001
+  - first:
+      74: 7400106
+    second: ventilator screen002|bzt042|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: ventilator screen002|bzt042|Take 001|BaseLayer.001
+  - first:
+      74: 7400110
+    second: ventilator screen002|bzt043|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: ventilator screen002|bzt043|Take 001|BaseLayer.001
+  - first:
+      74: 7400114
+    second: ventilator screen002|bzt044|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: ventilator screen002|bzt044|Take 001|BaseLayer.001
+  - first:
+      74: 7400118
+    second: ventilator screen002|Circle007|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: ventilator screen002|Circle007|Take 001|BaseLayer.001
+  - first:
+      74: 7400122
+    second: ventilator screen002|Clay_Paky_case001|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: ventilator screen002|Control_button001|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: ventilator screen002|cooler001|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: ventilator screen002|Cooler_fan002|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: ventilator screen002|Cooler_propeller012|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: ventilator screen002|Cooler_propeller013|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: ventilator screen002|Cooler_propeller014|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: ventilator screen002|Cooler_propeller015|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: ventilator screen002|Cooler_propeller016|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: ventilator screen002|Cooler_propeller017|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: ventilator screen002|curtain_hospital_ward001|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: ventilator screen002|curtain_hospital_ward007|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: ventilator screen002|curtain_hospital_ward008|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: ventilator screen002|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: ventilator screen002|Cylinder04sd007|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: ventilator screen002|Cylinder172vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: ventilator screen002|Cylinder4509|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: ventilator screen002|Cylinder4510|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: ventilator screen002|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400160
+    second: ventilator screen002|Cylinder4511|Take 001|BaseLayer
+  - first:
+      74: 7400162
+    second: ventilator screen002|Cylinder4511|Take 001|BaseLayer.001
+  - first:
+      74: 7400164
+    second: ventilator screen002|Cylinder4512|Take 001|BaseLayer
+  - first:
+      74: 7400166
+    second: ventilator screen002|Cylinder4512|Take 001|BaseLayer.001
+  - first:
+      74: 7400168
+    second: ventilator screen002|Cylinder4513|Take 001|BaseLayer
+  - first:
+      74: 7400170
+    second: ventilator screen002|Cylinder4513|Take 001|BaseLayer.001
+  - first:
+      74: 7400172
+    second: ventilator screen002|Cylinder4514|Take 001|BaseLayer
+  - first:
+      74: 7400174
+    second: ventilator screen002|Cylinder4514|Take 001|BaseLayer.001
+  - first:
+      74: 7400176
+    second: ventilator screen002|Cylinder4515|Take 001|BaseLayer
+  - first:
+      74: 7400178
+    second: ventilator screen002|Cylinder4515|Take 001|BaseLayer.001
+  - first:
+      74: 7400180
+    second: ventilator screen002|Cylinder4516|Take 001|BaseLayer
+  - first:
+      74: 7400182
+    second: ventilator screen002|Cylinder4516|Take 001|BaseLayer.001
+  - first:
+      74: 7400184
+    second: ventilator screen002|Cylinder4517|Take 001|BaseLayer
+  - first:
+      74: 7400186
+    second: ventilator screen002|Cylinder4517|Take 001|BaseLayer.001
+  - first:
+      74: 7400188
+    second: ventilator screen002|Cylinder4518|Take 001|BaseLayer
+  - first:
+      74: 7400190
+    second: ventilator screen002|Cylinder4518|Take 001|BaseLayer.001
+  - first:
+      74: 7400192
+    second: ventilator screen002|Cylinder4519|Take 001|BaseLayer
+  - first:
+      74: 7400194
+    second: ventilator screen002|Cylinder4519|Take 001|BaseLayer.001
+  - first:
+      74: 7400196
+    second: ventilator screen002|Cylinder4520|Take 001|BaseLayer
+  - first:
+      74: 7400198
+    second: ventilator screen002|Cylinder4520|Take 001|BaseLayer.001
+  - first:
+      74: 7400200
+    second: ventilator screen002|Cylinder4521|Take 001|BaseLayer
+  - first:
+      74: 7400202
+    second: ventilator screen002|Cylinder4522|Take 001|BaseLayer
+  - first:
+      74: 7400204
+    second: ventilator screen002|Cylinder4522|Take 001|BaseLayer.001
+  - first:
+      74: 7400206
+    second: ventilator screen002|Cylinder4523|Take 001|BaseLayer
+  - first:
+      74: 7400208
+    second: ventilator screen002|Cylinder4524|Take 001|BaseLayer
+  - first:
+      74: 7400210
+    second: ventilator screen002|Cylinder4525|Take 001|BaseLayer
+  - first:
+      74: 7400212
+    second: ventilator screen002|Cylinder4525|Take 001|BaseLayer.001
+  - first:
+      74: 7400214
+    second: ventilator screen002|Cylinder4526|Take 001|BaseLayer
+  - first:
+      74: 7400216
+    second: ventilator screen002|Cylinder4526|Take 001|BaseLayer.001
+  - first:
+      74: 7400218
+    second: ventilator screen002|Cylinder4527|Take 001|BaseLayer
+  - first:
+      74: 7400220
+    second: ventilator screen002|Cylinder4527|Take 001|BaseLayer.001
+  - first:
+      74: 7400222
+    second: ventilator screen002|Cylinder4528|Take 001|BaseLayer
+  - first:
+      74: 7400224
+    second: ventilator screen002|Cylinder4528|Take 001|BaseLayer.001
+  - first:
+      74: 7400226
+    second: ventilator screen002|Cylinder4529|Take 001|BaseLayer
+  - first:
+      74: 7400228
+    second: ventilator screen002|Cylinder4529|Take 001|BaseLayer.001
+  - first:
+      74: 7400230
+    second: ventilator screen002|Cylinder4530|Take 001|BaseLayer
+  - first:
+      74: 7400232
+    second: ventilator screen002|Cylinder4530|Take 001|BaseLayer.001
+  - first:
+      74: 7400234
+    second: ventilator screen002|Cylinder4531|Take 001|BaseLayer
+  - first:
+      74: 7400236
+    second: ventilator screen002|Cylinder4531|Take 001|BaseLayer.001
+  - first:
+      74: 7400238
+    second: ventilator screen002|Cylinder4532|Take 001|BaseLayer
+  - first:
+      74: 7400240
+    second: ventilator screen002|Cylinder4532|Take 001|BaseLayer.001
+  - first:
+      74: 7400242
+    second: ventilator screen002|Cylinder4533|Take 001|BaseLayer
+  - first:
+      74: 7400244
+    second: ventilator screen002|Cylinder4533|Take 001|BaseLayer.001
+  - first:
+      74: 7400246
+    second: ventilator screen002|Cylinder4534|Take 001|BaseLayer
+  - first:
+      74: 7400248
+    second: ventilator screen002|Cylinder4534|Take 001|BaseLayer.001
+  - first:
+      74: 7400250
+    second: ventilator screen002|Cylinder4542|Take 001|BaseLayer
+  - first:
+      74: 7400252
+    second: ventilator screen002|Cylinder4543|Take 001|BaseLayer
+  - first:
+      74: 7400254
+    second: ventilator screen002|Cylinder4544|Take 001|BaseLayer
+  - first:
+      74: 7400256
+    second: ventilator screen002|Cylinder4545|Take 001|BaseLayer
+  - first:
+      74: 7400258
+    second: ventilator screen002|Cylinder4546|Take 001|BaseLayer
+  - first:
+      74: 7400260
+    second: ventilator screen002|Cylinder4769|Take 001|BaseLayer
+  - first:
+      74: 7400262
+    second: ventilator screen002|Cylinder4770|Take 001|BaseLayer
+  - first:
+      74: 7400264
+    second: ventilator screen002|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+  - first:
+      74: 7400266
+    second: ventilator screen002|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+  - first:
+      74: 7400268
+    second: ventilator screen002|Display_body001|Take 001|BaseLayer
+  - first:
+      74: 7400270
+    second: ventilator screen002|doctor_stool005|Take 001|BaseLayer
+  - first:
+      74: 7400272
+    second: ventilator screen002|doctor_stool005|Take 001|BaseLayer.001
+  - first:
+      74: 7400274
+    second: ventilator screen002|Group042|Take 001|BaseLayer
+  - first:
+      74: 7400276
+    second: ventilator screen002|Hospital Bed001|Take 001|BaseLayer
+  - first:
+      74: 7400278
+    second: ventilator screen002|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400280
+    second: ventilator screen002|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+  - first:
+      74: 7400282
+    second: ventilator screen002|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400284
+    second: ventilator screen002|Hospital_bed_base_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400286
+    second: ventilator screen002|Hospital_bed_base_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400288
+    second: ventilator screen002|Hospital_bed_base_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400290
+    second: ventilator screen002|Hospital_bed_base_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400292
+    second: ventilator screen002|Hospital_bed_bumper007|Take 001|BaseLayer
+  - first:
+      74: 7400294
+    second: ventilator screen002|Hospital_bed_bumper008|Take 001|BaseLayer
+  - first:
+      74: 7400296
+    second: ventilator screen002|Hospital_bed_bumper009|Take 001|BaseLayer
+  - first:
+      74: 7400298
+    second: ventilator screen002|Hospital_bed_bumper010|Take 001|BaseLayer
+  - first:
+      74: 7400300
+    second: ventilator screen002|Hospital_bed_button012|Take 001|BaseLayer
+  - first:
+      74: 7400302
+    second: ventilator screen002|Hospital_bed_button013|Take 001|BaseLayer
+  - first:
+      74: 7400304
+    second: ventilator screen002|Hospital_bed_button_large005|Take 001|BaseLayer
+  - first:
+      74: 7400306
+    second: ventilator screen002|Hospital_bed_button_large006|Take 001|BaseLayer
+  - first:
+      74: 7400308
+    second: ventilator screen002|Hospital_bed_footpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400310
+    second: ventilator screen002|Hospital_bed_framepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400312
+    second: ventilator screen002|Hospital_bed_framepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400314
+    second: ventilator screen002|Hospital_bed_headpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400316
+    second: ventilator screen002|Hospital_bed_leg003|Take 001|BaseLayer
+  - first:
+      74: 7400318
+    second: ventilator screen002|Hospital_bed_leg004|Take 001|BaseLayer
+  - first:
+      74: 7400320
+    second: ventilator screen002|Hospital_bed_leg005|Take 001|BaseLayer
+  - first:
+      74: 7400322
+    second: ventilator screen002|Hospital_bed_matress001|Take 001|BaseLayer
+  - first:
+      74: 7400324
+    second: ventilator screen002|Hospital_bed_pedal064|Take 001|BaseLayer
+  - first:
+      74: 7400326
+    second: ventilator screen002|Hospital_bed_pedal065|Take 001|BaseLayer
+  - first:
+      74: 7400328
+    second: ventilator screen002|Hospital_bed_pedal066|Take 001|BaseLayer
+  - first:
+      74: 7400330
+    second: ventilator screen002|Hospital_bed_pedal067|Take 001|BaseLayer
+  - first:
+      74: 7400332
+    second: ventilator screen002|Hospital_bed_pedal068|Take 001|BaseLayer
+  - first:
+      74: 7400334
+    second: ventilator screen002|Hospital_bed_pedal069|Take 001|BaseLayer
+  - first:
+      74: 7400336
+    second: ventilator screen002|Hospital_bed_pedal070|Take 001|BaseLayer
+  - first:
+      74: 7400338
+    second: ventilator screen002|Hospital_bed_pedal2a001|Take 001|BaseLayer
+  - first:
+      74: 7400340
+    second: ventilator screen002|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+  - first:
+      74: 7400342
+    second: ventilator screen002|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+  - first:
+      74: 7400344
+    second: ventilator screen002|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+  - first:
+      74: 7400346
+    second: ventilator screen002|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+  - first:
+      74: 7400348
+    second: ventilator screen002|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+  - first:
+      74: 7400350
+    second: ventilator screen002|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+  - first:
+      74: 7400352
+    second: ventilator screen002|Hospital_bed_pedals001|Take 001|BaseLayer
+  - first:
+      74: 7400354
+    second: ventilator screen002|Hospital_bed_piston006|Take 001|BaseLayer
+  - first:
+      74: 7400356
+    second: ventilator screen002|Hospital_bed_piston007|Take 001|BaseLayer
+  - first:
+      74: 7400358
+    second: ventilator screen002|Hospital_bed_piston008|Take 001|BaseLayer
+  - first:
+      74: 7400360
+    second: ventilator screen002|Hospital_bed_piston009|Take 001|BaseLayer
+  - first:
+      74: 7400362
+    second: ventilator screen002|Hospital_bed_piston010|Take 001|BaseLayer
+  - first:
+      74: 7400364
+    second: ventilator screen002|Hospital_bed_piston011|Take 001|BaseLayer
+  - first:
+      74: 7400366
+    second: ventilator screen002|hospital_bed_piston_cap030|Take 001|BaseLayer
+  - first:
+      74: 7400368
+    second: ventilator screen002|hospital_bed_piston_cap031|Take 001|BaseLayer
+  - first:
+      74: 7400370
+    second: ventilator screen002|hospital_bed_piston_cap032|Take 001|BaseLayer
+  - first:
+      74: 7400372
+    second: ventilator screen002|hospital_bed_piston_cap033|Take 001|BaseLayer
+  - first:
+      74: 7400374
+    second: ventilator screen002|hospital_bed_piston_cap034|Take 001|BaseLayer
+  - first:
+      74: 7400376
+    second: ventilator screen002|hospital_bed_piston_cap035|Take 001|BaseLayer
+  - first:
+      74: 7400378
+    second: ventilator screen002|hospital_bed_piston_cap036|Take 001|BaseLayer
+  - first:
+      74: 7400380
+    second: ventilator screen002|hospital_bed_piston_cap037|Take 001|BaseLayer
+  - first:
+      74: 7400382
+    second: ventilator screen002|hospital_bed_piston_cap038|Take 001|BaseLayer
+  - first:
+      74: 7400384
+    second: ventilator screen002|hospital_bed_piston_cap039|Take 001|BaseLayer
+  - first:
+      74: 7400386
+    second: ventilator screen002|hospital_bed_piston_cap040|Take 001|BaseLayer
+  - first:
+      74: 7400388
+    second: ventilator screen002|hospital_bed_piston_cap041|Take 001|BaseLayer
+  - first:
+      74: 7400390
+    second: ventilator screen002|hospital_bed_piston_cap042|Take 001|BaseLayer
+  - first:
+      74: 7400392
+    second: ventilator screen002|hospital_bed_piston_cap043|Take 001|BaseLayer
+  - first:
+      74: 7400394
+    second: ventilator screen002|hospital_bed_piston_cap044|Take 001|BaseLayer
+  - first:
+      74: 7400396
+    second: ventilator screen002|hospital_bed_piston_cap045|Take 001|BaseLayer
+  - first:
+      74: 7400398
+    second: ventilator screen002|hospital_bed_piston_cap046|Take 001|BaseLayer
+  - first:
+      74: 7400400
+    second: ventilator screen002|hospital_bed_piston_cap047|Take 001|BaseLayer
+  - first:
+      74: 7400402
+    second: ventilator screen002|hospital_bed_piston_cap048|Take 001|BaseLayer
+  - first:
+      74: 7400404
+    second: ventilator screen002|hospital_bed_piston_cap049|Take 001|BaseLayer
+  - first:
+      74: 7400406
+    second: ventilator screen002|hospital_bed_piston_cap050|Take 001|BaseLayer
+  - first:
+      74: 7400408
+    second: ventilator screen002|hospital_bed_piston_cap051|Take 001|BaseLayer
+  - first:
+      74: 7400410
+    second: ventilator screen002|hospital_bed_piston_cap052|Take 001|BaseLayer
+  - first:
+      74: 7400412
+    second: ventilator screen002|hospital_bed_piston_cap053|Take 001|BaseLayer
+  - first:
+      74: 7400414
+    second: ventilator screen002|hospital_bed_piston_cap054|Take 001|BaseLayer
+  - first:
+      74: 7400416
+    second: ventilator screen002|hospital_bed_piston_cap055|Take 001|BaseLayer
+  - first:
+      74: 7400418
+    second: ventilator screen002|hospital_bed_piston_cap056|Take 001|BaseLayer
+  - first:
+      74: 7400420
+    second: ventilator screen002|hospital_bed_piston_cap057|Take 001|BaseLayer
+  - first:
+      74: 7400422
+    second: ventilator screen002|hospital_bed_piston_cap058|Take 001|BaseLayer
+  - first:
+      74: 7400424
+    second: ventilator screen002|hospital_bed_piston_cap059|Take 001|BaseLayer
+  - first:
+      74: 7400426
+    second: ventilator screen002|Hospital_bed_pistons002|Take 001|BaseLayer
+  - first:
+      74: 7400428
+    second: ventilator screen002|Hospital_bed_pistons2a001|Take 001|BaseLayer
+  - first:
+      74: 7400430
+    second: ventilator screen002|Hospital_bed_pole003|Take 001|BaseLayer
+  - first:
+      74: 7400432
+    second: ventilator screen002|Hospital_bed_pole004|Take 001|BaseLayer
+  - first:
+      74: 7400434
+    second: ventilator screen002|Hospital_bed_pole005|Take 001|BaseLayer
+  - first:
+      74: 7400436
+    second: ventilator screen002|Hospital_bed_pole_support006|Take 001|BaseLayer
+  - first:
+      74: 7400438
+    second: ventilator screen002|Hospital_bed_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400440
+    second: ventilator screen002|Hospital_bed_pole_support008|Take 001|BaseLayer
+  - first:
+      74: 7400442
+    second: ventilator screen002|Hospital_bed_pole_support009|Take 001|BaseLayer
+  - first:
+      74: 7400444
+    second: ventilator screen002|Hospital_bed_pole_support010|Take 001|BaseLayer
+  - first:
+      74: 7400446
+    second: ventilator screen002|Hospital_bed_pole_support011|Take 001|BaseLayer
+  - first:
+      74: 7400448
+    second: ventilator screen002|Hospital_bed_side_caps013|Take 001|BaseLayer
+  - first:
+      74: 7400450
+    second: ventilator screen002|Hospital_bed_side_caps014|Take 001|BaseLayer
+  - first:
+      74: 7400452
+    second: ventilator screen002|Hospital_bed_side_caps015|Take 001|BaseLayer
+  - first:
+      74: 7400454
+    second: ventilator screen002|Hospital_bed_side_caps016|Take 001|BaseLayer
+  - first:
+      74: 7400456
+    second: ventilator screen002|Hospital_bed_side_caps017|Take 001|BaseLayer
+  - first:
+      74: 7400458
+    second: ventilator screen002|Hospital_bed_side_caps018|Take 001|BaseLayer
+  - first:
+      74: 7400460
+    second: ventilator screen002|Hospital_bed_side_caps019|Take 001|BaseLayer
+  - first:
+      74: 7400462
+    second: ventilator screen002|Hospital_bed_side_caps020|Take 001|BaseLayer
+  - first:
+      74: 7400464
+    second: ventilator screen002|Hospital_bed_side_caps021|Take 001|BaseLayer
+  - first:
+      74: 7400466
+    second: ventilator screen002|Hospital_bed_side_caps022|Take 001|BaseLayer
+  - first:
+      74: 7400468
+    second: ventilator screen002|Hospital_bed_side_caps023|Take 001|BaseLayer
+  - first:
+      74: 7400470
+    second: ventilator screen002|Hospital_bed_side_caps024|Take 001|BaseLayer
+  - first:
+      74: 7400472
+    second: ventilator screen002|Hospital_bed_side_caps025|Take 001|BaseLayer
+  - first:
+      74: 7400474
+    second: ventilator screen002|Hospital_bed_side_hinge008|Take 001|BaseLayer
+  - first:
+      74: 7400476
+    second: ventilator screen002|Hospital_bed_side_hinge009|Take 001|BaseLayer
+  - first:
+      74: 7400478
+    second: ventilator screen002|Hospital_bed_side_hinge010|Take 001|BaseLayer
+  - first:
+      74: 7400480
+    second: ventilator screen002|Hospital_bed_side_hinge011|Take 001|BaseLayer
+  - first:
+      74: 7400482
+    second: ventilator screen002|Hospital_bed_side_hinge012|Take 001|BaseLayer
+  - first:
+      74: 7400484
+    second: ventilator screen002|Hospital_bed_side_hinge013|Take 001|BaseLayer
+  - first:
+      74: 7400486
+    second: ventilator screen002|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400488
+    second: ventilator screen002|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400490
+    second: ventilator screen002|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+  - first:
+      74: 7400492
+    second: ventilator screen002|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+  - first:
+      74: 7400494
+    second: ventilator screen002|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+  - first:
+      74: 7400496
+    second: ventilator screen002|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+  - first:
+      74: 7400498
+    second: ventilator screen002|Hospital_bed_sidepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400500
+    second: ventilator screen002|Hospital_bed_sidepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400502
+    second: ventilator screen002|Hospital_bed_sides001|Take 001|BaseLayer
+  - first:
+      74: 7400504
+    second: ventilator screen002|Hospital_bed_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400506
+    second: ventilator screen002|Hospital_bed_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400508
+    second: ventilator screen002|Hospital_bed_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400510
+    second: ventilator screen002|Hospital_bed_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400512
+    second: ventilator screen002|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400514
+    second: ventilator screen002|humidifier001|Take 001|BaseLayer
+  - first:
+      74: 7400516
+    second: ventilator screen002|insuflation tube040|Take 001|BaseLayer
+  - first:
+      74: 7400518
+    second: ventilator screen002|insuflation tube041|Take 001|BaseLayer
+  - first:
+      74: 7400520
+    second: ventilator screen002|insuflation tube042|Take 001|BaseLayer
+  - first:
+      74: 7400522
+    second: ventilator screen002|insuflation tube043|Take 001|BaseLayer
+  - first:
+      74: 7400524
+    second: ventilator screen002|insuflation tube044|Take 001|BaseLayer
+  - first:
+      74: 7400526
+    second: ventilator screen002|insuflation tube045|Take 001|BaseLayer
+  - first:
+      74: 7400528
+    second: ventilator screen002|insuflation tube046|Take 001|BaseLayer
+  - first:
+      74: 7400530
+    second: ventilator screen002|insuflation tube047|Take 001|BaseLayer
+  - first:
+      74: 7400532
+    second: ventilator screen002|Line033|Take 001|BaseLayer
+  - first:
+      74: 7400534
+    second: ventilator screen002|liquid003|Take 001|BaseLayer
+  - first:
+      74: 7400536
+    second: ventilator screen002|liquid004|Take 001|BaseLayer
+  - first:
+      74: 7400538
+    second: ventilator screen002|Locker_tray001|Take 001|BaseLayer
+  - first:
+      74: 7400540
+    second: ventilator screen002|medicine bottle 01 cap035|Take 001|BaseLayer
+  - first:
+      74: 7400542
+    second: ventilator screen002|medicine bottle 01 cap036|Take 001|BaseLayer
+  - first:
+      74: 7400544
+    second: ventilator screen002|medicine bottle 01 cap037|Take 001|BaseLayer
+  - first:
+      74: 7400546
+    second: ventilator screen002|medicine bottle 02_ut002|Take 001|BaseLayer
+  - first:
+      74: 7400548
+    second: ventilator screen002|medicine bottle 037|Take 001|BaseLayer
+  - first:
+      74: 7400550
+    second: ventilator screen002|medicine bottle 03_v002|Take 001|BaseLayer
+  - first:
+      74: 7400552
+    second: ventilator screen002|medicine box051|Take 001|BaseLayer
+  - first:
+      74: 7400554
+    second: ventilator screen002|Mobile_trolley001|Take 001|BaseLayer
+  - first:
+      74: 7400556
+    second: ventilator screen002|Monitor_ax002|Take 001|BaseLayer
+  - first:
+      74: 7400558
+    second: ventilator screen002|mufa albastra017|Take 001|BaseLayer
+  - first:
+      74: 7400560
+    second: ventilator screen002|mufaalbastra013|Take 001|BaseLayer
+  - first:
+      74: 7400562
+    second: ventilator screen002|Object4468|Take 001|BaseLayer
+  - first:
+      74: 7400564
+    second: ventilator screen002|Object4469|Take 001|BaseLayer
+  - first:
+      74: 7400566
+    second: ventilator screen002|Object4470|Take 001|BaseLayer
+  - first:
+      74: 7400568
+    second: ventilator screen002|Object4471|Take 001|BaseLayer
+  - first:
+      74: 7400570
+    second: ventilator screen002|Object4472|Take 001|BaseLayer
+  - first:
+      74: 7400572
+    second: ventilator screen002|Object4473|Take 001|BaseLayer
+  - first:
+      74: 7400574
+    second: ventilator screen002|Object4474|Take 001|BaseLayer
+  - first:
+      74: 7400576
+    second: ventilator screen002|Object4474|Take 001|BaseLayer.001
+  - first:
+      74: 7400578
+    second: ventilator screen002|Object4475|Take 001|BaseLayer
+  - first:
+      74: 7400580
+    second: ventilator screen002|Object4475|Take 001|BaseLayer.001
+  - first:
+      74: 7400582
+    second: ventilator screen002|Object4476|Take 001|BaseLayer
+  - first:
+      74: 7400584
+    second: ventilator screen002|Object4476|Take 001|BaseLayer.001
+  - first:
+      74: 7400586
+    second: ventilator screen002|Object4477|Take 001|BaseLayer
+  - first:
+      74: 7400588
+    second: ventilator screen002|Object4477|Take 001|BaseLayer.001
+  - first:
+      74: 7400590
+    second: ventilator screen002|Object4478|Take 001|BaseLayer
+  - first:
+      74: 7400592
+    second: ventilator screen002|Object4478|Take 001|BaseLayer.001
+  - first:
+      74: 7400594
+    second: ventilator screen002|padding_hospital_bed_panels004|Take 001|BaseLayer
+  - first:
+      74: 7400596
+    second: ventilator screen002|padding_hospital_bed_panels005|Take 001|BaseLayer
+  - first:
+      74: 7400598
+    second: ventilator screen002|pillow001|Take 001|BaseLayer
+  - first:
+      74: 7400600
+    second: ventilator screen002|plugg socket044|Take 001|BaseLayer
+  - first:
+      74: 7400602
+    second: ventilator screen002|plugg socket045|Take 001|BaseLayer
+  - first:
+      74: 7400604
+    second: ventilator screen002|roata045|Take 001|BaseLayer
+  - first:
+      74: 7400606
+    second: ventilator screen002|roata045|Take 001|BaseLayer.001
+  - first:
+      74: 7400608
+    second: ventilator screen002|roata046|Take 001|BaseLayer
+  - first:
+      74: 7400610
+    second: ventilator screen002|roata046|Take 001|BaseLayer.001
+  - first:
+      74: 7400612
+    second: ventilator screen002|roata047|Take 001|BaseLayer
+  - first:
+      74: 7400614
+    second: ventilator screen002|roata047|Take 001|BaseLayer.001
+  - first:
+      74: 7400616
+    second: ventilator screen002|roata048|Take 001|BaseLayer
+  - first:
+      74: 7400618
+    second: ventilator screen002|roata048|Take 001|BaseLayer.001
+  - first:
+      74: 7400620
+    second: ventilator screen002|roata049|Take 001|BaseLayer
+  - first:
+      74: 7400622
+    second: ventilator screen002|roata049|Take 001|BaseLayer.001
+  - first:
+      74: 7400624
+    second: ventilator screen002|round slot016|Take 001|BaseLayer
+  - first:
+      74: 7400626
+    second: ventilator screen002|Round_button001|Take 001|BaseLayer
+  - first:
+      74: 7400628
+    second: ventilator screen002|Round_Scart008|Take 001|BaseLayer
+  - first:
+      74: 7400630
+    second: ventilator screen002|Rubber_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400632
+    second: ventilator screen002|Rubber_bumper017|Take 001|BaseLayer
+  - first:
+      74: 7400634
+    second: ventilator screen002|Rubber_bumper018|Take 001|BaseLayer
+  - first:
+      74: 7400636
+    second: ventilator screen002|Rubber_bumper019|Take 001|BaseLayer
+  - first:
+      74: 7400638
+    second: ventilator screen002|Rubber_bumper020|Take 001|BaseLayer
+  - first:
+      74: 7400640
+    second: ventilator screen002|Rubber_bumper021|Take 001|BaseLayer
+  - first:
+      74: 7400642
+    second: ventilator screen002|Rubber_bumper022|Take 001|BaseLayer
+  - first:
+      74: 7400644
+    second: ventilator screen002|Rubber_bumper023|Take 001|BaseLayer
+  - first:
+      74: 7400646
+    second: ventilator screen002|Rubber_bumper024|Take 001|BaseLayer
+  - first:
+      74: 7400648
+    second: ventilator screen002|Rubber_bumper_support008|Take 001|BaseLayer
+  - first:
+      74: 7400650
+    second: ventilator screen002|Rubber_bumper_support009|Take 001|BaseLayer
+  - first:
+      74: 7400652
+    second: ventilator screen002|Rubber_bumper_support010|Take 001|BaseLayer
+  - first:
+      74: 7400654
+    second: ventilator screen002|Rubber_bumper_support011|Take 001|BaseLayer
+  - first:
+      74: 7400656
+    second: ventilator screen002|Rubber_bumper_support012|Take 001|BaseLayer
+  - first:
+      74: 7400658
+    second: ventilator screen002|Sanitizer003|Take 001|BaseLayer
+  - first:
+      74: 7400660
+    second: ventilator screen002|Sanitizer004|Take 001|BaseLayer
+  - first:
+      74: 7400662
+    second: ventilator screen002|scart003|Take 001|BaseLayer
+  - first:
+      74: 7400664
+    second: ventilator screen002|Shape002|Take 001|BaseLayer
+  - first:
+      74: 7400666
+    second: ventilator screen002|side panel controls_head_002|Take 001|BaseLayer
+  - first:
+      74: 7400668
+    second: ventilator screen002|side panel controls_head_003|Take 001|BaseLayer
+  - first:
+      74: 7400670
+    second: ventilator screen002|side panel_head002|Take 001|BaseLayer
+  - first:
+      74: 7400672
+    second: ventilator screen002|side panel_head003|Take 001|BaseLayer
+  - first:
+      74: 7400674
+    second: ventilator screen002|Side_handle002|Take 001|BaseLayer
+  - first:
+      74: 7400676
+    second: ventilator screen002|Side_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400678
+    second: ventilator screen002|side_panel_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400680
+    second: ventilator screen002|side_panel_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400682
+    second: ventilator screen002|side_panel_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400684
+    second: ventilator screen002|side_panel_cap008|Take 001|BaseLayer
+  - first:
+      74: 7400686
+    second: ventilator screen002|socketA068|Take 001|BaseLayer
+  - first:
+      74: 7400688
+    second: ventilator screen002|socketA069|Take 001|BaseLayer
+  - first:
+      74: 7400690
+    second: ventilator screen002|SocketB076|Take 001|BaseLayer
+  - first:
+      74: 7400692
+    second: ventilator screen002|sockets012|Take 001|BaseLayer
+  - first:
+      74: 7400694
+    second: ventilator screen002|surgical light handle032|Take 001|BaseLayer
+  - first:
+      74: 7400696
+    second: ventilator screen002|surgical light handle033|Take 001|BaseLayer
+  - first:
+      74: 7400698
+    second: ventilator screen002|surgical light handle034|Take 001|BaseLayer
+  - first:
+      74: 7400700
+    second: ventilator screen002|surgical light handle035|Take 001|BaseLayer
+  - first:
+      74: 7400702
+    second: ventilator screen002|surgical light handle036|Take 001|BaseLayer
+  - first:
+      74: 7400704
+    second: ventilator screen002|surgical light handle037|Take 001|BaseLayer
+  - first:
+      74: 7400706
+    second: ventilator screen002|ventilator  bag cap001|Take 001|BaseLayer
+  - first:
+      74: 7400708
+    second: ventilator screen002|ventilator arm adjustable support001|Take 001|BaseLayer
+  - first:
+      74: 7400710
+    second: ventilator screen002|ventilator arm handle002|Take 001|BaseLayer
+  - first:
+      74: 7400712
+    second: ventilator screen002|ventilator arm segment005|Take 001|BaseLayer
+  - first:
+      74: 7400714
+    second: ventilator screen002|ventilator arm segment006|Take 001|BaseLayer
+  - first:
+      74: 7400716
+    second: ventilator screen002|ventilator arm segment007|Take 001|BaseLayer
+  - first:
+      74: 7400718
+    second: ventilator screen002|ventilator arm segment008|Take 001|BaseLayer
+  - first:
+      74: 7400720
+    second: ventilator screen002|ventilator bag001|Take 001|BaseLayer
+  - first:
+      74: 7400722
+    second: ventilator screen002|ventilator box002|Take 001|BaseLayer
+  - first:
+      74: 7400724
+    second: ventilator screen002|ventilator brushed metal002|Take 001|BaseLayer
+  - first:
+      74: 7400726
+    second: ventilator screen002|ventilator controls 003|Take 001|BaseLayer
+  - first:
+      74: 7400728
+    second: ventilator screen002|ventilator glass004|Take 001|BaseLayer
+  - first:
+      74: 7400730
+    second: ventilator screen002|ventilator glass005|Take 001|BaseLayer
+  - first:
+      74: 7400732
+    second: ventilator screen002|ventilator glass006|Take 001|BaseLayer
+  - first:
+      74: 7400734
+    second: ventilator screen002|ventilator hose cap 012|Take 001|BaseLayer
+  - first:
+      74: 7400736
+    second: ventilator screen002|ventilator hose cap 013|Take 001|BaseLayer
+  - first:
+      74: 7400738
+    second: ventilator screen002|ventilator hose cap 014|Take 001|BaseLayer
+  - first:
+      74: 7400740
+    second: ventilator screen002|ventilator hose cap 015|Take 001|BaseLayer
+  - first:
+      74: 7400742
+    second: ventilator screen002|ventilator hose cap 016|Take 001|BaseLayer
+  - first:
+      74: 7400744
+    second: ventilator screen002|ventilator hose cap 017|Take 001|BaseLayer
+  - first:
+      74: 7400746
+    second: ventilator screen002|ventilator hose cap005|Take 001|BaseLayer
+  - first:
+      74: 7400748
+    second: ventilator screen002|ventilator hose cap006|Take 001|BaseLayer
+  - first:
+      74: 7400750
+    second: ventilator screen002|ventilator hose cap007|Take 001|BaseLayer
+  - first:
+      74: 7400752
+    second: ventilator screen002|ventilator hose cap008|Take 001|BaseLayer
+  - first:
+      74: 7400754
+    second: ventilator screen002|ventilator hose output003|Take 001|BaseLayer
+  - first:
+      74: 7400756
+    second: ventilator screen002|ventilator hose output004|Take 001|BaseLayer
+  - first:
+      74: 7400758
+    second: ventilator screen002|ventilator hose support 004|Take 001|BaseLayer
+  - first:
+      74: 7400760
+    second: ventilator screen002|ventilator hose support 005|Take 001|BaseLayer
+  - first:
+      74: 7400762
+    second: ventilator screen002|ventilator hose support001|Take 001|BaseLayer
+  - first:
+      74: 7400764
+    second: ventilator screen002|ventilator large button001|Take 001|BaseLayer
+  - first:
+      74: 7400766
+    second: ventilator screen002|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7400768
+    second: ventilator screen002|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+  - first:
+      74: 7400770
+    second: ventilator screen002|Ventilator_main_body001|Take 001|BaseLayer
+  - first:
+      74: 7400772
+    second: ventilator screen002|Ventilator_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400774
+    second: ventilator screen002|Ventilator_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400776
+    second: ventilator screen002|Ventilator_wheel005|Take 001|BaseLayer.001
+  - first:
+      74: 7400778
+    second: ventilator screen002|Ventilator_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400780
+    second: ventilator screen002|Ventilator_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400782
+    second: ventilator screen002|ventilatorHose006|Take 001|BaseLayer
+  - first:
+      74: 7400784
+    second: ventilator screen002|ventilatorHose007|Take 001|BaseLayer
+  - first:
+      74: 7400786
+    second: ventilator screen002|ventilatorHose008|Take 001|BaseLayer
+  - first:
+      74: 7400788
+    second: ventilator screen002|ventilatorHose009|Take 001|BaseLayer
+  - first:
+      74: 7400790
+    second: ventilator screen002|ventilatorHose010|Take 001|BaseLayer
+  - first:
+      74: 7400792
+    second: ventilator screen002|vga slot031|Take 001|BaseLayer
+  - first:
+      74: 7400794
+    second: ventilator screen002|walls|Take 001|BaseLayer
+  - first:
+      74: 7400796
+    second: ventilator screen002|wheel044|Take 001|BaseLayer
+  - first:
+      74: 7400798
+    second: ventilator screen002|wheel045|Take 001|BaseLayer
+  - first:
+      74: 7400800
+    second: ventilator screen002|Wheel_arm009|Take 001|BaseLayer
+  - first:
+      74: 7400802
+    second: ventilator screen002|Wheel_arm010|Take 001|BaseLayer
+  - first:
+      74: 7400804
+    second: ventilator screen002|Wheel_arm010|Take 001|BaseLayer.001
+  - first:
+      74: 7400806
+    second: ventilator screen002|Wheel_arm011|Take 001|BaseLayer
+  - first:
+      74: 7400808
+    second: ventilator screen002|Wheel_arm012|Take 001|BaseLayer
+  - first:
+      74: 7400810
+    second: ventilator screen002|wheel_ax008|Take 001|BaseLayer
+  - first:
+      74: 7400812
+    second: ventilator screen002|wheel_ax009|Take 001|BaseLayer
+  - first:
+      74: 7400814
+    second: ventilator screen002|wheel_ax009|Take 001|BaseLayer.001
+  - first:
+      74: 7400816
+    second: ventilator screen002|wheel_ax010|Take 001|BaseLayer
+  - first:
+      74: 7400818
+    second: ventilator screen002|wheel_ax011|Take 001|BaseLayer
+  - first:
+      74: 7400820
+    second: ventilator screen002|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400822
+    second: ventilator screen002|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400824
+    second: ventilator screen002|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400826
+    second: ventilator screen002|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400828
+    second: ventilator screen002|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+  - first:
+      74: 7400830
+    second: ventilator screen002|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+  - first:
+      74: 7400832
+    second: ventilator screen002|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400834
+    second: ventilator screen002|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400836
+    second: ventilator screen002|Wheel_Hospital_bed118|Take 001|BaseLayer
+  - first:
+      74: 7400838
+    second: ventilator screen002|Wheel_Hospital_bed119|Take 001|BaseLayer
+  - first:
+      74: 7400840
+    second: ventilator screen002|Wheel_Hospital_bed120|Take 001|BaseLayer
+  - first:
+      74: 7400842
+    second: ventilator screen002|Wheel_Hospital_bed121|Take 001|BaseLayer
+  - first:
+      74: 7400844
+    second: ventilator screen002|Wheel_Hospital_bed122|Take 001|BaseLayer
+  - first:
+      74: 7400846
+    second: ventilator screen002|Wheel_Hospital_bed123|Take 001|BaseLayer
+  - first:
+      74: 7400848
+    second: ventilator screen002|Wheel_Hospital_bed124|Take 001|BaseLayer
+  - first:
+      74: 7400850
+    second: ventilator screen002|Wheel_Hospital_bed125|Take 001|BaseLayer
+  - first:
+      74: 7400852
+    second: ventilator screen002|Wheel_Hospital_bed126|Take 001|BaseLayer
+  - first:
+      74: 7400854
+    second: ventilator screen002|Wheel_Hospital_bed127|Take 001|BaseLayer
+  - first:
+      74: 7400856
+    second: ventilator screen002|Wheel_Hospital_bed128|Take 001|BaseLayer
+  - first:
+      74: 7400858
+    second: ventilator screen002|Wheel_Hospital_bed129|Take 001|BaseLayer
+  - first:
+      74: 7400860
+    second: ventilator screen002|Wheel_Hospital_bed130|Take 001|BaseLayer
+  - first:
+      74: 7400862
+    second: ventilator screen002|Wheel_Hospital_bed131|Take 001|BaseLayer
+  - first:
+      74: 7400864
+    second: ventilator screen002|Wheel_Hospital_bed132|Take 001|BaseLayer
+  - first:
+      74: 7400866
+    second: ventilator screen002|Wheel_Hospital_bed133|Take 001|BaseLayer
+  - first:
+      74: 7400868
+    second: ventilator screen002|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+  - first:
+      74: 7400870
+    second: ventilator screen002|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+  - first:
+      74: 7400872
+    second: ventilator screen002|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+  - first:
+      74: 7400874
+    second: ventilator screen002|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+  - first:
+      74: 7400876
+    second: ventilator screen002|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+  - first:
+      74: 7400878
+    second: ventilator screen002|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+  - first:
+      74: 7400880
+    second: ventilator screen002|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+  - first:
+      74: 7400882
+    second: ventilator screen002|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+  - first:
+      74: 7400884
+    second: ventilator screen002|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+  - first:
+      74: 7400886
+    second: ventilator screen002|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+  - first:
+      74: 7400888
+    second: ventilator screen002|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+  - first:
+      74: 7400890
+    second: ventilator screen002|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+  - first:
+      74: 7400892
+    second: ventilator screen002|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+  - first:
+      74: 7400894
+    second: ventilator screen002|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+  - first:
+      74: 7400896
+    second: ventilator screen002|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+  - first:
+      74: 7400898
+    second: ventilator screen002|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+  - first:
+      74: 7400900
+    second: ventilator screen002|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+  - first:
+      74: 7400902
+    second: ventilator screen002|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+  - first:
+      74: 7400904
+    second: ventilator screen002|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+  - first:
+      74: 7400906
+    second: ventilator screen002|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+  - first:
+      74: 7400908
+    second: ventilator screen002|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+  - first:
+      74: 7400910
+    second: ventilator screen002|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+  - first:
+      74: 7400912
+    second: ventilator screen002|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+  - first:
+      74: 7400914
+    second: ventilator screen002|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+  - first:
+      74: 7400916
+    second: ventilator screen002|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+  - first:
+      74: 7400918
+    second: ventilator screen002|wheel_rubber007|Take 001|BaseLayer
+  - first:
+      74: 7400920
+    second: ventilator screen002|wheel_rubber008|Take 001|BaseLayer
+  - first:
+      74: 7400922
+    second: ventilator screen002|wheel_rubber008|Take 001|BaseLayer.001
+  - first:
+      74: 7400924
+    second: ventilator screen002|wheel_rubber009|Take 001|BaseLayer
+  - first:
+      74: 7400926
+    second: ventilator screen002|wheel_rubber010|Take 001|BaseLayer
+  - first:
+      74: 7400928
+    second: ventilator screen002|wheelCenterPivot004|Take 001|BaseLayer
+  - first:
+      74: 7400930
+    second: ventilator screen002|wheelCenterPivot005|Take 001|BaseLayer
+  - first:
+      74: 7400932
+    second: ventilator screen002|wheelCenterPivot005|Take 001|BaseLayer.001
+  - first:
+      74: 7400934
+    second: ventilator screen002|wheelCenterPivot006|Take 001|BaseLayer
+  - first:
+      74: 7400936
+    second: ventilator screen002|wheelCenterPivot007|Take 001|BaseLayer
+  - first:
+      74: 7400938
+    second: ventilator screen002|wooden floor|Take 001|BaseLayer
+  - first:
+      74: 7400940
+    second: ventilator screen002|wooden floor|Take 001|BaseLayer.001
+  - first:
+      74: 7400942
+    second: ventilator screen002|bolt443|Take 001|BaseLayer
+  - first:
+      74: 7400944
+    second: ventilator screen002|bolt444|Take 001|BaseLayer
+  - first:
+      74: 7400946
+    second: ventilator screen002|bolt445|Take 001|BaseLayer
+  - first:
+      74: 7400948
+    second: ventilator screen002|bolt446|Take 001|BaseLayer
+  - first:
+      74: 7400950
+    second: ventilator screen002|bolt447|Take 001|BaseLayer
+  - first:
+      74: 7400952
+    second: ventilator screen002|bolt448|Take 001|BaseLayer
+  - first:
+      74: 7400954
+    second: ventilator screen002|bolt449|Take 001|BaseLayer
+  - first:
+      74: 7400956
+    second: ventilator screen002|bolt450|Take 001|BaseLayer
+  - first:
+      74: 7400958
+    second: ventilator screen002|bolt451|Take 001|BaseLayer
+  - first:
+      74: 7400960
+    second: ventilator screen002|bolt452|Take 001|BaseLayer
+  - first:
+      74: 7400962
+    second: ventilator screen002|bolt453|Take 001|BaseLayer
+  - first:
+      74: 7400964
+    second: ventilator screen002|bolt454|Take 001|BaseLayer
+  - first:
+      74: 7400966
+    second: ventilator screen002|bolt455|Take 001|BaseLayer
+  - first:
+      74: 7400968
+    second: ventilator screen002|bolt456|Take 001|BaseLayer
+  - first:
+      74: 7400970
+    second: ventilator screen002|bolt457|Take 001|BaseLayer
+  - first:
+      74: 7400972
+    second: ventilator screen002|bolt458|Take 001|BaseLayer
+  - first:
+      74: 7400974
+    second: ventilator screen002|bolt459|Take 001|BaseLayer
+  - first:
+      74: 7400976
+    second: ventilator screen002|bolt460|Take 001|BaseLayer
+  - first:
+      74: 7400978
+    second: ventilator screen002|bolt461|Take 001|BaseLayer
+  - first:
+      74: 7400980
+    second: ventilator screen002|bolt462|Take 001|BaseLayer
+  - first:
+      74: 7400982
+    second: ventilator screen002|bolt463|Take 001|BaseLayer
+  - first:
+      74: 7400984
+    second: ventilator screen002|bolt464|Take 001|BaseLayer
+  - first:
+      74: 7400986
+    second: ventilator screen002|bolt465|Take 001|BaseLayer
+  - first:
+      74: 7400988
+    second: ventilator screen002|bolt466|Take 001|BaseLayer
+  - first:
+      74: 7400990
+    second: ventilator screen002|bolt467|Take 001|BaseLayer
+  - first:
+      74: 7400992
+    second: ventilator screen002|bolt468|Take 001|BaseLayer
+  - first:
+      74: 7400994
+    second: ventilator screen002|bolt469|Take 001|BaseLayer
+  - first:
+      74: 7400996
+    second: ventilator screen002|bolt470|Take 001|BaseLayer
+  - first:
+      74: 7400998
+    second: ventilator screen002|bolt471|Take 001|BaseLayer
+  - first:
+      74: 7401000
+    second: ventilator screen002|bolt472|Take 001|BaseLayer
+  - first:
+      74: 7401002
+    second: ventilator screen002|bolt473|Take 001|BaseLayer
+  - first:
+      74: 7401004
+    second: ventilator screen002|bolt474|Take 001|BaseLayer
+  - first:
+      74: 7401006
+    second: ventilator screen002|bolt475|Take 001|BaseLayer
+  - first:
+      74: 7401008
+    second: ventilator screen002|bolt476|Take 001|BaseLayer
+  - first:
+      74: 7401010
+    second: ventilator screen002|bolt477|Take 001|BaseLayer
+  - first:
+      74: 7401012
+    second: ventilator screen002|bolt478|Take 001|BaseLayer
+  - first:
+      74: 7401014
+    second: ventilator screen002|bolt479|Take 001|BaseLayer
+  - first:
+      74: 7401016
+    second: ventilator screen002|bolt480|Take 001|BaseLayer
+  - first:
+      74: 7401018
+    second: ventilator screen002|bolt481|Take 001|BaseLayer
+  - first:
+      74: 7401020
+    second: ventilator screen002|bolt482|Take 001|BaseLayer
+  - first:
+      74: 7401022
+    second: ventilator screen002|bolt483|Take 001|BaseLayer
+  - first:
+      74: 7401024
+    second: ventilator screen002|bolt484|Take 001|BaseLayer
+  - first:
+      74: 7401026
+    second: ventilator screen002|bolt485|Take 001|BaseLayer
+  - first:
+      74: 7401028
+    second: ventilator screen002|bolt486|Take 001|BaseLayer
+  - first:
+      74: 7401030
+    second: ventilator screen002|bolt487|Take 001|BaseLayer
+  - first:
+      74: 7401032
+    second: ventilator screen002|bolt488|Take 001|BaseLayer
+  - first:
+      74: 7401034
+    second: ventilator screen002|bolt489|Take 001|BaseLayer
+  - first:
+      74: 7401036
+    second: ventilator screen002|bolt490|Take 001|BaseLayer
+  - first:
+      74: 7401038
+    second: ventilator screen002|bolt491|Take 001|BaseLayer
+  - first:
+      74: 7401040
+    second: ventilator screen002|bolt492|Take 001|BaseLayer
+  - first:
+      74: 7401042
+    second: ventilator screen002|bolt493|Take 001|BaseLayer
+  - first:
+      74: 7401044
+    second: ventilator screen002|bolt494|Take 001|BaseLayer
+  - first:
+      74: 7401046
+    second: ventilator screen002|bolt496|Take 001|BaseLayer
+  - first:
+      74: 7401048
+    second: ventilator screen002|bolt497|Take 001|BaseLayer
+  - first:
+      74: 7401050
+    second: ventilator screen002|bolt498|Take 001|BaseLayer
+  - first:
+      74: 7401052
+    second: ventilator screen002|bolt499|Take 001|BaseLayer
+  - first:
+      74: 7401054
+    second: ventilator screen002|bolt500|Take 001|BaseLayer
+  - first:
+      74: 7401056
+    second: ventilator screen002|bolt501|Take 001|BaseLayer
+  - first:
+      74: 7401058
+    second: ventilator screen002|bolt502|Take 001|BaseLayer
+  - first:
+      74: 7401060
+    second: ventilator screen002|bolt503|Take 001|BaseLayer.001
+  - first:
+      74: 7401062
+    second: ventilator screen002|bolt504|Take 001|BaseLayer.001
+  - first:
+      74: 7401064
+    second: ventilator screen002|bolt505|Take 001|BaseLayer.001
+  - first:
+      74: 7401066
+    second: ventilator screen002|bolt506|Take 001|BaseLayer.001
+  - first:
+      74: 7401068
+    second: ventilator screen002|bolt507|Take 001|BaseLayer
+  - first:
+      74: 7401070
+    second: ventilator screen002|bolt508|Take 001|BaseLayer
+  - first:
+      74: 7401072
+    second: ventilator screen002|bolt509|Take 001|BaseLayer
+  - first:
+      74: 7401074
+    second: ventilator screen002|bolt510|Take 001|BaseLayer
+  - first:
+      74: 7401076
+    second: ventilator screen002|bolt511|Take 001|BaseLayer
+  - first:
+      74: 7401078
+    second: ventilator screen002|bolt512|Take 001|BaseLayer
+  - first:
+      74: 7401080
+    second: ventilator screen002|bolt513|Take 001|BaseLayer
+  - first:
+      74: 7401082
+    second: ventilator screen002|bolt514|Take 001|BaseLayer
+  - first:
+      74: 7401084
+    second: ventilator screen002|bolt515|Take 001|BaseLayer
+  - first:
+      74: 7401086
+    second: ventilator screen002|bolt516|Take 001|BaseLayer
+  - first:
+      74: 7401088
+    second: ventilator screen002|bolt517|Take 001|BaseLayer
+  - first:
+      74: 7401090
+    second: ventilator screen002|bolt518|Take 001|BaseLayer
+  - first:
+      74: 7401092
+    second: ventilator screen002|boom segment 009|Take 001|BaseLayer
+  - first:
+      74: 7401094
+    second: ventilator screen002|boom segment 010|Take 001|BaseLayer
+  - first:
+      74: 7401096
+    second: ventilator screen002|boom segment 011|Take 001|BaseLayer
+  - first:
+      74: 7401098
+    second: ventilator screen002|BoomArm001|Take 001|BaseLayer
+  - first:
+      74: 7401100
+    second: ventilator screen002|BoomMonitor002|Take 001|BaseLayer
+  - first:
+      74: 7401102
+    second: ventilator screen002|cable005|Take 001|BaseLayer
+  - first:
+      74: 7401104
+    second: ventilator screen002|cable006|Take 001|BaseLayer
+  - first:
+      74: 7401106
+    second: ventilator screen002|cable007|Take 001|BaseLayer
+  - first:
+      74: 7401108
+    second: ventilator screen002|cable008|Take 001|BaseLayer
+  - first:
+      74: 7401110
+    second: ventilator screen002|cable009|Take 001|BaseLayer
+  - first:
+      74: 7401112
+    second: ventilator screen002|card slot001|Take 001|BaseLayer
+  - first:
+      74: 7401114
+    second: ventilator screen002|equipement carrier handle002|Take 001|BaseLayer
+  - first:
+      74: 7401116
+    second: ventilator screen002|equipment carrier body001|Take 001|BaseLayer
+  - first:
+      74: 7401118
+    second: ventilator screen002|equipment_carrier_shelf005|Take 001|BaseLayer
+  - first:
+      74: 7401120
+    second: ventilator screen002|equipment_carrier_shelf006|Take 001|BaseLayer
+  - first:
+      74: 7401122
+    second: ventilator screen002|equipment_carrier_shelf007|Take 001|BaseLayer
+  - first:
+      74: 7401124
+    second: ventilator screen002|equipment_carrier_shelf008|Take 001|BaseLayer
+  - first:
+      74: 7401126
+    second: ventilator screen002|insuflation tube049|Take 001|BaseLayer
+  - first:
+      74: 7401128
+    second: ventilator screen002|insuflation tube050|Take 001|BaseLayer
+  - first:
+      74: 7401130
+    second: ventilator screen002|insuflation tube051|Take 001|BaseLayer
+  - first:
+      74: 7401132
+    second: ventilator screen002|insuflation tube052|Take 001|BaseLayer
+  - first:
+      74: 7401134
+    second: ventilator screen002|insuflation tube053|Take 001|BaseLayer
+  - first:
+      74: 7401136
+    second: ventilator screen002|insuflation tube054|Take 001|BaseLayer
+  - first:
+      74: 7401138
+    second: ventilator screen002|insuflation tube055|Take 001|BaseLayer
+  - first:
+      74: 7401140
+    second: ventilator screen002|insuflation tube056|Take 001|BaseLayer
+  - first:
+      74: 7401142
+    second: ventilator screen002|insuflation tube057|Take 001|BaseLayer
+  - first:
+      74: 7401144
+    second: ventilator screen002|insuflation tube058|Take 001|BaseLayer
+  - first:
+      74: 7401146
+    second: ventilator screen002|insuflation tube059|Take 001|BaseLayer
+  - first:
+      74: 7401148
+    second: ventilator screen002|insuflation tube060|Take 001|BaseLayer
+  - first:
+      74: 7401150
+    second: ventilator screen002|insuflation tube061|Take 001|BaseLayer
+  - first:
+      74: 7401152
+    second: ventilator screen002|insuflation tube062|Take 001|BaseLayer
+  - first:
+      74: 7401154
+    second: ventilator screen002|insuflation tube063|Take 001|BaseLayer
+  - first:
+      74: 7401156
+    second: ventilator screen002|insuflation tube064|Take 001|BaseLayer
+  - first:
+      74: 7401158
+    second: ventilator screen002|insuflation tube065|Take 001|BaseLayer
+  - first:
+      74: 7401160
+    second: ventilator screen002|insuflation tube066|Take 001|BaseLayer
+  - first:
+      74: 7401162
+    second: ventilator screen002|insuflation tube067|Take 001|BaseLayer
+  - first:
+      74: 7401164
+    second: ventilator screen002|insuflation tube068|Take 001|BaseLayer
+  - first:
+      74: 7401166
+    second: ventilator screen002|medical device 01back005|Take 001|BaseLayer
+  - first:
+      74: 7401168
+    second: ventilator screen002|medical device 01back006|Take 001|BaseLayer
+  - first:
+      74: 7401170
+    second: ventilator screen002|medical device 01back007|Take 001|BaseLayer
+  - first:
+      74: 7401172
+    second: ventilator screen002|medical device 01back008|Take 001|BaseLayer
+  - first:
+      74: 7401174
+    second: ventilator screen002|medical device 01body015|Take 001|BaseLayer
+  - first:
+      74: 7401176
+    second: ventilator screen002|medical device 01body016|Take 001|BaseLayer
+  - first:
+      74: 7401178
+    second: ventilator screen002|medical device 01body017|Take 001|BaseLayer
+  - first:
+      74: 7401180
+    second: ventilator screen002|medical device 01body018|Take 001|BaseLayer
+  - first:
+      74: 7401182
+    second: ventilator screen002|medical device 01body019|Take 001|BaseLayer
+  - first:
+      74: 7401184
+    second: ventilator screen002|medical device 01front002|Take 001|BaseLayer
+  - first:
+      74: 7401186
+    second: ventilator screen002|medical device 01front003|Take 001|BaseLayer
+  - first:
+      74: 7401188
+    second: ventilator screen002|medical device 02front004|Take 001|BaseLayer
+  - first:
+      74: 7401190
+    second: ventilator screen002|medical device 02front005|Take 001|BaseLayer
+  - first:
+      74: 7401192
+    second: ventilator screen002|medical device side016|Take 001|BaseLayer
+  - first:
+      74: 7401194
+    second: ventilator screen002|medical device side017|Take 001|BaseLayer
+  - first:
+      74: 7401196
+    second: ventilator screen002|medical device side018|Take 001|BaseLayer
+  - first:
+      74: 7401198
+    second: ventilator screen002|medical device side019|Take 001|BaseLayer
+  - first:
+      74: 7401200
+    second: ventilator screen002|medical device side020|Take 001|BaseLayer
+  - first:
+      74: 7401202
+    second: ventilator screen002|medical device side021|Take 001|BaseLayer
+  - first:
+      74: 7401204
+    second: ventilator screen002|medical device side022|Take 001|BaseLayer
+  - first:
+      74: 7401206
+    second: ventilator screen002|medical device side023|Take 001|BaseLayer
+  - first:
+      74: 7401208
+    second: ventilator screen002|medical devices001|Take 001|BaseLayer
+  - first:
+      74: 7401210
+    second: ventilator screen002|medical_device005|Take 001|BaseLayer
+  - first:
+      74: 7401212
+    second: ventilator screen002|medical_device006|Take 001|BaseLayer
+  - first:
+      74: 7401214
+    second: ventilator screen002|medical_device007|Take 001|BaseLayer
+  - first:
+      74: 7401216
+    second: ventilator screen002|medical_device008|Take 001|BaseLayer
+  - first:
+      74: 7401218
+    second: ventilator screen002|metal ring 004|Take 001|BaseLayer
+  - first:
+      74: 7401220
+    second: ventilator screen002|metal ring 005|Take 001|BaseLayer
+  - first:
+      74: 7401222
+    second: ventilator screen002|metal ring 006|Take 001|BaseLayer
+  - first:
+      74: 7401224
+    second: ventilator screen002|monitor joint 003|Take 001|BaseLayer
+  - first:
+      74: 7401226
+    second: ventilator screen002|monitor joint 004|Take 001|BaseLayer
+  - first:
+      74: 7401228
+    second: ventilator screen002|monitor joint019|Take 001|BaseLayer
+  - first:
+      74: 7401230
+    second: ventilator screen002|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7401232
+    second: ventilator screen002|monitor01_body007|Take 001|BaseLayer
+  - first:
+      74: 7401234
+    second: ventilator screen002|monitorARM002|Take 001|BaseLayer
+  - first:
+      74: 7401236
+    second: ventilator screen002|mufa albastra018|Take 001|BaseLayer
+  - first:
+      74: 7401238
+    second: ventilator screen002|mufa albastra019|Take 001|BaseLayer
+  - first:
+      74: 7401240
+    second: ventilator screen002|mufaalbastra014|Take 001|BaseLayer
+  - first:
+      74: 7401242
+    second: ventilator screen002|mufaalbastra015|Take 001|BaseLayer
+  - first:
+      74: 7401244
+    second: ventilator screen002|mufaalbastra016|Take 001|BaseLayer
+  - first:
+      74: 7401246
+    second: ventilator screen002|mufaalbastra017|Take 001|BaseLayer
+  - first:
+      74: 7401248
+    second: ventilator screen002|mufaalbastra018|Take 001|BaseLayer
+  - first:
+      74: 7401250
+    second: ventilator screen002|mufaalbastra019|Take 001|BaseLayer
+  - first:
+      74: 7401252
+    second: ventilator screen002|mufaalbastra020|Take 001|BaseLayer
+  - first:
+      74: 7401254
+    second: ventilator screen002|mufaalbastra021|Take 001|BaseLayer
+  - first:
+      74: 7401256
+    second: ventilator screen002|mufaalbastra022|Take 001|BaseLayer
+  - first:
+      74: 7401258
+    second: ventilator screen002|off button device002|Take 001|BaseLayer
+  - first:
+      74: 7401260
+    second: ventilator screen002|off button008|Take 001|BaseLayer
+  - first:
+      74: 7401262
+    second: ventilator screen002|off button009|Take 001|BaseLayer
+  - first:
+      74: 7401264
+    second: ventilator screen002|off button010|Take 001|BaseLayer
+  - first:
+      74: 7401266
+    second: ventilator screen002|on button device002|Take 001|BaseLayer
+  - first:
+      74: 7401268
+    second: ventilator screen002|on button008|Take 001|BaseLayer
+  - first:
+      74: 7401270
+    second: ventilator screen002|on button009|Take 001|BaseLayer
+  - first:
+      74: 7401272
+    second: ventilator screen002|on button010|Take 001|BaseLayer
+  - first:
+      74: 7401274
+    second: ventilator screen002|on/off button008|Take 001|BaseLayer
+  - first:
+      74: 7401276
+    second: ventilator screen002|on/off button009|Take 001|BaseLayer
+  - first:
+      74: 7401278
+    second: ventilator screen002|on/off button010|Take 001|BaseLayer
+  - first:
+      74: 7401280
+    second: ventilator screen002|plugg socket049|Take 001|BaseLayer
+  - first:
+      74: 7401282
+    second: ventilator screen002|plugg socket050|Take 001|BaseLayer
+  - first:
+      74: 7401284
+    second: ventilator screen002|plugg socket051|Take 001|BaseLayer
+  - first:
+      74: 7401286
+    second: ventilator screen002|plugg015|Take 001|BaseLayer
+  - first:
+      74: 7401288
+    second: ventilator screen002|plugg016|Take 001|BaseLayer
+  - first:
+      74: 7401290
+    second: ventilator screen002|plugg017|Take 001|BaseLayer
+  - first:
+      74: 7401292
+    second: ventilator screen002|plugg018|Take 001|BaseLayer
+  - first:
+      74: 7401294
+    second: ventilator screen002|plugg019|Take 001|BaseLayer
+  - first:
+      74: 7401296
+    second: ventilator screen002|plugg020|Take 001|BaseLayer
+  - first:
+      74: 7401298
+    second: ventilator screen002|plugg021|Take 001|BaseLayer
+  - first:
+      74: 7401300
+    second: ventilator screen002|plugg022|Take 001|BaseLayer
+  - first:
+      74: 7401302
+    second: ventilator screen002|plugg023|Take 001|BaseLayer
+  - first:
+      74: 7401304
+    second: ventilator screen002|plugg024|Take 001|BaseLayer
+  - first:
+      74: 7401306
+    second: ventilator screen002|plugg025|Take 001|BaseLayer
+  - first:
+      74: 7401308
+    second: ventilator screen002|plugg026|Take 001|BaseLayer
+  - first:
+      74: 7401310
+    second: ventilator screen002|plugg027|Take 001|BaseLayer
+  - first:
+      74: 7401312
+    second: ventilator screen002|round slot017|Take 001|BaseLayer
+  - first:
+      74: 7401314
+    second: ventilator screen002|round slot018|Take 001|BaseLayer
+  - first:
+      74: 7401316
+    second: ventilator screen002|round slot019|Take 001|BaseLayer
+  - first:
+      74: 7401318
+    second: ventilator screen002|round slot020|Take 001|BaseLayer
+  - first:
+      74: 7401320
+    second: ventilator screen002|round slot021|Take 001|BaseLayer
+  - first:
+      74: 7401322
+    second: ventilator screen002|round slot022|Take 001|BaseLayer
+  - first:
+      74: 7401324
+    second: ventilator screen002|round slot023|Take 001|BaseLayer
+  - first:
+      74: 7401326
+    second: ventilator screen002|round slot024|Take 001|BaseLayer
+  - first:
+      74: 7401328
+    second: ventilator screen002|round slot025|Take 001|BaseLayer
+  - first:
+      74: 7401330
+    second: ventilator screen002|Round_Scart009|Take 001|BaseLayer
+  - first:
+      74: 7401332
+    second: ventilator screen002|Round_Scart010|Take 001|BaseLayer
+  - first:
+      74: 7401334
+    second: ventilator screen002|Round_Scart011|Take 001|BaseLayer
+  - first:
+      74: 7401336
+    second: ventilator screen002|Round_Scart012|Take 001|BaseLayer
+  - first:
+      74: 7401338
+    second: ventilator screen002|Round_Scart013|Take 001|BaseLayer
+  - first:
+      74: 7401340
+    second: ventilator screen002|Round_Scart014|Take 001|BaseLayer
+  - first:
+      74: 7401342
+    second: ventilator screen002|Round_Scart015|Take 001|BaseLayer
+  - first:
+      74: 7401344
+    second: ventilator screen002|scart004|Take 001|BaseLayer
+  - first:
+      74: 7401346
+    second: ventilator screen002|scart005|Take 001|BaseLayer
+  - first:
+      74: 7401348
+    second: ventilator screen002|shelf edge004|Take 001|BaseLayer
+  - first:
+      74: 7401350
+    second: ventilator screen002|shelf edge005|Take 001|BaseLayer
+  - first:
+      74: 7401352
+    second: ventilator screen002|shelf edge006|Take 001|BaseLayer
+  - first:
+      74: 7401354
+    second: ventilator screen002|shelf edge007|Take 001|BaseLayer
+  - first:
+      74: 7401356
+    second: ventilator screen002|sky boom base001|Take 001|BaseLayer
+  - first:
+      74: 7401358
+    second: ventilator screen002|socketA071|Take 001|BaseLayer
+  - first:
+      74: 7401360
+    second: ventilator screen002|socketA072|Take 001|BaseLayer
+  - first:
+      74: 7401362
+    second: ventilator screen002|socketA073|Take 001|BaseLayer
+  - first:
+      74: 7401364
+    second: ventilator screen002|socketA074|Take 001|BaseLayer
+  - first:
+      74: 7401366
+    second: ventilator screen002|socketA075|Take 001|BaseLayer
+  - first:
+      74: 7401368
+    second: ventilator screen002|socketA076|Take 001|BaseLayer
+  - first:
+      74: 7401370
+    second: ventilator screen002|socketA077|Take 001|BaseLayer
+  - first:
+      74: 7401372
+    second: ventilator screen002|socketA078|Take 001|BaseLayer
+  - first:
+      74: 7401374
+    second: ventilator screen002|socketA079|Take 001|BaseLayer
+  - first:
+      74: 7401376
+    second: ventilator screen002|socketA080|Take 001|BaseLayer
+  - first:
+      74: 7401378
+    second: ventilator screen002|socketA081|Take 001|BaseLayer
+  - first:
+      74: 7401380
+    second: ventilator screen002|socketA082|Take 001|BaseLayer
+  - first:
+      74: 7401382
+    second: ventilator screen002|socketA083|Take 001|BaseLayer
+  - first:
+      74: 7401384
+    second: ventilator screen002|socketA084|Take 001|BaseLayer
+  - first:
+      74: 7401386
+    second: ventilator screen002|socketA085|Take 001|BaseLayer
+  - first:
+      74: 7401388
+    second: ventilator screen002|socketA086|Take 001|BaseLayer
+  - first:
+      74: 7401390
+    second: ventilator screen002|socketA087|Take 001|BaseLayer
+  - first:
+      74: 7401392
+    second: ventilator screen002|socketA088|Take 001|BaseLayer
+  - first:
+      74: 7401394
+    second: ventilator screen002|socketA089|Take 001|BaseLayer
+  - first:
+      74: 7401396
+    second: ventilator screen002|SocketB082|Take 001|BaseLayer
+  - first:
+      74: 7401398
+    second: ventilator screen002|SocketB083|Take 001|BaseLayer
+  - first:
+      74: 7401400
+    second: ventilator screen002|SocketB084|Take 001|BaseLayer
+  - first:
+      74: 7401402
+    second: ventilator screen002|SocketB085|Take 001|BaseLayer
+  - first:
+      74: 7401404
+    second: ventilator screen002|SocketB086|Take 001|BaseLayer
+  - first:
+      74: 7401406
+    second: ventilator screen002|SocketB087|Take 001|BaseLayer
+  - first:
+      74: 7401408
+    second: ventilator screen002|SocketB088|Take 001|BaseLayer
+  - first:
+      74: 7401410
+    second: ventilator screen002|SocketB089|Take 001|BaseLayer
+  - first:
+      74: 7401412
+    second: ventilator screen002|SocketB090|Take 001|BaseLayer
+  - first:
+      74: 7401414
+    second: ventilator screen002|SocketB091|Take 001|BaseLayer
+  - first:
+      74: 7401416
+    second: ventilator screen002|SocketB092|Take 001|BaseLayer
+  - first:
+      74: 7401418
+    second: ventilator screen002|SocketB093|Take 001|BaseLayer
+  - first:
+      74: 7401420
+    second: ventilator screen002|SocketB094|Take 001|BaseLayer
+  - first:
+      74: 7401422
+    second: ventilator screen002|SocketB095|Take 001|BaseLayer
+  - first:
+      74: 7401424
+    second: ventilator screen002|sockets014|Take 001|BaseLayer
+  - first:
+      74: 7401426
+    second: ventilator screen002|sockets015|Take 001|BaseLayer
+  - first:
+      74: 7401428
+    second: ventilator screen002|support017|Take 001|BaseLayer
+  - first:
+      74: 7401430
+    second: ventilator screen002|support018|Take 001|BaseLayer
+  - first:
+      74: 7401432
+    second: ventilator screen002|support019|Take 001|BaseLayer
+  - first:
+      74: 7401434
+    second: ventilator screen002|support020|Take 001|BaseLayer
+  - first:
+      74: 7401436
+    second: ventilator screen002|support021|Take 001|BaseLayer
+  - first:
+      74: 7401438
+    second: ventilator screen002|support022|Take 001|BaseLayer
+  - first:
+      74: 7401440
+    second: ventilator screen002|support023|Take 001|BaseLayer
+  - first:
+      74: 7401442
+    second: ventilator screen002|support024|Take 001|BaseLayer
+  - first:
+      74: 7401444
+    second: ventilator screen002|support025|Take 001|BaseLayer
+  - first:
+      74: 7401446
+    second: ventilator screen002|support026|Take 001|BaseLayer
+  - first:
+      74: 7401448
+    second: ventilator screen002|support027|Take 001|BaseLayer
+  - first:
+      74: 7401450
+    second: ventilator screen002|support028|Take 001|BaseLayer
+  - first:
+      74: 7401452
+    second: ventilator screen002|support029|Take 001|BaseLayer
+  - first:
+      74: 7401454
+    second: ventilator screen002|support030|Take 001|BaseLayer
+  - first:
+      74: 7401456
+    second: ventilator screen002|support031|Take 001|BaseLayer
+  - first:
+      74: 7401458
+    second: ventilator screen002|support032|Take 001|BaseLayer
+  - first:
+      74: 7401460
+    second: ventilator screen002|surgical light handle038|Take 001|BaseLayer
+  - first:
+      74: 7401462
+    second: ventilator screen002|usb slot027|Take 001|BaseLayer
+  - first:
+      74: 7401464
+    second: ventilator screen002|usb slot028|Take 001|BaseLayer
+  - first:
+      74: 7401466
+    second: ventilator screen002|usb slot029|Take 001|BaseLayer
+  - first:
+      74: 7401468
+    second: ventilator screen002|usb slot030|Take 001|BaseLayer
+  - first:
+      74: 7401470
+    second: ventilator screen002|usb slot031|Take 001|BaseLayer
+  - first:
+      74: 7401472
+    second: ventilator screen002|usb slot032|Take 001|BaseLayer
+  - first:
+      74: 7401474
+    second: ventilator screen002|usb slot033|Take 001|BaseLayer
+  - first:
+      74: 7401476
+    second: ventilator screen002|usb slot034|Take 001|BaseLayer
+  - first:
+      74: 7401478
+    second: ventilator screen002|usb slot035|Take 001|BaseLayer
+  - first:
+      74: 7401480
+    second: ventilator screen002|usb slot036|Take 001|BaseLayer
+  - first:
+      74: 7401482
+    second: ventilator screen002|usb slot037|Take 001|BaseLayer
+  - first:
+      74: 7401484
+    second: ventilator screen002|usb slot038|Take 001|BaseLayer
+  - first:
+      74: 7401486
+    second: ventilator screen002|vga slot034|Take 001|BaseLayer
+  - first:
+      74: 7401488
+    second: ventilator screen002|vga slot035|Take 001|BaseLayer
+  - first:
+      74: 7401490
+    second: ventilator screen002|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7401492
+    second: ventilator screen002|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7401494
+    second: ventilator screen002|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7401496
+    second: ventilator screen002|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7401498
+    second: ventilator screen002|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7401500
+    second: ventilator screen002|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7401502
+    second: ventilator screen002|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7401504
+    second: ventilator screen002|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7401506
+    second: ventilator screen002|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7401508
+    second: ventilator screen002|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7401510
+    second: ventilator screen002|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7401512
+    second: ventilator screen002|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7401514
+    second: ventilator screen002|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7401516
+    second: ventilator screen002|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7401518
+    second: ventilator screen002|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7401520
+    second: ventilator screen002|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7401522
+    second: ventilator screen002|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7401524
+    second: ventilator screen002|aluminium_corner002asfa|Take 001|BaseLayer
+  - first:
+      74: 7401526
+    second: ventilator screen002|aluminium_corner003|Take 001|BaseLayer
+  - first:
+      74: 7401528
+    second: ventilator screen002|Box23|Take 001|BaseLayer
+  - first:
+      74: 7401530
+    second: ventilator screen002|Box847|Take 001|BaseLayer
+  - first:
+      74: 7401532
+    second: ventilator screen002|cupboard|Take 001|BaseLayer
+  - first:
+      74: 7401534
+    second: ventilator screen002|door frame001|Take 001|BaseLayer
+  - first:
+      74: 7401536
+    second: ventilator screen002|door frame|Take 001|BaseLayer
+  - first:
+      74: 7401538
+    second: ventilator screen002|drawer back002|Take 001|BaseLayer
+  - first:
+      74: 7401540
+    second: ventilator screen002|drawer back003223a|Take 001|BaseLayer
+  - first:
+      74: 7401542
+    second: ventilator screen002|drawer_box001bda|Take 001|BaseLayer
+  - first:
+      74: 7401544
+    second: ventilator screen002|drawer_box002ra2|Take 001|BaseLayer
+  - first:
+      74: 7401546
+    second: ventilator screen002|drawer_face003|Take 001|BaseLayer
+  - first:
+      74: 7401548
+    second: ventilator screen002|drawer_face004vas|Take 001|BaseLayer
+  - first:
+      74: 7401550
+    second: ventilator screen002|drawer_face005221a|Take 001|BaseLayer
+  - first:
+      74: 7401552
+    second: ventilator screen002|drawer_face0062231|Take 001|BaseLayer
+  - first:
+      74: 7401554
+    second: ventilator screen002|drawer_face009|Take 001|BaseLayer
+  - first:
+      74: 7401556
+    second: ventilator screen002|drawer_frame001bsa|Take 001|BaseLayer
+  - first:
+      74: 7401558
+    second: ventilator screen002|drawer_frame002|Take 001|BaseLayer
+  - first:
+      74: 7401560
+    second: ventilator screen002|handle014|Take 001|BaseLayer
+  - first:
+      74: 7401562
+    second: ventilator screen002|handle015|Take 001|BaseLayer
+  - first:
+      74: 7401564
+    second: ventilator screen002|handle016|Take 001|BaseLayer
+  - first:
+      74: 7401566
+    second: ventilator screen002|handle017|Take 001|BaseLayer
+  - first:
+      74: 7401568
+    second: ventilator screen002|lightwoodborders|Take 001|BaseLayer
+  - first:
+      74: 7401570
+    second: ventilator screen002|Locker_bottom001bdae|Take 001|BaseLayer
+  - first:
+      74: 7401572
+    second: ventilator screen002|Locker_bottom002assa|Take 001|BaseLayer
+  - first:
+      74: 7401574
+    second: ventilator screen002|Locker_bottom004|Take 001|BaseLayer
+  - first:
+      74: 7401576
+    second: ventilator screen002|Locker_top00122ab|Take 001|BaseLayer
+  - first:
+      74: 7401578
+    second: ventilator screen002|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7401580
+    second: ventilator screen002|nets support|Take 001|BaseLayer
+  - first:
+      74: 7401582
+    second: ventilator screen002|Object32|Take 001|BaseLayer
+  - first:
+      74: 7401584
+    second: ventilator screen002|Object4449|Take 001|BaseLayer
+  - first:
+      74: 7401586
+    second: ventilator screen002|Object4483|Take 001|BaseLayer
+  - first:
+      74: 7401588
+    second: ventilator screen002|Object4491|Take 001|BaseLayer
+  - first:
+      74: 7401590
+    second: ventilator screen002|OptiTherm_cold002|Take 001|BaseLayer
+  - first:
+      74: 7401592
+    second: ventilator screen002|OptiTherm_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401594
+    second: ventilator screen002|OptiTherm_tap003|Take 001|BaseLayer
+  - first:
+      74: 7401596
+    second: ventilator screen002|OptiTherm_tap004|Take 001|BaseLayer
+  - first:
+      74: 7401598
+    second: ventilator screen002|OptiTherm_warm002|Take 001|BaseLayer
+  - first:
+      74: 7401600
+    second: ventilator screen002|OptiTherm_water_cap002|Take 001|BaseLayer
+  - first:
+      74: 7401602
+    second: ventilator screen002|Paper_towel_dispenser1a|Take 001|BaseLayer
+  - first:
+      74: 7401604
+    second: ventilator screen002|Paper_towel_dispenser_cap|Take 001|BaseLayer
+  - first:
+      74: 7401606
+    second: ventilator screen002|Paper_towel_dispenser_eye|Take 001|BaseLayer
+  - first:
+      74: 7401608
+    second: ventilator screen002|Paper_towel_dispenser|Take 001|BaseLayer
+  - first:
+      74: 7401610
+    second: ventilator screen002|Paper_towel|Take 001|BaseLayer
+  - first:
+      74: 7401612
+    second: ventilator screen002|Plane13|Take 001|BaseLayer
+  - first:
+      74: 7401614
+    second: ventilator screen002|Plane17|Take 001|BaseLayer
+  - first:
+      74: 7401616
+    second: ventilator screen002|Plane183|Take 001|BaseLayer
+  - first:
+      74: 7401618
+    second: ventilator screen002|Plane184|Take 001|BaseLayer
+  - first:
+      74: 7401620
+    second: ventilator screen002|Plane185|Take 001|BaseLayer
+  - first:
+      74: 7401622
+    second: ventilator screen002|sanitiz|Take 001|BaseLayer
+  - first:
+      74: 7401624
+    second: ventilator screen002|Soap_gel_dispenser001|Take 001|BaseLayer
+  - first:
+      74: 7401626
+    second: ventilator screen002|Soap_gel_dispenser1a001|Take 001|BaseLayer
+  - first:
+      74: 7401628
+    second: ventilator screen002|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+  - first:
+      74: 7401630
+    second: ventilator screen002|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+  - first:
+      74: 7401632
+    second: ventilator screen002|Wash_basin001|Take 001|BaseLayer
+  - first:
+      74: 7401634
+    second: ventilator screen002|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber_clean
+    second: {fileID: 2100000, guid: bc43dd69873dc3c4097bd5d2149796d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen
+    second: {fileID: 2100000, guid: 88c1433f3cc480f4cb6ecda4f0a4a425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluePlasticVentilator
+    second: {fileID: -5690107729318501435, guid: b54b090aabf8ef44195680fd585ed9b5,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surgical white
+    second: {fileID: 2100000, guid: 326efa82a1e7d2c4abeae46efd33a05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ plastic_hospital_bed.003
+    second: {fileID: 2100000, guid: e751193f229d63a41ba86ba29421d4ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ plastic_monitor
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

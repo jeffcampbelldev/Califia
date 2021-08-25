@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 0df4bb8c7e2020340ac4666abbf39197
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: darkgray plastic
+    2100002: chrome surgical light.002
+    2100004: plastic_operation table.001
+    2100006: 16 - Default
+    2100008: orangeplasticinfusionpole
+    2100010: infusion pole metal.001
+    2100012: metal_operation table.001
+    2100014: infusion plastic
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: IV_stand
+    7400000: IV_stand|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400002: IV_stand|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400004: IV_stand|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400006: IV_stand|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400008: IV_stand|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400010: IV_stand|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400012: IV_stand|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400014: IV_stand|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400016: IV_stand|Back_display_detail001|Take 001|BaseLayer
+    7400018: IV_stand|bedside_table003|Take 001|BaseLayer
+    7400020: IV_stand|bedside_table_adjuster003|Take 001|BaseLayer
+    7400022: IV_stand|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400024: IV_stand|Bedside_table_axis003|Take 001|BaseLayer
+    7400026: IV_stand|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400028: IV_stand|Bedside_table_blat003|Take 001|BaseLayer
+    7400030: IV_stand|Bedside_table_border003|Take 001|BaseLayer
+    7400032: IV_stand|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400034: IV_stand|bedside_table_handle003|Take 001|BaseLayer
+    7400036: IV_stand|bedside_table_handle_support003|Take 001|BaseLayer
+    7400038: IV_stand|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400040: IV_stand|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400042: IV_stand|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400044: IV_stand|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400046: IV_stand|Bedside_table_support010|Take 001|BaseLayer
+    7400048: IV_stand|Bedside_table_support011|Take 001|BaseLayer
+    7400050: IV_stand|Bedside_table_support012|Take 001|BaseLayer
+    7400052: IV_stand|Bedside_table_wheel053|Take 001|BaseLayer
+    7400054: IV_stand|Bedside_table_wheel054|Take 001|BaseLayer
+    7400056: IV_stand|Bedside_table_wheel055|Take 001|BaseLayer
+    7400058: IV_stand|Bedside_table_wheel056|Take 001|BaseLayer
+    7400060: IV_stand|black_fill_console072|Take 001|BaseLayer
+    7400062: IV_stand|black_fill_console073|Take 001|BaseLayer
+    7400064: IV_stand|black_fill_console074|Take 001|BaseLayer
+    7400066: IV_stand|black_fill_console075|Take 001|BaseLayer
+    7400068: IV_stand|black_fill_console076|Take 001|BaseLayer
+    7400070: IV_stand|black_fill_console077|Take 001|BaseLayer
+    7400072: IV_stand|black_fill_console078|Take 001|BaseLayer
+    7400074: IV_stand|black_fill_console079|Take 001|BaseLayer
+    7400076: IV_stand|black_fill_console080|Take 001|BaseLayer
+    7400078: IV_stand|black_fill_console081|Take 001|BaseLayer
+    7400080: IV_stand|black_fill_console082|Take 001|BaseLayer
+    7400082: IV_stand|black_fill_console116|Take 001|BaseLayer
+    7400084: IV_stand|Blue_light001|Take 001|BaseLayer
+    7400086: IV_stand|bolt424|Take 001|BaseLayer
+    7400088: IV_stand|bolt425|Take 001|BaseLayer
+    7400090: IV_stand|bolt426|Take 001|BaseLayer
+    7400092: IV_stand|bolt427|Take 001|BaseLayer
+    7400094: IV_stand|bolt431|Take 001|BaseLayer
+    7400096: IV_stand|bolt432|Take 001|BaseLayer
+    7400098: IV_stand|bolt433|Take 001|BaseLayer
+    7400100: IV_stand|bolt434|Take 001|BaseLayer
+    7400102: IV_stand|bolt435|Take 001|BaseLayer
+    7400104: IV_stand|bolt436|Take 001|BaseLayer
+    7400106: IV_stand|bolt437|Take 001|BaseLayer
+    7400108: IV_stand|bolt438|Take 001|BaseLayer
+    7400110: IV_stand|bolt439|Take 001|BaseLayer
+    7400112: IV_stand|bolt439|Take 001|BaseLayer.001
+    7400114: IV_stand|bolt440|Take 001|BaseLayer
+    7400116: IV_stand|bolt440|Take 001|BaseLayer.001
+    7400118: IV_stand|bolt441|Take 001|BaseLayer
+    7400120: IV_stand|bolt442|Take 001|BaseLayer
+    7400122: IV_stand|bolt442|Take 001|BaseLayer.001
+    7400124: IV_stand|bolt443|Take 001|BaseLayer
+    7400126: IV_stand|bolt443|Take 001|BaseLayer.001
+    7400128: IV_stand|bolt444|Take 001|BaseLayer
+    7400130: IV_stand|bolt444|Take 001|BaseLayer.001
+    7400132: IV_stand|bolt445|Take 001|BaseLayer
+    7400134: IV_stand|bolt446|Take 001|BaseLayer
+    7400136: IV_stand|bolt447|Take 001|BaseLayer
+    7400138: IV_stand|bolt448|Take 001|BaseLayer
+    7400140: IV_stand|bolt449|Take 001|BaseLayer
+    7400142: IV_stand|bolt450|Take 001|BaseLayer
+    7400144: IV_stand|bolt451|Take 001|BaseLayer
+    7400146: IV_stand|bolt452|Take 001|BaseLayer
+    7400148: IV_stand|bolt453|Take 001|BaseLayer
+    7400150: IV_stand|bolt454|Take 001|BaseLayer
+    7400152: IV_stand|bolt455|Take 001|BaseLayer
+    7400154: IV_stand|bolt456|Take 001|BaseLayer
+    7400156: IV_stand|bolt457|Take 001|BaseLayer
+    7400158: IV_stand|bolt458|Take 001|BaseLayer
+    7400160: IV_stand|bolt459|Take 001|BaseLayer
+    7400162: IV_stand|bolt460|Take 001|BaseLayer
+    7400164: IV_stand|bolt461|Take 001|BaseLayer
+    7400166: IV_stand|bolt462|Take 001|BaseLayer
+    7400168: IV_stand|bolt463|Take 001|BaseLayer
+    7400170: IV_stand|bolt464|Take 001|BaseLayer
+    7400172: IV_stand|bolt465|Take 001|BaseLayer
+    7400174: IV_stand|bolt466|Take 001|BaseLayer
+    7400176: IV_stand|bolt467|Take 001|BaseLayer
+    7400178: IV_stand|bolt468|Take 001|BaseLayer
+    7400180: IV_stand|bolt469|Take 001|BaseLayer
+    7400182: IV_stand|bolt470|Take 001|BaseLayer
+    7400184: IV_stand|bolt471|Take 001|BaseLayer
+    7400186: IV_stand|bolt472|Take 001|BaseLayer
+    7400188: IV_stand|bolt473|Take 001|BaseLayer
+    7400190: IV_stand|bolt474|Take 001|BaseLayer
+    7400192: IV_stand|bolt475|Take 001|BaseLayer
+    7400194: IV_stand|bolt476|Take 001|BaseLayer
+    7400196: IV_stand|bolt477|Take 001|BaseLayer
+    7400198: IV_stand|bolt478|Take 001|BaseLayer
+    7400200: IV_stand|bolt479|Take 001|BaseLayer
+    7400202: IV_stand|bolt480|Take 001|BaseLayer
+    7400204: IV_stand|bolt481|Take 001|BaseLayer
+    7400206: IV_stand|bolt482|Take 001|BaseLayer
+    7400208: IV_stand|bolt483|Take 001|BaseLayer
+    7400210: IV_stand|bolt484|Take 001|BaseLayer
+    7400212: IV_stand|bolt485|Take 001|BaseLayer
+    7400214: IV_stand|bolt486|Take 001|BaseLayer
+    7400216: IV_stand|bolt487|Take 001|BaseLayer
+    7400218: IV_stand|bolt488|Take 001|BaseLayer
+    7400220: IV_stand|bolt489|Take 001|BaseLayer
+    7400222: IV_stand|bolt490|Take 001|BaseLayer
+    7400224: IV_stand|bolt491|Take 001|BaseLayer
+    7400226: IV_stand|bolt492|Take 001|BaseLayer
+    7400228: IV_stand|bolt493|Take 001|BaseLayer
+    7400230: IV_stand|bolt494|Take 001|BaseLayer
+    7400232: IV_stand|bolt496|Take 001|BaseLayer
+    7400234: IV_stand|bolt497|Take 001|BaseLayer
+    7400236: IV_stand|bolt498|Take 001|BaseLayer
+    7400238: IV_stand|bolt499|Take 001|BaseLayer
+    7400240: IV_stand|bolt500|Take 001|BaseLayer
+    7400242: IV_stand|bolt501|Take 001|BaseLayer
+    7400244: IV_stand|bolt502|Take 001|BaseLayer
+    7400246: IV_stand|bolt503|Take 001|BaseLayer
+    7400248: IV_stand|bolt503|Take 001|BaseLayer.001
+    7400250: IV_stand|bolt504|Take 001|BaseLayer
+    7400252: IV_stand|bolt504|Take 001|BaseLayer.001
+    7400254: IV_stand|bolt505|Take 001|BaseLayer
+    7400256: IV_stand|bolt505|Take 001|BaseLayer.001
+    7400258: IV_stand|bolt506|Take 001|BaseLayer
+    7400260: IV_stand|bolt506|Take 001|BaseLayer.001
+    7400262: IV_stand|bolt507|Take 001|BaseLayer
+    7400264: IV_stand|bolt508|Take 001|BaseLayer
+    7400266: IV_stand|bolt509|Take 001|BaseLayer
+    7400268: IV_stand|bolt510|Take 001|BaseLayer
+    7400270: IV_stand|bolt511|Take 001|BaseLayer
+    7400272: IV_stand|bolt512|Take 001|BaseLayer
+    7400274: IV_stand|bolt513|Take 001|BaseLayer
+    7400276: IV_stand|bolt514|Take 001|BaseLayer
+    7400278: IV_stand|bolt515|Take 001|BaseLayer
+    7400280: IV_stand|bolt516|Take 001|BaseLayer
+    7400282: IV_stand|bolt517|Take 001|BaseLayer
+    7400284: IV_stand|bolt518|Take 001|BaseLayer
+    7400286: IV_stand|bolt519|Take 001|BaseLayer
+    7400288: IV_stand|bolt520|Take 001|BaseLayer
+    7400290: IV_stand|bolt521|Take 001|BaseLayer
+    7400292: IV_stand|bolt522|Take 001|BaseLayer
+    7400294: IV_stand|bolt523|Take 001|BaseLayer
+    7400296: IV_stand|bolt524|Take 001|BaseLayer
+    7400298: IV_stand|bolt525|Take 001|BaseLayer
+    7400300: IV_stand|bolt526|Take 001|BaseLayer
+    7400302: IV_stand|bolt527|Take 001|BaseLayer
+    7400304: IV_stand|bolt528|Take 001|BaseLayer
+    7400306: IV_stand|bolt529|Take 001|BaseLayer
+    7400308: IV_stand|bolt530|Take 001|BaseLayer
+    7400310: IV_stand|bolt531|Take 001|BaseLayer
+    7400312: IV_stand|bolt532|Take 001|BaseLayer
+    7400314: IV_stand|bolt533|Take 001|BaseLayer
+    7400316: IV_stand|bolt534|Take 001|BaseLayer
+    7400318: IV_stand|bolt535|Take 001|BaseLayer
+    7400320: IV_stand|bolt536|Take 001|BaseLayer
+    7400322: IV_stand|bolt537|Take 001|BaseLayer
+    7400324: IV_stand|bolt538|Take 001|BaseLayer
+    7400326: IV_stand|boom segment 009|Take 001|BaseLayer
+    7400328: IV_stand|boom segment 010|Take 001|BaseLayer
+    7400330: IV_stand|boom segment 011|Take 001|BaseLayer
+    7400332: IV_stand|BoomArm001|Take 001|BaseLayer
+    7400334: IV_stand|BoomMonitor002|Take 001|BaseLayer
+    7400336: IV_stand|Box205a007|Take 001|BaseLayer
+    7400338: IV_stand|Box206b007|Take 001|BaseLayer
+    7400340: IV_stand|Box206b007|Take 001|BaseLayer.001
+    7400342: IV_stand|Box276|Take 001|BaseLayer
+    7400344: IV_stand|Box276|Take 001|BaseLayer.001
+    7400346: IV_stand|Box277|Take 001|BaseLayer
+    7400348: IV_stand|Box278|Take 001|BaseLayer
+    7400350: IV_stand|Box278|Take 001|BaseLayer.001
+    7400352: IV_stand|Box279|Take 001|BaseLayer
+    7400354: IV_stand|Box279|Take 001|BaseLayer.001
+    7400356: IV_stand|Box280|Take 001|BaseLayer
+    7400358: IV_stand|Box281|Take 001|BaseLayer
+    7400360: IV_stand|Box282|Take 001|BaseLayer
+    7400362: IV_stand|Box283|Take 001|BaseLayer
+    7400364: IV_stand|Box284|Take 001|BaseLayer
+    7400366: IV_stand|bzt040|Take 001|BaseLayer
+    7400368: IV_stand|bzt040|Take 001|BaseLayer.001
+    7400370: IV_stand|bzt041|Take 001|BaseLayer
+    7400372: IV_stand|bzt041|Take 001|BaseLayer.001
+    7400374: IV_stand|bzt042|Take 001|BaseLayer
+    7400376: IV_stand|bzt042|Take 001|BaseLayer.001
+    7400378: IV_stand|bzt043|Take 001|BaseLayer
+    7400380: IV_stand|bzt043|Take 001|BaseLayer.001
+    7400382: IV_stand|bzt044|Take 001|BaseLayer
+    7400384: IV_stand|bzt044|Take 001|BaseLayer.001
+    7400386: IV_stand|cable005|Take 001|BaseLayer
+    7400388: IV_stand|cable006|Take 001|BaseLayer
+    7400390: IV_stand|cable007|Take 001|BaseLayer
+    7400392: IV_stand|cable008|Take 001|BaseLayer
+    7400394: IV_stand|cable009|Take 001|BaseLayer
+    7400396: IV_stand|card slot001|Take 001|BaseLayer
+    7400398: IV_stand|ChamferBox013|Take 001|BaseLayer
+    7400400: IV_stand|ChamferCyl099|Take 001|BaseLayer
+    7400402: IV_stand|ChamferCyl100|Take 001|BaseLayer
+    7400404: IV_stand|Circle007|Take 001|BaseLayer
+    7400406: IV_stand|Circle007|Take 001|BaseLayer.001
+    7400408: IV_stand|Clay_Paky_case001|Take 001|BaseLayer
+    7400410: IV_stand|console air_socket006|Take 001|BaseLayer
+    7400412: IV_stand|console_bolt130|Take 001|BaseLayer
+    7400414: IV_stand|console_bolt131|Take 001|BaseLayer
+    7400416: IV_stand|console_bolt132|Take 001|BaseLayer
+    7400418: IV_stand|console_bolt133|Take 001|BaseLayer
+    7400420: IV_stand|console_bolt134|Take 001|BaseLayer
+    7400422: IV_stand|console_bolt135|Take 001|BaseLayer
+    7400424: IV_stand|console_bolt136|Take 001|BaseLayer
+    7400426: IV_stand|console_bolt137|Take 001|BaseLayer
+    7400428: IV_stand|console_bolt138|Take 001|BaseLayer
+    7400430: IV_stand|console_bolt139|Take 001|BaseLayer
+    7400432: IV_stand|console_bolt170|Take 001|BaseLayer
+    7400434: IV_stand|console_bolt171|Take 001|BaseLayer
+    7400436: IV_stand|console_button_large024|Take 001|BaseLayer
+    7400438: IV_stand|console_button_large025|Take 001|BaseLayer
+    7400440: IV_stand|console_button_large026|Take 001|BaseLayer
+    7400442: IV_stand|console_button_large027|Take 001|BaseLayer
+    7400444: IV_stand|console_lamp013|Take 001|BaseLayer
+    7400446: IV_stand|console_lamp014|Take 001|BaseLayer
+    7400448: IV_stand|console_socket007|Take 001|BaseLayer
+    7400450: IV_stand|consoler_button032|Take 001|BaseLayer
+    7400452: IV_stand|consoler_button033|Take 001|BaseLayer
+    7400454: IV_stand|consoler_button034|Take 001|BaseLayer
+    7400456: IV_stand|consoler_button035|Take 001|BaseLayer
+    7400458: IV_stand|consoler_button036|Take 001|BaseLayer
+    7400460: IV_stand|consoler_button053|Take 001|BaseLayer
+    7400462: IV_stand|Control_button001|Take 001|BaseLayer
+    7400464: IV_stand|cooler001|Take 001|BaseLayer
+    7400466: IV_stand|Cooler_fan002|Take 001|BaseLayer
+    7400468: IV_stand|Cooler_propeller012|Take 001|BaseLayer
+    7400470: IV_stand|Cooler_propeller013|Take 001|BaseLayer
+    7400472: IV_stand|Cooler_propeller014|Take 001|BaseLayer
+    7400474: IV_stand|Cooler_propeller015|Take 001|BaseLayer
+    7400476: IV_stand|Cooler_propeller016|Take 001|BaseLayer
+    7400478: IV_stand|Cooler_propeller017|Take 001|BaseLayer
+    7400480: IV_stand|curtain_hospital_ward001|Take 001|BaseLayer
+    7400482: IV_stand|curtain_hospital_ward007|Take 001|BaseLayer
+    7400484: IV_stand|curtain_hospital_ward008|Take 001|BaseLayer
+    7400486: IV_stand|curtain_hospital_ward|Take 001|BaseLayer
+    7400488: IV_stand|Cylinder01a007|Take 001|BaseLayer
+    7400490: IV_stand|Cylinder02fggsa007|Take 001|BaseLayer
+    7400492: IV_stand|Cylinder03vbbv007|Take 001|BaseLayer
+    7400494: IV_stand|Cylinder04sd007|Take 001|BaseLayer
+    7400496: IV_stand|Cylinder04sd007|Take 001|BaseLayer.001
+    7400498: IV_stand|Cylinder159ass007|Take 001|BaseLayer
+    7400500: IV_stand|Cylinder16033d007|Take 001|BaseLayer
+    7400502: IV_stand|Cylinder171fddf007|Take 001|BaseLayer
+    7400504: IV_stand|Cylinder172vbbv007|Take 001|BaseLayer
+    7400506: IV_stand|Cylinder172vbbv007|Take 001|BaseLayer.001
+    7400508: IV_stand|Cylinder173assa007|Take 001|BaseLayer
+    7400510: IV_stand|Cylinder4509|Take 001|BaseLayer
+    7400512: IV_stand|Cylinder4510|Take 001|BaseLayer
+    7400514: IV_stand|Cylinder4510|Take 001|BaseLayer.001
+    7400516: IV_stand|Cylinder4511|Take 001|BaseLayer
+    7400518: IV_stand|Cylinder4511|Take 001|BaseLayer.001
+    7400520: IV_stand|Cylinder4512|Take 001|BaseLayer
+    7400522: IV_stand|Cylinder4512|Take 001|BaseLayer.001
+    7400524: IV_stand|Cylinder4513|Take 001|BaseLayer
+    7400526: IV_stand|Cylinder4513|Take 001|BaseLayer.001
+    7400528: IV_stand|Cylinder4514|Take 001|BaseLayer
+    7400530: IV_stand|Cylinder4514|Take 001|BaseLayer.001
+    7400532: IV_stand|Cylinder4515|Take 001|BaseLayer
+    7400534: IV_stand|Cylinder4515|Take 001|BaseLayer.001
+    7400536: IV_stand|Cylinder4516|Take 001|BaseLayer
+    7400538: IV_stand|Cylinder4516|Take 001|BaseLayer.001
+    7400540: IV_stand|Cylinder4517|Take 001|BaseLayer
+    7400542: IV_stand|Cylinder4517|Take 001|BaseLayer.001
+    7400544: IV_stand|Cylinder4518|Take 001|BaseLayer
+    7400546: IV_stand|Cylinder4518|Take 001|BaseLayer.001
+    7400548: IV_stand|Cylinder4519|Take 001|BaseLayer
+    7400550: IV_stand|Cylinder4519|Take 001|BaseLayer.001
+    7400552: IV_stand|Cylinder4520|Take 001|BaseLayer
+    7400554: IV_stand|Cylinder4520|Take 001|BaseLayer.001
+    7400556: IV_stand|Cylinder4521|Take 001|BaseLayer
+    7400558: IV_stand|Cylinder4522|Take 001|BaseLayer
+    7400560: IV_stand|Cylinder4522|Take 001|BaseLayer.001
+    7400562: IV_stand|Cylinder4523|Take 001|BaseLayer
+    7400564: IV_stand|Cylinder4524|Take 001|BaseLayer
+    7400566: IV_stand|Cylinder4525|Take 001|BaseLayer
+    7400568: IV_stand|Cylinder4525|Take 001|BaseLayer.001
+    7400570: IV_stand|Cylinder4526|Take 001|BaseLayer
+    7400572: IV_stand|Cylinder4526|Take 001|BaseLayer.001
+    7400574: IV_stand|Cylinder4527|Take 001|BaseLayer
+    7400576: IV_stand|Cylinder4527|Take 001|BaseLayer.001
+    7400578: IV_stand|Cylinder4528|Take 001|BaseLayer
+    7400580: IV_stand|Cylinder4528|Take 001|BaseLayer.001
+    7400582: IV_stand|Cylinder4529|Take 001|BaseLayer
+    7400584: IV_stand|Cylinder4529|Take 001|BaseLayer.001
+    7400586: IV_stand|Cylinder4530|Take 001|BaseLayer
+    7400588: IV_stand|Cylinder4530|Take 001|BaseLayer.001
+    7400590: IV_stand|Cylinder4531|Take 001|BaseLayer
+    7400592: IV_stand|Cylinder4531|Take 001|BaseLayer.001
+    7400594: IV_stand|Cylinder4532|Take 001|BaseLayer
+    7400596: IV_stand|Cylinder4532|Take 001|BaseLayer.001
+    7400598: IV_stand|Cylinder4533|Take 001|BaseLayer
+    7400600: IV_stand|Cylinder4533|Take 001|BaseLayer.001
+    7400602: IV_stand|Cylinder4534|Take 001|BaseLayer
+    7400604: IV_stand|Cylinder4534|Take 001|BaseLayer.001
+    7400606: IV_stand|Cylinder4541|Take 001|BaseLayer
+    7400608: IV_stand|Cylinder4542|Take 001|BaseLayer
+    7400610: IV_stand|Cylinder4542|Take 001|BaseLayer.001
+    7400612: IV_stand|Cylinder4543|Take 001|BaseLayer
+    7400614: IV_stand|Cylinder4543|Take 001|BaseLayer.001
+    7400616: IV_stand|Cylinder4544|Take 001|BaseLayer
+    7400618: IV_stand|Cylinder4544|Take 001|BaseLayer.001
+    7400620: IV_stand|Cylinder4545|Take 001|BaseLayer
+    7400622: IV_stand|Cylinder4545|Take 001|BaseLayer.001
+    7400624: IV_stand|Cylinder4546|Take 001|BaseLayer
+    7400626: IV_stand|Cylinder4546|Take 001|BaseLayer.001
+    7400628: IV_stand|Cylinder4547|Take 001|BaseLayer
+    7400630: IV_stand|Cylinder4548|Take 001|BaseLayer
+    7400632: IV_stand|Cylinder4549|Take 001|BaseLayer
+    7400634: IV_stand|Cylinder4550|Take 001|BaseLayer
+    7400636: IV_stand|Cylinder4551|Take 001|BaseLayer
+    7400638: IV_stand|Cylinder4552|Take 001|BaseLayer
+    7400640: IV_stand|Cylinder4553|Take 001|BaseLayer
+    7400642: IV_stand|Cylinder4554|Take 001|BaseLayer
+    7400644: IV_stand|Cylinder4555|Take 001|BaseLayer
+    7400646: IV_stand|Cylinder4556|Take 001|BaseLayer
+    7400648: IV_stand|Cylinder4557|Take 001|BaseLayer
+    7400650: IV_stand|Cylinder4558|Take 001|BaseLayer
+    7400652: IV_stand|Cylinder4559|Take 001|BaseLayer
+    7400654: IV_stand|Cylinder4560|Take 001|BaseLayer
+    7400656: IV_stand|Cylinder4561|Take 001|BaseLayer
+    7400658: IV_stand|Cylinder4562|Take 001|BaseLayer
+    7400660: IV_stand|Cylinder4563|Take 001|BaseLayer
+    7400662: IV_stand|Cylinder4564|Take 001|BaseLayer
+    7400664: IV_stand|Cylinder4565|Take 001|BaseLayer
+    7400666: IV_stand|Cylinder4566|Take 001|BaseLayer
+    7400668: IV_stand|Cylinder4769|Take 001|BaseLayer
+    7400670: IV_stand|Cylinder4770|Take 001|BaseLayer
+    7400672: IV_stand|Cylinder65ssa007|Take 001|BaseLayer
+    7400674: IV_stand|Cylinder69ddssa007|Take 001|BaseLayer
+    7400676: IV_stand|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7400678: IV_stand|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7400680: IV_stand|Display_body001|Take 001|BaseLayer
+    7400682: IV_stand|doctor_stool005|Take 001|BaseLayer
+    7400684: IV_stand|doctor_stool005|Take 001|BaseLayer.001
+    7400686: IV_stand|electrical socket_incubator060|Take 001|BaseLayer
+    7400688: IV_stand|electrical socket_incubator061|Take 001|BaseLayer
+    7400690: IV_stand|electrical socket_incubator062|Take 001|BaseLayer
+    7400692: IV_stand|electrical socket_incubator063|Take 001|BaseLayer
+    7400694: IV_stand|electrical socket_incubator064|Take 001|BaseLayer
+    7400696: IV_stand|electrical socket_incubator065|Take 001|BaseLayer
+    7400698: IV_stand|electrical socket_incubator066|Take 001|BaseLayer
+    7400700: IV_stand|electrical socket_incubator067|Take 001|BaseLayer
+    7400702: IV_stand|electrical socket_incubator068|Take 001|BaseLayer
+    7400704: IV_stand|electrical socket_incubator069|Take 001|BaseLayer
+    7400706: IV_stand|electrical socket_incubator070|Take 001|BaseLayer
+    7400708: IV_stand|equipement carrier handle002|Take 001|BaseLayer
+    7400710: IV_stand|equipment carrier body001|Take 001|BaseLayer
+    7400712: IV_stand|equipment_carrier_shelf005|Take 001|BaseLayer
+    7400714: IV_stand|equipment_carrier_shelf006|Take 001|BaseLayer
+    7400716: IV_stand|equipment_carrier_shelf007|Take 001|BaseLayer
+    7400718: IV_stand|equipment_carrier_shelf008|Take 001|BaseLayer
+    7400720: IV_stand|Group042|Take 001|BaseLayer
+    7400722: IV_stand|Group042|Take 001|BaseLayer.001
+    7400724: IV_stand|Group043|Take 001|BaseLayer
+    7400726: IV_stand|Group044|Take 001|BaseLayer
+    7400728: IV_stand|Group045|Take 001|BaseLayer
+    7400730: IV_stand|Group12a007|Take 001|BaseLayer
+    7400732: IV_stand|Group14a007|Take 001|BaseLayer
+    7400734: IV_stand|Helix004|Take 001|BaseLayer
+    7400736: IV_stand|Helix012|Take 001|BaseLayer
+    7400738: IV_stand|Hospital Bed001|Take 001|BaseLayer
+    7400740: IV_stand|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7400742: IV_stand|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7400744: IV_stand|Hospital_bed_base001|Take 001|BaseLayer
+    7400746: IV_stand|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7400748: IV_stand|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7400750: IV_stand|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7400752: IV_stand|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7400754: IV_stand|Hospital_bed_bumper007|Take 001|BaseLayer
+    7400756: IV_stand|Hospital_bed_bumper008|Take 001|BaseLayer
+    7400758: IV_stand|Hospital_bed_bumper009|Take 001|BaseLayer
+    7400760: IV_stand|Hospital_bed_bumper010|Take 001|BaseLayer
+    7400762: IV_stand|Hospital_bed_button012|Take 001|BaseLayer
+    7400764: IV_stand|Hospital_bed_button013|Take 001|BaseLayer
+    7400766: IV_stand|Hospital_bed_button_large005|Take 001|BaseLayer
+    7400768: IV_stand|Hospital_bed_button_large006|Take 001|BaseLayer
+    7400770: IV_stand|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7400772: IV_stand|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7400774: IV_stand|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7400776: IV_stand|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7400778: IV_stand|Hospital_bed_leg003|Take 001|BaseLayer
+    7400780: IV_stand|Hospital_bed_leg004|Take 001|BaseLayer
+    7400782: IV_stand|Hospital_bed_leg005|Take 001|BaseLayer
+    7400784: IV_stand|Hospital_bed_matress001|Take 001|BaseLayer
+    7400786: IV_stand|Hospital_bed_pedal064|Take 001|BaseLayer
+    7400788: IV_stand|Hospital_bed_pedal065|Take 001|BaseLayer
+    7400790: IV_stand|Hospital_bed_pedal066|Take 001|BaseLayer
+    7400792: IV_stand|Hospital_bed_pedal067|Take 001|BaseLayer
+    7400794: IV_stand|Hospital_bed_pedal068|Take 001|BaseLayer
+    7400796: IV_stand|Hospital_bed_pedal069|Take 001|BaseLayer
+    7400798: IV_stand|Hospital_bed_pedal070|Take 001|BaseLayer
+    7400800: IV_stand|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7400802: IV_stand|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7400804: IV_stand|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7400806: IV_stand|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7400808: IV_stand|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7400810: IV_stand|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7400812: IV_stand|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7400814: IV_stand|Hospital_bed_pedals001|Take 001|BaseLayer
+    7400816: IV_stand|Hospital_bed_piston006|Take 001|BaseLayer
+    7400818: IV_stand|Hospital_bed_piston007|Take 001|BaseLayer
+    7400820: IV_stand|Hospital_bed_piston008|Take 001|BaseLayer
+    7400822: IV_stand|Hospital_bed_piston009|Take 001|BaseLayer
+    7400824: IV_stand|Hospital_bed_piston010|Take 001|BaseLayer
+    7400826: IV_stand|Hospital_bed_piston011|Take 001|BaseLayer
+    7400828: IV_stand|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7400830: IV_stand|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7400832: IV_stand|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7400834: IV_stand|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7400836: IV_stand|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7400838: IV_stand|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7400840: IV_stand|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7400842: IV_stand|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7400844: IV_stand|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7400846: IV_stand|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7400848: IV_stand|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7400850: IV_stand|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7400852: IV_stand|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7400854: IV_stand|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7400856: IV_stand|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7400858: IV_stand|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7400860: IV_stand|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7400862: IV_stand|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7400864: IV_stand|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7400866: IV_stand|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7400868: IV_stand|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7400870: IV_stand|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7400872: IV_stand|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7400874: IV_stand|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7400876: IV_stand|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7400878: IV_stand|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7400880: IV_stand|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7400882: IV_stand|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7400884: IV_stand|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7400886: IV_stand|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7400888: IV_stand|Hospital_bed_pistons002|Take 001|BaseLayer
+    7400890: IV_stand|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7400892: IV_stand|Hospital_bed_pole003|Take 001|BaseLayer
+    7400894: IV_stand|Hospital_bed_pole004|Take 001|BaseLayer
+    7400896: IV_stand|Hospital_bed_pole005|Take 001|BaseLayer
+    7400898: IV_stand|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7400900: IV_stand|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7400902: IV_stand|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7400904: IV_stand|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7400906: IV_stand|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7400908: IV_stand|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7400910: IV_stand|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7400912: IV_stand|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7400914: IV_stand|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7400916: IV_stand|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7400918: IV_stand|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7400920: IV_stand|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7400922: IV_stand|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7400924: IV_stand|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7400926: IV_stand|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7400928: IV_stand|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7400930: IV_stand|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7400932: IV_stand|Hospital_bed_side_caps023|Take 001|BaseLayer.001
+    7400934: IV_stand|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7400936: IV_stand|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7400938: IV_stand|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7400940: IV_stand|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7400942: IV_stand|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7400944: IV_stand|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7400946: IV_stand|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7400948: IV_stand|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7400950: IV_stand|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7400952: IV_stand|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7400954: IV_stand|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7400956: IV_stand|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7400958: IV_stand|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7400960: IV_stand|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7400962: IV_stand|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7400964: IV_stand|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7400966: IV_stand|Hospital_bed_sides001|Take 001|BaseLayer
+    7400968: IV_stand|Hospital_bed_wheel004|Take 001|BaseLayer
+    7400970: IV_stand|Hospital_bed_wheel005|Take 001|BaseLayer
+    7400972: IV_stand|Hospital_bed_wheel006|Take 001|BaseLayer
+    7400974: IV_stand|Hospital_bed_wheel007|Take 001|BaseLayer
+    7400976: IV_stand|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7400978: IV_stand|humidifier001|Take 001|BaseLayer
+    7400980: IV_stand|Infant_warmer_switch022|Take 001|BaseLayer
+    7400982: IV_stand|Infant_warmer_switch023|Take 001|BaseLayer
+    7400984: IV_stand|insuflation tube040|Take 001|BaseLayer
+    7400986: IV_stand|insuflation tube041|Take 001|BaseLayer
+    7400988: IV_stand|insuflation tube042|Take 001|BaseLayer
+    7400990: IV_stand|insuflation tube043|Take 001|BaseLayer
+    7400992: IV_stand|insuflation tube044|Take 001|BaseLayer
+    7400994: IV_stand|insuflation tube045|Take 001|BaseLayer
+    7400996: IV_stand|insuflation tube046|Take 001|BaseLayer
+    7400998: IV_stand|insuflation tube047|Take 001|BaseLayer
+    7401000: IV_stand|insuflation tube048|Take 001|BaseLayer
+    7401002: IV_stand|insuflation tube049|Take 001|BaseLayer
+    7401004: IV_stand|insuflation tube050|Take 001|BaseLayer
+    7401006: IV_stand|insuflation tube051|Take 001|BaseLayer
+    7401008: IV_stand|insuflation tube052|Take 001|BaseLayer
+    7401010: IV_stand|insuflation tube053|Take 001|BaseLayer
+    7401012: IV_stand|insuflation tube054|Take 001|BaseLayer
+    7401014: IV_stand|insuflation tube055|Take 001|BaseLayer
+    7401016: IV_stand|insuflation tube056|Take 001|BaseLayer
+    7401018: IV_stand|insuflation tube057|Take 001|BaseLayer
+    7401020: IV_stand|insuflation tube058|Take 001|BaseLayer
+    7401022: IV_stand|insuflation tube059|Take 001|BaseLayer
+    7401024: IV_stand|insuflation tube060|Take 001|BaseLayer
+    7401026: IV_stand|insuflation tube061|Take 001|BaseLayer
+    7401028: IV_stand|insuflation tube062|Take 001|BaseLayer
+    7401030: IV_stand|insuflation tube063|Take 001|BaseLayer
+    7401032: IV_stand|insuflation tube064|Take 001|BaseLayer
+    7401034: IV_stand|insuflation tube065|Take 001|BaseLayer
+    7401036: IV_stand|insuflation tube066|Take 001|BaseLayer
+    7401038: IV_stand|insuflation tube067|Take 001|BaseLayer
+    7401040: IV_stand|insuflation tube068|Take 001|BaseLayer
+    7401042: IV_stand|insuflation tube069|Take 001|BaseLayer
+    7401044: IV_stand|insuflation tube070|Take 001|BaseLayer
+    7401046: IV_stand|insuflation tube071|Take 001|BaseLayer
+    7401048: IV_stand|insuflation tube072|Take 001|BaseLayer
+    7401050: IV_stand|insuflation tube073|Take 001|BaseLayer
+    7401052: IV_stand|insuflation tube074|Take 001|BaseLayer
+    7401054: IV_stand|insuflation tube075|Take 001|BaseLayer
+    7401056: IV_stand|insuflation tube076|Take 001|BaseLayer
+    7401058: IV_stand|insuflation tube189|Take 001|BaseLayer
+    7401060: IV_stand|iv pole007|Take 001|BaseLayer
+    7401062: IV_stand|lamp_neon064|Take 001|BaseLayer
+    7401064: IV_stand|lamp_neon065|Take 001|BaseLayer
+    7401066: IV_stand|lamp_neon066|Take 001|BaseLayer
+    7401068: IV_stand|lamp_neon067|Take 001|BaseLayer
+    7401070: IV_stand|lamp_neon068|Take 001|BaseLayer
+    7401072: IV_stand|lamp_neon069|Take 001|BaseLayer
+    7401074: IV_stand|lamp_neon070|Take 001|BaseLayer
+    7401076: IV_stand|lamp_neon071|Take 001|BaseLayer
+    7401078: IV_stand|Line01assadss007|Take 001|BaseLayer
+    7401080: IV_stand|Line033|Take 001|BaseLayer
+    7401082: IV_stand|Line034|Take 001|BaseLayer
+    7401084: IV_stand|Line035|Take 001|BaseLayer
+    7401086: IV_stand|Line036|Take 001|BaseLayer
+    7401088: IV_stand|Line037|Take 001|BaseLayer
+    7401090: IV_stand|Line038|Take 001|BaseLayer
+    7401092: IV_stand|Line03bc007|Take 001|BaseLayer
+    7401094: IV_stand|liquid003|Take 001|BaseLayer
+    7401096: IV_stand|liquid004|Take 001|BaseLayer
+    7401098: IV_stand|Locker_tray001|Take 001|BaseLayer
+    7401100: IV_stand|Medical Console006|Take 001|BaseLayer
+    7401102: IV_stand|medical device 01back005|Take 001|BaseLayer
+    7401104: IV_stand|medical device 01back006|Take 001|BaseLayer
+    7401106: IV_stand|medical device 01back007|Take 001|BaseLayer
+    7401108: IV_stand|medical device 01back008|Take 001|BaseLayer
+    7401110: IV_stand|medical device 01body015|Take 001|BaseLayer
+    7401112: IV_stand|medical device 01body016|Take 001|BaseLayer
+    7401114: IV_stand|medical device 01body017|Take 001|BaseLayer
+    7401116: IV_stand|medical device 01body018|Take 001|BaseLayer
+    7401118: IV_stand|medical device 01body019|Take 001|BaseLayer
+    7401120: IV_stand|medical device 01front002|Take 001|BaseLayer
+    7401122: IV_stand|medical device 01front003|Take 001|BaseLayer
+    7401124: IV_stand|medical device 02front004|Take 001|BaseLayer
+    7401126: IV_stand|medical device 02front005|Take 001|BaseLayer
+    7401128: IV_stand|medical device side016|Take 001|BaseLayer
+    7401130: IV_stand|medical device side017|Take 001|BaseLayer
+    7401132: IV_stand|medical device side018|Take 001|BaseLayer
+    7401134: IV_stand|medical device side019|Take 001|BaseLayer
+    7401136: IV_stand|medical device side020|Take 001|BaseLayer
+    7401138: IV_stand|medical device side021|Take 001|BaseLayer
+    7401140: IV_stand|medical device side022|Take 001|BaseLayer
+    7401142: IV_stand|medical device side023|Take 001|BaseLayer
+    7401144: IV_stand|medical devices001|Take 001|BaseLayer
+    7401146: IV_stand|medical_device005|Take 001|BaseLayer
+    7401148: IV_stand|medical_device006|Take 001|BaseLayer
+    7401150: IV_stand|medical_device007|Take 001|BaseLayer
+    7401152: IV_stand|medical_device008|Take 001|BaseLayer
+    7401154: IV_stand|MEdicalAir001|Take 001|BaseLayer
+    7401156: IV_stand|medicine bottle 01 cap035|Take 001|BaseLayer
+    7401158: IV_stand|medicine bottle 01 cap036|Take 001|BaseLayer
+    7401160: IV_stand|medicine bottle 01 cap037|Take 001|BaseLayer
+    7401162: IV_stand|medicine bottle 02_ut002|Take 001|BaseLayer
+    7401164: IV_stand|medicine bottle 037|Take 001|BaseLayer
+    7401166: IV_stand|medicine bottle 03_v002|Take 001|BaseLayer
+    7401168: IV_stand|medicine box051|Take 001|BaseLayer
+    7401170: IV_stand|metal ring 004|Take 001|BaseLayer
+    7401172: IV_stand|metal ring 005|Take 001|BaseLayer
+    7401174: IV_stand|metal ring 006|Take 001|BaseLayer
+    7401176: IV_stand|Mobile_trolley001|Take 001|BaseLayer
+    7401178: IV_stand|monitor joint 003|Take 001|BaseLayer
+    7401180: IV_stand|monitor joint 004|Take 001|BaseLayer
+    7401182: IV_stand|monitor joint019|Take 001|BaseLayer
+    7401184: IV_stand|monitor screen002|Take 001|BaseLayer
+    7401186: IV_stand|monitor screen003|Take 001|BaseLayer
+    7401188: IV_stand|monitor01_body007|Take 001|BaseLayer
+    7401190: IV_stand|monitor01_body008|Take 001|BaseLayer
+    7401192: IV_stand|Monitor_ax002|Take 001|BaseLayer
+    7401194: IV_stand|Monitor_ax003|Take 001|BaseLayer
+    7401196: IV_stand|MONITOR_PIVOT001|Take 001|BaseLayer
+    7401198: IV_stand|monitorARM002|Take 001|BaseLayer
+    7401200: IV_stand|monitorARM003|Take 001|BaseLayer
+    7401202: IV_stand|mufa albastra017|Take 001|BaseLayer
+    7401204: IV_stand|mufa albastra018|Take 001|BaseLayer
+    7401206: IV_stand|mufa albastra019|Take 001|BaseLayer
+    7401208: IV_stand|mufaalbastra013|Take 001|BaseLayer
+    7401210: IV_stand|mufaalbastra014|Take 001|BaseLayer
+    7401212: IV_stand|mufaalbastra015|Take 001|BaseLayer
+    7401214: IV_stand|mufaalbastra016|Take 001|BaseLayer
+    7401216: IV_stand|mufaalbastra017|Take 001|BaseLayer
+    7401218: IV_stand|mufaalbastra018|Take 001|BaseLayer
+    7401220: IV_stand|mufaalbastra019|Take 001|BaseLayer
+    7401222: IV_stand|mufaalbastra020|Take 001|BaseLayer
+    7401224: IV_stand|mufaalbastra021|Take 001|BaseLayer
+    7401226: IV_stand|mufaalbastra022|Take 001|BaseLayer
+    7401228: IV_stand|Object4468|Take 001|BaseLayer
+    7401230: IV_stand|Object4469|Take 001|BaseLayer
+    7401232: IV_stand|Object4470|Take 001|BaseLayer
+    7401234: IV_stand|Object4471|Take 001|BaseLayer
+    7401236: IV_stand|Object4472|Take 001|BaseLayer
+    7401238: IV_stand|Object4473|Take 001|BaseLayer
+    7401240: IV_stand|Object4474|Take 001|BaseLayer
+    7401242: IV_stand|Object4474|Take 001|BaseLayer.001
+    7401244: IV_stand|Object4475|Take 001|BaseLayer
+    7401246: IV_stand|Object4475|Take 001|BaseLayer.001
+    7401248: IV_stand|Object4476|Take 001|BaseLayer
+    7401250: IV_stand|Object4476|Take 001|BaseLayer.001
+    7401252: IV_stand|Object4477|Take 001|BaseLayer
+    7401254: IV_stand|Object4477|Take 001|BaseLayer.001
+    7401256: IV_stand|Object4478|Take 001|BaseLayer
+    7401258: IV_stand|Object4478|Take 001|BaseLayer.001
+    7401260: IV_stand|Object4479|Take 001|BaseLayer
+    7401262: IV_stand|Object4480|Take 001|BaseLayer
+    7401264: IV_stand|Object4481|Take 001|BaseLayer
+    7401266: IV_stand|Object4482|Take 001|BaseLayer
+    7401268: IV_stand|off button device002|Take 001|BaseLayer
+    7401270: IV_stand|off button008|Take 001|BaseLayer
+    7401272: IV_stand|off button009|Take 001|BaseLayer
+    7401274: IV_stand|off button010|Take 001|BaseLayer
+    7401276: IV_stand|on button device002|Take 001|BaseLayer
+    7401278: IV_stand|on button008|Take 001|BaseLayer
+    7401280: IV_stand|on button009|Take 001|BaseLayer
+    7401282: IV_stand|on button010|Take 001|BaseLayer
+    7401284: IV_stand|on/off button008|Take 001|BaseLayer
+    7401286: IV_stand|on/off button009|Take 001|BaseLayer
+    7401288: IV_stand|on/off button010|Take 001|BaseLayer
+    7401290: IV_stand|oxygen socket035|Take 001|BaseLayer
+    7401292: IV_stand|oxygen socket036|Take 001|BaseLayer
+    7401294: IV_stand|oxygen socket037|Take 001|BaseLayer
+    7401296: IV_stand|oxygen socket038|Take 001|BaseLayer
+    7401298: IV_stand|oxygen socket051|Take 001|BaseLayer
+    7401300: IV_stand|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7401302: IV_stand|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7401304: IV_stand|pillow001|Take 001|BaseLayer
+    7401306: IV_stand|plugg socket044|Take 001|BaseLayer
+    7401308: IV_stand|plugg socket045|Take 001|BaseLayer
+    7401310: IV_stand|plugg socket046|Take 001|BaseLayer
+    7401312: IV_stand|plugg socket047|Take 001|BaseLayer
+    7401314: IV_stand|plugg socket048|Take 001|BaseLayer
+    7401316: IV_stand|plugg socket049|Take 001|BaseLayer
+    7401318: IV_stand|plugg socket050|Take 001|BaseLayer
+    7401320: IV_stand|plugg socket051|Take 001|BaseLayer
+    7401322: IV_stand|plugg socket052|Take 001|BaseLayer
+    7401324: IV_stand|plugg socket053|Take 001|BaseLayer
+    7401326: IV_stand|plugg socket054|Take 001|BaseLayer
+    7401328: IV_stand|plugg socket055|Take 001|BaseLayer
+    7401330: IV_stand|plugg socket056|Take 001|BaseLayer
+    7401332: IV_stand|plugg socket057|Take 001|BaseLayer
+    7401334: IV_stand|plugg015|Take 001|BaseLayer
+    7401336: IV_stand|plugg016|Take 001|BaseLayer
+    7401338: IV_stand|plugg017|Take 001|BaseLayer
+    7401340: IV_stand|plugg018|Take 001|BaseLayer
+    7401342: IV_stand|plugg019|Take 001|BaseLayer
+    7401344: IV_stand|plugg020|Take 001|BaseLayer
+    7401346: IV_stand|plugg021|Take 001|BaseLayer
+    7401348: IV_stand|plugg022|Take 001|BaseLayer
+    7401350: IV_stand|plugg023|Take 001|BaseLayer
+    7401352: IV_stand|plugg024|Take 001|BaseLayer
+    7401354: IV_stand|plugg025|Take 001|BaseLayer
+    7401356: IV_stand|plugg026|Take 001|BaseLayer
+    7401358: IV_stand|plugg027|Take 001|BaseLayer
+    7401360: IV_stand|roata045|Take 001|BaseLayer
+    7401362: IV_stand|roata045|Take 001|BaseLayer.001
+    7401364: IV_stand|roata046|Take 001|BaseLayer
+    7401366: IV_stand|roata046|Take 001|BaseLayer.001
+    7401368: IV_stand|roata047|Take 001|BaseLayer
+    7401370: IV_stand|roata047|Take 001|BaseLayer.001
+    7401372: IV_stand|roata048|Take 001|BaseLayer
+    7401374: IV_stand|roata048|Take 001|BaseLayer.001
+    7401376: IV_stand|roata049|Take 001|BaseLayer
+    7401378: IV_stand|roata049|Take 001|BaseLayer.001
+    7401380: IV_stand|round slot016|Take 001|BaseLayer
+    7401382: IV_stand|round slot017|Take 001|BaseLayer
+    7401384: IV_stand|round slot018|Take 001|BaseLayer
+    7401386: IV_stand|round slot019|Take 001|BaseLayer
+    7401388: IV_stand|round slot020|Take 001|BaseLayer
+    7401390: IV_stand|round slot021|Take 001|BaseLayer
+    7401392: IV_stand|round slot022|Take 001|BaseLayer
+    7401394: IV_stand|round slot023|Take 001|BaseLayer
+    7401396: IV_stand|round slot024|Take 001|BaseLayer
+    7401398: IV_stand|round slot025|Take 001|BaseLayer
+    7401400: IV_stand|Round_button001|Take 001|BaseLayer
+    7401402: IV_stand|Round_Scart008|Take 001|BaseLayer
+    7401404: IV_stand|Round_Scart009|Take 001|BaseLayer
+    7401406: IV_stand|Round_Scart010|Take 001|BaseLayer
+    7401408: IV_stand|Round_Scart011|Take 001|BaseLayer
+    7401410: IV_stand|Round_Scart012|Take 001|BaseLayer
+    7401412: IV_stand|Round_Scart013|Take 001|BaseLayer
+    7401414: IV_stand|Round_Scart014|Take 001|BaseLayer
+    7401416: IV_stand|Round_Scart015|Take 001|BaseLayer
+    7401418: IV_stand|Rubber_bumper016|Take 001|BaseLayer
+    7401420: IV_stand|Rubber_bumper017|Take 001|BaseLayer
+    7401422: IV_stand|Rubber_bumper018|Take 001|BaseLayer
+    7401424: IV_stand|Rubber_bumper019|Take 001|BaseLayer
+    7401426: IV_stand|Rubber_bumper020|Take 001|BaseLayer
+    7401428: IV_stand|Rubber_bumper021|Take 001|BaseLayer
+    7401430: IV_stand|Rubber_bumper022|Take 001|BaseLayer
+    7401432: IV_stand|Rubber_bumper023|Take 001|BaseLayer
+    7401434: IV_stand|Rubber_bumper024|Take 001|BaseLayer
+    7401436: IV_stand|Rubber_bumper_support008|Take 001|BaseLayer
+    7401438: IV_stand|Rubber_bumper_support009|Take 001|BaseLayer
+    7401440: IV_stand|Rubber_bumper_support010|Take 001|BaseLayer
+    7401442: IV_stand|Rubber_bumper_support011|Take 001|BaseLayer
+    7401444: IV_stand|Rubber_bumper_support012|Take 001|BaseLayer
+    7401446: IV_stand|Sanitizer003|Take 001|BaseLayer
+    7401448: IV_stand|Sanitizer004|Take 001|BaseLayer
+    7401450: IV_stand|scart003|Take 001|BaseLayer
+    7401452: IV_stand|scart004|Take 001|BaseLayer
+    7401454: IV_stand|scart005|Take 001|BaseLayer
+    7401456: IV_stand|Shape002|Take 001|BaseLayer
+    7401458: IV_stand|shelf edge004|Take 001|BaseLayer
+    7401460: IV_stand|shelf edge005|Take 001|BaseLayer
+    7401462: IV_stand|shelf edge006|Take 001|BaseLayer
+    7401464: IV_stand|shelf edge007|Take 001|BaseLayer
+    7401466: IV_stand|side panel controls_head_002|Take 001|BaseLayer
+    7401468: IV_stand|side panel controls_head_003|Take 001|BaseLayer
+    7401470: IV_stand|side panel_head002|Take 001|BaseLayer
+    7401472: IV_stand|side panel_head003|Take 001|BaseLayer
+    7401474: IV_stand|Side_handle002|Take 001|BaseLayer
+    7401476: IV_stand|Side_handle003|Take 001|BaseLayer
+    7401478: IV_stand|side_panel_cap005|Take 001|BaseLayer
+    7401480: IV_stand|side_panel_cap006|Take 001|BaseLayer
+    7401482: IV_stand|side_panel_cap007|Take 001|BaseLayer
+    7401484: IV_stand|side_panel_cap008|Take 001|BaseLayer
+    7401486: IV_stand|sky boom base001|Take 001|BaseLayer
+    7401488: IV_stand|socketA068|Take 001|BaseLayer
+    7401490: IV_stand|socketA069|Take 001|BaseLayer
+    7401492: IV_stand|socketA070|Take 001|BaseLayer
+    7401494: IV_stand|socketA071|Take 001|BaseLayer
+    7401496: IV_stand|socketA072|Take 001|BaseLayer
+    7401498: IV_stand|socketA073|Take 001|BaseLayer
+    7401500: IV_stand|socketA074|Take 001|BaseLayer
+    7401502: IV_stand|socketA075|Take 001|BaseLayer
+    7401504: IV_stand|socketA076|Take 001|BaseLayer
+    7401506: IV_stand|socketA077|Take 001|BaseLayer
+    7401508: IV_stand|socketA078|Take 001|BaseLayer
+    7401510: IV_stand|socketA079|Take 001|BaseLayer
+    7401512: IV_stand|socketA080|Take 001|BaseLayer
+    7401514: IV_stand|socketA081|Take 001|BaseLayer
+    7401516: IV_stand|socketA082|Take 001|BaseLayer
+    7401518: IV_stand|socketA083|Take 001|BaseLayer
+    7401520: IV_stand|socketA084|Take 001|BaseLayer
+    7401522: IV_stand|socketA085|Take 001|BaseLayer
+    7401524: IV_stand|socketA086|Take 001|BaseLayer
+    7401526: IV_stand|socketA087|Take 001|BaseLayer
+    7401528: IV_stand|socketA088|Take 001|BaseLayer
+    7401530: IV_stand|socketA089|Take 001|BaseLayer
+    7401532: IV_stand|socketA090|Take 001|BaseLayer
+    7401534: IV_stand|socketA091|Take 001|BaseLayer
+    7401536: IV_stand|socketA092|Take 001|BaseLayer
+    7401538: IV_stand|socketA093|Take 001|BaseLayer
+    7401540: IV_stand|SocketB076|Take 001|BaseLayer
+    7401542: IV_stand|SocketB077|Take 001|BaseLayer
+    7401544: IV_stand|SocketB078|Take 001|BaseLayer
+    7401546: IV_stand|SocketB079|Take 001|BaseLayer
+    7401548: IV_stand|SocketB080|Take 001|BaseLayer
+    7401550: IV_stand|SocketB081|Take 001|BaseLayer
+    7401552: IV_stand|SocketB082|Take 001|BaseLayer
+    7401554: IV_stand|SocketB083|Take 001|BaseLayer
+    7401556: IV_stand|SocketB084|Take 001|BaseLayer
+    7401558: IV_stand|SocketB085|Take 001|BaseLayer
+    7401560: IV_stand|SocketB086|Take 001|BaseLayer
+    7401562: IV_stand|SocketB087|Take 001|BaseLayer
+    7401564: IV_stand|SocketB088|Take 001|BaseLayer
+    7401566: IV_stand|SocketB089|Take 001|BaseLayer
+    7401568: IV_stand|SocketB090|Take 001|BaseLayer
+    7401570: IV_stand|SocketB091|Take 001|BaseLayer
+    7401572: IV_stand|SocketB092|Take 001|BaseLayer
+    7401574: IV_stand|SocketB093|Take 001|BaseLayer
+    7401576: IV_stand|SocketB094|Take 001|BaseLayer
+    7401578: IV_stand|SocketB095|Take 001|BaseLayer
+    7401580: IV_stand|SocketB096|Take 001|BaseLayer
+    7401582: IV_stand|SocketB097|Take 001|BaseLayer
+    7401584: IV_stand|SocketB098|Take 001|BaseLayer
+    7401586: IV_stand|SocketB099|Take 001|BaseLayer
+    7401588: IV_stand|sockets012|Take 001|BaseLayer
+    7401590: IV_stand|sockets013|Take 001|BaseLayer
+    7401592: IV_stand|sockets014|Take 001|BaseLayer
+    7401594: IV_stand|sockets015|Take 001|BaseLayer
+    7401596: IV_stand|support017|Take 001|BaseLayer
+    7401598: IV_stand|support018|Take 001|BaseLayer
+    7401600: IV_stand|support019|Take 001|BaseLayer
+    7401602: IV_stand|support020|Take 001|BaseLayer
+    7401604: IV_stand|support021|Take 001|BaseLayer
+    7401606: IV_stand|support022|Take 001|BaseLayer
+    7401608: IV_stand|support023|Take 001|BaseLayer
+    7401610: IV_stand|support024|Take 001|BaseLayer
+    7401612: IV_stand|support025|Take 001|BaseLayer
+    7401614: IV_stand|support026|Take 001|BaseLayer
+    7401616: IV_stand|support027|Take 001|BaseLayer
+    7401618: IV_stand|support028|Take 001|BaseLayer
+    7401620: IV_stand|support029|Take 001|BaseLayer
+    7401622: IV_stand|support030|Take 001|BaseLayer
+    7401624: IV_stand|support031|Take 001|BaseLayer
+    7401626: IV_stand|support032|Take 001|BaseLayer
+    7401628: IV_stand|surgical light handle032|Take 001|BaseLayer
+    7401630: IV_stand|surgical light handle033|Take 001|BaseLayer
+    7401632: IV_stand|surgical light handle034|Take 001|BaseLayer
+    7401634: IV_stand|surgical light handle035|Take 001|BaseLayer
+    7401636: IV_stand|surgical light handle036|Take 001|BaseLayer
+    7401638: IV_stand|surgical light handle037|Take 001|BaseLayer
+    7401640: IV_stand|surgical light handle038|Take 001|BaseLayer
+    7401642: IV_stand|surgical light handle039|Take 001|BaseLayer
+    7401644: IV_stand|switch_body_incubator104|Take 001|BaseLayer
+    7401646: IV_stand|switch_body_incubator105|Take 001|BaseLayer
+    7401648: IV_stand|switch_body_incubator106|Take 001|BaseLayer
+    7401650: IV_stand|switch_body_incubator107|Take 001|BaseLayer
+    7401652: IV_stand|switch_body_incubator108|Take 001|BaseLayer
+    7401654: IV_stand|switch_body_incubator109|Take 001|BaseLayer
+    7401656: IV_stand|switch_body_incubator110|Take 001|BaseLayer
+    7401658: IV_stand|switch_body_incubator111|Take 001|BaseLayer
+    7401660: IV_stand|switch_body_incubator112|Take 001|BaseLayer
+    7401662: IV_stand|switch_body_incubator113|Take 001|BaseLayer
+    7401664: IV_stand|switch_body_incubator114|Take 001|BaseLayer
+    7401666: IV_stand|switch_body_incubator115|Take 001|BaseLayer
+    7401668: IV_stand|switch_body_incubator116|Take 001|BaseLayer
+    7401670: IV_stand|switch_body_incubator117|Take 001|BaseLayer
+    7401672: IV_stand|switch_body_incubator118|Take 001|BaseLayer
+    7401674: IV_stand|switch_body_incubator164|Take 001|BaseLayer
+    7401676: IV_stand|switch_incubator030|Take 001|BaseLayer
+    7401678: IV_stand|switch_incubator031|Take 001|BaseLayer
+    7401680: IV_stand|switch_incubator032|Take 001|BaseLayer
+    7401682: IV_stand|switch_incubator033|Take 001|BaseLayer
+    7401684: IV_stand|switch_incubator034|Take 001|BaseLayer
+    7401686: IV_stand|usb slot026|Take 001|BaseLayer
+    7401688: IV_stand|usb slot027|Take 001|BaseLayer
+    7401690: IV_stand|usb slot028|Take 001|BaseLayer
+    7401692: IV_stand|usb slot029|Take 001|BaseLayer
+    7401694: IV_stand|usb slot030|Take 001|BaseLayer
+    7401696: IV_stand|usb slot031|Take 001|BaseLayer
+    7401698: IV_stand|usb slot032|Take 001|BaseLayer
+    7401700: IV_stand|usb slot033|Take 001|BaseLayer
+    7401702: IV_stand|usb slot034|Take 001|BaseLayer
+    7401704: IV_stand|usb slot035|Take 001|BaseLayer
+    7401706: IV_stand|usb slot036|Take 001|BaseLayer
+    7401708: IV_stand|usb slot037|Take 001|BaseLayer
+    7401710: IV_stand|usb slot038|Take 001|BaseLayer
+    7401712: IV_stand|ventilator  bag cap001|Take 001|BaseLayer
+    7401714: IV_stand|ventilator arm adjustable support001|Take 001|BaseLayer
+    7401716: IV_stand|ventilator arm handle002|Take 001|BaseLayer
+    7401718: IV_stand|ventilator arm segment005|Take 001|BaseLayer
+    7401720: IV_stand|ventilator arm segment006|Take 001|BaseLayer
+    7401722: IV_stand|ventilator arm segment007|Take 001|BaseLayer
+    7401724: IV_stand|ventilator arm segment008|Take 001|BaseLayer
+    7401726: IV_stand|ventilator bag001|Take 001|BaseLayer
+    7401728: IV_stand|ventilator box002|Take 001|BaseLayer
+    7401730: IV_stand|ventilator brushed metal002|Take 001|BaseLayer
+    7401732: IV_stand|ventilator controls 003|Take 001|BaseLayer
+    7401734: IV_stand|ventilator glass004|Take 001|BaseLayer
+    7401736: IV_stand|ventilator glass005|Take 001|BaseLayer
+    7401738: IV_stand|ventilator glass006|Take 001|BaseLayer
+    7401740: IV_stand|ventilator hose cap 012|Take 001|BaseLayer
+    7401742: IV_stand|ventilator hose cap 013|Take 001|BaseLayer
+    7401744: IV_stand|ventilator hose cap 014|Take 001|BaseLayer
+    7401746: IV_stand|ventilator hose cap 015|Take 001|BaseLayer
+    7401748: IV_stand|ventilator hose cap 016|Take 001|BaseLayer
+    7401750: IV_stand|ventilator hose cap 017|Take 001|BaseLayer
+    7401752: IV_stand|ventilator hose cap005|Take 001|BaseLayer
+    7401754: IV_stand|ventilator hose cap006|Take 001|BaseLayer
+    7401756: IV_stand|ventilator hose cap007|Take 001|BaseLayer
+    7401758: IV_stand|ventilator hose cap008|Take 001|BaseLayer
+    7401760: IV_stand|ventilator hose output003|Take 001|BaseLayer
+    7401762: IV_stand|ventilator hose output004|Take 001|BaseLayer
+    7401764: IV_stand|ventilator hose support 004|Take 001|BaseLayer
+    7401766: IV_stand|ventilator hose support 005|Take 001|BaseLayer
+    7401768: IV_stand|ventilator hose support001|Take 001|BaseLayer
+    7401770: IV_stand|ventilator large button001|Take 001|BaseLayer
+    7401772: IV_stand|ventilator screen002|Take 001|BaseLayer
+    7401774: IV_stand|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7401776: IV_stand|Ventilator_main_body001|Take 001|BaseLayer
+    7401778: IV_stand|Ventilator_wheel004|Take 001|BaseLayer
+    7401780: IV_stand|Ventilator_wheel005|Take 001|BaseLayer
+    7401782: IV_stand|Ventilator_wheel005|Take 001|BaseLayer.001
+    7401784: IV_stand|Ventilator_wheel006|Take 001|BaseLayer
+    7401786: IV_stand|Ventilator_wheel007|Take 001|BaseLayer
+    7401788: IV_stand|ventilatorHose006|Take 001|BaseLayer
+    7401790: IV_stand|ventilatorHose007|Take 001|BaseLayer
+    7401792: IV_stand|ventilatorHose008|Take 001|BaseLayer
+    7401794: IV_stand|ventilatorHose009|Take 001|BaseLayer
+    7401796: IV_stand|ventilatorHose010|Take 001|BaseLayer
+    7401798: IV_stand|vga slot031|Take 001|BaseLayer
+    7401800: IV_stand|vga slot032|Take 001|BaseLayer
+    7401802: IV_stand|vga slot033|Take 001|BaseLayer
+    7401804: IV_stand|vga slot034|Take 001|BaseLayer
+    7401806: IV_stand|vga slot035|Take 001|BaseLayer
+    7401808: IV_stand|walls|Take 001|BaseLayer
+    7401810: IV_stand|WardConsole001|Take 001|BaseLayer
+    7401812: IV_stand|warmer_lamp016|Take 001|BaseLayer
+    7401814: IV_stand|warmer_lamp017|Take 001|BaseLayer
+    7401816: IV_stand|Warmer_lamp_blades016|Take 001|BaseLayer
+    7401818: IV_stand|Warmer_lamp_blades017|Take 001|BaseLayer
+    7401820: IV_stand|warmer_lamp_glass016|Take 001|BaseLayer
+    7401822: IV_stand|warmer_lamp_glass017|Take 001|BaseLayer
+    7401824: IV_stand|warmer_lamp_shade016|Take 001|BaseLayer
+    7401826: IV_stand|warmer_lamp_shade017|Take 001|BaseLayer
+    7401828: IV_stand|wheel044|Take 001|BaseLayer
+    7401830: IV_stand|wheel044|Take 001|BaseLayer.001
+    7401832: IV_stand|wheel045|Take 001|BaseLayer
+    7401834: IV_stand|wheel045|Take 001|BaseLayer.001
+    7401836: IV_stand|wheel046|Take 001|BaseLayer
+    7401838: IV_stand|wheel047|Take 001|BaseLayer
+    7401840: IV_stand|wheel048|Take 001|BaseLayer
+    7401842: IV_stand|Wheel_arm009|Take 001|BaseLayer
+    7401844: IV_stand|Wheel_arm010|Take 001|BaseLayer
+    7401846: IV_stand|Wheel_arm010|Take 001|BaseLayer.001
+    7401848: IV_stand|Wheel_arm011|Take 001|BaseLayer
+    7401850: IV_stand|Wheel_arm012|Take 001|BaseLayer
+    7401852: IV_stand|wheel_ax008|Take 001|BaseLayer
+    7401854: IV_stand|wheel_ax009|Take 001|BaseLayer
+    7401856: IV_stand|wheel_ax009|Take 001|BaseLayer.001
+    7401858: IV_stand|wheel_ax010|Take 001|BaseLayer
+    7401860: IV_stand|wheel_ax011|Take 001|BaseLayer
+    7401862: IV_stand|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7401864: IV_stand|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7401866: IV_stand|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7401868: IV_stand|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7401870: IV_stand|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7401872: IV_stand|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7401874: IV_stand|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7401876: IV_stand|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7401878: IV_stand|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7401880: IV_stand|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7401882: IV_stand|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7401884: IV_stand|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7401886: IV_stand|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7401888: IV_stand|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7401890: IV_stand|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7401892: IV_stand|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7401894: IV_stand|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7401896: IV_stand|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7401898: IV_stand|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7401900: IV_stand|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7401902: IV_stand|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7401904: IV_stand|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7401906: IV_stand|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7401908: IV_stand|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7401910: IV_stand|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7401912: IV_stand|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7401914: IV_stand|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7401916: IV_stand|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7401918: IV_stand|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7401920: IV_stand|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7401922: IV_stand|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7401924: IV_stand|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7401926: IV_stand|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7401928: IV_stand|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7401930: IV_stand|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7401932: IV_stand|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7401934: IV_stand|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7401936: IV_stand|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7401938: IV_stand|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7401940: IV_stand|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7401942: IV_stand|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7401944: IV_stand|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7401946: IV_stand|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7401948: IV_stand|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7401950: IV_stand|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7401952: IV_stand|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7401954: IV_stand|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7401956: IV_stand|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7401958: IV_stand|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7401960: IV_stand|wheel_rubber007|Take 001|BaseLayer
+    7401962: IV_stand|wheel_rubber008|Take 001|BaseLayer
+    7401964: IV_stand|wheel_rubber008|Take 001|BaseLayer.001
+    7401966: IV_stand|wheel_rubber009|Take 001|BaseLayer
+    7401968: IV_stand|wheel_rubber010|Take 001|BaseLayer
+    7401970: IV_stand|wheelCenterPivot004|Take 001|BaseLayer
+    7401972: IV_stand|wheelCenterPivot005|Take 001|BaseLayer
+    7401974: IV_stand|wheelCenterPivot005|Take 001|BaseLayer.001
+    7401976: IV_stand|wheelCenterPivot006|Take 001|BaseLayer
+    7401978: IV_stand|wheelCenterPivot007|Take 001|BaseLayer
+    7401980: IV_stand|wooden floor|Take 001|BaseLayer
+    7401982: IV_stand|wooden floor|Take 001|BaseLayer.001
+    7401984: IV_stand|ceilung|Take 001|BaseLayer
+    7401986: IV_stand|Cylinder4465|Take 001|BaseLayer
+    7401988: IV_stand|Cylinder4466|Take 001|BaseLayer
+    7401990: IV_stand|Cylinder4467|Take 001|BaseLayer
+    7401992: IV_stand|Cylinder4468|Take 001|BaseLayer
+    7401994: IV_stand|Cylinder4469|Take 001|BaseLayer
+    7401996: IV_stand|Cylinder4470|Take 001|BaseLayer
+    7401998: IV_stand|Cylinder4471|Take 001|BaseLayer
+    7402000: IV_stand|Cylinder4472|Take 001|BaseLayer
+    7402002: IV_stand|Cylinder4473|Take 001|BaseLayer
+    7402004: IV_stand|Cylinder4771|Take 001|BaseLayer
+    7402006: IV_stand|Cylinder4772|Take 001|BaseLayer
+    7402008: IV_stand|Cylinder4773|Take 001|BaseLayer
+    7402010: IV_stand|Locker_top001|Take 001|BaseLayer
+    7402012: IV_stand|plinth 2|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

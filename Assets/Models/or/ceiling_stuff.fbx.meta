@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 8e84b975eaca78540b9feeb215904976
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -2789335646835214777
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Floor Conc - 6"
+      - Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: -5105892684616271598
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Floor Conc - 6"
+      - Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 716775885432502077
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Floor Conc - 6"
+      - Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 1110410248154212907
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Floor Conc - 6"
+      - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: -4925658770500904126
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Surgery Stool Surgery
+      Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: -3292637191518924631
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Surgery Stool Surgery
+      Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -1456718839509157740
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Surgery Stool Surgery
+      Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: -388360521097147014
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: -406825542292052660
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: 3648629436053900097
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Contamination
+      Tray w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: -9184842651026105892
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: 5147379007587214323
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -3518531236865739443
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -8216945531215458652
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -3941879220848393461
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: 8241034765242942571
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Basic Wall Generic
+      - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: 5426030013791759714
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: 5646060820834505805
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Cart-Laptop_Reed
+      Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: -8744676185964442227
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Cart_Utility_Reed
+      35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -7304726559114195645
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Compound Ceiling
+      GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: 7732527734227740877
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Computer_LCD_Reed
+      Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: 6475610523212766484
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Door_Vision-Panel_Reed
+      Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: 7595059595783082596
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Double_Flush_-_Unequal
+      72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: -2515688586717248940
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 8874702537723713951
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -4389004462193945259
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: 1395152826726850074
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: 2892221646804099527
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Plane015|Take 001|BaseLayer
+  - first:
+      74: -5401322912930245680
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Rauland - Flush
+      mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 4158522822470159862
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Stand-Infusion_Reed
+      Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: 6541606934480698306
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Ventilator-2_Reed
+      Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -4429414610671696898
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Ventilator_Reed
+      Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: 3613349707905519750
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Fire Alarm Box
+      Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 3143722862145132406
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-Med Cabinet -
+      Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -2211352672044727968
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310]|w-SurgeryRoom 48inch
+      Light Fixture w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: 6127362606462169943
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Basic Wall Generic
+      - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: 1897552957437383119
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: 3765099756892481226
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Cart-Laptop_Reed
+      Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: 6209937168799603471
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Cart_Utility_Reed
+      35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -2487307176047000831
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Compound Ceiling
+      GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: 7537882544621847397
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Computer_LCD_Reed
+      Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: 2102900248957719655
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Door_Vision-Panel_Reed
+      Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: -8939030157954121046
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Double_Flush_-_Unequal
+      72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: -7399071938701614919
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Floor Conc -
+      6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 9187467488947665547
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 5167456006981161690
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -2789028079892898434
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: -3433495021669492798
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: -8516129578569938977
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Plane015|Take
+      001|BaseLayer
+  - first:
+      74: -4152796689816451866
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Rauland - Flush
+      mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: -5485466571375848153
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Stand-Infusion_Reed
+      Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: -8964211532293764742
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Surgery Stool
+      Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: 2789394711251744090
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: -5690226706650213227
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Ventilator-2_Reed
+      Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -6168750204358327100
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|Ventilator_Reed
+      Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: -3105546823721504709
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: 1619575880659118052
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-Fire Alarm
+      Box Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: -3273022640130258816
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-Med Cabinet
+      - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -4686351606373647065
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: 8109889703886890355
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -7460859569822205030
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].001|w-SurgeryRoom
+      48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: -8332583097403544749
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Basic Wall Generic
+      - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: 1237038773836756042
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Basic Wall Interior
+      - 3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: -4481258379111032987
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Cart-Laptop_Reed
+      Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: 9050254770204073543
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Cart_Utility_Reed
+      35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -2368694247264508839
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Compound Ceiling
+      GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: 139909925666232896
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Computer_LCD_Reed
+      Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: -9180436623438859039
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Door_Vision-Panel_Reed
+      Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: 2719684268284916532
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Double_Flush_-_Unequal
+      72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: -496659502840636486
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Floor Conc -
+      6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 1026244039579677866
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 408891529923657694
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -2229301759587053899
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: -6770073668888895657
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: 2874152029159011248
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Plane015|Take
+      001|BaseLayer
+  - first:
+      74: -1855796521481419912
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Rauland - Flush
+      mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 2831829356963372436
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Stand-Infusion_Reed
+      Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: 2208704093170288200
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Surgery Stool
+      Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -1414268726856293238
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: 4538803147702216036
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Ventilator-2_Reed
+      Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -2568842490782488620
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|Ventilator_Reed
+      Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: 6325590425360137946
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -4975277168199302462
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-Fire Alarm
+      Box Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 6876369100327621211
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-Med Cabinet
+      - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -780573146732255279
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -683942392316962009
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -7706798138994252022
+    second: w-Medical Equipment - Trumpf - i310 i310 FP [320310].002|w-SurgeryRoom
+      48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: -380437634671432606
+    second: PatientMonitor|Basic Wall Generic - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -551885573105419357
+    second: PatientMonitor|Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Take
+      001
+  - first:
+      74: 5486783264078916776
+    second: PatientMonitor|Cart-Laptop_Reed Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: -5023892215966316759
+    second: PatientMonitor|Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Take
+      001|Ba
+  - first:
+      74: 4991358635800690779
+    second: PatientMonitor|Compound Ceiling GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: -631040250162207144
+    second: PatientMonitor|Computer_LCD_Reed Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: -6922968799903559771
+    second: PatientMonitor|Door_Vision-Panel_Reed Door_Vision-Panel_Reed [198105]|Take
+      001
+  - first:
+      74: 319724634442353839
+    second: PatientMonitor|Double_Flush_-_Unequal 72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: 7796750618971005659
+    second: PatientMonitor|Floor Conc - 6" - Rubber Floor Dark Blue [316282]|Take
+      001|Base
+  - first:
+      74: 4992008950304325848
+    second: PatientMonitor|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: -5717327734602480282
+    second: PatientMonitor|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 558265463136313281
+    second: PatientMonitor|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195215]|Take
+      001|B
+  - first:
+      74: 632482684347209159
+    second: PatientMonitor|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen [243262]|Take
+      001
+  - first:
+      74: -1525764726883510195
+    second: PatientMonitor|Plane015|Take 001|BaseLayer
+  - first:
+      74: -8860627614473657295
+    second: PatientMonitor|Rauland - Flush mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 5477569128750612555
+    second: PatientMonitor|Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Take
+      001|BaseL
+  - first:
+      74: -5239785566680467995
+    second: PatientMonitor|Surgery Stool Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -2323617201140482635
+    second: PatientMonitor|Table-Overbed_Reed Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: 2490751469369029785
+    second: PatientMonitor|Ventilator-2_Reed Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: 2288207661892963074
+    second: PatientMonitor|Ventilator_Reed Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: 2265636778189753061
+    second: PatientMonitor|w-Anesthesia_Tower 26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: 775346015662882022
+    second: PatientMonitor|w-Fire Alarm Box Fire Alarm Pull Box-NH [160855]|Take
+      001|BaseL
+  - first:
+      74: 2402388011834929313
+    second: PatientMonitor|w-Med Cabinet - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: 4247005741430492860
+    second: PatientMonitor|w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Take
+      001|B
+  - first:
+      74: 3050077124831533538
+    second: PatientMonitor|w-Medical Equipment -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: 8646273853045680856
+    second: PatientMonitor|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: -5099841533198512671
+    second: LightFixture|Basic Wall Generic - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -8853222142156823943
+    second: LightFixture|Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Take
+      001
+  - first:
+      74: 3961710877785294149
+    second: LightFixture|Cart-Laptop_Reed Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: -504748769276456013
+    second: LightFixture|Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Take
+      001|Ba
+  - first:
+      74: -2491698334360304587
+    second: LightFixture|Compound Ceiling GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: -4172853440152726564
+    second: LightFixture|Computer_LCD_Reed Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: -9082686866373900838
+    second: LightFixture|Door_Vision-Panel_Reed Door_Vision-Panel_Reed [198105]|Take
+      001
+  - first:
+      74: 6481397195742035241
+    second: LightFixture|Double_Flush_-_Unequal 72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: -2019980473036301478
+    second: LightFixture|Floor Conc - 6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 7143829348029610027
+    second: LightFixture|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: -6732852979199327791
+    second: LightFixture|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 5511522226347676238
+    second: LightFixture|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195215]|Take
+      001|B
+  - first:
+      74: 7121665618135906025
+    second: LightFixture|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen [243262]|Take
+      001
+  - first:
+      74: 4879088407451176245
+    second: LightFixture|Plane015|Take 001|BaseLayer
+  - first:
+      74: 1243921391462355263
+    second: LightFixture|Rauland - Flush mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 2983577421702799924
+    second: LightFixture|Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: 7677132142865882612
+    second: LightFixture|Surgery Stool Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: 7465534953171042450
+    second: LightFixture|Table-Overbed_Reed Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: -60349403868598330
+    second: LightFixture|Ventilator-2_Reed Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -677404292667556972
+    second: LightFixture|Ventilator_Reed Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: -8141401919596037933
+    second: LightFixture|w-Anesthesia_Tower 26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -7152433969511618870
+    second: LightFixture|w-Fire Alarm Box Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 3853135003914699409
+    second: LightFixture|w-Med Cabinet - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -5098107583018324902
+    second: LightFixture|w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Take
+      001|B
+  - first:
+      74: -7364805962571044792
+    second: LightFixture|w-Medical Equipment -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: 5190816608526202509
+    second: LightFixture|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trumpf - Black Plastic
+    second: {fileID: 2100000, guid: 550468e6384c7f54eb8724c35fe1b635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trumpf - White Plastic.001
+    second: {fileID: 2100000, guid: cd7617fa2d9cce84496f800cd87d903a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

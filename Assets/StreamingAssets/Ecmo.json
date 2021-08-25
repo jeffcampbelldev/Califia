@@ -1,0 +1,195 @@
+{
+	"CircuitTypes": [{
+			"name": "NONE",
+			"index": 0,
+			"sites":[]
+		},
+		{
+			"name": "VA ECMO",
+			"index": 1,
+			"sites":[0,3]
+		},
+		{
+			"name": "VAV ECMO - Fem-Fem-IJ",
+			"index": 2,
+			"sites":[0,3,7]
+		},
+		{
+			"name": "VAV ECMO - Fem-IJ (Dual Lumen)",
+			"index": 3,
+			"sites":[0,7]
+		},
+		{
+			"name": "VV ECMO - Fem-IJ",
+			"index": 4,
+			"sites":[3,7]
+		},
+		{
+			"name": "VV ECMO - IJ-IJ",
+			"index": 5,
+			"sites":[7]
+		}
+	],
+	"Cannulas": [{
+			"name": "No Cannula",
+			"index": 0,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_8_Fr",
+			"index": 1,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_10_Fr",
+			"index": 2,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_12_Fr",
+			"index": 3,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_15_Fr",
+			"index": 4,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_19_Fr",
+			"index": 5,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Delivery_23_Fr",
+			"index": 6,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_8_Fr",
+			"index": 7,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_10_Fr",
+			"index": 8,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_12_Fr",
+			"index": 9,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_15_Fr",
+			"index": 10,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_19_Fr",
+			"index": 11,
+			"length":31
+		},
+		{
+			"name": "Bio-Medicus_NextGen_Drainage_25_Fr",
+			"index": 12,
+			"length":31
+		},
+		{
+			"name": "Crescent_Dual_Lumen_24_Fr",
+			"index": 13,
+			"length":30
+		},
+		{
+			"name": "Crescent_Dual_Lumen_28_Fr",
+			"index": 14,
+			"length":34
+		},
+		{
+			"name": "Crescent_Dual_Lumen_32_Fr",
+			"index": 15,
+			"length":34
+		},
+		{
+			"name": "Avalon_Dual_Lumen_13_Fr",
+			"index": 16,
+			"length":30
+		},
+		{
+			"name": "Avalon_Dual_Lumen_23_Fr",
+			"index": 17,
+			"length":31
+		},
+		{
+			"name": "Avalon_Dual_Lumen_27_Fr",
+			"index": 18,
+			"length":31
+		},
+		{
+			"name": "Avalon_Dual_Lumen_31_Fr",
+			"index": 19,
+			"length":31
+		}
+	],
+	"Sites": [{
+			"name": "Left Femoral Artery",
+			"index": 0,
+			"def":6,
+			"defDl":-1
+		},
+		{
+			"name": "Left Femoral Vein",
+			"index": 1,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Right Femoral Artery",
+			"index": 2,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Right Femoral Vein",
+			"index": 3,
+			"def":12,
+			"defDl":-1
+		},
+		{
+			"name": "Axillary Artery",
+			"index": 4,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Ascending Aorta",
+			"index": 5,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Left Ventricle Apex",
+			"index": 6,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Right Internal Jugular",
+			"index": 7,
+			"def":6,
+			"defDl":15
+		},
+		{
+			"name": "Left Carotid Artery",
+			"index": 8,
+			"def":0,
+			"defDl":-1
+		},
+		{
+			"name": "Right Carotid Artery",
+			"index": 9,
+			"def":0,
+			"defDl":-1
+		}
+	]
+}

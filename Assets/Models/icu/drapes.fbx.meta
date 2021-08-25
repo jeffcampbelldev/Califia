@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: a180acaa337536347ace8ff3de6ce416
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -4235808517227098606
+    second: curtain_hospital_ward.001|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 181760818991700348
+    second: curtain_hospital_ward.001|Box847|Take 001|BaseLayer
+  - first:
+      74: 4359768891921308691
+    second: curtain_hospital_ward.001|ceilung|Take 001|BaseLayer
+  - first:
+      74: -4008532852870492193
+    second: curtain_hospital_ward.001|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: -7214761040299774072
+    second: curtain_hospital_ward.001|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 1731026029587250699
+    second: curtain_hospital_ward.001|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: -8335135284695677510
+    second: curtain_hospital_ward.001|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7645860272485567618
+    second: curtain_hospital_ward.001|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 3506825337467193902
+    second: curtain_hospital_ward.001|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: -8904690302413358873
+    second: curtain_hospital_ward.001|mirror2a|Take 001|BaseLayer
+  - first:
+      74: -8201680319813021437
+    second: curtain_hospital_ward.001|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: -5994533939580512106
+    second: curtain_hospital_ward.001|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7548473874245875732
+    second: curtain_hospital_ward.001|Object4483|Take 001|BaseLayer
+  - first:
+      74: 1740617765647488859
+    second: curtain_hospital_ward.001|Object4491|Take 001|BaseLayer
+  - first:
+      74: -266416145847701758
+    second: curtain_hospital_ward.001|plinth 2|Take 001|BaseLayer
+  - first:
+      74: -4669424237975495836
+    second: curtain_hospital_ward.001|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: -6778072709511886176
+    second: curtain_hospital_ward.001|walls|Take 001|BaseLayer
+  - first:
+      74: 5828153040065896488
+    second: curtain_hospital_ward.001|wooden floor|Take 001|BaseLayer.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

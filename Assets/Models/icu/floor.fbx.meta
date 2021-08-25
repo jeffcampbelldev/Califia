@@ -1,0 +1,2025 @@
+fileFormatVersion: 2
+guid: e7fe7c7c4ebd3034198bba08d058245e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bedside_table_blat003
+    100004: Chair
+    100006: curtain_hospital_ward
+    100008: Hospital_bed_base001
+    100010: IV_stand
+    100012: Locker
+    100014: MedicalDevice
+    100016: plinth 2
+    100018: ventilator screen002
+    100020: walls
+    100022: wallUnit
+    100024: wooden floor
+    400000: //RootNode
+    400002: Bedside_table_blat003
+    400004: Chair
+    400006: curtain_hospital_ward
+    400008: Hospital_bed_base001
+    400010: IV_stand
+    400012: Locker
+    400014: MedicalDevice
+    400016: plinth 2
+    400018: ventilator screen002
+    400020: walls
+    400022: wallUnit
+    400024: wooden floor
+    2100000: wood floor
+    2100002: wood floor.001
+    2100004: walls
+    2100006: nets
+    2100008: white_ metal_hospital_bed
+    2100010: white_ plastic_hospital_bed
+    2100012: Aluminum_matted
+    2100014: blue_hospital_bed
+    2100016: hospital bed matresse
+    2100018: incubator black plastic
+    2100020: side panel controls_type2
+    2100022: pillow
+    2100024: side panel controls_head_1
+    2100026: doctors stool_leather.001
+    2100028: Chrome.001
+    2100030: doctors stool_black plastic.001
+    2100032: Car_Paint_Standard.001
+    2100034: incubator black plastic.002
+    2100036: Aluminum_matted.002
+    2100038: doctors stool_metal
+    2100040: blue_hospital_bed.001
+    2100042: white_ plastic_hospital_bed.002
+    2100044: surgical light black plastic
+    2100046: hospital_bed_ metal1
+    2100048: Chrome.002
+    2100050: cx50_gray
+    2100052: incubator black plastic.003
+    2100054: white_ metal_hospital_bed.001
+    2100056: Aluminum_matted.003
+    2100058: white metal bedsidetable
+    2100060: Plastic_Translucent_sanitizer
+    2100062: mirror
+    2100064: Plastic_Shiny
+    2100066: greenliquid
+    2100068: plastic bottle cap
+    2100070: 02 - Default
+    2100072: 09 - Default
+    2100074: 02 - Default.001
+    2100076: medicine label01
+    2100078: vray 02 - Default
+    2100080: vray medicine label 03
+    2100082: vray medicine label 02
+    2100084: VEntilator Display
+    2100086: bluePlasticVentilator
+    2100088: Light_blue
+    2100090: Chrome.003
+    2100092: incubator black plastic.004
+    2100094: surgical light black plastic.001
+    2100096: white_ plastic_monitor
+    2100098: Aluminum_matted.004
+    2100100: surgical yellow
+    2100102: white_ plastic_hospital_bed.003
+    2100104: surgical blue plastic.000
+    2100106: surgical white
+    2100108: Rubber_clean
+    2100110: ventilator controls2
+    2100112: Glass
+    2100114: Plastic_Translucent_White
+    2100116: Plastic_Translucent_Red
+    2100118: monitor screen
+    2100120: Chrome.004
+    2100122: surgical white.001
+    2100124: surgical light black plastic.002
+    2100126: Aluminum_matted.005
+    2100128: medical device1
+    2100130: medical device 03
+    2100132: medical device 02
+    2100134: surgical blue plastic.002
+    2100136: incubator black plastic.005
+    2100138: offscreen
+    2100140: incubator black plastic.006
+    2100142: chrome surgical light.001
+    2100144: Chrome.005
+    2100146: incubator metal
+    2100148: white_ metal_incubator
+    2100150: surgical light black plastic.003
+    2100152: white_ plastic_hospital_bed.004
+    2100154: surgical red
+    2100156: brushed metal surgical light
+    2100158: Aluminum_matted.006
+    2100160: neon
+    2100162: surgical white.002
+    2100164: bluePlasticVentilator.001
+    2100166: oxygen-vacuum-air
+    2100168: vray 4124
+    2100170: chrome surgical light
+    2100172: surgical blue plastic
+    2100174: lamp shade
+    2100176: mirror_lamp
+    2100178: darkgray plastic
+    2100180: chrome surgical light.002
+    2100182: plastic_operation table.001
+    2100184: 16 - Default
+    2100186: orangeplasticinfusionpole
+    2100188: infusion pole metal.001
+    2100190: metal_operation table.001
+    2100192: infusion plastic
+    2100194: white_ plastic_hospital_bed.005
+    2100196: blue_hospital_bed.003
+    2100198: Aluminum_matted.007
+    2100200: incubator black plastic.007
+    2100202: lighrWood
+    2300000: //RootNode
+    2300002: Bedside_table_blat003
+    2300004: Chair
+    2300006: curtain_hospital_ward
+    2300008: Hospital_bed_base001
+    2300010: IV_stand
+    2300012: Locker
+    2300014: MedicalDevice
+    2300016: plinth 2
+    2300018: ventilator screen002
+    2300020: walls
+    2300022: wallUnit
+    2300024: wooden floor
+    3300000: //RootNode
+    3300002: Bedside_table_blat003
+    3300004: Chair
+    3300006: curtain_hospital_ward
+    3300008: Hospital_bed_base001
+    3300010: IV_stand
+    3300012: Locker
+    3300014: MedicalDevice
+    3300016: plinth 2
+    3300018: ventilator screen002
+    3300020: walls
+    3300022: wallUnit
+    3300024: wooden floor
+    4300000: wooden floor
+    4300002: walls
+    4300004: curtain_hospital_ward
+    4300006: Hospital_bed_base001
+    4300008: Chair
+    4300010: Bedside_table_blat003
+    4300012: ventilator screen002
+    4300014: MedicalDevice
+    4300016: wallUnit
+    4300018: IV_stand
+    4300020: Locker
+    4300022: plinth 2
+    7400000: wooden floor|4000 Series Extra Wide Horseshoe shower seat|Take 001|BaseLayer
+    7400002: wooden floor|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400004: wooden floor|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400006: wooden floor|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400008: wooden floor|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400010: wooden floor|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400012: wooden floor|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400014: wooden floor|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400016: wooden floor|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400018: wooden floor|air grid001|Take 001|BaseLayer
+    7400020: wooden floor|air grid|Take 001|BaseLayer
+    7400022: wooden floor|air vents frame|Take 001|BaseLayer
+    7400024: wooden floor|aluminium_corner002asfa|Take 001|BaseLayer
+    7400026: wooden floor|aluminium_corner002|Take 001|BaseLayer
+    7400028: wooden floor|aluminium_corner003|Take 001|BaseLayer
+    7400030: wooden floor|Armrest_connection01|Take 001|BaseLayer
+    7400032: wooden floor|Armrest_connection|Take 001|BaseLayer
+    7400034: wooden floor|Back_display_detail001|Take 001|BaseLayer
+    7400036: wooden floor|bathroomWalls|Take 001|BaseLayer
+    7400038: wooden floor|bedside_table003|Take 001|BaseLayer
+    7400040: wooden floor|bedside_table_adjuster003|Take 001|BaseLayer
+    7400042: wooden floor|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400044: wooden floor|Bedside_table_axis003|Take 001|BaseLayer
+    7400046: wooden floor|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400048: wooden floor|Bedside_table_blat003|Take 001|BaseLayer
+    7400050: wooden floor|Bedside_table_border003|Take 001|BaseLayer
+    7400052: wooden floor|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400054: wooden floor|bedside_table_handle003|Take 001|BaseLayer
+    7400056: wooden floor|bedside_table_handle_support003|Take 001|BaseLayer
+    7400058: wooden floor|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400060: wooden floor|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400062: wooden floor|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400064: wooden floor|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400066: wooden floor|Bedside_table_support010|Take 001|BaseLayer
+    7400068: wooden floor|Bedside_table_support011|Take 001|BaseLayer
+    7400070: wooden floor|Bedside_table_support012|Take 001|BaseLayer
+    7400072: wooden floor|Bedside_table_wheel053|Take 001|BaseLayer
+    7400074: wooden floor|Bedside_table_wheel054|Take 001|BaseLayer
+    7400076: wooden floor|Bedside_table_wheel055|Take 001|BaseLayer
+    7400078: wooden floor|Bedside_table_wheel056|Take 001|BaseLayer
+    7400080: wooden floor|Belt_connector001|Take 001|BaseLayer
+    7400082: wooden floor|Belt_connector002|Take 001|BaseLayer
+    7400084: wooden floor|big_drawer001|Take 001|BaseLayer
+    7400086: wooden floor|biohazardlabel|Take 001|BaseLayer
+    7400088: wooden floor|black_fill_console072|Take 001|BaseLayer
+    7400090: wooden floor|black_fill_console073|Take 001|BaseLayer
+    7400092: wooden floor|black_fill_console074|Take 001|BaseLayer
+    7400094: wooden floor|black_fill_console075|Take 001|BaseLayer
+    7400096: wooden floor|black_fill_console076|Take 001|BaseLayer
+    7400098: wooden floor|black_fill_console077|Take 001|BaseLayer
+    7400100: wooden floor|black_fill_console078|Take 001|BaseLayer
+    7400102: wooden floor|black_fill_console079|Take 001|BaseLayer
+    7400104: wooden floor|black_fill_console080|Take 001|BaseLayer
+    7400106: wooden floor|black_fill_console081|Take 001|BaseLayer
+    7400108: wooden floor|black_fill_console082|Take 001|BaseLayer
+    7400110: wooden floor|black_fill_console116|Take 001|BaseLayer
+    7400112: wooden floor|black_fill|Take 001|BaseLayer
+    7400114: wooden floor|Blue_light001|Take 001|BaseLayer
+    7400116: wooden floor|bolt424|Take 001|BaseLayer
+    7400118: wooden floor|bolt425|Take 001|BaseLayer
+    7400120: wooden floor|bolt426|Take 001|BaseLayer
+    7400122: wooden floor|bolt427|Take 001|BaseLayer
+    7400124: wooden floor|bolt428|Take 001|BaseLayer
+    7400126: wooden floor|bolt429|Take 001|BaseLayer
+    7400128: wooden floor|bolt430|Take 001|BaseLayer
+    7400130: wooden floor|bolt431|Take 001|BaseLayer
+    7400132: wooden floor|bolt432|Take 001|BaseLayer
+    7400134: wooden floor|bolt433|Take 001|BaseLayer
+    7400136: wooden floor|bolt434|Take 001|BaseLayer
+    7400138: wooden floor|bolt435|Take 001|BaseLayer
+    7400140: wooden floor|bolt436|Take 001|BaseLayer
+    7400142: wooden floor|bolt437|Take 001|BaseLayer
+    7400144: wooden floor|bolt438|Take 001|BaseLayer
+    7400146: wooden floor|bolt439|Take 001|BaseLayer
+    7400148: wooden floor|bolt440|Take 001|BaseLayer
+    7400150: wooden floor|bolt441|Take 001|BaseLayer
+    7400152: wooden floor|bolt442|Take 001|BaseLayer
+    7400154: wooden floor|bolt443|Take 001|BaseLayer
+    7400156: wooden floor|bolt444|Take 001|BaseLayer
+    7400158: wooden floor|bolt445|Take 001|BaseLayer
+    7400160: wooden floor|bolt446|Take 001|BaseLayer
+    7400162: wooden floor|bolt447|Take 001|BaseLayer
+    7400164: wooden floor|bolt448|Take 001|BaseLayer
+    7400166: wooden floor|bolt449|Take 001|BaseLayer
+    7400168: wooden floor|bolt450|Take 001|BaseLayer
+    7400170: wooden floor|bolt451|Take 001|BaseLayer
+    7400172: wooden floor|bolt452|Take 001|BaseLayer
+    7400174: wooden floor|bolt453|Take 001|BaseLayer
+    7400176: wooden floor|bolt454|Take 001|BaseLayer
+    7400178: wooden floor|bolt455|Take 001|BaseLayer
+    7400180: wooden floor|bolt456|Take 001|BaseLayer
+    7400182: wooden floor|bolt457|Take 001|BaseLayer
+    7400184: wooden floor|bolt458|Take 001|BaseLayer
+    7400186: wooden floor|bolt459|Take 001|BaseLayer
+    7400188: wooden floor|bolt460|Take 001|BaseLayer
+    7400190: wooden floor|bolt461|Take 001|BaseLayer
+    7400192: wooden floor|bolt462|Take 001|BaseLayer
+    7400194: wooden floor|bolt463|Take 001|BaseLayer
+    7400196: wooden floor|bolt464|Take 001|BaseLayer
+    7400198: wooden floor|bolt465|Take 001|BaseLayer
+    7400200: wooden floor|bolt466|Take 001|BaseLayer
+    7400202: wooden floor|bolt467|Take 001|BaseLayer
+    7400204: wooden floor|bolt468|Take 001|BaseLayer
+    7400206: wooden floor|bolt469|Take 001|BaseLayer
+    7400208: wooden floor|bolt470|Take 001|BaseLayer
+    7400210: wooden floor|bolt471|Take 001|BaseLayer
+    7400212: wooden floor|bolt472|Take 001|BaseLayer
+    7400214: wooden floor|bolt473|Take 001|BaseLayer
+    7400216: wooden floor|bolt474|Take 001|BaseLayer
+    7400218: wooden floor|bolt475|Take 001|BaseLayer
+    7400220: wooden floor|bolt476|Take 001|BaseLayer
+    7400222: wooden floor|bolt477|Take 001|BaseLayer
+    7400224: wooden floor|bolt478|Take 001|BaseLayer
+    7400226: wooden floor|bolt479|Take 001|BaseLayer
+    7400228: wooden floor|bolt480|Take 001|BaseLayer
+    7400230: wooden floor|bolt481|Take 001|BaseLayer
+    7400232: wooden floor|bolt482|Take 001|BaseLayer
+    7400234: wooden floor|bolt483|Take 001|BaseLayer
+    7400236: wooden floor|bolt484|Take 001|BaseLayer
+    7400238: wooden floor|bolt485|Take 001|BaseLayer
+    7400240: wooden floor|bolt486|Take 001|BaseLayer
+    7400242: wooden floor|bolt487|Take 001|BaseLayer
+    7400244: wooden floor|bolt488|Take 001|BaseLayer
+    7400246: wooden floor|bolt489|Take 001|BaseLayer
+    7400248: wooden floor|bolt490|Take 001|BaseLayer
+    7400250: wooden floor|bolt491|Take 001|BaseLayer
+    7400252: wooden floor|bolt492|Take 001|BaseLayer
+    7400254: wooden floor|bolt493|Take 001|BaseLayer
+    7400256: wooden floor|bolt494|Take 001|BaseLayer
+    7400258: wooden floor|bolt495|Take 001|BaseLayer
+    7400260: wooden floor|bolt496|Take 001|BaseLayer
+    7400262: wooden floor|bolt497|Take 001|BaseLayer
+    7400264: wooden floor|bolt498|Take 001|BaseLayer
+    7400266: wooden floor|bolt499|Take 001|BaseLayer
+    7400268: wooden floor|bolt500|Take 001|BaseLayer
+    7400270: wooden floor|bolt501|Take 001|BaseLayer
+    7400272: wooden floor|bolt502|Take 001|BaseLayer
+    7400274: wooden floor|bolt503|Take 001|BaseLayer
+    7400276: wooden floor|bolt504|Take 001|BaseLayer
+    7400278: wooden floor|bolt505|Take 001|BaseLayer
+    7400280: wooden floor|bolt506|Take 001|BaseLayer
+    7400282: wooden floor|bolt507|Take 001|BaseLayer
+    7400284: wooden floor|bolt508|Take 001|BaseLayer
+    7400286: wooden floor|bolt509|Take 001|BaseLayer
+    7400288: wooden floor|bolt510|Take 001|BaseLayer
+    7400290: wooden floor|bolt511|Take 001|BaseLayer
+    7400292: wooden floor|bolt512|Take 001|BaseLayer
+    7400294: wooden floor|bolt513|Take 001|BaseLayer
+    7400296: wooden floor|bolt514|Take 001|BaseLayer
+    7400298: wooden floor|bolt515|Take 001|BaseLayer
+    7400300: wooden floor|bolt516|Take 001|BaseLayer
+    7400302: wooden floor|bolt517|Take 001|BaseLayer
+    7400304: wooden floor|bolt518|Take 001|BaseLayer
+    7400306: wooden floor|bolt519|Take 001|BaseLayer
+    7400308: wooden floor|bolt520|Take 001|BaseLayer
+    7400310: wooden floor|bolt521|Take 001|BaseLayer
+    7400312: wooden floor|bolt522|Take 001|BaseLayer
+    7400314: wooden floor|bolt523|Take 001|BaseLayer
+    7400316: wooden floor|bolt524|Take 001|BaseLayer
+    7400318: wooden floor|bolt525|Take 001|BaseLayer
+    7400320: wooden floor|bolt526|Take 001|BaseLayer
+    7400322: wooden floor|bolt527|Take 001|BaseLayer
+    7400324: wooden floor|bolt528|Take 001|BaseLayer
+    7400326: wooden floor|bolt529|Take 001|BaseLayer
+    7400328: wooden floor|bolt530|Take 001|BaseLayer
+    7400330: wooden floor|bolt531|Take 001|BaseLayer
+    7400332: wooden floor|bolt532|Take 001|BaseLayer
+    7400334: wooden floor|bolt533|Take 001|BaseLayer
+    7400336: wooden floor|bolt534|Take 001|BaseLayer
+    7400338: wooden floor|bolt535|Take 001|BaseLayer
+    7400340: wooden floor|bolt536|Take 001|BaseLayer
+    7400342: wooden floor|bolt537|Take 001|BaseLayer
+    7400344: wooden floor|bolt538|Take 001|BaseLayer
+    7400346: wooden floor|boom segment 009|Take 001|BaseLayer
+    7400348: wooden floor|boom segment 010|Take 001|BaseLayer
+    7400350: wooden floor|boom segment 011|Take 001|BaseLayer
+    7400352: wooden floor|BoomArm001|Take 001|BaseLayer
+    7400354: wooden floor|BoomMonitor002|Take 001|BaseLayer
+    7400356: wooden floor|BoomMonitor003|Take 001|BaseLayer
+    7400358: wooden floor|Box01|Take 001|BaseLayer
+    7400360: wooden floor|Box02|Take 001|BaseLayer
+    7400362: wooden floor|Box09|Take 001|BaseLayer
+    7400364: wooden floor|Box19|Take 001|BaseLayer
+    7400366: wooden floor|Box205a007|Take 001|BaseLayer
+    7400368: wooden floor|Box206b007|Take 001|BaseLayer
+    7400370: wooden floor|Box20|Take 001|BaseLayer
+    7400372: wooden floor|Box23|Take 001|BaseLayer
+    7400374: wooden floor|Box276|Take 001|BaseLayer
+    7400376: wooden floor|Box277|Take 001|BaseLayer
+    7400378: wooden floor|Box278|Take 001|BaseLayer
+    7400380: wooden floor|Box279|Take 001|BaseLayer
+    7400382: wooden floor|Box280|Take 001|BaseLayer
+    7400384: wooden floor|Box281|Take 001|BaseLayer
+    7400386: wooden floor|Box282|Take 001|BaseLayer
+    7400388: wooden floor|Box283|Take 001|BaseLayer
+    7400390: wooden floor|Box284|Take 001|BaseLayer
+    7400392: wooden floor|Box37|Take 001|BaseLayer
+    7400394: wooden floor|Box38|Take 001|BaseLayer
+    7400396: wooden floor|Box41|Take 001|BaseLayer
+    7400398: wooden floor|Box42|Take 001|BaseLayer
+    7400400: wooden floor|Box43|Take 001|BaseLayer
+    7400402: wooden floor|Box44|Take 001|BaseLayer
+    7400404: wooden floor|Box45|Take 001|BaseLayer
+    7400406: wooden floor|Box46|Take 001|BaseLayer
+    7400408: wooden floor|Box835|Take 001|BaseLayer
+    7400410: wooden floor|Box836|Take 001|BaseLayer
+    7400412: wooden floor|Box837|Take 001|BaseLayer
+    7400414: wooden floor|Box838|Take 001|BaseLayer
+    7400416: wooden floor|Box839|Take 001|BaseLayer
+    7400418: wooden floor|Box840|Take 001|BaseLayer
+    7400420: wooden floor|Box841|Take 001|BaseLayer
+    7400422: wooden floor|Box842|Take 001|BaseLayer
+    7400424: wooden floor|Box843|Take 001|BaseLayer
+    7400426: wooden floor|Box844|Take 001|BaseLayer
+    7400428: wooden floor|Box845|Take 001|BaseLayer
+    7400430: wooden floor|Box846|Take 001|BaseLayer
+    7400432: wooden floor|Box847|Take 001|BaseLayer
+    7400434: wooden floor|bzt040|Take 001|BaseLayer
+    7400436: wooden floor|bzt041|Take 001|BaseLayer
+    7400438: wooden floor|bzt042|Take 001|BaseLayer
+    7400440: wooden floor|bzt043|Take 001|BaseLayer
+    7400442: wooden floor|bzt044|Take 001|BaseLayer
+    7400444: wooden floor|cable005|Take 001|BaseLayer
+    7400446: wooden floor|cable006|Take 001|BaseLayer
+    7400448: wooden floor|cable007|Take 001|BaseLayer
+    7400450: wooden floor|cable008|Take 001|BaseLayer
+    7400452: wooden floor|cable009|Take 001|BaseLayer
+    7400454: wooden floor|Camera001.Target|Take 001|BaseLayer
+    7400456: wooden floor|Camera001|Take 001|BaseLayer
+    7400458: wooden floor|caps|Take 001|BaseLayer
+    7400460: wooden floor|card slot001|Take 001|BaseLayer
+    7400462: wooden floor|ceilung|Take 001|BaseLayer
+    7400464: wooden floor|Chair_arm001|Take 001|BaseLayer
+    7400466: wooden floor|Chair_armrest002|Take 001|BaseLayer
+    7400468: wooden floor|Chair_armrest01|Take 001|BaseLayer
+    7400470: wooden floor|Chair_armrest_bda2|Take 001|BaseLayer
+    7400472: wooden floor|Chair_armrest|Take 001|BaseLayer
+    7400474: wooden floor|Chair_arm|Take 001|BaseLayer
+    7400476: wooden floor|Chair_axA001|Take 001|BaseLayer
+    7400478: wooden floor|Chair_axA002|Take 001|BaseLayer
+    7400480: wooden floor|Chair_axA003|Take 001|BaseLayer
+    7400482: wooden floor|Chair_axA004|Take 001|BaseLayer
+    7400484: wooden floor|Chair_axB002|Take 001|BaseLayer
+    7400486: wooden floor|Chair_axB003|Take 001|BaseLayer
+    7400488: wooden floor|Chair_axB004|Take 001|BaseLayer
+    7400490: wooden floor|Chair_axB005|Take 001|BaseLayer
+    7400492: wooden floor|Chair_back_leg002|Take 001|BaseLayer
+    7400494: wooden floor|Chair_back_leg|Take 001|BaseLayer
+    7400496: wooden floor|Chair_backrest_abcde|Take 001|BaseLayer
+    7400498: wooden floor|Chair_backrest_cushion|Take 001|BaseLayer
+    7400500: wooden floor|Chair_backrest_detail|Take 001|BaseLayer
+    7400502: wooden floor|Chair_backrest|Take 001|BaseLayer
+    7400504: wooden floor|Chair_belt_clip001|Take 001|BaseLayer
+    7400506: wooden floor|Chair_belt_clip004|Take 001|BaseLayer
+    7400508: wooden floor|Chair_belt_clip007|Take 001|BaseLayer
+    7400510: wooden floor|Chair_belt_clip|Take 001|BaseLayer
+    7400512: wooden floor|Chair_bolt001|Take 001|BaseLayer
+    7400514: wooden floor|Chair_bolt_adjuster002|Take 001|BaseLayer
+    7400516: wooden floor|Chair_bolt_adjuster003|Take 001|BaseLayer
+    7400518: wooden floor|Chair_bolt_adjuster01|Take 001|BaseLayer
+    7400520: wooden floor|Chair_bolt_adjuster|Take 001|BaseLayer
+    7400522: wooden floor|Chair_bolt|Take 001|BaseLayer
+    7400524: wooden floor|Chair_bottom_cover|Take 001|BaseLayer
+    7400526: wooden floor|chair_bottom|Take 001|BaseLayer
+    7400528: wooden floor|Chair_chrome_extension002|Take 001|BaseLayer
+    7400530: wooden floor|Chair_chrome_extension|Take 001|BaseLayer
+    7400532: wooden floor|Chair_chrome_front_extension002|Take 001|BaseLayer
+    7400534: wooden floor|Chair_chrome_front_extension|Take 001|BaseLayer
+    7400536: wooden floor|Chair_chrome_leg_extension001|Take 001|BaseLayer
+    7400538: wooden floor|Chair_chrome_leg_extension|Take 001|BaseLayer
+    7400540: wooden floor|Chair_detail011|Take 001|BaseLayer
+    7400542: wooden floor|Chair_detail01|Take 001|BaseLayer
+    7400544: wooden floor|Chair_detail02|Take 001|BaseLayer
+    7400546: wooden floor|Chair_detail|Take 001|BaseLayer
+    7400548: wooden floor|Chair_extension_lock_bolt001|Take 001|BaseLayer
+    7400550: wooden floor|Chair_extension_lock_bolt002|Take 001|BaseLayer
+    7400552: wooden floor|Chair_extension_lock_bolt006|Take 001|BaseLayer
+    7400554: wooden floor|Chair_extension_lock_bolt007|Take 001|BaseLayer
+    7400556: wooden floor|Chair_extension_lock_bolt008|Take 001|BaseLayer
+    7400558: wooden floor|Chair_extension_lock_bolt009|Take 001|BaseLayer
+    7400560: wooden floor|Chair_extension_lock_bolt010|Take 001|BaseLayer
+    7400562: wooden floor|Chair_extension_lock_boltA010|Take 001|BaseLayer
+    7400564: wooden floor|Chair_extension_lock_boltA011|Take 001|BaseLayer
+    7400566: wooden floor|Chair_extension_lock_boltA012|Take 001|BaseLayer
+    7400568: wooden floor|Chair_extension_lock_boltA013|Take 001|BaseLayer
+    7400570: wooden floor|Chair_extension_lock_boltA014|Take 001|BaseLayer
+    7400572: wooden floor|Chair_extension_lock_boltA015|Take 001|BaseLayer
+    7400574: wooden floor|Chair_extension_lock_boltA016|Take 001|BaseLayer
+    7400576: wooden floor|Chair_extension_lock_boltA017|Take 001|BaseLayer
+    7400578: wooden floor|Chair_extension_lock_bolt|Take 001|BaseLayer
+    7400580: wooden floor|Chair_foot_support|Take 001|BaseLayer
+    7400582: wooden floor|Chair_hinge001|Take 001|BaseLayer
+    7400584: wooden floor|Chair_hinge|Take 001|BaseLayer
+    7400586: wooden floor|Chair_horizontal_belt001|Take 001|BaseLayer
+    7400588: wooden floor|Chair_horizontal_belt002|Take 001|BaseLayer
+    7400590: wooden floor|Chair_horizontal_belt003|Take 001|BaseLayer
+    7400592: wooden floor|Chair_horizontal_belt|Take 001|BaseLayer
+    7400594: wooden floor|Chair_leg001|Take 001|BaseLayer
+    7400596: wooden floor|Chair_leg_cap001|Take 001|BaseLayer
+    7400598: wooden floor|Chair_leg_cap004|Take 001|BaseLayer
+    7400600: wooden floor|Chair_leg_cap005|Take 001|BaseLayer
+    7400602: wooden floor|Chair_leg_cap|Take 001|BaseLayer
+    7400604: wooden floor|Chair_leg|Take 001|BaseLayer
+    7400606: wooden floor|chair_metal_armrest002|Take 001|BaseLayer
+    7400608: wooden floor|chair_metal_armrest|Take 001|BaseLayer
+    7400610: wooden floor|Chair_metal_bar001|Take 001|BaseLayer
+    7400612: wooden floor|Chair_metal_bar|Take 001|BaseLayer
+    7400614: wooden floor|Chair_metal_connector005|Take 001|BaseLayer
+    7400616: wooden floor|Chair_metal_connector011|Take 001|BaseLayer
+    7400618: wooden floor|Chair_mobile_leg_system001|Take 001|BaseLayer
+    7400620: wooden floor|Chair_mobile_leg_system|Take 001|BaseLayer
+    7400622: wooden floor|Chair_structure|Take 001|BaseLayer
+    7400624: wooden floor|Chair_support_clip002|Take 001|BaseLayer
+    7400626: wooden floor|Chair_support_clip|Take 001|BaseLayer
+    7400628: wooden floor|Chair_vertical_belt001|Take 001|BaseLayer
+    7400630: wooden floor|Chair_vertical_belt|Take 001|BaseLayer
+    7400632: wooden floor|ChamferBox013|Take 001|BaseLayer
+    7400634: wooden floor|ChamferBox09|Take 001|BaseLayer
+    7400636: wooden floor|ChamferBox10|Take 001|BaseLayer
+    7400638: wooden floor|ChamferCyl02|Take 001|BaseLayer
+    7400640: wooden floor|ChamferCyl03|Take 001|BaseLayer
+    7400642: wooden floor|ChamferCyl04|Take 001|BaseLayer
+    7400644: wooden floor|ChamferCyl05|Take 001|BaseLayer
+    7400646: wooden floor|ChamferCyl06|Take 001|BaseLayer
+    7400648: wooden floor|ChamferCyl07|Take 001|BaseLayer
+    7400650: wooden floor|ChamferCyl08|Take 001|BaseLayer
+    7400652: wooden floor|ChamferCyl099|Take 001|BaseLayer
+    7400654: wooden floor|ChamferCyl09|Take 001|BaseLayer
+    7400656: wooden floor|ChamferCyl100|Take 001|BaseLayer
+    7400658: wooden floor|ChamferCyl10|Take 001|BaseLayer
+    7400660: wooden floor|ChamferCyl11|Take 001|BaseLayer
+    7400662: wooden floor|ChamferCyl12|Take 001|BaseLayer
+    7400664: wooden floor|ChamferCyl13|Take 001|BaseLayer
+    7400666: wooden floor|ChamferCyl14|Take 001|BaseLayer
+    7400668: wooden floor|ChamferCyl15|Take 001|BaseLayer
+    7400670: wooden floor|ChamferCyl228|Take 001|BaseLayer
+    7400672: wooden floor|ChamferCyl25|Take 001|BaseLayer
+    7400674: wooden floor|Circle007|Take 001|BaseLayer
+    7400676: wooden floor|Circle01|Take 001|BaseLayer
+    7400678: wooden floor|Circle02|Take 001|BaseLayer
+    7400680: wooden floor|Circle08|Take 001|BaseLayer
+    7400682: wooden floor|Clay_Paky_case001|Take 001|BaseLayer
+    7400684: wooden floor|COLUMBIA-5015 PVC_Hi-Back_Foldable_Shower_Commode_Chair|Take
+      00
+    7400686: wooden floor|console air_socket006|Take 001|BaseLayer
+    7400688: wooden floor|console001|Take 001|BaseLayer
+    7400690: wooden floor|console_bolt130|Take 001|BaseLayer
+    7400692: wooden floor|console_bolt131|Take 001|BaseLayer
+    7400694: wooden floor|console_bolt132|Take 001|BaseLayer
+    7400696: wooden floor|console_bolt133|Take 001|BaseLayer
+    7400698: wooden floor|console_bolt134|Take 001|BaseLayer
+    7400700: wooden floor|console_bolt135|Take 001|BaseLayer
+    7400702: wooden floor|console_bolt136|Take 001|BaseLayer
+    7400704: wooden floor|console_bolt137|Take 001|BaseLayer
+    7400706: wooden floor|console_bolt138|Take 001|BaseLayer
+    7400708: wooden floor|console_bolt139|Take 001|BaseLayer
+    7400710: wooden floor|console_bolt170|Take 001|BaseLayer
+    7400712: wooden floor|console_bolt171|Take 001|BaseLayer
+    7400714: wooden floor|console_button_large024|Take 001|BaseLayer
+    7400716: wooden floor|console_button_large025|Take 001|BaseLayer
+    7400718: wooden floor|console_button_large026|Take 001|BaseLayer
+    7400720: wooden floor|console_button_large027|Take 001|BaseLayer
+    7400722: wooden floor|console_lamp013|Take 001|BaseLayer
+    7400724: wooden floor|console_lamp014|Take 001|BaseLayer
+    7400726: wooden floor|console_socket007|Take 001|BaseLayer
+    7400728: wooden floor|consoler_button032|Take 001|BaseLayer
+    7400730: wooden floor|consoler_button033|Take 001|BaseLayer
+    7400732: wooden floor|consoler_button034|Take 001|BaseLayer
+    7400734: wooden floor|consoler_button035|Take 001|BaseLayer
+    7400736: wooden floor|consoler_button036|Take 001|BaseLayer
+    7400738: wooden floor|consoler_button053|Take 001|BaseLayer
+    7400740: wooden floor|console|Take 001|BaseLayer
+    7400742: wooden floor|Control_button001|Take 001|BaseLayer
+    7400744: wooden floor|cooler001|Take 001|BaseLayer
+    7400746: wooden floor|Cooler_fan002|Take 001|BaseLayer
+    7400748: wooden floor|Cooler_propeller012|Take 001|BaseLayer
+    7400750: wooden floor|Cooler_propeller013|Take 001|BaseLayer
+    7400752: wooden floor|Cooler_propeller014|Take 001|BaseLayer
+    7400754: wooden floor|Cooler_propeller015|Take 001|BaseLayer
+    7400756: wooden floor|Cooler_propeller016|Take 001|BaseLayer
+    7400758: wooden floor|Cooler_propeller017|Take 001|BaseLayer
+    7400760: wooden floor|cupboard001|Take 001|BaseLayer
+    7400762: wooden floor|cupboard|Take 001|BaseLayer
+    7400764: wooden floor|curtain_hospital_ward001|Take 001|BaseLayer
+    7400766: wooden floor|curtain_hospital_ward007|Take 001|BaseLayer
+    7400768: wooden floor|curtain_hospital_ward008|Take 001|BaseLayer
+    7400770: wooden floor|curtain_hospital_ward|Take 001|BaseLayer
+    7400772: wooden floor|curtain_supports001|Take 001|BaseLayer
+    7400774: wooden floor|Cylinder01a007|Take 001|BaseLayer
+    7400776: wooden floor|Cylinder01|Take 001|BaseLayer
+    7400778: wooden floor|Cylinder02fggsa007|Take 001|BaseLayer
+    7400780: wooden floor|Cylinder02|Take 001|BaseLayer
+    7400782: wooden floor|Cylinder03vbbv007|Take 001|BaseLayer
+    7400784: wooden floor|Cylinder03|Take 001|BaseLayer
+    7400786: wooden floor|Cylinder04sd007|Take 001|BaseLayer
+    7400788: wooden floor|Cylinder04|Take 001|BaseLayer
+    7400790: wooden floor|Cylinder05|Take 001|BaseLayer
+    7400792: wooden floor|Cylinder09|Take 001|BaseLayer
+    7400794: wooden floor|Cylinder107|Take 001|BaseLayer
+    7400796: wooden floor|Cylinder108|Take 001|BaseLayer
+    7400798: wooden floor|Cylinder109|Take 001|BaseLayer
+    7400800: wooden floor|Cylinder111abc|Take 001|BaseLayer
+    7400802: wooden floor|Cylinder111|Take 001|BaseLayer
+    7400804: wooden floor|Cylinder112|Take 001|BaseLayer
+    7400806: wooden floor|Cylinder113|Take 001|BaseLayer
+    7400808: wooden floor|Cylinder114|Take 001|BaseLayer
+    7400810: wooden floor|Cylinder137|Take 001|BaseLayer
+    7400812: wooden floor|Cylinder14|Take 001|BaseLayer
+    7400814: wooden floor|Cylinder159ass007|Take 001|BaseLayer
+    7400816: wooden floor|Cylinder16033d007|Take 001|BaseLayer
+    7400818: wooden floor|Cylinder171fddf007|Take 001|BaseLayer
+    7400820: wooden floor|Cylinder172vbbv007|Take 001|BaseLayer
+    7400822: wooden floor|Cylinder173assa007|Take 001|BaseLayer
+    7400824: wooden floor|Cylinder174|Take 001|BaseLayer
+    7400826: wooden floor|Cylinder19|Take 001|BaseLayer
+    7400828: wooden floor|Cylinder26|Take 001|BaseLayer
+    7400830: wooden floor|Cylinder380|Take 001|BaseLayer
+    7400832: wooden floor|Cylinder381|Take 001|BaseLayer
+    7400834: wooden floor|Cylinder382|Take 001|BaseLayer
+    7400836: wooden floor|Cylinder383|Take 001|BaseLayer
+    7400838: wooden floor|Cylinder384|Take 001|BaseLayer
+    7400840: wooden floor|Cylinder385|Take 001|BaseLayer
+    7400842: wooden floor|Cylinder386|Take 001|BaseLayer
+    7400844: wooden floor|Cylinder387|Take 001|BaseLayer
+    7400846: wooden floor|Cylinder388|Take 001|BaseLayer
+    7400848: wooden floor|Cylinder389|Take 001|BaseLayer
+    7400850: wooden floor|Cylinder390|Take 001|BaseLayer
+    7400852: wooden floor|Cylinder391|Take 001|BaseLayer
+    7400854: wooden floor|Cylinder392|Take 001|BaseLayer
+    7400856: wooden floor|Cylinder393|Take 001|BaseLayer
+    7400858: wooden floor|Cylinder394|Take 001|BaseLayer
+    7400860: wooden floor|Cylinder395|Take 001|BaseLayer
+    7400862: wooden floor|Cylinder396|Take 001|BaseLayer
+    7400864: wooden floor|Cylinder397|Take 001|BaseLayer
+    7400866: wooden floor|Cylinder398|Take 001|BaseLayer
+    7400868: wooden floor|Cylinder399|Take 001|BaseLayer
+    7400870: wooden floor|Cylinder400|Take 001|BaseLayer
+    7400872: wooden floor|Cylinder401|Take 001|BaseLayer
+    7400874: wooden floor|Cylinder402|Take 001|BaseLayer
+    7400876: wooden floor|Cylinder403|Take 001|BaseLayer
+    7400878: wooden floor|Cylinder404|Take 001|BaseLayer
+    7400880: wooden floor|Cylinder405|Take 001|BaseLayer
+    7400882: wooden floor|Cylinder406|Take 001|BaseLayer
+    7400884: wooden floor|Cylinder407|Take 001|BaseLayer
+    7400886: wooden floor|Cylinder408|Take 001|BaseLayer
+    7400888: wooden floor|Cylinder409|Take 001|BaseLayer
+    7400890: wooden floor|Cylinder410|Take 001|BaseLayer
+    7400892: wooden floor|Cylinder411|Take 001|BaseLayer
+    7400894: wooden floor|Cylinder412|Take 001|BaseLayer
+    7400896: wooden floor|Cylinder4246|Take 001|BaseLayer
+    7400898: wooden floor|Cylinder4247|Take 001|BaseLayer
+    7400900: wooden floor|Cylinder4248|Take 001|BaseLayer
+    7400902: wooden floor|Cylinder4249|Take 001|BaseLayer
+    7400904: wooden floor|Cylinder4250|Take 001|BaseLayer
+    7400906: wooden floor|Cylinder4251|Take 001|BaseLayer
+    7400908: wooden floor|Cylinder4252|Take 001|BaseLayer
+    7400910: wooden floor|Cylinder4465|Take 001|BaseLayer
+    7400912: wooden floor|Cylinder4466|Take 001|BaseLayer
+    7400914: wooden floor|Cylinder4467|Take 001|BaseLayer
+    7400916: wooden floor|Cylinder4468|Take 001|BaseLayer
+    7400918: wooden floor|Cylinder4469|Take 001|BaseLayer
+    7400920: wooden floor|Cylinder4470|Take 001|BaseLayer
+    7400922: wooden floor|Cylinder4471|Take 001|BaseLayer
+    7400924: wooden floor|Cylinder4472|Take 001|BaseLayer
+    7400926: wooden floor|Cylinder4473|Take 001|BaseLayer
+    7400928: wooden floor|Cylinder4509|Take 001|BaseLayer
+    7400930: wooden floor|Cylinder4510|Take 001|BaseLayer
+    7400932: wooden floor|Cylinder4511|Take 001|BaseLayer
+    7400934: wooden floor|Cylinder4512|Take 001|BaseLayer
+    7400936: wooden floor|Cylinder4513|Take 001|BaseLayer
+    7400938: wooden floor|Cylinder4514|Take 001|BaseLayer
+    7400940: wooden floor|Cylinder4515|Take 001|BaseLayer
+    7400942: wooden floor|Cylinder4516|Take 001|BaseLayer
+    7400944: wooden floor|Cylinder4517|Take 001|BaseLayer
+    7400946: wooden floor|Cylinder4518|Take 001|BaseLayer
+    7400948: wooden floor|Cylinder4519|Take 001|BaseLayer
+    7400950: wooden floor|Cylinder4520|Take 001|BaseLayer
+    7400952: wooden floor|Cylinder4521|Take 001|BaseLayer
+    7400954: wooden floor|Cylinder4522|Take 001|BaseLayer
+    7400956: wooden floor|Cylinder4523|Take 001|BaseLayer
+    7400958: wooden floor|Cylinder4524|Take 001|BaseLayer
+    7400960: wooden floor|Cylinder4525|Take 001|BaseLayer
+    7400962: wooden floor|Cylinder4526|Take 001|BaseLayer
+    7400964: wooden floor|Cylinder4527|Take 001|BaseLayer
+    7400966: wooden floor|Cylinder4528|Take 001|BaseLayer
+    7400968: wooden floor|Cylinder4529|Take 001|BaseLayer
+    7400970: wooden floor|Cylinder4530|Take 001|BaseLayer
+    7400972: wooden floor|Cylinder4531|Take 001|BaseLayer
+    7400974: wooden floor|Cylinder4532|Take 001|BaseLayer
+    7400976: wooden floor|Cylinder4533|Take 001|BaseLayer
+    7400978: wooden floor|Cylinder4534|Take 001|BaseLayer
+    7400980: wooden floor|Cylinder4535|Take 001|BaseLayer
+    7400982: wooden floor|Cylinder4536|Take 001|BaseLayer
+    7400984: wooden floor|Cylinder4537|Take 001|BaseLayer
+    7400986: wooden floor|Cylinder4538|Take 001|BaseLayer
+    7400988: wooden floor|Cylinder4539|Take 001|BaseLayer
+    7400990: wooden floor|Cylinder4540|Take 001|BaseLayer
+    7400992: wooden floor|Cylinder4541|Take 001|BaseLayer
+    7400994: wooden floor|Cylinder4542|Take 001|BaseLayer
+    7400996: wooden floor|Cylinder4543|Take 001|BaseLayer
+    7400998: wooden floor|Cylinder4544|Take 001|BaseLayer
+    7401000: wooden floor|Cylinder4545|Take 001|BaseLayer
+    7401002: wooden floor|Cylinder4546|Take 001|BaseLayer
+    7401004: wooden floor|Cylinder4547|Take 001|BaseLayer
+    7401006: wooden floor|Cylinder4548|Take 001|BaseLayer
+    7401008: wooden floor|Cylinder4549|Take 001|BaseLayer
+    7401010: wooden floor|Cylinder4550|Take 001|BaseLayer
+    7401012: wooden floor|Cylinder4551|Take 001|BaseLayer
+    7401014: wooden floor|Cylinder4552|Take 001|BaseLayer
+    7401016: wooden floor|Cylinder4553|Take 001|BaseLayer
+    7401018: wooden floor|Cylinder4554|Take 001|BaseLayer
+    7401020: wooden floor|Cylinder4555|Take 001|BaseLayer
+    7401022: wooden floor|Cylinder4556|Take 001|BaseLayer
+    7401024: wooden floor|Cylinder4557|Take 001|BaseLayer
+    7401026: wooden floor|Cylinder4558|Take 001|BaseLayer
+    7401028: wooden floor|Cylinder4559|Take 001|BaseLayer
+    7401030: wooden floor|Cylinder4560|Take 001|BaseLayer
+    7401032: wooden floor|Cylinder4561|Take 001|BaseLayer
+    7401034: wooden floor|Cylinder4562|Take 001|BaseLayer
+    7401036: wooden floor|Cylinder4563|Take 001|BaseLayer
+    7401038: wooden floor|Cylinder4564|Take 001|BaseLayer
+    7401040: wooden floor|Cylinder4565|Take 001|BaseLayer
+    7401042: wooden floor|Cylinder4566|Take 001|BaseLayer
+    7401044: wooden floor|Cylinder4769|Take 001|BaseLayer
+    7401046: wooden floor|Cylinder4770|Take 001|BaseLayer
+    7401048: wooden floor|Cylinder4771|Take 001|BaseLayer
+    7401050: wooden floor|Cylinder4772|Take 001|BaseLayer
+    7401052: wooden floor|Cylinder4773|Take 001|BaseLayer
+    7401054: wooden floor|Cylinder47|Take 001|BaseLayer
+    7401056: wooden floor|Cylinder65ssa007|Take 001|BaseLayer
+    7401058: wooden floor|Cylinder69ddssa007|Take 001|BaseLayer
+    7401060: wooden floor|Cylinder69|Take 001|BaseLayer
+    7401062: wooden floor|Cylinder70|Take 001|BaseLayer
+    7401064: wooden floor|Cylinder71|Take 001|BaseLayer
+    7401066: wooden floor|Cylinder72|Take 001|BaseLayer
+    7401068: wooden floor|Cylinder73|Take 001|BaseLayer
+    7401070: wooden floor|Cylinder76|Take 001|BaseLayer
+    7401072: wooden floor|Cylinder78|Take 001|BaseLayer
+    7401074: wooden floor|Cylinder81|Take 001|BaseLayer
+    7401076: wooden floor|Cylinder82|Take 001|BaseLayer
+    7401078: wooden floor|Cylinder83|Take 001|BaseLayer
+    7401080: wooden floor|Cylinder84|Take 001|BaseLayer
+    7401082: wooden floor|Cylinder85|Take 001|BaseLayer
+    7401084: wooden floor|Cylinder87|Take 001|BaseLayer
+    7401086: wooden floor|Cylinder88|Take 001|BaseLayer
+    7401088: wooden floor|Cylinder89|Take 001|BaseLayer
+    7401090: wooden floor|Cylinder90|Take 001|BaseLayer
+    7401092: wooden floor|Cylinder91|Take 001|BaseLayer
+    7401094: wooden floor|Cylinder92|Take 001|BaseLayer
+    7401096: wooden floor|Cylinder93|Take 001|BaseLayer
+    7401098: wooden floor|Cylinder94|Take 001|BaseLayer
+    7401100: wooden floor|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7401102: wooden floor|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7401104: wooden floor|Display_body001|Take 001|BaseLayer
+    7401106: wooden floor|doctor_stool005|Take 001|BaseLayer
+    7401108: wooden floor|door frame001|Take 001|BaseLayer
+    7401110: wooden floor|door frame|Take 001|BaseLayer
+    7401112: wooden floor|drawer back002aasa|Take 001|BaseLayer
+    7401114: wooden floor|drawer back002|Take 001|BaseLayer
+    7401116: wooden floor|drawer back003223a|Take 001|BaseLayer
+    7401118: wooden floor|drawer_box001bda|Take 001|BaseLayer
+    7401120: wooden floor|drawer_box001|Take 001|BaseLayer
+    7401122: wooden floor|drawer_box002ra2|Take 001|BaseLayer
+    7401124: wooden floor|drawer_face003asa1|Take 001|BaseLayer
+    7401126: wooden floor|drawer_face003|Take 001|BaseLayer
+    7401128: wooden floor|drawer_face004vas|Take 001|BaseLayer
+    7401130: wooden floor|drawer_face004|Take 001|BaseLayer
+    7401132: wooden floor|drawer_face005221a|Take 001|BaseLayer
+    7401134: wooden floor|drawer_face0062231|Take 001|BaseLayer
+    7401136: wooden floor|drawer_face009|Take 001|BaseLayer
+    7401138: wooden floor|drawer_frame001bsa|Take 001|BaseLayer
+    7401140: wooden floor|drawer_frame001|Take 001|BaseLayer
+    7401142: wooden floor|drawer_frame002|Take 001|BaseLayer
+    7401144: wooden floor|electrical socket_incubator060|Take 001|BaseLayer
+    7401146: wooden floor|electrical socket_incubator061|Take 001|BaseLayer
+    7401148: wooden floor|electrical socket_incubator062|Take 001|BaseLayer
+    7401150: wooden floor|electrical socket_incubator063|Take 001|BaseLayer
+    7401152: wooden floor|electrical socket_incubator064|Take 001|BaseLayer
+    7401154: wooden floor|electrical socket_incubator065|Take 001|BaseLayer
+    7401156: wooden floor|electrical socket_incubator066|Take 001|BaseLayer
+    7401158: wooden floor|electrical socket_incubator067|Take 001|BaseLayer
+    7401160: wooden floor|electrical socket_incubator068|Take 001|BaseLayer
+    7401162: wooden floor|electrical socket_incubator069|Take 001|BaseLayer
+    7401164: wooden floor|electrical socket_incubator070|Take 001|BaseLayer
+    7401166: wooden floor|Enterprise Bedside Locker001|Take 001|BaseLayer
+    7401168: wooden floor|environment|Take 001|BaseLayer
+    7401170: wooden floor|equipement carrier handle002|Take 001|BaseLayer
+    7401172: wooden floor|equipement carrier handle003|Take 001|BaseLayer
+    7401174: wooden floor|equipment carrier body001|Take 001|BaseLayer
+    7401176: wooden floor|equipment_carrier_shelf005|Take 001|BaseLayer
+    7401178: wooden floor|equipment_carrier_shelf006|Take 001|BaseLayer
+    7401180: wooden floor|equipment_carrier_shelf007|Take 001|BaseLayer
+    7401182: wooden floor|equipment_carrier_shelf008|Take 001|BaseLayer
+    7401184: wooden floor|floor|Take 001|BaseLayer
+    7401186: wooden floor|Fspot001|Take 001|BaseLayer
+    7401188: wooden floor|Fspot002|Take 001|BaseLayer
+    7401190: wooden floor|Fspot004|Take 001|BaseLayer
+    7401192: wooden floor|Fspot005|Take 001|BaseLayer
+    7401194: wooden floor|Fspot006|Take 001|BaseLayer
+    7401196: wooden floor|Fspot016|Take 001|BaseLayer
+    7401198: wooden floor|Fspot017|Take 001|BaseLayer
+    7401200: wooden floor|Fspot018|Take 001|BaseLayer
+    7401202: wooden floor|Fspot019|Take 001|BaseLayer
+    7401204: wooden floor|Fspot020|Take 001|BaseLayer
+    7401206: wooden floor|Generic_Ventilator001|Take 001|BaseLayer
+    7401208: wooden floor|Group042|Take 001|BaseLayer
+    7401210: wooden floor|Group043|Take 001|BaseLayer
+    7401212: wooden floor|Group044|Take 001|BaseLayer
+    7401214: wooden floor|Group045|Take 001|BaseLayer
+    7401216: wooden floor|Group12a007|Take 001|BaseLayer
+    7401218: wooden floor|Group14a007|Take 001|BaseLayer
+    7401220: wooden floor|Handle001|Take 001|BaseLayer
+    7401222: wooden floor|Handle002|Take 001|BaseLayer
+    7401224: wooden floor|handle002|Take 001|BaseLayer
+    7401226: wooden floor|handle003|Take 001|BaseLayer
+    7401228: wooden floor|handle014|Take 001|BaseLayer
+    7401230: wooden floor|handle015|Take 001|BaseLayer
+    7401232: wooden floor|handle016|Take 001|BaseLayer
+    7401234: wooden floor|handle017|Take 001|BaseLayer
+    7401236: wooden floor|Handle|Take 001|BaseLayer
+    7401238: wooden floor|Helix003|Take 001|BaseLayer
+    7401240: wooden floor|Helix004|Take 001|BaseLayer
+    7401242: wooden floor|Helix012|Take 001|BaseLayer
+    7401244: wooden floor|Hospital Bed001|Take 001|BaseLayer
+    7401246: wooden floor|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7401248: wooden floor|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7401250: wooden floor|Hospital_bed_base001|Take 001|BaseLayer
+    7401252: wooden floor|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7401254: wooden floor|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7401256: wooden floor|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7401258: wooden floor|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7401260: wooden floor|Hospital_bed_bumper007|Take 001|BaseLayer
+    7401262: wooden floor|Hospital_bed_bumper008|Take 001|BaseLayer
+    7401264: wooden floor|Hospital_bed_bumper009|Take 001|BaseLayer
+    7401266: wooden floor|Hospital_bed_bumper010|Take 001|BaseLayer
+    7401268: wooden floor|Hospital_bed_button012|Take 001|BaseLayer
+    7401270: wooden floor|Hospital_bed_button013|Take 001|BaseLayer
+    7401272: wooden floor|Hospital_bed_button_large005|Take 001|BaseLayer
+    7401274: wooden floor|Hospital_bed_button_large006|Take 001|BaseLayer
+    7401276: wooden floor|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7401278: wooden floor|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7401280: wooden floor|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7401282: wooden floor|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7401284: wooden floor|Hospital_bed_leg003|Take 001|BaseLayer
+    7401286: wooden floor|Hospital_bed_leg004|Take 001|BaseLayer
+    7401288: wooden floor|Hospital_bed_leg005|Take 001|BaseLayer
+    7401290: wooden floor|Hospital_bed_matress001|Take 001|BaseLayer
+    7401292: wooden floor|Hospital_bed_pedal064|Take 001|BaseLayer
+    7401294: wooden floor|Hospital_bed_pedal065|Take 001|BaseLayer
+    7401296: wooden floor|Hospital_bed_pedal066|Take 001|BaseLayer
+    7401298: wooden floor|Hospital_bed_pedal067|Take 001|BaseLayer
+    7401300: wooden floor|Hospital_bed_pedal068|Take 001|BaseLayer
+    7401302: wooden floor|Hospital_bed_pedal069|Take 001|BaseLayer
+    7401304: wooden floor|Hospital_bed_pedal070|Take 001|BaseLayer
+    7401306: wooden floor|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7401308: wooden floor|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7401310: wooden floor|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7401312: wooden floor|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7401314: wooden floor|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7401316: wooden floor|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7401318: wooden floor|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7401320: wooden floor|Hospital_bed_pedals001|Take 001|BaseLayer
+    7401322: wooden floor|Hospital_bed_piston006|Take 001|BaseLayer
+    7401324: wooden floor|Hospital_bed_piston007|Take 001|BaseLayer
+    7401326: wooden floor|Hospital_bed_piston008|Take 001|BaseLayer
+    7401328: wooden floor|Hospital_bed_piston009|Take 001|BaseLayer
+    7401330: wooden floor|Hospital_bed_piston010|Take 001|BaseLayer
+    7401332: wooden floor|Hospital_bed_piston011|Take 001|BaseLayer
+    7401334: wooden floor|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7401336: wooden floor|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7401338: wooden floor|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7401340: wooden floor|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7401342: wooden floor|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7401344: wooden floor|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7401346: wooden floor|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7401348: wooden floor|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7401350: wooden floor|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7401352: wooden floor|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7401354: wooden floor|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7401356: wooden floor|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7401358: wooden floor|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7401360: wooden floor|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7401362: wooden floor|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7401364: wooden floor|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7401366: wooden floor|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7401368: wooden floor|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7401370: wooden floor|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7401372: wooden floor|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7401374: wooden floor|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7401376: wooden floor|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7401378: wooden floor|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7401380: wooden floor|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7401382: wooden floor|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7401384: wooden floor|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7401386: wooden floor|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7401388: wooden floor|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7401390: wooden floor|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7401392: wooden floor|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7401394: wooden floor|Hospital_bed_pistons002|Take 001|BaseLayer
+    7401396: wooden floor|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7401398: wooden floor|Hospital_bed_pole003|Take 001|BaseLayer
+    7401400: wooden floor|Hospital_bed_pole004|Take 001|BaseLayer
+    7401402: wooden floor|Hospital_bed_pole005|Take 001|BaseLayer
+    7401404: wooden floor|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7401406: wooden floor|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7401408: wooden floor|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7401410: wooden floor|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7401412: wooden floor|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7401414: wooden floor|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7401416: wooden floor|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7401418: wooden floor|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7401420: wooden floor|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7401422: wooden floor|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7401424: wooden floor|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7401426: wooden floor|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7401428: wooden floor|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7401430: wooden floor|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7401432: wooden floor|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7401434: wooden floor|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7401436: wooden floor|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7401438: wooden floor|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7401440: wooden floor|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7401442: wooden floor|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7401444: wooden floor|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7401446: wooden floor|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7401448: wooden floor|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7401450: wooden floor|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7401452: wooden floor|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7401454: wooden floor|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7401456: wooden floor|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7401458: wooden floor|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7401460: wooden floor|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7401462: wooden floor|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7401464: wooden floor|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7401466: wooden floor|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7401468: wooden floor|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7401470: wooden floor|Hospital_bed_sides001|Take 001|BaseLayer
+    7401472: wooden floor|Hospital_bed_wheel004|Take 001|BaseLayer
+    7401474: wooden floor|Hospital_bed_wheel005|Take 001|BaseLayer
+    7401476: wooden floor|Hospital_bed_wheel006|Take 001|BaseLayer
+    7401478: wooden floor|Hospital_bed_wheel007|Take 001|BaseLayer
+    7401480: wooden floor|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7401482: wooden floor|humidifier001|Take 001|BaseLayer
+    7401484: wooden floor|ICU_module001|Take 001|BaseLayer
+    7401486: wooden floor|icuunit|Take 001|BaseLayer
+    7401488: wooden floor|Infant_warmer_switch022|Take 001|BaseLayer
+    7401490: wooden floor|Infant_warmer_switch023|Take 001|BaseLayer
+    7401492: wooden floor|insuflation tube040|Take 001|BaseLayer
+    7401494: wooden floor|insuflation tube041|Take 001|BaseLayer
+    7401496: wooden floor|insuflation tube042|Take 001|BaseLayer
+    7401498: wooden floor|insuflation tube043|Take 001|BaseLayer
+    7401500: wooden floor|insuflation tube044|Take 001|BaseLayer
+    7401502: wooden floor|insuflation tube045|Take 001|BaseLayer
+    7401504: wooden floor|insuflation tube046|Take 001|BaseLayer
+    7401506: wooden floor|insuflation tube047|Take 001|BaseLayer
+    7401508: wooden floor|insuflation tube048|Take 001|BaseLayer
+    7401510: wooden floor|insuflation tube049|Take 001|BaseLayer
+    7401512: wooden floor|insuflation tube050|Take 001|BaseLayer
+    7401514: wooden floor|insuflation tube051|Take 001|BaseLayer
+    7401516: wooden floor|insuflation tube052|Take 001|BaseLayer
+    7401518: wooden floor|insuflation tube053|Take 001|BaseLayer
+    7401520: wooden floor|insuflation tube054|Take 001|BaseLayer
+    7401522: wooden floor|insuflation tube055|Take 001|BaseLayer
+    7401524: wooden floor|insuflation tube056|Take 001|BaseLayer
+    7401526: wooden floor|insuflation tube057|Take 001|BaseLayer
+    7401528: wooden floor|insuflation tube058|Take 001|BaseLayer
+    7401530: wooden floor|insuflation tube059|Take 001|BaseLayer
+    7401532: wooden floor|insuflation tube060|Take 001|BaseLayer
+    7401534: wooden floor|insuflation tube061|Take 001|BaseLayer
+    7401536: wooden floor|insuflation tube062|Take 001|BaseLayer
+    7401538: wooden floor|insuflation tube063|Take 001|BaseLayer
+    7401540: wooden floor|insuflation tube064|Take 001|BaseLayer
+    7401542: wooden floor|insuflation tube065|Take 001|BaseLayer
+    7401544: wooden floor|insuflation tube066|Take 001|BaseLayer
+    7401546: wooden floor|insuflation tube067|Take 001|BaseLayer
+    7401548: wooden floor|insuflation tube068|Take 001|BaseLayer
+    7401550: wooden floor|insuflation tube069|Take 001|BaseLayer
+    7401552: wooden floor|insuflation tube070|Take 001|BaseLayer
+    7401554: wooden floor|insuflation tube071|Take 001|BaseLayer
+    7401556: wooden floor|insuflation tube072|Take 001|BaseLayer
+    7401558: wooden floor|insuflation tube073|Take 001|BaseLayer
+    7401560: wooden floor|insuflation tube074|Take 001|BaseLayer
+    7401562: wooden floor|insuflation tube075|Take 001|BaseLayer
+    7401564: wooden floor|insuflation tube076|Take 001|BaseLayer
+    7401566: wooden floor|insuflation tube189|Take 001|BaseLayer
+    7401568: wooden floor|IV Pole001|Take 001|BaseLayer
+    7401570: wooden floor|iv pole007|Take 001|BaseLayer
+    7401572: wooden floor|lamp_neon064|Take 001|BaseLayer
+    7401574: wooden floor|lamp_neon065|Take 001|BaseLayer
+    7401576: wooden floor|lamp_neon066|Take 001|BaseLayer
+    7401578: wooden floor|lamp_neon067|Take 001|BaseLayer
+    7401580: wooden floor|lamp_neon068|Take 001|BaseLayer
+    7401582: wooden floor|lamp_neon069|Take 001|BaseLayer
+    7401584: wooden floor|lamp_neon070|Take 001|BaseLayer
+    7401586: wooden floor|lamp_neon071|Take 001|BaseLayer
+    7401588: wooden floor|leg02|Take 001|BaseLayer
+    7401590: wooden floor|Leg_belt001|Take 001|BaseLayer
+    7401592: wooden floor|Leg_belt|Take 001|BaseLayer
+    7401594: wooden floor|LifeMonitorsBoom001|Take 001|BaseLayer
+    7401596: wooden floor|lightwoodborders|Take 001|BaseLayer
+    7401598: wooden floor|Line01assadss007|Take 001|BaseLayer
+    7401600: wooden floor|Line01|Take 001|BaseLayer
+    7401602: wooden floor|Line02|Take 001|BaseLayer
+    7401604: wooden floor|Line033|Take 001|BaseLayer
+    7401606: wooden floor|Line034|Take 001|BaseLayer
+    7401608: wooden floor|Line035|Take 001|BaseLayer
+    7401610: wooden floor|Line036|Take 001|BaseLayer
+    7401612: wooden floor|Line037|Take 001|BaseLayer
+    7401614: wooden floor|Line038|Take 001|BaseLayer
+    7401616: wooden floor|Line039|Take 001|BaseLayer
+    7401618: wooden floor|Line03bc007|Take 001|BaseLayer
+    7401620: wooden floor|Line040|Take 001|BaseLayer
+    7401622: wooden floor|Line041|Take 001|BaseLayer
+    7401624: wooden floor|Line05|Take 001|BaseLayer
+    7401626: wooden floor|Line070|Take 001|BaseLayer
+    7401628: wooden floor|Line20|Take 001|BaseLayer
+    7401630: wooden floor|Line21|Take 001|BaseLayer
+    7401632: wooden floor|Line22|Take 001|BaseLayer
+    7401634: wooden floor|Line23|Take 001|BaseLayer
+    7401636: wooden floor|Line25|Take 001|BaseLayer
+    7401638: wooden floor|liquid003|Take 001|BaseLayer
+    7401640: wooden floor|liquid004|Take 001|BaseLayer
+    7401642: wooden floor|Locker_bottom001bdae|Take 001|BaseLayer
+    7401644: wooden floor|Locker_bottom001|Take 001|BaseLayer
+    7401646: wooden floor|Locker_bottom002assa|Take 001|BaseLayer
+    7401648: wooden floor|Locker_bottom004|Take 001|BaseLayer
+    7401650: wooden floor|Locker_top00122ab|Take 001|BaseLayer
+    7401652: wooden floor|Locker_top001|Take 001|BaseLayer
+    7401654: wooden floor|Locker_tray001|Take 001|BaseLayer
+    7401656: wooden floor|Loft03|Take 001|BaseLayer
+    7401658: wooden floor|Loft04|Take 001|BaseLayer
+    7401660: wooden floor|Low level WC Twyford water pipe|Take 001|BaseLayer
+    7401662: wooden floor|Low Level WC Twyford|Take 001|BaseLayer
+    7401664: wooden floor|Low_level_WC_Twyford_chrome_lever|Take 001|BaseLayer
+    7401666: wooden floor|Low_level_WC_Twyford_evacution_pipe|Take 001|BaseLayer
+    7401668: wooden floor|Low_level_WC_Twyford_lid01|Take 001|BaseLayer
+    7401670: wooden floor|Low_level_WC_Twyford_lid02|Take 001|BaseLayer
+    7401672: wooden floor|Low_level_WC_Twyford_seat|Take 001|BaseLayer
+    7401674: wooden floor|Low_level_WC_Twyford_water_cistern001|Take 001|BaseLayer
+    7401676: wooden floor|Mad Leg006|Take 001|BaseLayer
+    7401678: wooden floor|Mad Leg007|Take 001|BaseLayer
+    7401680: wooden floor|Mad Leg008|Take 001|BaseLayer
+    7401682: wooden floor|Mad Leg009|Take 001|BaseLayer
+    7401684: wooden floor|Mad Leg01|Take 001|BaseLayer
+    7401686: wooden floor|Mad Leg02|Take 001|BaseLayer
+    7401688: wooden floor|Mad Leg03|Take 001|BaseLayer
+    7401690: wooden floor|Mad Leg05|Take 001|BaseLayer
+    7401692: wooden floor|Mad Pillow001|Take 001|BaseLayer
+    7401694: wooden floor|Mad Pillow|Take 001|BaseLayer
+    7401696: wooden floor|Mad Seat001|Take 001|BaseLayer
+    7401698: wooden floor|Mad Seat|Take 001|BaseLayer
+    7401700: wooden floor|madchair001|Take 001|BaseLayer
+    7401702: wooden floor|madchair|Take 001|BaseLayer
+    7401704: wooden floor|manual_wheelchair|Take 001|BaseLayer
+    7401706: wooden floor|Medical Console006|Take 001|BaseLayer
+    7401708: wooden floor|medical device 01back005|Take 001|BaseLayer
+    7401710: wooden floor|medical device 01back006|Take 001|BaseLayer
+    7401712: wooden floor|medical device 01back007|Take 001|BaseLayer
+    7401714: wooden floor|medical device 01back008|Take 001|BaseLayer
+    7401716: wooden floor|medical device 01body015|Take 001|BaseLayer
+    7401718: wooden floor|medical device 01body016|Take 001|BaseLayer
+    7401720: wooden floor|medical device 01body017|Take 001|BaseLayer
+    7401722: wooden floor|medical device 01body018|Take 001|BaseLayer
+    7401724: wooden floor|medical device 01body019|Take 001|BaseLayer
+    7401726: wooden floor|medical device 01front002|Take 001|BaseLayer
+    7401728: wooden floor|medical device 01front003|Take 001|BaseLayer
+    7401730: wooden floor|medical device 02front004|Take 001|BaseLayer
+    7401732: wooden floor|medical device 02front005|Take 001|BaseLayer
+    7401734: wooden floor|medical device side016|Take 001|BaseLayer
+    7401736: wooden floor|medical device side017|Take 001|BaseLayer
+    7401738: wooden floor|medical device side018|Take 001|BaseLayer
+    7401740: wooden floor|medical device side019|Take 001|BaseLayer
+    7401742: wooden floor|medical device side020|Take 001|BaseLayer
+    7401744: wooden floor|medical device side021|Take 001|BaseLayer
+    7401746: wooden floor|medical device side022|Take 001|BaseLayer
+    7401748: wooden floor|medical device side023|Take 001|BaseLayer
+    7401750: wooden floor|medical devices001|Take 001|BaseLayer
+    7401752: wooden floor|medical_device005|Take 001|BaseLayer
+    7401754: wooden floor|medical_device006|Take 001|BaseLayer
+    7401756: wooden floor|medical_device007|Take 001|BaseLayer
+    7401758: wooden floor|medical_device008|Take 001|BaseLayer
+    7401760: wooden floor|MEdicalAir001|Take 001|BaseLayer
+    7401762: wooden floor|medicine bottle 01 cap035|Take 001|BaseLayer
+    7401764: wooden floor|medicine bottle 01 cap036|Take 001|BaseLayer
+    7401766: wooden floor|medicine bottle 01 cap037|Take 001|BaseLayer
+    7401768: wooden floor|medicine bottle 02_ut002|Take 001|BaseLayer
+    7401770: wooden floor|medicine bottle 037|Take 001|BaseLayer
+    7401772: wooden floor|medicine bottle 03_v002|Take 001|BaseLayer
+    7401774: wooden floor|medicine box051|Take 001|BaseLayer
+    7401776: wooden floor|metal ring 004|Take 001|BaseLayer
+    7401778: wooden floor|metal ring 005|Take 001|BaseLayer
+    7401780: wooden floor|metal ring 006|Take 001|BaseLayer
+    7401782: wooden floor|Mira Advance 9KV Electric Shower|Take 001|BaseLayer
+    7401784: wooden floor|Mira_advance_9KV_electric|Take 001|BaseLayer
+    7401786: wooden floor|Mira_advance_handle_base|Take 001|BaseLayer
+    7401788: wooden floor|Mira_advance_handle|Take 001|BaseLayer
+    7401790: wooden floor|Mira_advance_led_light|Take 001|BaseLayer
+    7401792: wooden floor|Mira_advance_plastic_shower_head001|Take 001|BaseLayer
+    7401794: wooden floor|Mira_advance_shower_head001|Take 001|BaseLayer
+    7401796: wooden floor|Mira_advance_shower_head_detail|Take 001|BaseLayer
+    7401798: wooden floor|Mira_advance_shower_head_support01|Take 001|BaseLayer
+    7401800: wooden floor|Mira_advance_shower_head_support|Take 001|BaseLayer
+    7401802: wooden floor|Mira_advance_shower_hose_retaining_ring|Take 001|BaseLayer
+    7401804: wooden floor|Mira_advance_shower_hose_support|Take 001|BaseLayer
+    7401806: wooden floor|Mira_advance_shower_hose|Take 001|BaseLayer
+    7401808: wooden floor|Mira_advance_shower_ring02|Take 001|BaseLayer
+    7401810: wooden floor|Mira_advance_shower_ring|Take 001|BaseLayer
+    7401812: wooden floor|Mira_advance_shower_soap_support|Take 001|BaseLayer
+    7401814: wooden floor|Mira_advance_shower_support_axis|Take 001|BaseLayer
+    7401816: wooden floor|Mira_advance_shower_support_clip01|Take 001|BaseLayer
+    7401818: wooden floor|Mira_advance_shower_support_clip|Take 001|BaseLayer
+    7401820: wooden floor|Mira_advance_shower_support_head_element|Take 001|BaseLayer
+    7401822: wooden floor|Mira_advance_shower_support|Take 001|BaseLayer
+    7401824: wooden floor|Mira_advance_signs001|Take 001|BaseLayer
+    7401826: wooden floor|Mira_advance_water_rubber_double_sprinkler032|Take 001|BaseLaye
+    7401828: wooden floor|Mira_advance_water_rubber_double_sprinkler033|Take 001|BaseLaye
+    7401830: wooden floor|Mira_advance_water_rubber_double_sprinkler034|Take 001|BaseLaye
+    7401832: wooden floor|Mira_advance_water_rubber_double_sprinkler035|Take 001|BaseLaye
+    7401834: wooden floor|Mira_advance_water_rubber_double_sprinkler036|Take 001|BaseLaye
+    7401836: wooden floor|Mira_advance_water_rubber_double_sprinkler037|Take 001|BaseLaye
+    7401838: wooden floor|Mira_advance_water_rubber_double_sprinkler038|Take 001|BaseLaye
+    7401840: wooden floor|Mira_advance_water_rubber_double_sprinkler039|Take 001|BaseLaye
+    7401842: wooden floor|Mira_advance_water_rubber_double_sprinkler040|Take 001|BaseLaye
+    7401844: wooden floor|Mira_advance_water_rubber_double_sprinkler041|Take 001|BaseLaye
+    7401846: wooden floor|Mira_advance_water_rubber_double_sprinkler042|Take 001|BaseLaye
+    7401848: wooden floor|Mira_advance_water_rubber_double_sprinkler043|Take 001|BaseLaye
+    7401850: wooden floor|Mira_advance_water_rubber_double_sprinkler044|Take 001|BaseLaye
+    7401852: wooden floor|Mira_advance_water_rubber_double_sprinkler045|Take 001|BaseLaye
+    7401854: wooden floor|Mira_advance_water_rubber_double_sprinkler046|Take 001|BaseLaye
+    7401856: wooden floor|Mira_advance_water_rubber_double_sprinkler047|Take 001|BaseLaye
+    7401858: wooden floor|Mira_advance_water_rubber_double_sprinkler048|Take 001|BaseLaye
+    7401860: wooden floor|Mira_advance_water_rubber_double_sprinkler049|Take 001|BaseLaye
+    7401862: wooden floor|Mira_advance_water_rubber_double_sprinkler050|Take 001|BaseLaye
+    7401864: wooden floor|Mira_advance_water_rubber_double_sprinkler051|Take 001|BaseLaye
+    7401866: wooden floor|Mira_advance_water_rubber_double_sprinkler052|Take 001|BaseLaye
+    7401868: wooden floor|Mira_advance_water_rubber_double_sprinkler053|Take 001|BaseLaye
+    7401870: wooden floor|Mira_advance_water_rubber_double_sprinkler054|Take 001|BaseLaye
+    7401872: wooden floor|Mira_advance_water_rubber_double_sprinkler055|Take 001|BaseLaye
+    7401874: wooden floor|Mira_advance_water_rubber_triple_sprinkler040|Take 001|BaseLaye
+    7401876: wooden floor|Mira_advance_water_rubber_triple_sprinkler041|Take 001|BaseLaye
+    7401878: wooden floor|Mira_advance_water_rubber_triple_sprinkler042|Take 001|BaseLaye
+    7401880: wooden floor|Mira_advance_water_rubber_triple_sprinkler043|Take 001|BaseLaye
+    7401882: wooden floor|Mira_advance_water_rubber_triple_sprinkler044|Take 001|BaseLaye
+    7401884: wooden floor|Mira_advance_water_rubber_triple_sprinkler045|Take 001|BaseLaye
+    7401886: wooden floor|Mira_advance_water_rubber_triple_sprinkler046|Take 001|BaseLaye
+    7401888: wooden floor|Mira_advance_water_rubber_triple_sprinkler047|Take 001|BaseLaye
+    7401890: wooden floor|Mira_advance_water_rubber_triple_sprinkler048|Take 001|BaseLaye
+    7401892: wooden floor|Mira_advance_water_rubber_triple_sprinkler049|Take 001|BaseLaye
+    7401894: wooden floor|Mira_advance_water_rubber_triple_sprinkler050|Take 001|BaseLaye
+    7401896: wooden floor|Mira_advance_water_rubber_triple_sprinkler051|Take 001|BaseLaye
+    7401898: wooden floor|Mira_advance_water_rubber_triple_sprinkler052|Take 001|BaseLaye
+    7401900: wooden floor|Mira_advance_water_rubber_triple_sprinkler053|Take 001|BaseLaye
+    7401902: wooden floor|Mira_advance_water_rubber_triple_sprinkler054|Take 001|BaseLaye
+    7401904: wooden floor|Mira_advance_water_rubber_triple_sprinkler055|Take 001|BaseLaye
+    7401906: wooden floor|Mira_advance_water_rubber_triple_sprinkler056|Take 001|BaseLaye
+    7401908: wooden floor|Mira_advance_water_rubber_triple_sprinkler057|Take 001|BaseLaye
+    7401910: wooden floor|Mira_advance_water_rubber_triple_sprinkler058|Take 001|BaseLaye
+    7401912: wooden floor|Mira_advance_water_rubber_triple_sprinkler059|Take 001|BaseLaye
+    7401914: wooden floor|Mira_advance_water_rubber_triple_sprinkler060|Take 001|BaseLaye
+    7401916: wooden floor|Mira_advance_water_rubber_triple_sprinkler061|Take 001|BaseLaye
+    7401918: wooden floor|Mira_advance_water_rubber_triple_sprinkler062|Take 001|BaseLaye
+    7401920: wooden floor|Mira_advance_water_rubber_triple_sprinkler063|Take 001|BaseLaye
+    7401922: wooden floor|MIRROR01|Take 001|BaseLayer
+    7401924: wooden floor|mirror2a|Take 001|BaseLayer
+    7401926: wooden floor|MIRROR|Take 001|BaseLayer
+    7401928: wooden floor|Mobile_trolley001|Take 001|BaseLayer
+    7401930: wooden floor|monitor joint 003|Take 001|BaseLayer
+    7401932: wooden floor|monitor joint 004|Take 001|BaseLayer
+    7401934: wooden floor|monitor joint019|Take 001|BaseLayer
+    7401936: wooden floor|monitor screen002|Take 001|BaseLayer
+    7401938: wooden floor|monitor screen003|Take 001|BaseLayer
+    7401940: wooden floor|monitor01_body007|Take 001|BaseLayer
+    7401942: wooden floor|monitor01_body008|Take 001|BaseLayer
+    7401944: wooden floor|Monitor_ax002|Take 001|BaseLayer
+    7401946: wooden floor|Monitor_ax003|Take 001|BaseLayer
+    7401948: wooden floor|MONITOR_PIVOT001|Take 001|BaseLayer
+    7401950: wooden floor|monitorARM002|Take 001|BaseLayer
+    7401952: wooden floor|monitorARM003|Take 001|BaseLayer
+    7401954: wooden floor|mufa albastra017|Take 001|BaseLayer
+    7401956: wooden floor|mufa albastra018|Take 001|BaseLayer
+    7401958: wooden floor|mufa albastra019|Take 001|BaseLayer
+    7401960: wooden floor|mufaalbastra013|Take 001|BaseLayer
+    7401962: wooden floor|mufaalbastra014|Take 001|BaseLayer
+    7401964: wooden floor|mufaalbastra015|Take 001|BaseLayer
+    7401966: wooden floor|mufaalbastra016|Take 001|BaseLayer
+    7401968: wooden floor|mufaalbastra017|Take 001|BaseLayer
+    7401970: wooden floor|mufaalbastra018|Take 001|BaseLayer
+    7401972: wooden floor|mufaalbastra019|Take 001|BaseLayer
+    7401974: wooden floor|mufaalbastra020|Take 001|BaseLayer
+    7401976: wooden floor|mufaalbastra021|Take 001|BaseLayer
+    7401978: wooden floor|mufaalbastra022|Take 001|BaseLayer
+    7401980: wooden floor|nets support|Take 001|BaseLayer
+    7401982: wooden floor|Object12|Take 001|BaseLayer
+    7401984: wooden floor|Object13|Take 001|BaseLayer
+    7401986: wooden floor|Object292|Take 001|BaseLayer
+    7401988: wooden floor|Object293|Take 001|BaseLayer
+    7401990: wooden floor|Object294|Take 001|BaseLayer
+    7401992: wooden floor|Object295|Take 001|BaseLayer
+    7401994: wooden floor|Object296|Take 001|BaseLayer
+    7401996: wooden floor|Object297|Take 001|BaseLayer
+    7401998: wooden floor|Object298|Take 001|BaseLayer
+    7402000: wooden floor|Object299|Take 001|BaseLayer
+    7402002: wooden floor|Object300|Take 001|BaseLayer
+    7402004: wooden floor|Object301|Take 001|BaseLayer
+    7402006: wooden floor|Object302|Take 001|BaseLayer
+    7402008: wooden floor|Object303|Take 001|BaseLayer
+    7402010: wooden floor|Object32|Take 001|BaseLayer
+    7402012: wooden floor|Object4449|Take 001|BaseLayer
+    7402014: wooden floor|Object4450|Take 001|BaseLayer
+    7402016: wooden floor|Object4451|Take 001|BaseLayer
+    7402018: wooden floor|Object4452|Take 001|BaseLayer
+    7402020: wooden floor|Object4453|Take 001|BaseLayer
+    7402022: wooden floor|Object4454|Take 001|BaseLayer
+    7402024: wooden floor|Object4455|Take 001|BaseLayer
+    7402026: wooden floor|Object4456|Take 001|BaseLayer
+    7402028: wooden floor|Object4457|Take 001|BaseLayer
+    7402030: wooden floor|Object4458|Take 001|BaseLayer
+    7402032: wooden floor|Object4459|Take 001|BaseLayer
+    7402034: wooden floor|Object4460|Take 001|BaseLayer
+    7402036: wooden floor|Object4461|Take 001|BaseLayer
+    7402038: wooden floor|Object4462|Take 001|BaseLayer
+    7402040: wooden floor|Object4463|Take 001|BaseLayer
+    7402042: wooden floor|Object4464|Take 001|BaseLayer
+    7402044: wooden floor|Object4465|Take 001|BaseLayer
+    7402046: wooden floor|Object4466|Take 001|BaseLayer
+    7402048: wooden floor|Object4467|Take 001|BaseLayer
+    7402050: wooden floor|Object4468|Take 001|BaseLayer
+    7402052: wooden floor|Object4469|Take 001|BaseLayer
+    7402054: wooden floor|Object4470|Take 001|BaseLayer
+    7402056: wooden floor|Object4471|Take 001|BaseLayer
+    7402058: wooden floor|Object4472|Take 001|BaseLayer
+    7402060: wooden floor|Object4473|Take 001|BaseLayer
+    7402062: wooden floor|Object4474|Take 001|BaseLayer
+    7402064: wooden floor|Object4475|Take 001|BaseLayer
+    7402066: wooden floor|Object4476|Take 001|BaseLayer
+    7402068: wooden floor|Object4477|Take 001|BaseLayer
+    7402070: wooden floor|Object4478|Take 001|BaseLayer
+    7402072: wooden floor|Object4479|Take 001|BaseLayer
+    7402074: wooden floor|Object4480|Take 001|BaseLayer
+    7402076: wooden floor|Object4481|Take 001|BaseLayer
+    7402078: wooden floor|Object4482|Take 001|BaseLayer
+    7402080: wooden floor|Object4483|Take 001|BaseLayer
+    7402082: wooden floor|Object4484|Take 001|BaseLayer
+    7402084: wooden floor|Object4485|Take 001|BaseLayer
+    7402086: wooden floor|Object4486|Take 001|BaseLayer
+    7402088: wooden floor|Object4487|Take 001|BaseLayer
+    7402090: wooden floor|Object4488|Take 001|BaseLayer
+    7402092: wooden floor|Object4489|Take 001|BaseLayer
+    7402094: wooden floor|Object4490|Take 001|BaseLayer
+    7402096: wooden floor|Object4491|Take 001|BaseLayer
+    7402098: wooden floor|off button device002|Take 001|BaseLayer
+    7402100: wooden floor|off button008|Take 001|BaseLayer
+    7402102: wooden floor|off button009|Take 001|BaseLayer
+    7402104: wooden floor|off button010|Take 001|BaseLayer
+    7402106: wooden floor|on button device002|Take 001|BaseLayer
+    7402108: wooden floor|on button008|Take 001|BaseLayer
+    7402110: wooden floor|on button009|Take 001|BaseLayer
+    7402112: wooden floor|on button010|Take 001|BaseLayer
+    7402114: wooden floor|on/off button008|Take 001|BaseLayer
+    7402116: wooden floor|on/off button009|Take 001|BaseLayer
+    7402118: wooden floor|on/off button010|Take 001|BaseLayer
+    7402120: wooden floor|OptiTherm_cold002|Take 001|BaseLayer
+    7402122: wooden floor|OptiTherm_handle003|Take 001|BaseLayer
+    7402124: wooden floor|OptiTherm_tap003|Take 001|BaseLayer
+    7402126: wooden floor|OptiTherm_tap004|Take 001|BaseLayer
+    7402128: wooden floor|OptiTherm_warm002|Take 001|BaseLayer
+    7402130: wooden floor|OptiTherm_water_cap002|Take 001|BaseLayer
+    7402132: wooden floor|oxygen socket035|Take 001|BaseLayer
+    7402134: wooden floor|oxygen socket036|Take 001|BaseLayer
+    7402136: wooden floor|oxygen socket037|Take 001|BaseLayer
+    7402138: wooden floor|oxygen socket038|Take 001|BaseLayer
+    7402140: wooden floor|oxygen socket051|Take 001|BaseLayer
+    7402142: wooden floor|Padded_reducer_ring_detail|Take 001|BaseLayer
+    7402144: wooden floor|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7402146: wooden floor|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7402148: wooden floor|paper3a|Take 001|BaseLayer
+    7402150: wooden floor|Paper_towel_dispenser1a|Take 001|BaseLayer
+    7402152: wooden floor|Paper_towel_dispenser_cap|Take 001|BaseLayer
+    7402154: wooden floor|Paper_towel_dispenser_eye|Take 001|BaseLayer
+    7402156: wooden floor|Paper_towel_dispenser|Take 001|BaseLayer
+    7402158: wooden floor|Paper_towel|Take 001|BaseLayer
+    7402160: wooden floor|pillow001|Take 001|BaseLayer
+    7402162: wooden floor|Plane03|Take 001|BaseLayer
+    7402164: wooden floor|Plane13|Take 001|BaseLayer
+    7402166: wooden floor|Plane15|Take 001|BaseLayer
+    7402168: wooden floor|Plane17|Take 001|BaseLayer
+    7402170: wooden floor|Plane183|Take 001|BaseLayer
+    7402172: wooden floor|Plane184|Take 001|BaseLayer
+    7402174: wooden floor|Plane185|Take 001|BaseLayer
+    7402176: wooden floor|Plane18|Take 001|BaseLayer
+    7402178: wooden floor|Plastic_bolt003|Take 001|BaseLayer
+    7402180: wooden floor|Plastic_bolt004|Take 001|BaseLayer
+    7402182: wooden floor|Plastic_bolt005|Take 001|BaseLayer
+    7402184: wooden floor|Plastic_bolt006|Take 001|BaseLayer
+    7402186: wooden floor|plinth 2|Take 001|BaseLayer
+    7402188: wooden floor|plinth|Take 001|BaseLayer
+    7402190: wooden floor|plugg socket044|Take 001|BaseLayer
+    7402192: wooden floor|plugg socket045|Take 001|BaseLayer
+    7402194: wooden floor|plugg socket046|Take 001|BaseLayer
+    7402196: wooden floor|plugg socket047|Take 001|BaseLayer
+    7402198: wooden floor|plugg socket048|Take 001|BaseLayer
+    7402200: wooden floor|plugg socket049|Take 001|BaseLayer
+    7402202: wooden floor|plugg socket050|Take 001|BaseLayer
+    7402204: wooden floor|plugg socket051|Take 001|BaseLayer
+    7402206: wooden floor|plugg socket052|Take 001|BaseLayer
+    7402208: wooden floor|plugg socket053|Take 001|BaseLayer
+    7402210: wooden floor|plugg socket054|Take 001|BaseLayer
+    7402212: wooden floor|plugg socket055|Take 001|BaseLayer
+    7402214: wooden floor|plugg socket056|Take 001|BaseLayer
+    7402216: wooden floor|plugg socket057|Take 001|BaseLayer
+    7402218: wooden floor|plugg015|Take 001|BaseLayer
+    7402220: wooden floor|plugg016|Take 001|BaseLayer
+    7402222: wooden floor|plugg017|Take 001|BaseLayer
+    7402224: wooden floor|plugg018|Take 001|BaseLayer
+    7402226: wooden floor|plugg019|Take 001|BaseLayer
+    7402228: wooden floor|plugg020|Take 001|BaseLayer
+    7402230: wooden floor|plugg021|Take 001|BaseLayer
+    7402232: wooden floor|plugg022|Take 001|BaseLayer
+    7402234: wooden floor|plugg023|Take 001|BaseLayer
+    7402236: wooden floor|plugg024|Take 001|BaseLayer
+    7402238: wooden floor|plugg025|Take 001|BaseLayer
+    7402240: wooden floor|plugg026|Take 001|BaseLayer
+    7402242: wooden floor|plugg027|Take 001|BaseLayer
+    7402244: wooden floor|PrivateWArd2|Take 001|BaseLayer
+    7402246: wooden floor|RADIATOR001|Take 001|BaseLayer
+    7402248: wooden floor|RADIATOR|Take 001|BaseLayer
+    7402250: wooden floor|recipient20a01|Take 001|BaseLayer
+    7402252: wooden floor|recipient_01a|Take 001|BaseLayer
+    7402254: wooden floor|Recipient_handle|Take 001|BaseLayer
+    7402256: wooden floor|Recipient_ring|Take 001|BaseLayer
+    7402258: wooden floor|Rectangle01|Take 001|BaseLayer
+    7402260: wooden floor|Rectangle02|Take 001|BaseLayer
+    7402262: wooden floor|Rectangle03|Take 001|BaseLayer
+    7402264: wooden floor|recyclebinbody|Take 001|BaseLayer
+    7402266: wooden floor|recyclebincap|Take 001|BaseLayer
+    7402268: wooden floor|recyclebin|Take 001|BaseLayer
+    7402270: wooden floor|roata045|Take 001|BaseLayer
+    7402272: wooden floor|roata046|Take 001|BaseLayer
+    7402274: wooden floor|roata047|Take 001|BaseLayer
+    7402276: wooden floor|roata048|Take 001|BaseLayer
+    7402278: wooden floor|roata049|Take 001|BaseLayer
+    7402280: wooden floor|round slot016|Take 001|BaseLayer
+    7402282: wooden floor|round slot017|Take 001|BaseLayer
+    7402284: wooden floor|round slot018|Take 001|BaseLayer
+    7402286: wooden floor|round slot019|Take 001|BaseLayer
+    7402288: wooden floor|round slot020|Take 001|BaseLayer
+    7402290: wooden floor|round slot021|Take 001|BaseLayer
+    7402292: wooden floor|round slot022|Take 001|BaseLayer
+    7402294: wooden floor|round slot023|Take 001|BaseLayer
+    7402296: wooden floor|round slot024|Take 001|BaseLayer
+    7402298: wooden floor|round slot025|Take 001|BaseLayer
+    7402300: wooden floor|Round_button001|Take 001|BaseLayer
+    7402302: wooden floor|Round_Scart008|Take 001|BaseLayer
+    7402304: wooden floor|Round_Scart009|Take 001|BaseLayer
+    7402306: wooden floor|Round_Scart010|Take 001|BaseLayer
+    7402308: wooden floor|Round_Scart011|Take 001|BaseLayer
+    7402310: wooden floor|Round_Scart012|Take 001|BaseLayer
+    7402312: wooden floor|Round_Scart013|Take 001|BaseLayer
+    7402314: wooden floor|Round_Scart014|Take 001|BaseLayer
+    7402316: wooden floor|Round_Scart015|Take 001|BaseLayer
+    7402318: wooden floor|Rubber_bumper016|Take 001|BaseLayer
+    7402320: wooden floor|Rubber_bumper017|Take 001|BaseLayer
+    7402322: wooden floor|Rubber_bumper018|Take 001|BaseLayer
+    7402324: wooden floor|Rubber_bumper019|Take 001|BaseLayer
+    7402326: wooden floor|Rubber_bumper020|Take 001|BaseLayer
+    7402328: wooden floor|Rubber_bumper021|Take 001|BaseLayer
+    7402330: wooden floor|Rubber_bumper022|Take 001|BaseLayer
+    7402332: wooden floor|Rubber_bumper023|Take 001|BaseLayer
+    7402334: wooden floor|Rubber_bumper024|Take 001|BaseLayer
+    7402336: wooden floor|Rubber_bumper_support008|Take 001|BaseLayer
+    7402338: wooden floor|Rubber_bumper_support009|Take 001|BaseLayer
+    7402340: wooden floor|Rubber_bumper_support010|Take 001|BaseLayer
+    7402342: wooden floor|Rubber_bumper_support011|Take 001|BaseLayer
+    7402344: wooden floor|Rubber_bumper_support012|Take 001|BaseLayer
+    7402346: wooden floor|Samsung Logo001|Take 001|BaseLayer
+    7402348: wooden floor|Samsung Logo|Take 001|BaseLayer
+    7402350: wooden floor|Samsung Q7F 55 display|Take 001|BaseLayer
+    7402352: wooden floor|Samsung Q7F 55 Inch QLED TV|Take 001|BaseLayer
+    7402354: wooden floor|Samsung q7f 55_back|Take 001|BaseLayer
+    7402356: wooden floor|Samsung q7f 55border|Take 001|BaseLayer
+    7402358: wooden floor|Samsung q7f 55screen edge|Take 001|BaseLayer
+    7402360: wooden floor|samsung q7f air vents|Take 001|BaseLayer
+    7402362: wooden floor|samsung q7f bolt cap003|Take 001|BaseLayer
+    7402364: wooden floor|samsung q7f bolt cap004|Take 001|BaseLayer
+    7402366: wooden floor|samsung q7f bolt cap2|Take 001|BaseLayer
+    7402368: wooden floor|samsung q7f bolt cap|Take 001|BaseLayer
+    7402370: wooden floor|Sanitizer003|Take 001|BaseLayer
+    7402372: wooden floor|Sanitizer004|Take 001|BaseLayer
+    7402374: wooden floor|sanitiz|Take 001|BaseLayer
+    7402376: wooden floor|scart003|Take 001|BaseLayer
+    7402378: wooden floor|scart004|Take 001|BaseLayer
+    7402380: wooden floor|scart005|Take 001|BaseLayer
+    7402382: wooden floor|set08|Take 001|BaseLayer
+    7402384: wooden floor|Shape002|Take 001|BaseLayer
+    7402386: wooden floor|shelf edge004|Take 001|BaseLayer
+    7402388: wooden floor|shelf edge005|Take 001|BaseLayer
+    7402390: wooden floor|shelf edge006|Take 001|BaseLayer
+    7402392: wooden floor|shelf edge007|Take 001|BaseLayer
+    7402394: wooden floor|side panel controls_head_002|Take 001|BaseLayer
+    7402396: wooden floor|side panel controls_head_003|Take 001|BaseLayer
+    7402398: wooden floor|side panel_head002|Take 001|BaseLayer
+    7402400: wooden floor|side panel_head003|Take 001|BaseLayer
+    7402402: wooden floor|Side_handle002|Take 001|BaseLayer
+    7402404: wooden floor|Side_handle003|Take 001|BaseLayer
+    7402406: wooden floor|side_panel_cap005|Take 001|BaseLayer
+    7402408: wooden floor|side_panel_cap006|Take 001|BaseLayer
+    7402410: wooden floor|side_panel_cap007|Take 001|BaseLayer
+    7402412: wooden floor|side_panel_cap008|Take 001|BaseLayer
+    7402414: wooden floor|sifon|Take 001|BaseLayer
+    7402416: wooden floor|sky boom base001|Take 001|BaseLayer
+    7402418: wooden floor|sliding_door001|Take 001|BaseLayer
+    7402420: wooden floor|sliding_door|Take 001|BaseLayer
+    7402422: wooden floor|small_drawer001|Take 001|BaseLayer
+    7402424: wooden floor|small_hook002|Take 001|BaseLayer
+    7402426: wooden floor|small_hook003|Take 001|BaseLayer
+    7402428: wooden floor|small_wheel_power_wheelchair01|Take 001|BaseLayer
+    7402430: wooden floor|small_wheel_power_wheelchair|Take 001|BaseLayer
+    7402432: wooden floor|Soap_gel_dispenser001|Take 001|BaseLayer
+    7402434: wooden floor|Soap_gel_dispenser1a001|Take 001|BaseLayer
+    7402436: wooden floor|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+    7402438: wooden floor|socketA068|Take 001|BaseLayer
+    7402440: wooden floor|socketA069|Take 001|BaseLayer
+    7402442: wooden floor|socketA070|Take 001|BaseLayer
+    7402444: wooden floor|socketA071|Take 001|BaseLayer
+    7402446: wooden floor|socketA072|Take 001|BaseLayer
+    7402448: wooden floor|socketA073|Take 001|BaseLayer
+    7402450: wooden floor|socketA074|Take 001|BaseLayer
+    7402452: wooden floor|socketA075|Take 001|BaseLayer
+    7402454: wooden floor|socketA076|Take 001|BaseLayer
+    7402456: wooden floor|socketA077|Take 001|BaseLayer
+    7402458: wooden floor|socketA078|Take 001|BaseLayer
+    7402460: wooden floor|socketA079|Take 001|BaseLayer
+    7402462: wooden floor|socketA080|Take 001|BaseLayer
+    7402464: wooden floor|socketA081|Take 001|BaseLayer
+    7402466: wooden floor|socketA082|Take 001|BaseLayer
+    7402468: wooden floor|socketA083|Take 001|BaseLayer
+    7402470: wooden floor|socketA084|Take 001|BaseLayer
+    7402472: wooden floor|socketA085|Take 001|BaseLayer
+    7402474: wooden floor|socketA086|Take 001|BaseLayer
+    7402476: wooden floor|socketA087|Take 001|BaseLayer
+    7402478: wooden floor|socketA088|Take 001|BaseLayer
+    7402480: wooden floor|socketA089|Take 001|BaseLayer
+    7402482: wooden floor|socketA090|Take 001|BaseLayer
+    7402484: wooden floor|socketA091|Take 001|BaseLayer
+    7402486: wooden floor|socketA092|Take 001|BaseLayer
+    7402488: wooden floor|socketA093|Take 001|BaseLayer
+    7402490: wooden floor|SocketB076|Take 001|BaseLayer
+    7402492: wooden floor|SocketB077|Take 001|BaseLayer
+    7402494: wooden floor|SocketB078|Take 001|BaseLayer
+    7402496: wooden floor|SocketB079|Take 001|BaseLayer
+    7402498: wooden floor|SocketB080|Take 001|BaseLayer
+    7402500: wooden floor|SocketB081|Take 001|BaseLayer
+    7402502: wooden floor|SocketB082|Take 001|BaseLayer
+    7402504: wooden floor|SocketB083|Take 001|BaseLayer
+    7402506: wooden floor|SocketB084|Take 001|BaseLayer
+    7402508: wooden floor|SocketB085|Take 001|BaseLayer
+    7402510: wooden floor|SocketB086|Take 001|BaseLayer
+    7402512: wooden floor|SocketB087|Take 001|BaseLayer
+    7402514: wooden floor|SocketB088|Take 001|BaseLayer
+    7402516: wooden floor|SocketB089|Take 001|BaseLayer
+    7402518: wooden floor|SocketB090|Take 001|BaseLayer
+    7402520: wooden floor|SocketB091|Take 001|BaseLayer
+    7402522: wooden floor|SocketB092|Take 001|BaseLayer
+    7402524: wooden floor|SocketB093|Take 001|BaseLayer
+    7402526: wooden floor|SocketB094|Take 001|BaseLayer
+    7402528: wooden floor|SocketB095|Take 001|BaseLayer
+    7402530: wooden floor|SocketB096|Take 001|BaseLayer
+    7402532: wooden floor|SocketB097|Take 001|BaseLayer
+    7402534: wooden floor|SocketB098|Take 001|BaseLayer
+    7402536: wooden floor|SocketB099|Take 001|BaseLayer
+    7402538: wooden floor|sockets012|Take 001|BaseLayer
+    7402540: wooden floor|sockets013|Take 001|BaseLayer
+    7402542: wooden floor|sockets014|Take 001|BaseLayer
+    7402544: wooden floor|sockets015|Take 001|BaseLayer
+    7402546: wooden floor|Sphere03|Take 001|BaseLayer
+    7402548: wooden floor|Sphere04|Take 001|BaseLayer
+    7402550: wooden floor|spitza100|Take 001|BaseLayer
+    7402552: wooden floor|spitza101|Take 001|BaseLayer
+    7402554: wooden floor|spitza102|Take 001|BaseLayer
+    7402556: wooden floor|spitza103|Take 001|BaseLayer
+    7402558: wooden floor|spitza104|Take 001|BaseLayer
+    7402560: wooden floor|spitza105|Take 001|BaseLayer
+    7402562: wooden floor|spitza106|Take 001|BaseLayer
+    7402564: wooden floor|spitza107|Take 001|BaseLayer
+    7402566: wooden floor|spitza108|Take 001|BaseLayer
+    7402568: wooden floor|spitza109|Take 001|BaseLayer
+    7402570: wooden floor|spitza110|Take 001|BaseLayer
+    7402572: wooden floor|spitza111|Take 001|BaseLayer
+    7402574: wooden floor|spitza112|Take 001|BaseLayer
+    7402576: wooden floor|spitza113|Take 001|BaseLayer
+    7402578: wooden floor|spitza114|Take 001|BaseLayer
+    7402580: wooden floor|spitza115|Take 001|BaseLayer
+    7402582: wooden floor|spitza116|Take 001|BaseLayer
+    7402584: wooden floor|spitza117|Take 001|BaseLayer
+    7402586: wooden floor|spitza118|Take 001|BaseLayer
+    7402588: wooden floor|spitza119|Take 001|BaseLayer
+    7402590: wooden floor|spitza120|Take 001|BaseLayer
+    7402592: wooden floor|spitza61|Take 001|BaseLayer
+    7402594: wooden floor|spitza62|Take 001|BaseLayer
+    7402596: wooden floor|spitza63|Take 001|BaseLayer
+    7402598: wooden floor|spitza64|Take 001|BaseLayer
+    7402600: wooden floor|spitza65|Take 001|BaseLayer
+    7402602: wooden floor|spitza66|Take 001|BaseLayer
+    7402604: wooden floor|spitza67|Take 001|BaseLayer
+    7402606: wooden floor|spitza68|Take 001|BaseLayer
+    7402608: wooden floor|spitza69|Take 001|BaseLayer
+    7402610: wooden floor|spitza70|Take 001|BaseLayer
+    7402612: wooden floor|spitza71|Take 001|BaseLayer
+    7402614: wooden floor|spitza72|Take 001|BaseLayer
+    7402616: wooden floor|spitza73|Take 001|BaseLayer
+    7402618: wooden floor|spitza74|Take 001|BaseLayer
+    7402620: wooden floor|spitza75|Take 001|BaseLayer
+    7402622: wooden floor|spitza76|Take 001|BaseLayer
+    7402624: wooden floor|spitza77|Take 001|BaseLayer
+    7402626: wooden floor|spitza78|Take 001|BaseLayer
+    7402628: wooden floor|spitza79|Take 001|BaseLayer
+    7402630: wooden floor|spitza80|Take 001|BaseLayer
+    7402632: wooden floor|spitza81|Take 001|BaseLayer
+    7402634: wooden floor|spitza82|Take 001|BaseLayer
+    7402636: wooden floor|spitza83|Take 001|BaseLayer
+    7402638: wooden floor|spitza84|Take 001|BaseLayer
+    7402640: wooden floor|spitza85|Take 001|BaseLayer
+    7402642: wooden floor|spitza86|Take 001|BaseLayer
+    7402644: wooden floor|spitza87|Take 001|BaseLayer
+    7402646: wooden floor|spitza88|Take 001|BaseLayer
+    7402648: wooden floor|spitza89|Take 001|BaseLayer
+    7402650: wooden floor|spitza90|Take 001|BaseLayer
+    7402652: wooden floor|spitza91|Take 001|BaseLayer
+    7402654: wooden floor|spitza92|Take 001|BaseLayer
+    7402656: wooden floor|spitza93|Take 001|BaseLayer
+    7402658: wooden floor|spitza94|Take 001|BaseLayer
+    7402660: wooden floor|spitza95|Take 001|BaseLayer
+    7402662: wooden floor|spitza96|Take 001|BaseLayer
+    7402664: wooden floor|spitza97|Take 001|BaseLayer
+    7402666: wooden floor|spitza98|Take 001|BaseLayer
+    7402668: wooden floor|spitza99|Take 001|BaseLayer
+    7402670: wooden floor|support017|Take 001|BaseLayer
+    7402672: wooden floor|support018|Take 001|BaseLayer
+    7402674: wooden floor|support019|Take 001|BaseLayer
+    7402676: wooden floor|support020|Take 001|BaseLayer
+    7402678: wooden floor|support021|Take 001|BaseLayer
+    7402680: wooden floor|support022|Take 001|BaseLayer
+    7402682: wooden floor|support023|Take 001|BaseLayer
+    7402684: wooden floor|support024|Take 001|BaseLayer
+    7402686: wooden floor|support025|Take 001|BaseLayer
+    7402688: wooden floor|support026|Take 001|BaseLayer
+    7402690: wooden floor|support027|Take 001|BaseLayer
+    7402692: wooden floor|support028|Take 001|BaseLayer
+    7402694: wooden floor|support029|Take 001|BaseLayer
+    7402696: wooden floor|support030|Take 001|BaseLayer
+    7402698: wooden floor|support031|Take 001|BaseLayer
+    7402700: wooden floor|support032|Take 001|BaseLayer
+    7402702: wooden floor|support04|Take 001|BaseLayer
+    7402704: wooden floor|support05|Take 001|BaseLayer
+    7402706: wooden floor|support06|Take 001|BaseLayer
+    7402708: wooden floor|support07|Take 001|BaseLayer
+    7402710: wooden floor|support|Take 001|BaseLayer
+    7402712: wooden floor|surgical light handle032|Take 001|BaseLayer
+    7402714: wooden floor|surgical light handle033|Take 001|BaseLayer
+    7402716: wooden floor|surgical light handle034|Take 001|BaseLayer
+    7402718: wooden floor|surgical light handle035|Take 001|BaseLayer
+    7402720: wooden floor|surgical light handle036|Take 001|BaseLayer
+    7402722: wooden floor|surgical light handle037|Take 001|BaseLayer
+    7402724: wooden floor|surgical light handle038|Take 001|BaseLayer
+    7402726: wooden floor|surgical light handle039|Take 001|BaseLayer
+    7402728: wooden floor|switch_body_incubator104|Take 001|BaseLayer
+    7402730: wooden floor|switch_body_incubator105|Take 001|BaseLayer
+    7402732: wooden floor|switch_body_incubator106|Take 001|BaseLayer
+    7402734: wooden floor|switch_body_incubator107|Take 001|BaseLayer
+    7402736: wooden floor|switch_body_incubator108|Take 001|BaseLayer
+    7402738: wooden floor|switch_body_incubator109|Take 001|BaseLayer
+    7402740: wooden floor|switch_body_incubator110|Take 001|BaseLayer
+    7402742: wooden floor|switch_body_incubator111|Take 001|BaseLayer
+    7402744: wooden floor|switch_body_incubator112|Take 001|BaseLayer
+    7402746: wooden floor|switch_body_incubator113|Take 001|BaseLayer
+    7402748: wooden floor|switch_body_incubator114|Take 001|BaseLayer
+    7402750: wooden floor|switch_body_incubator115|Take 001|BaseLayer
+    7402752: wooden floor|switch_body_incubator116|Take 001|BaseLayer
+    7402754: wooden floor|switch_body_incubator117|Take 001|BaseLayer
+    7402756: wooden floor|switch_body_incubator118|Take 001|BaseLayer
+    7402758: wooden floor|switch_body_incubator164|Take 001|BaseLayer
+    7402760: wooden floor|switch_body_incubator165|Take 001|BaseLayer
+    7402762: wooden floor|switch_body_incubator166|Take 001|BaseLayer
+    7402764: wooden floor|switch_body_incubator167|Take 001|BaseLayer
+    7402766: wooden floor|switch_incubator030|Take 001|BaseLayer
+    7402768: wooden floor|switch_incubator031|Take 001|BaseLayer
+    7402770: wooden floor|switch_incubator032|Take 001|BaseLayer
+    7402772: wooden floor|switch_incubator033|Take 001|BaseLayer
+    7402774: wooden floor|switch_incubator034|Take 001|BaseLayer
+    7402776: wooden floor|switch_incubator035|Take 001|BaseLayer
+    7402778: wooden floor|switch_incubator036|Take 001|BaseLayer
+    7402780: wooden floor|switch_incubator037|Take 001|BaseLayer
+    7402782: wooden floor|table|Take 001|BaseLayer
+    7402784: wooden floor|toilet_brush_02|Take 001|BaseLayer
+    7402786: wooden floor|toilet_paper_holder03a|Take 001|BaseLayer
+    7402788: wooden floor|toilet_paper_holder03|Take 001|BaseLayer
+    7402790: wooden floor|Toilet_reducer_ring|Take 001|BaseLayer
+    7402792: wooden floor|toiletbrush_holder_02|Take 001|BaseLayer
+    7402794: wooden floor|TOP_CABINET|Take 001|BaseLayer
+    7402796: wooden floor|towel1a002|Take 001|BaseLayer
+    7402798: wooden floor|towel1a003|Take 001|BaseLayer
+    7402800: wooden floor|towel1a01|Take 001|BaseLayer
+    7402802: wooden floor|towel1a|Take 001|BaseLayer
+    7402804: wooden floor|Tribeca Coffe Table|Take 001|BaseLayer
+    7402806: wooden floor|Tube02|Take 001|BaseLayer
+    7402808: wooden floor|Tube03|Take 001|BaseLayer
+    7402810: wooden floor|Twyford Option wash basin|Take 001|BaseLayer
+    7402812: wooden floor|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+    7402814: wooden floor|Twyford_Option_wash_basin001|Take 001|BaseLayer
+    7402816: wooden floor|Twyford_X62_basin_cold_indice003|Take 001|BaseLayer
+    7402818: wooden floor|Twyford_X62_basin_tap001|Take 001|BaseLayer
+    7402820: wooden floor|Twyford_X62_basin_tap|Take 001|BaseLayer
+    7402822: wooden floor|Twyford_X62_basin_warm_indice001|Take 001|BaseLayer
+    7402824: wooden floor|Twyford_X62_wash_basin_tap001|Take 001|BaseLayer
+    7402826: wooden floor|Twyford_X62_wash_basin_tap|Take 001|BaseLayer
+    7402828: wooden floor|usb slot026|Take 001|BaseLayer
+    7402830: wooden floor|usb slot027|Take 001|BaseLayer
+    7402832: wooden floor|usb slot028|Take 001|BaseLayer
+    7402834: wooden floor|usb slot029|Take 001|BaseLayer
+    7402836: wooden floor|usb slot030|Take 001|BaseLayer
+    7402838: wooden floor|usb slot031|Take 001|BaseLayer
+    7402840: wooden floor|usb slot032|Take 001|BaseLayer
+    7402842: wooden floor|usb slot033|Take 001|BaseLayer
+    7402844: wooden floor|usb slot034|Take 001|BaseLayer
+    7402846: wooden floor|usb slot035|Take 001|BaseLayer
+    7402848: wooden floor|usb slot036|Take 001|BaseLayer
+    7402850: wooden floor|usb slot037|Take 001|BaseLayer
+    7402852: wooden floor|usb slot038|Take 001|BaseLayer
+    7402854: wooden floor|ventilator  bag cap001|Take 001|BaseLayer
+    7402856: wooden floor|ventilator arm adjustable support001|Take 001|BaseLayer
+    7402858: wooden floor|ventilator arm handle002|Take 001|BaseLayer
+    7402860: wooden floor|ventilator arm segment005|Take 001|BaseLayer
+    7402862: wooden floor|ventilator arm segment006|Take 001|BaseLayer
+    7402864: wooden floor|ventilator arm segment007|Take 001|BaseLayer
+    7402866: wooden floor|ventilator arm segment008|Take 001|BaseLayer
+    7402868: wooden floor|ventilator bag001|Take 001|BaseLayer
+    7402870: wooden floor|ventilator box002|Take 001|BaseLayer
+    7402872: wooden floor|ventilator brushed metal002|Take 001|BaseLayer
+    7402874: wooden floor|ventilator controls 003|Take 001|BaseLayer
+    7402876: wooden floor|ventilator glass004|Take 001|BaseLayer
+    7402878: wooden floor|ventilator glass005|Take 001|BaseLayer
+    7402880: wooden floor|ventilator glass006|Take 001|BaseLayer
+    7402882: wooden floor|ventilator hose cap 012|Take 001|BaseLayer
+    7402884: wooden floor|ventilator hose cap 013|Take 001|BaseLayer
+    7402886: wooden floor|ventilator hose cap 014|Take 001|BaseLayer
+    7402888: wooden floor|ventilator hose cap 015|Take 001|BaseLayer
+    7402890: wooden floor|ventilator hose cap 016|Take 001|BaseLayer
+    7402892: wooden floor|ventilator hose cap 017|Take 001|BaseLayer
+    7402894: wooden floor|ventilator hose cap005|Take 001|BaseLayer
+    7402896: wooden floor|ventilator hose cap006|Take 001|BaseLayer
+    7402898: wooden floor|ventilator hose cap007|Take 001|BaseLayer
+    7402900: wooden floor|ventilator hose cap008|Take 001|BaseLayer
+    7402902: wooden floor|ventilator hose output003|Take 001|BaseLayer
+    7402904: wooden floor|ventilator hose output004|Take 001|BaseLayer
+    7402906: wooden floor|ventilator hose support 004|Take 001|BaseLayer
+    7402908: wooden floor|ventilator hose support 005|Take 001|BaseLayer
+    7402910: wooden floor|ventilator hose support001|Take 001|BaseLayer
+    7402912: wooden floor|ventilator large button001|Take 001|BaseLayer
+    7402914: wooden floor|ventilator screen002|Take 001|BaseLayer
+    7402916: wooden floor|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7402918: wooden floor|Ventilator_main_body001|Take 001|BaseLayer
+    7402920: wooden floor|Ventilator_wheel004|Take 001|BaseLayer
+    7402922: wooden floor|Ventilator_wheel005|Take 001|BaseLayer
+    7402924: wooden floor|Ventilator_wheel006|Take 001|BaseLayer
+    7402926: wooden floor|Ventilator_wheel007|Take 001|BaseLayer
+    7402928: wooden floor|ventilatorHose006|Take 001|BaseLayer
+    7402930: wooden floor|ventilatorHose007|Take 001|BaseLayer
+    7402932: wooden floor|ventilatorHose008|Take 001|BaseLayer
+    7402934: wooden floor|ventilatorHose009|Take 001|BaseLayer
+    7402936: wooden floor|ventilatorHose010|Take 001|BaseLayer
+    7402938: wooden floor|vga slot031|Take 001|BaseLayer
+    7402940: wooden floor|vga slot032|Take 001|BaseLayer
+    7402942: wooden floor|vga slot033|Take 001|BaseLayer
+    7402944: wooden floor|vga slot034|Take 001|BaseLayer
+    7402946: wooden floor|vga slot035|Take 001|BaseLayer
+    7402948: wooden floor|VRayLight001|Take 001|BaseLayer
+    7402950: wooden floor|VRayLight002|Take 001|BaseLayer
+    7402952: wooden floor|VRayLight019|Take 001|BaseLayer
+    7402954: wooden floor|walls|Take 001|BaseLayer
+    7402956: wooden floor|WardConsole001|Take 001|BaseLayer
+    7402958: wooden floor|warmer_lamp016|Take 001|BaseLayer
+    7402960: wooden floor|warmer_lamp017|Take 001|BaseLayer
+    7402962: wooden floor|Warmer_lamp_blades016|Take 001|BaseLayer
+    7402964: wooden floor|Warmer_lamp_blades017|Take 001|BaseLayer
+    7402966: wooden floor|warmer_lamp_glass016|Take 001|BaseLayer
+    7402968: wooden floor|warmer_lamp_glass017|Take 001|BaseLayer
+    7402970: wooden floor|warmer_lamp_shade016|Take 001|BaseLayer
+    7402972: wooden floor|warmer_lamp_shade017|Take 001|BaseLayer
+    7402974: wooden floor|Wash_basin001|Take 001|BaseLayer
+    7402976: wooden floor|Wash_basin_detail|Take 001|BaseLayer
+    7402978: wooden floor|Wash_basin_support001|Take 001|BaseLayer
+    7402980: wooden floor|Waste_fitting_slotted_ClickClack001abcd|Take 001|BaseLayer
+    7402982: wooden floor|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+    7402984: wooden floor|Waste_recipient|Take 001|BaseLayer
+    7402986: wooden floor|wc|Take 001|BaseLayer
+    7402988: wooden floor|wheel044|Take 001|BaseLayer
+    7402990: wooden floor|wheel045|Take 001|BaseLayer
+    7402992: wooden floor|wheel046|Take 001|BaseLayer
+    7402994: wooden floor|wheel047|Take 001|BaseLayer
+    7402996: wooden floor|wheel048|Take 001|BaseLayer
+    7402998: wooden floor|wheel049|Take 001|BaseLayer
+    7403000: wooden floor|wheel050|Take 001|BaseLayer
+    7403002: wooden floor|wheel051|Take 001|BaseLayer
+    7403004: wooden floor|wheel052|Take 001|BaseLayer
+    7403006: wooden floor|Wheel_arm009|Take 001|BaseLayer
+    7403008: wooden floor|Wheel_arm010|Take 001|BaseLayer
+    7403010: wooden floor|Wheel_arm011|Take 001|BaseLayer
+    7403012: wooden floor|Wheel_arm012|Take 001|BaseLayer
+    7403014: wooden floor|wheel_ax008|Take 001|BaseLayer
+    7403016: wooden floor|wheel_ax009|Take 001|BaseLayer
+    7403018: wooden floor|wheel_ax010|Take 001|BaseLayer
+    7403020: wooden floor|wheel_ax011|Take 001|BaseLayer
+    7403022: wooden floor|wheel_ax012|Take 001|BaseLayer
+    7403024: wooden floor|wheel_ax013|Take 001|BaseLayer
+    7403026: wooden floor|wheel_ax014|Take 001|BaseLayer
+    7403028: wooden floor|wheel_ax015|Take 001|BaseLayer
+    7403030: wooden floor|wheel_cover005|Take 001|BaseLayer
+    7403032: wooden floor|wheel_cover006|Take 001|BaseLayer
+    7403034: wooden floor|wheel_cover007|Take 001|BaseLayer
+    7403036: wooden floor|wheel_cover008|Take 001|BaseLayer
+    7403038: wooden floor|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7403040: wooden floor|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7403042: wooden floor|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7403044: wooden floor|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7403046: wooden floor|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7403048: wooden floor|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7403050: wooden floor|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7403052: wooden floor|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7403054: wooden floor|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7403056: wooden floor|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7403058: wooden floor|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7403060: wooden floor|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7403062: wooden floor|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7403064: wooden floor|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7403066: wooden floor|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7403068: wooden floor|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7403070: wooden floor|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7403072: wooden floor|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7403074: wooden floor|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7403076: wooden floor|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7403078: wooden floor|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7403080: wooden floor|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7403082: wooden floor|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7403084: wooden floor|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7403086: wooden floor|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7403088: wooden floor|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7403090: wooden floor|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7403092: wooden floor|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7403094: wooden floor|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7403096: wooden floor|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7403098: wooden floor|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7403100: wooden floor|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7403102: wooden floor|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7403104: wooden floor|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7403106: wooden floor|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7403108: wooden floor|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7403110: wooden floor|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7403112: wooden floor|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7403114: wooden floor|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7403116: wooden floor|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7403118: wooden floor|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7403120: wooden floor|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7403122: wooden floor|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7403124: wooden floor|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7403126: wooden floor|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7403128: wooden floor|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7403130: wooden floor|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7403132: wooden floor|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7403134: wooden floor|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7403136: wooden floor|wheel_rubber007|Take 001|BaseLayer
+    7403138: wooden floor|wheel_rubber008|Take 001|BaseLayer
+    7403140: wooden floor|wheel_rubber009|Take 001|BaseLayer
+    7403142: wooden floor|wheel_rubber010|Take 001|BaseLayer
+    7403144: wooden floor|wheel_rubber011|Take 001|BaseLayer
+    7403146: wooden floor|wheel_rubber012|Take 001|BaseLayer
+    7403148: wooden floor|wheel_rubber013|Take 001|BaseLayer
+    7403150: wooden floor|wheel_rubber014|Take 001|BaseLayer
+    7403152: wooden floor|wheelCenterPivot004|Take 001|BaseLayer
+    7403154: wooden floor|wheelCenterPivot005|Take 001|BaseLayer
+    7403156: wooden floor|wheelCenterPivot006|Take 001|BaseLayer
+    7403158: wooden floor|wheelCenterPivot007|Take 001|BaseLayer
+    7403160: wooden floor|window frame|Take 001|BaseLayer
+    7403162: wooden floor|wooden floor|Take 001|BaseLayer
+    7403164: wooden floor|wooden floor|Take 001|BaseLayer.001
+    7403166: wooden floor|bolt503|Take 001|BaseLayer.001
+    7403168: wooden floor|bolt504|Take 001|BaseLayer.001
+    7403170: wooden floor|bolt505|Take 001|BaseLayer.001
+    7403172: wooden floor|bolt506|Take 001|BaseLayer.001
+    7403174: wooden floor|Box276|Take 001|BaseLayer.001
+    7403176: wooden floor|Box278|Take 001|BaseLayer.001
+    7403178: wooden floor|Box279|Take 001|BaseLayer.001
+    7403180: wooden floor|bzt040|Take 001|BaseLayer.001
+    7403182: wooden floor|bzt041|Take 001|BaseLayer.001
+    7403184: wooden floor|bzt042|Take 001|BaseLayer.001
+    7403186: wooden floor|bzt043|Take 001|BaseLayer.001
+    7403188: wooden floor|bzt044|Take 001|BaseLayer.001
+    7403190: wooden floor|Circle007|Take 001|BaseLayer.001
+    7403192: wooden floor|Cylinder4510|Take 001|BaseLayer.001
+    7403194: wooden floor|Cylinder4511|Take 001|BaseLayer.001
+    7403196: wooden floor|Cylinder4512|Take 001|BaseLayer.001
+    7403198: wooden floor|Cylinder4513|Take 001|BaseLayer.001
+    7403200: wooden floor|Cylinder4514|Take 001|BaseLayer.001
+    7403202: wooden floor|Cylinder4515|Take 001|BaseLayer.001
+    7403204: wooden floor|Cylinder4516|Take 001|BaseLayer.001
+    7403206: wooden floor|Cylinder4517|Take 001|BaseLayer.001
+    7403208: wooden floor|Cylinder4518|Take 001|BaseLayer.001
+    7403210: wooden floor|Cylinder4519|Take 001|BaseLayer.001
+    7403212: wooden floor|Cylinder4520|Take 001|BaseLayer.001
+    7403214: wooden floor|Cylinder4522|Take 001|BaseLayer.001
+    7403216: wooden floor|Cylinder4525|Take 001|BaseLayer.001
+    7403218: wooden floor|Cylinder4526|Take 001|BaseLayer.001
+    7403220: wooden floor|Cylinder4527|Take 001|BaseLayer.001
+    7403222: wooden floor|Cylinder4528|Take 001|BaseLayer.001
+    7403224: wooden floor|Cylinder4529|Take 001|BaseLayer.001
+    7403226: wooden floor|Cylinder4530|Take 001|BaseLayer.001
+    7403228: wooden floor|Cylinder4531|Take 001|BaseLayer.001
+    7403230: wooden floor|Cylinder4532|Take 001|BaseLayer.001
+    7403232: wooden floor|Cylinder4533|Take 001|BaseLayer.001
+    7403234: wooden floor|Cylinder4534|Take 001|BaseLayer.001
+    7403236: wooden floor|doctor_stool005|Take 001|BaseLayer.001
+    7403238: wooden floor|Object4474|Take 001|BaseLayer.001
+    7403240: wooden floor|Object4475|Take 001|BaseLayer.001
+    7403242: wooden floor|Object4476|Take 001|BaseLayer.001
+    7403244: wooden floor|Object4477|Take 001|BaseLayer.001
+    7403246: wooden floor|Object4478|Take 001|BaseLayer.001
+    7403248: wooden floor|roata045|Take 001|BaseLayer.001
+    7403250: wooden floor|roata046|Take 001|BaseLayer.001
+    7403252: wooden floor|roata047|Take 001|BaseLayer.001
+    7403254: wooden floor|roata048|Take 001|BaseLayer.001
+    7403256: wooden floor|roata049|Take 001|BaseLayer.001
+    7403258: wooden floor|Ventilator_wheel005|Take 001|BaseLayer.001
+    7403260: wooden floor|Wheel_arm010|Take 001|BaseLayer.001
+    7403262: wooden floor|wheel_ax009|Take 001|BaseLayer.001
+    7403264: wooden floor|wheel_rubber008|Take 001|BaseLayer.001
+    7403266: wooden floor|wheelCenterPivot005|Take 001|BaseLayer.001
+    7403268: walls|Bedside_table_blat003|Take 001|BaseLayer
+    7403270: walls|curtain_hospital_ward|Take 001|BaseLayer
+    7403272: walls|Cylinder4510|Take 001|BaseLayer.001
+    7403274: walls|Cylinder65ssa007|Take 001|BaseLayer
+    7403276: walls|Hospital_bed_base001|Take 001|BaseLayer
+    7403278: walls|Locker_top001|Take 001|BaseLayer
+    7403280: walls|monitor screen002|Take 001|BaseLayer
+    7403282: walls|monitor screen003|Take 001|BaseLayer
+    7403284: walls|plinth 2|Take 001|BaseLayer
+    7403286: walls|ventilator screen002|Take 001|BaseLayer
+    7403288: walls|walls|Take 001|BaseLayer
+    7403290: walls|wooden floor|Take 001|BaseLayer.001
+    7403292: curtain_hospital_ward|Bedside_table_blat003|Take 001|BaseLayer
+    7403294: curtain_hospital_ward|curtain_hospital_ward|Take 001|BaseLayer
+    7403296: curtain_hospital_ward|Cylinder4510|Take 001|BaseLayer.001
+    7403298: curtain_hospital_ward|Cylinder65ssa007|Take 001|BaseLayer
+    7403300: curtain_hospital_ward|Hospital_bed_base001|Take 001|BaseLayer
+    7403302: curtain_hospital_ward|Locker_top001|Take 001|BaseLayer
+    7403304: curtain_hospital_ward|monitor screen002|Take 001|BaseLayer
+    7403306: curtain_hospital_ward|monitor screen003|Take 001|BaseLayer
+    7403308: curtain_hospital_ward|plinth 2|Take 001|BaseLayer
+    7403310: curtain_hospital_ward|ventilator screen002|Take 001|BaseLayer
+    7403312: curtain_hospital_ward|walls|Take 001|BaseLayer
+    7403314: curtain_hospital_ward|wooden floor|Take 001|BaseLayer.001
+    7403316: Hospital_bed_base001|Bedside_table_blat003|Take 001|BaseLayer
+    7403318: Hospital_bed_base001|curtain_hospital_ward|Take 001|BaseLayer
+    7403320: Hospital_bed_base001|Cylinder4510|Take 001|BaseLayer.001
+    7403322: Hospital_bed_base001|Cylinder65ssa007|Take 001|BaseLayer
+    7403324: Hospital_bed_base001|Hospital_bed_base001|Take 001|BaseLayer
+    7403326: Hospital_bed_base001|Locker_top001|Take 001|BaseLayer
+    7403328: Hospital_bed_base001|monitor screen002|Take 001|BaseLayer
+    7403330: Hospital_bed_base001|monitor screen003|Take 001|BaseLayer
+    7403332: Hospital_bed_base001|plinth 2|Take 001|BaseLayer
+    7403334: Hospital_bed_base001|ventilator screen002|Take 001|BaseLayer
+    7403336: Hospital_bed_base001|walls|Take 001|BaseLayer
+    7403338: Hospital_bed_base001|wooden floor|Take 001|BaseLayer.001
+    7403340: Chair|Bedside_table_blat003|Take 001|BaseLayer
+    7403342: Chair|curtain_hospital_ward|Take 001|BaseLayer
+    7403344: Chair|Cylinder4510|Take 001|BaseLayer.001
+    7403346: Chair|Cylinder65ssa007|Take 001|BaseLayer
+    7403348: Chair|Hospital_bed_base001|Take 001|BaseLayer
+    7403350: Chair|Locker_top001|Take 001|BaseLayer
+    7403352: Chair|monitor screen002|Take 001|BaseLayer
+    7403354: Chair|monitor screen003|Take 001|BaseLayer
+    7403356: Chair|plinth 2|Take 001|BaseLayer
+    7403358: Chair|ventilator screen002|Take 001|BaseLayer
+    7403360: Chair|walls|Take 001|BaseLayer
+    7403362: Chair|wooden floor|Take 001|BaseLayer.001
+    7403364: Bedside_table_blat003|Bedside_table_blat003|Take 001|BaseLayer
+    7403366: Bedside_table_blat003|curtain_hospital_ward|Take 001|BaseLayer
+    7403368: Bedside_table_blat003|Cylinder4510|Take 001|BaseLayer.001
+    7403370: Bedside_table_blat003|Cylinder65ssa007|Take 001|BaseLayer
+    7403372: Bedside_table_blat003|Hospital_bed_base001|Take 001|BaseLayer
+    7403374: Bedside_table_blat003|Locker_top001|Take 001|BaseLayer
+    7403376: Bedside_table_blat003|monitor screen002|Take 001|BaseLayer
+    7403378: Bedside_table_blat003|monitor screen003|Take 001|BaseLayer
+    7403380: Bedside_table_blat003|plinth 2|Take 001|BaseLayer
+    7403382: Bedside_table_blat003|ventilator screen002|Take 001|BaseLayer
+    7403384: Bedside_table_blat003|walls|Take 001|BaseLayer
+    7403386: Bedside_table_blat003|wooden floor|Take 001|BaseLayer.001
+    7403388: ventilator screen002|Bedside_table_blat003|Take 001|BaseLayer
+    7403390: ventilator screen002|curtain_hospital_ward|Take 001|BaseLayer
+    7403392: ventilator screen002|Cylinder4510|Take 001|BaseLayer.001
+    7403394: ventilator screen002|Cylinder65ssa007|Take 001|BaseLayer
+    7403396: ventilator screen002|Hospital_bed_base001|Take 001|BaseLayer
+    7403398: ventilator screen002|Locker_top001|Take 001|BaseLayer
+    7403400: ventilator screen002|monitor screen002|Take 001|BaseLayer
+    7403402: ventilator screen002|monitor screen003|Take 001|BaseLayer
+    7403404: ventilator screen002|plinth 2|Take 001|BaseLayer
+    7403406: ventilator screen002|ventilator screen002|Take 001|BaseLayer
+    7403408: ventilator screen002|walls|Take 001|BaseLayer
+    7403410: ventilator screen002|wooden floor|Take 001|BaseLayer.001
+    7403412: MedicalDevice|Bedside_table_blat003|Take 001|BaseLayer
+    7403414: MedicalDevice|curtain_hospital_ward|Take 001|BaseLayer
+    7403416: MedicalDevice|Cylinder4510|Take 001|BaseLayer.001
+    7403418: MedicalDevice|Cylinder65ssa007|Take 001|BaseLayer
+    7403420: MedicalDevice|Hospital_bed_base001|Take 001|BaseLayer
+    7403422: MedicalDevice|Locker_top001|Take 001|BaseLayer
+    7403424: MedicalDevice|monitor screen002|Take 001|BaseLayer
+    7403426: MedicalDevice|monitor screen003|Take 001|BaseLayer
+    7403428: MedicalDevice|plinth 2|Take 001|BaseLayer
+    7403430: MedicalDevice|ventilator screen002|Take 001|BaseLayer
+    7403432: MedicalDevice|walls|Take 001|BaseLayer
+    7403434: MedicalDevice|wooden floor|Take 001|BaseLayer.001
+    7403436: wallUnit|Bedside_table_blat003|Take 001|BaseLayer
+    7403438: wallUnit|curtain_hospital_ward|Take 001|BaseLayer
+    7403440: wallUnit|Cylinder4510|Take 001|BaseLayer.001
+    7403442: wallUnit|Cylinder65ssa007|Take 001|BaseLayer
+    7403444: wallUnit|Hospital_bed_base001|Take 001|BaseLayer
+    7403446: wallUnit|Locker_top001|Take 001|BaseLayer
+    7403448: wallUnit|monitor screen002|Take 001|BaseLayer
+    7403450: wallUnit|monitor screen003|Take 001|BaseLayer
+    7403452: wallUnit|plinth 2|Take 001|BaseLayer
+    7403454: wallUnit|ventilator screen002|Take 001|BaseLayer
+    7403456: wallUnit|walls|Take 001|BaseLayer
+    7403458: wallUnit|wooden floor|Take 001|BaseLayer.001
+    7403460: IV_stand|Bedside_table_blat003|Take 001|BaseLayer
+    7403462: IV_stand|curtain_hospital_ward|Take 001|BaseLayer
+    7403464: IV_stand|Cylinder4510|Take 001|BaseLayer.001
+    7403466: IV_stand|Cylinder65ssa007|Take 001|BaseLayer
+    7403468: IV_stand|Hospital_bed_base001|Take 001|BaseLayer
+    7403470: IV_stand|Locker_top001|Take 001|BaseLayer
+    7403472: IV_stand|monitor screen002|Take 001|BaseLayer
+    7403474: IV_stand|monitor screen003|Take 001|BaseLayer
+    7403476: IV_stand|plinth 2|Take 001|BaseLayer
+    7403478: IV_stand|ventilator screen002|Take 001|BaseLayer
+    7403480: IV_stand|walls|Take 001|BaseLayer
+    7403482: IV_stand|wooden floor|Take 001|BaseLayer.001
+    7403484: Locker|Bedside_table_blat003|Take 001|BaseLayer
+    7403486: Locker|curtain_hospital_ward|Take 001|BaseLayer
+    7403488: Locker|Cylinder4510|Take 001|BaseLayer.001
+    7403490: Locker|Cylinder65ssa007|Take 001|BaseLayer
+    7403492: Locker|Hospital_bed_base001|Take 001|BaseLayer
+    7403494: Locker|Locker_top001|Take 001|BaseLayer
+    7403496: Locker|monitor screen002|Take 001|BaseLayer
+    7403498: Locker|monitor screen003|Take 001|BaseLayer
+    7403500: Locker|plinth 2|Take 001|BaseLayer
+    7403502: Locker|ventilator screen002|Take 001|BaseLayer
+    7403504: Locker|walls|Take 001|BaseLayer
+    7403506: Locker|wooden floor|Take 001|BaseLayer.001
+    7403508: plinth 2|Bedside_table_blat003|Take 001|BaseLayer
+    7403510: plinth 2|curtain_hospital_ward|Take 001|BaseLayer
+    7403512: plinth 2|Cylinder4510|Take 001|BaseLayer.001
+    7403514: plinth 2|Cylinder65ssa007|Take 001|BaseLayer
+    7403516: plinth 2|Hospital_bed_base001|Take 001|BaseLayer
+    7403518: plinth 2|Locker_top001|Take 001|BaseLayer
+    7403520: plinth 2|monitor screen002|Take 001|BaseLayer
+    7403522: plinth 2|monitor screen003|Take 001|BaseLayer
+    7403524: plinth 2|plinth 2|Take 001|BaseLayer
+    7403526: plinth 2|ventilator screen002|Take 001|BaseLayer
+    7403528: plinth 2|walls|Take 001|BaseLayer
+    7403530: plinth 2|wooden floor|Take 001|BaseLayer.001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

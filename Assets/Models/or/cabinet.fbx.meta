@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 9a522b89f695c534da7d9ad3518cc3fb
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7660109032033831720
+    second: w-Med Cabinet - Tall 49.5" [262813]|Cart-Laptop_Reed Cart-Laptop_Reed
+      [160984]|Take 001|BaseLayer
+  - first:
+      74: -2742099668366986800
+    second: w-Med Cabinet - Tall 49.5" [262813]|Cart_Utility_Reed 35In H x 29In D
+      x 16In W [160982]|Take 001|Ba
+  - first:
+      74: 4343208176162630793
+    second: w-Med Cabinet - Tall 49.5" [262813]|Computer_LCD_Reed Standard [160990]|Take
+      001|BaseLayer
+  - first:
+      74: 2926336287207158535
+    second: w-Med Cabinet - Tall 49.5" [262813]|Floor Conc - 6" - Rubber Floor -
+      Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 8303303733295230568
+    second: w-Med Cabinet - Tall 49.5" [262813]|Floor Conc - 6" - Rubber Floor -
+      Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 433437773144300830
+    second: w-Med Cabinet - Tall 49.5" [262813]|Floor Conc - 6" - Rubber Floor -
+      Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 8280088897427310433
+    second: w-Med Cabinet - Tall 49.5" [262813]|Floor Conc - 6" - Rubber Floor Dark
+      Blue [316282]|Take 001|Base
+  - first:
+      74: -5690017085125307744
+    second: w-Med Cabinet - Tall 49.5" [262813]|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 1199854650262318716
+    second: w-Med Cabinet - Tall 49.5" [262813]|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen
+      [243262]|Take 001
+  - first:
+      74: -7713367953145803958
+    second: w-Med Cabinet - Tall 49.5" [262813]|Surgery Stool Surgery Stool [285409]|Take
+      001|BaseLayer
+  - first:
+      74: -3155014853288285355
+    second: w-Med Cabinet - Tall 49.5" [262813]|Surgery Stool Surgery Stool [285507]|Take
+      001|BaseLayer
+  - first:
+      74: -2988428034635214814
+    second: w-Med Cabinet - Tall 49.5" [262813]|Surgery Stool Surgery Stool [318555]|Take
+      001|BaseLayer
+  - first:
+      74: 2835675383424020730
+    second: w-Med Cabinet - Tall 49.5" [262813]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: 7958738001992968747
+    second: w-Med Cabinet - Tall 49.5" [262813]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: 8277923043007760122
+    second: w-Med Cabinet - Tall 49.5" [262813]|Ventilator_Reed Ventilator_Reed [160979]|Take
+      001|BaseLayer
+  - first:
+      74: 3538474835515150145
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Anesthesia_Tower 26" x 26" [226134]|Take
+      001|BaseLayer
+  - first:
+      74: -638868281791924589
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Contamination Tray w-Contamination
+      Tray [367117]|Take 001|Bas
+  - first:
+      74: 8183128534907103869
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Med Cabinet - Tall 49.5" [262813]|Take
+      001|BaseLayer
+  - first:
+      74: -7915468883457595441
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment - ElectroSurgical
+      Generator ESU w-M_2cc8069
+  - first:
+      74: 4472320720607874360
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment - Olympus Xenon
+      Light Source Contro_875c195
+  - first:
+      74: -1527920787957067544
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment - SurgeryRoom
+      Psymograph w-Medical _d4ab6fd
+  - first:
+      74: -3826991287834340460
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment - Trumpf - i310
+      i310 FP [263967]|Take 001|B
+  - first:
+      74: -9108523182943839992
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment - Trumpf - i310
+      i310 FP [320310]|Take 001|B
+  - first:
+      74: -8111094587103009773
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Medical Equipment -Trumpf - Titan
+      Surgery Table Titan_241c58f
+  - first:
+      74: 8231983681782778603
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -2134931758884628682
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: 2568898048628484431
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Generic - 6" [158853]|Take
+      001|BaseLayer
+  - first:
+      74: 7841384706063885421
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Generic - 6" [158854]|Take
+      001|BaseLayer
+  - first:
+      74: -5252934097116212922
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Generic - 6" [158855]|Take
+      001|BaseLayer
+  - first:
+      74: 4902681287821778893
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Generic - 6" [158856]|Take
+      001|BaseLayer
+  - first:
+      74: -6254464986984267929
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [242614]|Take 001
+  - first:
+      74: 1938017252908702278
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [242685]|Take 001
+  - first:
+      74: 7980425680078591587
+    second: w-Med Cabinet - Tall 49.5" [262813]|Basic Wall Interior - 3 1/8" Partition
+      (1-hr) [243081]|Take 001
+  - first:
+      74: 210725940865753007
+    second: w-Med Cabinet - Tall 49.5" [262813]|Compound Ceiling GWB on Mtl. Stud
+      [213220]|Take 001|BaseLayer
+  - first:
+      74: 7193107604645796595
+    second: w-Med Cabinet - Tall 49.5" [262813]|Compound Ceiling GWB on Mtl. Stud
+      [242839]|Take 001|BaseLayer
+  - first:
+      74: -6062664777844230897
+    second: w-Med Cabinet - Tall 49.5" [262813]|Door_Vision-Panel_Reed Door_Vision-Panel_Reed
+      [198105]|Take 001
+  - first:
+      74: 3922120242205099190
+    second: w-Med Cabinet - Tall 49.5" [262813]|Double_Flush_-_Unequal 72" x 78"
+      [211553]|Take 001|BaseLayer
+  - first:
+      74: -2241789438783933226
+    second: w-Med Cabinet - Tall 49.5" [262813]|Flat_Panel_TV_42 40 inch [228411]|Take
+      001|BaseLayer
+  - first:
+      74: -7383184521401787730
+    second: w-Med Cabinet - Tall 49.5" [262813]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [195098]|Tak
+  - first:
+      74: -3602567324674490094
+    second: w-Med Cabinet - Tall 49.5" [262813]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [211522]|Tak
+  - first:
+      74: 7382680098844004643
+    second: w-Med Cabinet - Tall 49.5" [262813]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [242155]|Tak
+  - first:
+      74: 628902889053254980
+    second: w-Med Cabinet - Tall 49.5" [262813]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [242180]|Tak
+  - first:
+      74: 265540623478591015
+    second: w-Med Cabinet - Tall 49.5" [262813]|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed
+      [318757]|Tak
+  - first:
+      74: 3716287437138204896
+    second: w-Med Cabinet - Tall 49.5" [262813]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195214]|Take 001|B
+  - first:
+      74: -1939023937564073984
+    second: w-Med Cabinet - Tall 49.5" [262813]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195215]|Take 001|B
+  - first:
+      74: -7264741222956837973
+    second: w-Med Cabinet - Tall 49.5" [262813]|Med-Gas-Outlet_MEP_Reed Med Gas Wall
+      Outlet [195216]|Take 001|B
+  - first:
+      74: 4775858467003171139
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane001|Take 001|BaseLayer
+  - first:
+      74: 777589946116275323
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane002|Take 001|BaseLayer
+  - first:
+      74: 4705413800916979705
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane003|Take 001|BaseLayer
+  - first:
+      74: 3765622268545230639
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane004|Take 001|BaseLayer
+  - first:
+      74: -7512100219551569156
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane005|Take 001|BaseLayer
+  - first:
+      74: 2330517327781546990
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane006|Take 001|BaseLayer
+  - first:
+      74: -7468618469822507768
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane007|Take 001|BaseLayer
+  - first:
+      74: 2016013836007311648
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane008|Take 001|BaseLayer
+  - first:
+      74: -8882113609408997988
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane009|Take 001|BaseLayer
+  - first:
+      74: -7345237754298148029
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane014|Take 001|BaseLayer
+  - first:
+      74: -1195239054672373332
+    second: w-Med Cabinet - Tall 49.5" [262813]|Plane015|Take 001|BaseLayer
+  - first:
+      74: 5187851985050368590
+    second: w-Med Cabinet - Tall 49.5" [262813]|Rauland - Flush mounted - model 2521
+      Rauland - Flush mo_632cde0
+  - first:
+      74: 5845564285922687181
+    second: w-Med Cabinet - Tall 49.5" [262813]|Stand-Infusion_Reed Stand-Infusion_Reed
+      [160983]|Take 001|BaseL
+  - first:
+      74: 8938909694205030753
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-Fire Alarm Box Fire Alarm Pull
+      Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: -3199331856523818208
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_3a88bd0
+  - first:
+      74: -6833544787642262720
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_616be44
+  - first:
+      74: -7640768692645315488
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_b985b54
+  - first:
+      74: 2101835681443759781
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 24inc-Diffuser - Titus
+      TLF-AA w-SurgeryRo_f529a41
+  - first:
+      74: -6964230534257832252
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_1183ffe
+  - first:
+      74: -6800223015192243492
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_491ff65
+  - first:
+      74: -3585324316380873129
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_663f02c
+  - first:
+      74: 7515634593181651592
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_7ce1703
+  - first:
+      74: -3583550837997618971
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_8d5a40d
+  - first:
+      74: 5837479033632338470
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_920575c
+  - first:
+      74: 6713851239229109661
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_9f084db
+  - first:
+      74: 4908095730375199162
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_dad0568
+  - first:
+      74: -6150657268336083222
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_e5da27a
+  - first:
+      74: -8640045468792482609
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: -8889337293037104987
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom 48inch Light Fixture
+      w-SurgeryRoom 48inch_fb61b1a
+  - first:
+      74: -7704208208065626190
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_06d6b53
+  - first:
+      74: 1207734729614761219
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_2ef.000
+  - first:
+      74: 5753665034423517017
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_4d0.000
+  - first:
+      74: 8192140325866548622
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_b19db64
+  - first:
+      74: -8123609491706236884
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_ebaec81
+  - first:
+      74: -1865536292947815689
+    second: w-Med Cabinet - Tall 49.5" [262813]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_eda4d66
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet Glass - Clear Reflective.003
+    second: {fileID: 2100000, guid: 6825df61e6acd9748a78de4fc27569d7, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: cf8752e0ed1a4e542bbf6b004323a0dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: doctors stool_leather.001
+    2100002: Chrome.001
+    2100004: doctors stool_black plastic.001
+    2100006: Car_Paint_Standard.001
+    2100008: incubator black plastic.002
+    2100010: Aluminum_matted.002
+    2100012: doctors stool_metal
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Chair
+    7400000: Chair|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400002: Chair|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400004: Chair|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400006: Chair|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400008: Chair|Box206b007|Take 001|BaseLayer
+    7400010: Chair|Box276|Take 001|BaseLayer
+    7400012: Chair|Box276|Take 001|BaseLayer.001
+    7400014: Chair|Box277|Take 001|BaseLayer
+    7400016: Chair|Box278|Take 001|BaseLayer
+    7400018: Chair|Box278|Take 001|BaseLayer.001
+    7400020: Chair|Box279|Take 001|BaseLayer
+    7400022: Chair|Box279|Take 001|BaseLayer.001
+    7400024: Chair|bzt040|Take 001|BaseLayer
+    7400026: Chair|bzt040|Take 001|BaseLayer.001
+    7400028: Chair|bzt041|Take 001|BaseLayer
+    7400030: Chair|bzt041|Take 001|BaseLayer.001
+    7400032: Chair|bzt042|Take 001|BaseLayer
+    7400034: Chair|bzt042|Take 001|BaseLayer.001
+    7400036: Chair|bzt043|Take 001|BaseLayer
+    7400038: Chair|bzt043|Take 001|BaseLayer.001
+    7400040: Chair|bzt044|Take 001|BaseLayer
+    7400042: Chair|bzt044|Take 001|BaseLayer.001
+    7400044: Chair|Circle007|Take 001|BaseLayer
+    7400046: Chair|Circle007|Take 001|BaseLayer.001
+    7400048: Chair|curtain_hospital_ward001|Take 001|BaseLayer
+    7400050: Chair|curtain_hospital_ward007|Take 001|BaseLayer
+    7400052: Chair|curtain_hospital_ward008|Take 001|BaseLayer
+    7400054: Chair|curtain_hospital_ward|Take 001|BaseLayer
+    7400056: Chair|Cylinder04sd007|Take 001|BaseLayer
+    7400058: Chair|Cylinder172vbbv007|Take 001|BaseLayer
+    7400060: Chair|Cylinder4510|Take 001|BaseLayer
+    7400062: Chair|Cylinder4510|Take 001|BaseLayer.001
+    7400064: Chair|Cylinder4511|Take 001|BaseLayer
+    7400066: Chair|Cylinder4511|Take 001|BaseLayer.001
+    7400068: Chair|Cylinder4512|Take 001|BaseLayer
+    7400070: Chair|Cylinder4512|Take 001|BaseLayer.001
+    7400072: Chair|Cylinder4513|Take 001|BaseLayer
+    7400074: Chair|Cylinder4513|Take 001|BaseLayer.001
+    7400076: Chair|Cylinder4514|Take 001|BaseLayer
+    7400078: Chair|Cylinder4514|Take 001|BaseLayer.001
+    7400080: Chair|Cylinder4515|Take 001|BaseLayer
+    7400082: Chair|Cylinder4515|Take 001|BaseLayer.001
+    7400084: Chair|Cylinder4516|Take 001|BaseLayer
+    7400086: Chair|Cylinder4516|Take 001|BaseLayer.001
+    7400088: Chair|Cylinder4517|Take 001|BaseLayer
+    7400090: Chair|Cylinder4517|Take 001|BaseLayer.001
+    7400092: Chair|Cylinder4518|Take 001|BaseLayer
+    7400094: Chair|Cylinder4518|Take 001|BaseLayer.001
+    7400096: Chair|Cylinder4519|Take 001|BaseLayer
+    7400098: Chair|Cylinder4519|Take 001|BaseLayer.001
+    7400100: Chair|Cylinder4520|Take 001|BaseLayer
+    7400102: Chair|Cylinder4520|Take 001|BaseLayer.001
+    7400104: Chair|Cylinder4521|Take 001|BaseLayer
+    7400106: Chair|Cylinder4522|Take 001|BaseLayer
+    7400108: Chair|Cylinder4522|Take 001|BaseLayer.001
+    7400110: Chair|Cylinder4523|Take 001|BaseLayer
+    7400112: Chair|Cylinder4524|Take 001|BaseLayer
+    7400114: Chair|Cylinder4525|Take 001|BaseLayer
+    7400116: Chair|Cylinder4525|Take 001|BaseLayer.001
+    7400118: Chair|Cylinder4526|Take 001|BaseLayer
+    7400120: Chair|Cylinder4526|Take 001|BaseLayer.001
+    7400122: Chair|Cylinder4527|Take 001|BaseLayer
+    7400124: Chair|Cylinder4527|Take 001|BaseLayer.001
+    7400126: Chair|Cylinder4528|Take 001|BaseLayer
+    7400128: Chair|Cylinder4528|Take 001|BaseLayer.001
+    7400130: Chair|Cylinder4529|Take 001|BaseLayer
+    7400132: Chair|Cylinder4529|Take 001|BaseLayer.001
+    7400134: Chair|Cylinder4530|Take 001|BaseLayer
+    7400136: Chair|Cylinder4530|Take 001|BaseLayer.001
+    7400138: Chair|Cylinder4531|Take 001|BaseLayer
+    7400140: Chair|Cylinder4531|Take 001|BaseLayer.001
+    7400142: Chair|Cylinder4532|Take 001|BaseLayer
+    7400144: Chair|Cylinder4532|Take 001|BaseLayer.001
+    7400146: Chair|Cylinder4533|Take 001|BaseLayer
+    7400148: Chair|Cylinder4533|Take 001|BaseLayer.001
+    7400150: Chair|Cylinder4534|Take 001|BaseLayer
+    7400152: Chair|Cylinder4534|Take 001|BaseLayer.001
+    7400154: Chair|Cylinder4542|Take 001|BaseLayer
+    7400156: Chair|Cylinder4543|Take 001|BaseLayer
+    7400158: Chair|Cylinder4544|Take 001|BaseLayer
+    7400160: Chair|Cylinder4545|Take 001|BaseLayer
+    7400162: Chair|Cylinder4546|Take 001|BaseLayer
+    7400164: Chair|doctor_stool005|Take 001|BaseLayer
+    7400166: Chair|doctor_stool005|Take 001|BaseLayer.001
+    7400168: Chair|Group042|Take 001|BaseLayer
+    7400170: Chair|Hospital Bed001|Take 001|BaseLayer
+    7400172: Chair|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7400174: Chair|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7400176: Chair|Hospital_bed_base001|Take 001|BaseLayer
+    7400178: Chair|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7400180: Chair|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7400182: Chair|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7400184: Chair|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7400186: Chair|Hospital_bed_bumper007|Take 001|BaseLayer
+    7400188: Chair|Hospital_bed_bumper008|Take 001|BaseLayer
+    7400190: Chair|Hospital_bed_bumper009|Take 001|BaseLayer
+    7400192: Chair|Hospital_bed_bumper010|Take 001|BaseLayer
+    7400194: Chair|Hospital_bed_button012|Take 001|BaseLayer
+    7400196: Chair|Hospital_bed_button013|Take 001|BaseLayer
+    7400198: Chair|Hospital_bed_button_large005|Take 001|BaseLayer
+    7400200: Chair|Hospital_bed_button_large006|Take 001|BaseLayer
+    7400202: Chair|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7400204: Chair|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7400206: Chair|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7400208: Chair|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7400210: Chair|Hospital_bed_leg003|Take 001|BaseLayer
+    7400212: Chair|Hospital_bed_leg004|Take 001|BaseLayer
+    7400214: Chair|Hospital_bed_leg005|Take 001|BaseLayer
+    7400216: Chair|Hospital_bed_matress001|Take 001|BaseLayer
+    7400218: Chair|Hospital_bed_pedal064|Take 001|BaseLayer
+    7400220: Chair|Hospital_bed_pedal065|Take 001|BaseLayer
+    7400222: Chair|Hospital_bed_pedal066|Take 001|BaseLayer
+    7400224: Chair|Hospital_bed_pedal067|Take 001|BaseLayer
+    7400226: Chair|Hospital_bed_pedal068|Take 001|BaseLayer
+    7400228: Chair|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7400230: Chair|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7400232: Chair|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7400234: Chair|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7400236: Chair|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7400238: Chair|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7400240: Chair|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7400242: Chair|Hospital_bed_pedals001|Take 001|BaseLayer
+    7400244: Chair|Hospital_bed_piston006|Take 001|BaseLayer
+    7400246: Chair|Hospital_bed_piston007|Take 001|BaseLayer
+    7400248: Chair|Hospital_bed_piston008|Take 001|BaseLayer
+    7400250: Chair|Hospital_bed_piston009|Take 001|BaseLayer
+    7400252: Chair|Hospital_bed_piston010|Take 001|BaseLayer
+    7400254: Chair|Hospital_bed_piston011|Take 001|BaseLayer
+    7400256: Chair|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7400258: Chair|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7400260: Chair|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7400262: Chair|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7400264: Chair|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7400266: Chair|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7400268: Chair|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7400270: Chair|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7400272: Chair|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7400274: Chair|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7400276: Chair|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7400278: Chair|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7400280: Chair|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7400282: Chair|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7400284: Chair|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7400286: Chair|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7400288: Chair|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7400290: Chair|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7400292: Chair|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7400294: Chair|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7400296: Chair|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7400298: Chair|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7400300: Chair|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7400302: Chair|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7400304: Chair|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7400306: Chair|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7400308: Chair|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7400310: Chair|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7400312: Chair|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7400314: Chair|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7400316: Chair|Hospital_bed_pistons002|Take 001|BaseLayer
+    7400318: Chair|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7400320: Chair|Hospital_bed_pole003|Take 001|BaseLayer
+    7400322: Chair|Hospital_bed_pole004|Take 001|BaseLayer
+    7400324: Chair|Hospital_bed_pole005|Take 001|BaseLayer
+    7400326: Chair|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7400328: Chair|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7400330: Chair|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7400332: Chair|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7400334: Chair|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7400336: Chair|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7400338: Chair|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7400340: Chair|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7400342: Chair|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7400344: Chair|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7400346: Chair|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7400348: Chair|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7400350: Chair|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7400352: Chair|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7400354: Chair|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7400356: Chair|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7400358: Chair|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7400360: Chair|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7400362: Chair|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7400364: Chair|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7400366: Chair|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7400368: Chair|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7400370: Chair|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7400372: Chair|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7400374: Chair|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7400376: Chair|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7400378: Chair|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7400380: Chair|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7400382: Chair|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7400384: Chair|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7400386: Chair|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7400388: Chair|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7400390: Chair|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7400392: Chair|Hospital_bed_sides001|Take 001|BaseLayer
+    7400394: Chair|Hospital_bed_wheel004|Take 001|BaseLayer
+    7400396: Chair|Hospital_bed_wheel005|Take 001|BaseLayer
+    7400398: Chair|Hospital_bed_wheel006|Take 001|BaseLayer
+    7400400: Chair|Hospital_bed_wheel007|Take 001|BaseLayer
+    7400402: Chair|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7400404: Chair|Object4474|Take 001|BaseLayer
+    7400406: Chair|Object4474|Take 001|BaseLayer.001
+    7400408: Chair|Object4475|Take 001|BaseLayer
+    7400410: Chair|Object4475|Take 001|BaseLayer.001
+    7400412: Chair|Object4476|Take 001|BaseLayer
+    7400414: Chair|Object4476|Take 001|BaseLayer.001
+    7400416: Chair|Object4477|Take 001|BaseLayer
+    7400418: Chair|Object4477|Take 001|BaseLayer.001
+    7400420: Chair|Object4478|Take 001|BaseLayer
+    7400422: Chair|Object4478|Take 001|BaseLayer.001
+    7400424: Chair|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7400426: Chair|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7400428: Chair|pillow001|Take 001|BaseLayer
+    7400430: Chair|roata045|Take 001|BaseLayer
+    7400432: Chair|roata045|Take 001|BaseLayer.001
+    7400434: Chair|roata046|Take 001|BaseLayer
+    7400436: Chair|roata046|Take 001|BaseLayer.001
+    7400438: Chair|roata047|Take 001|BaseLayer
+    7400440: Chair|roata047|Take 001|BaseLayer.001
+    7400442: Chair|roata048|Take 001|BaseLayer
+    7400444: Chair|roata048|Take 001|BaseLayer.001
+    7400446: Chair|roata049|Take 001|BaseLayer
+    7400448: Chair|roata049|Take 001|BaseLayer.001
+    7400450: Chair|Rubber_bumper016|Take 001|BaseLayer
+    7400452: Chair|Rubber_bumper017|Take 001|BaseLayer
+    7400454: Chair|Rubber_bumper018|Take 001|BaseLayer
+    7400456: Chair|Rubber_bumper019|Take 001|BaseLayer
+    7400458: Chair|Rubber_bumper020|Take 001|BaseLayer
+    7400460: Chair|Rubber_bumper021|Take 001|BaseLayer
+    7400462: Chair|Rubber_bumper022|Take 001|BaseLayer
+    7400464: Chair|Rubber_bumper023|Take 001|BaseLayer
+    7400466: Chair|Rubber_bumper024|Take 001|BaseLayer
+    7400468: Chair|Rubber_bumper_support008|Take 001|BaseLayer
+    7400470: Chair|Rubber_bumper_support009|Take 001|BaseLayer
+    7400472: Chair|Rubber_bumper_support010|Take 001|BaseLayer
+    7400474: Chair|Rubber_bumper_support011|Take 001|BaseLayer
+    7400476: Chair|Rubber_bumper_support012|Take 001|BaseLayer
+    7400478: Chair|side panel controls_head_002|Take 001|BaseLayer
+    7400480: Chair|side panel controls_head_003|Take 001|BaseLayer
+    7400482: Chair|side panel_head002|Take 001|BaseLayer
+    7400484: Chair|side panel_head003|Take 001|BaseLayer
+    7400486: Chair|side_panel_cap005|Take 001|BaseLayer
+    7400488: Chair|side_panel_cap006|Take 001|BaseLayer
+    7400490: Chair|side_panel_cap007|Take 001|BaseLayer
+    7400492: Chair|side_panel_cap008|Take 001|BaseLayer
+    7400494: Chair|Ventilator_wheel005|Take 001|BaseLayer
+    7400496: Chair|walls|Take 001|BaseLayer
+    7400498: Chair|wheel044|Take 001|BaseLayer
+    7400500: Chair|wheel045|Take 001|BaseLayer
+    7400502: Chair|Wheel_arm010|Take 001|BaseLayer
+    7400504: Chair|wheel_ax009|Take 001|BaseLayer
+    7400506: Chair|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7400508: Chair|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7400510: Chair|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7400512: Chair|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7400514: Chair|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7400516: Chair|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7400518: Chair|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7400520: Chair|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7400522: Chair|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7400524: Chair|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7400526: Chair|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7400528: Chair|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7400530: Chair|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7400532: Chair|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7400534: Chair|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7400536: Chair|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7400538: Chair|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7400540: Chair|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7400542: Chair|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7400544: Chair|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7400546: Chair|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7400548: Chair|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7400550: Chair|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7400552: Chair|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7400554: Chair|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7400556: Chair|wheel_rubber008|Take 001|BaseLayer
+    7400558: Chair|wheelCenterPivot005|Take 001|BaseLayer
+    7400560: Chair|wooden floor|Take 001|BaseLayer
+    7400562: Chair|wooden floor|Take 001|BaseLayer.001
+    7400564: Chair|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400566: Chair|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400568: Chair|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400570: Chair|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400572: Chair|Back_display_detail001|Take 001|BaseLayer
+    7400574: Chair|bedside_table003|Take 001|BaseLayer
+    7400576: Chair|bedside_table_adjuster003|Take 001|BaseLayer
+    7400578: Chair|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400580: Chair|Bedside_table_axis003|Take 001|BaseLayer
+    7400582: Chair|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400584: Chair|Bedside_table_blat003|Take 001|BaseLayer
+    7400586: Chair|Bedside_table_border003|Take 001|BaseLayer
+    7400588: Chair|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400590: Chair|bedside_table_handle003|Take 001|BaseLayer
+    7400592: Chair|bedside_table_handle_support003|Take 001|BaseLayer
+    7400594: Chair|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400596: Chair|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400598: Chair|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400600: Chair|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400602: Chair|Bedside_table_support010|Take 001|BaseLayer
+    7400604: Chair|Bedside_table_support011|Take 001|BaseLayer
+    7400606: Chair|Bedside_table_support012|Take 001|BaseLayer
+    7400608: Chair|Bedside_table_wheel053|Take 001|BaseLayer
+    7400610: Chair|Bedside_table_wheel054|Take 001|BaseLayer
+    7400612: Chair|Bedside_table_wheel055|Take 001|BaseLayer
+    7400614: Chair|Bedside_table_wheel056|Take 001|BaseLayer
+    7400616: Chair|Blue_light001|Take 001|BaseLayer
+    7400618: Chair|bolt424|Take 001|BaseLayer
+    7400620: Chair|bolt425|Take 001|BaseLayer
+    7400622: Chair|bolt426|Take 001|BaseLayer
+    7400624: Chair|bolt427|Take 001|BaseLayer
+    7400626: Chair|bolt431|Take 001|BaseLayer
+    7400628: Chair|bolt443|Take 001|BaseLayer
+    7400630: Chair|bolt444|Take 001|BaseLayer
+    7400632: Chair|bolt445|Take 001|BaseLayer
+    7400634: Chair|bolt446|Take 001|BaseLayer
+    7400636: Chair|bolt447|Take 001|BaseLayer
+    7400638: Chair|bolt448|Take 001|BaseLayer
+    7400640: Chair|bolt449|Take 001|BaseLayer
+    7400642: Chair|bolt450|Take 001|BaseLayer
+    7400644: Chair|bolt451|Take 001|BaseLayer
+    7400646: Chair|bolt452|Take 001|BaseLayer
+    7400648: Chair|bolt453|Take 001|BaseLayer
+    7400650: Chair|bolt454|Take 001|BaseLayer
+    7400652: Chair|bolt455|Take 001|BaseLayer
+    7400654: Chair|bolt456|Take 001|BaseLayer
+    7400656: Chair|bolt457|Take 001|BaseLayer
+    7400658: Chair|bolt458|Take 001|BaseLayer
+    7400660: Chair|bolt459|Take 001|BaseLayer
+    7400662: Chair|bolt460|Take 001|BaseLayer
+    7400664: Chair|bolt461|Take 001|BaseLayer
+    7400666: Chair|bolt462|Take 001|BaseLayer
+    7400668: Chair|bolt463|Take 001|BaseLayer
+    7400670: Chair|bolt464|Take 001|BaseLayer
+    7400672: Chair|bolt465|Take 001|BaseLayer
+    7400674: Chair|bolt466|Take 001|BaseLayer
+    7400676: Chair|bolt467|Take 001|BaseLayer
+    7400678: Chair|bolt468|Take 001|BaseLayer
+    7400680: Chair|bolt469|Take 001|BaseLayer
+    7400682: Chair|bolt470|Take 001|BaseLayer
+    7400684: Chair|bolt471|Take 001|BaseLayer
+    7400686: Chair|bolt472|Take 001|BaseLayer
+    7400688: Chair|bolt473|Take 001|BaseLayer
+    7400690: Chair|bolt474|Take 001|BaseLayer
+    7400692: Chair|bolt475|Take 001|BaseLayer
+    7400694: Chair|bolt476|Take 001|BaseLayer
+    7400696: Chair|bolt477|Take 001|BaseLayer
+    7400698: Chair|bolt478|Take 001|BaseLayer
+    7400700: Chair|bolt479|Take 001|BaseLayer
+    7400702: Chair|bolt480|Take 001|BaseLayer
+    7400704: Chair|bolt481|Take 001|BaseLayer
+    7400706: Chair|bolt482|Take 001|BaseLayer
+    7400708: Chair|bolt483|Take 001|BaseLayer
+    7400710: Chair|bolt484|Take 001|BaseLayer
+    7400712: Chair|bolt485|Take 001|BaseLayer
+    7400714: Chair|bolt486|Take 001|BaseLayer
+    7400716: Chair|bolt487|Take 001|BaseLayer
+    7400718: Chair|bolt488|Take 001|BaseLayer
+    7400720: Chair|bolt489|Take 001|BaseLayer
+    7400722: Chair|bolt490|Take 001|BaseLayer
+    7400724: Chair|bolt491|Take 001|BaseLayer
+    7400726: Chair|bolt492|Take 001|BaseLayer
+    7400728: Chair|bolt493|Take 001|BaseLayer
+    7400730: Chair|bolt494|Take 001|BaseLayer
+    7400732: Chair|bolt496|Take 001|BaseLayer
+    7400734: Chair|bolt497|Take 001|BaseLayer
+    7400736: Chair|bolt498|Take 001|BaseLayer
+    7400738: Chair|bolt499|Take 001|BaseLayer
+    7400740: Chair|bolt500|Take 001|BaseLayer
+    7400742: Chair|bolt501|Take 001|BaseLayer
+    7400744: Chair|bolt502|Take 001|BaseLayer
+    7400746: Chair|bolt503|Take 001|BaseLayer
+    7400748: Chair|bolt503|Take 001|BaseLayer.001
+    7400750: Chair|bolt504|Take 001|BaseLayer
+    7400752: Chair|bolt504|Take 001|BaseLayer.001
+    7400754: Chair|bolt505|Take 001|BaseLayer
+    7400756: Chair|bolt505|Take 001|BaseLayer.001
+    7400758: Chair|bolt506|Take 001|BaseLayer
+    7400760: Chair|bolt506|Take 001|BaseLayer.001
+    7400762: Chair|bolt507|Take 001|BaseLayer
+    7400764: Chair|bolt508|Take 001|BaseLayer
+    7400766: Chair|bolt509|Take 001|BaseLayer
+    7400768: Chair|bolt510|Take 001|BaseLayer
+    7400770: Chair|bolt511|Take 001|BaseLayer
+    7400772: Chair|bolt512|Take 001|BaseLayer
+    7400774: Chair|bolt513|Take 001|BaseLayer
+    7400776: Chair|bolt514|Take 001|BaseLayer
+    7400778: Chair|bolt515|Take 001|BaseLayer
+    7400780: Chair|bolt516|Take 001|BaseLayer
+    7400782: Chair|bolt517|Take 001|BaseLayer
+    7400784: Chair|bolt518|Take 001|BaseLayer
+    7400786: Chair|boom segment 009|Take 001|BaseLayer
+    7400788: Chair|boom segment 010|Take 001|BaseLayer
+    7400790: Chair|boom segment 011|Take 001|BaseLayer
+    7400792: Chair|BoomArm001|Take 001|BaseLayer
+    7400794: Chair|BoomMonitor002|Take 001|BaseLayer
+    7400796: Chair|Box280|Take 001|BaseLayer
+    7400798: Chair|cable005|Take 001|BaseLayer
+    7400800: Chair|cable006|Take 001|BaseLayer
+    7400802: Chair|cable007|Take 001|BaseLayer
+    7400804: Chair|cable008|Take 001|BaseLayer
+    7400806: Chair|cable009|Take 001|BaseLayer
+    7400808: Chair|card slot001|Take 001|BaseLayer
+    7400810: Chair|Clay_Paky_case001|Take 001|BaseLayer
+    7400812: Chair|Control_button001|Take 001|BaseLayer
+    7400814: Chair|cooler001|Take 001|BaseLayer
+    7400816: Chair|Cooler_fan002|Take 001|BaseLayer
+    7400818: Chair|Cooler_propeller012|Take 001|BaseLayer
+    7400820: Chair|Cooler_propeller013|Take 001|BaseLayer
+    7400822: Chair|Cooler_propeller014|Take 001|BaseLayer
+    7400824: Chair|Cooler_propeller015|Take 001|BaseLayer
+    7400826: Chair|Cooler_propeller016|Take 001|BaseLayer
+    7400828: Chair|Cooler_propeller017|Take 001|BaseLayer
+    7400830: Chair|Cylinder4509|Take 001|BaseLayer
+    7400832: Chair|Cylinder4769|Take 001|BaseLayer
+    7400834: Chair|Cylinder4770|Take 001|BaseLayer
+    7400836: Chair|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7400838: Chair|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7400840: Chair|Display_body001|Take 001|BaseLayer
+    7400842: Chair|equipement carrier handle002|Take 001|BaseLayer
+    7400844: Chair|equipment carrier body001|Take 001|BaseLayer
+    7400846: Chair|equipment_carrier_shelf005|Take 001|BaseLayer
+    7400848: Chair|equipment_carrier_shelf006|Take 001|BaseLayer
+    7400850: Chair|equipment_carrier_shelf007|Take 001|BaseLayer
+    7400852: Chair|equipment_carrier_shelf008|Take 001|BaseLayer
+    7400854: Chair|Hospital_bed_pedal069|Take 001|BaseLayer
+    7400856: Chair|Hospital_bed_pedal070|Take 001|BaseLayer
+    7400858: Chair|humidifier001|Take 001|BaseLayer
+    7400860: Chair|insuflation tube040|Take 001|BaseLayer
+    7400862: Chair|insuflation tube041|Take 001|BaseLayer
+    7400864: Chair|insuflation tube042|Take 001|BaseLayer
+    7400866: Chair|insuflation tube043|Take 001|BaseLayer
+    7400868: Chair|insuflation tube044|Take 001|BaseLayer
+    7400870: Chair|insuflation tube045|Take 001|BaseLayer
+    7400872: Chair|insuflation tube046|Take 001|BaseLayer
+    7400874: Chair|insuflation tube047|Take 001|BaseLayer
+    7400876: Chair|insuflation tube049|Take 001|BaseLayer
+    7400878: Chair|insuflation tube050|Take 001|BaseLayer
+    7400880: Chair|insuflation tube051|Take 001|BaseLayer
+    7400882: Chair|insuflation tube052|Take 001|BaseLayer
+    7400884: Chair|insuflation tube053|Take 001|BaseLayer
+    7400886: Chair|insuflation tube054|Take 001|BaseLayer
+    7400888: Chair|insuflation tube055|Take 001|BaseLayer
+    7400890: Chair|insuflation tube056|Take 001|BaseLayer
+    7400892: Chair|insuflation tube057|Take 001|BaseLayer
+    7400894: Chair|insuflation tube058|Take 001|BaseLayer
+    7400896: Chair|insuflation tube059|Take 001|BaseLayer
+    7400898: Chair|insuflation tube060|Take 001|BaseLayer
+    7400900: Chair|insuflation tube061|Take 001|BaseLayer
+    7400902: Chair|insuflation tube062|Take 001|BaseLayer
+    7400904: Chair|insuflation tube063|Take 001|BaseLayer
+    7400906: Chair|insuflation tube064|Take 001|BaseLayer
+    7400908: Chair|insuflation tube065|Take 001|BaseLayer
+    7400910: Chair|insuflation tube066|Take 001|BaseLayer
+    7400912: Chair|insuflation tube067|Take 001|BaseLayer
+    7400914: Chair|insuflation tube068|Take 001|BaseLayer
+    7400916: Chair|Line033|Take 001|BaseLayer
+    7400918: Chair|liquid003|Take 001|BaseLayer
+    7400920: Chair|liquid004|Take 001|BaseLayer
+    7400922: Chair|Locker_tray001|Take 001|BaseLayer
+    7400924: Chair|medical device 01back005|Take 001|BaseLayer
+    7400926: Chair|medical device 01back006|Take 001|BaseLayer
+    7400928: Chair|medical device 01back007|Take 001|BaseLayer
+    7400930: Chair|medical device 01back008|Take 001|BaseLayer
+    7400932: Chair|medical device 01body015|Take 001|BaseLayer
+    7400934: Chair|medical device 01body016|Take 001|BaseLayer
+    7400936: Chair|medical device 01body017|Take 001|BaseLayer
+    7400938: Chair|medical device 01body018|Take 001|BaseLayer
+    7400940: Chair|medical device 01body019|Take 001|BaseLayer
+    7400942: Chair|medical device 01front002|Take 001|BaseLayer
+    7400944: Chair|medical device 01front003|Take 001|BaseLayer
+    7400946: Chair|medical device 02front004|Take 001|BaseLayer
+    7400948: Chair|medical device 02front005|Take 001|BaseLayer
+    7400950: Chair|medical device side016|Take 001|BaseLayer
+    7400952: Chair|medical device side017|Take 001|BaseLayer
+    7400954: Chair|medical device side018|Take 001|BaseLayer
+    7400956: Chair|medical device side019|Take 001|BaseLayer
+    7400958: Chair|medical device side020|Take 001|BaseLayer
+    7400960: Chair|medical device side021|Take 001|BaseLayer
+    7400962: Chair|medical device side022|Take 001|BaseLayer
+    7400964: Chair|medical device side023|Take 001|BaseLayer
+    7400966: Chair|medical devices001|Take 001|BaseLayer
+    7400968: Chair|medical_device005|Take 001|BaseLayer
+    7400970: Chair|medical_device006|Take 001|BaseLayer
+    7400972: Chair|medical_device007|Take 001|BaseLayer
+    7400974: Chair|medical_device008|Take 001|BaseLayer
+    7400976: Chair|medicine bottle 01 cap035|Take 001|BaseLayer
+    7400978: Chair|medicine bottle 01 cap036|Take 001|BaseLayer
+    7400980: Chair|medicine bottle 01 cap037|Take 001|BaseLayer
+    7400982: Chair|medicine bottle 02_ut002|Take 001|BaseLayer
+    7400984: Chair|medicine bottle 037|Take 001|BaseLayer
+    7400986: Chair|medicine bottle 03_v002|Take 001|BaseLayer
+    7400988: Chair|medicine box051|Take 001|BaseLayer
+    7400990: Chair|metal ring 004|Take 001|BaseLayer
+    7400992: Chair|metal ring 005|Take 001|BaseLayer
+    7400994: Chair|metal ring 006|Take 001|BaseLayer
+    7400996: Chair|Mobile_trolley001|Take 001|BaseLayer
+    7400998: Chair|monitor joint 003|Take 001|BaseLayer
+    7401000: Chair|monitor joint 004|Take 001|BaseLayer
+    7401002: Chair|monitor joint019|Take 001|BaseLayer
+    7401004: Chair|monitor screen002|Take 001|BaseLayer
+    7401006: Chair|monitor01_body007|Take 001|BaseLayer
+    7401008: Chair|Monitor_ax002|Take 001|BaseLayer
+    7401010: Chair|monitorARM002|Take 001|BaseLayer
+    7401012: Chair|mufa albastra017|Take 001|BaseLayer
+    7401014: Chair|mufa albastra018|Take 001|BaseLayer
+    7401016: Chair|mufa albastra019|Take 001|BaseLayer
+    7401018: Chair|mufaalbastra013|Take 001|BaseLayer
+    7401020: Chair|mufaalbastra014|Take 001|BaseLayer
+    7401022: Chair|mufaalbastra015|Take 001|BaseLayer
+    7401024: Chair|mufaalbastra016|Take 001|BaseLayer
+    7401026: Chair|mufaalbastra017|Take 001|BaseLayer
+    7401028: Chair|mufaalbastra018|Take 001|BaseLayer
+    7401030: Chair|mufaalbastra019|Take 001|BaseLayer
+    7401032: Chair|mufaalbastra020|Take 001|BaseLayer
+    7401034: Chair|mufaalbastra021|Take 001|BaseLayer
+    7401036: Chair|mufaalbastra022|Take 001|BaseLayer
+    7401038: Chair|Object4468|Take 001|BaseLayer
+    7401040: Chair|Object4469|Take 001|BaseLayer
+    7401042: Chair|Object4470|Take 001|BaseLayer
+    7401044: Chair|Object4471|Take 001|BaseLayer
+    7401046: Chair|Object4472|Take 001|BaseLayer
+    7401048: Chair|Object4473|Take 001|BaseLayer
+    7401050: Chair|off button device002|Take 001|BaseLayer
+    7401052: Chair|off button008|Take 001|BaseLayer
+    7401054: Chair|off button009|Take 001|BaseLayer
+    7401056: Chair|off button010|Take 001|BaseLayer
+    7401058: Chair|on button device002|Take 001|BaseLayer
+    7401060: Chair|on button008|Take 001|BaseLayer
+    7401062: Chair|on button009|Take 001|BaseLayer
+    7401064: Chair|on button010|Take 001|BaseLayer
+    7401066: Chair|on/off button008|Take 001|BaseLayer
+    7401068: Chair|on/off button009|Take 001|BaseLayer
+    7401070: Chair|on/off button010|Take 001|BaseLayer
+    7401072: Chair|plugg socket044|Take 001|BaseLayer
+    7401074: Chair|plugg socket045|Take 001|BaseLayer
+    7401076: Chair|plugg socket049|Take 001|BaseLayer
+    7401078: Chair|plugg socket050|Take 001|BaseLayer
+    7401080: Chair|plugg socket051|Take 001|BaseLayer
+    7401082: Chair|plugg015|Take 001|BaseLayer
+    7401084: Chair|plugg016|Take 001|BaseLayer
+    7401086: Chair|plugg017|Take 001|BaseLayer
+    7401088: Chair|plugg018|Take 001|BaseLayer
+    7401090: Chair|plugg019|Take 001|BaseLayer
+    7401092: Chair|plugg020|Take 001|BaseLayer
+    7401094: Chair|plugg021|Take 001|BaseLayer
+    7401096: Chair|plugg022|Take 001|BaseLayer
+    7401098: Chair|plugg023|Take 001|BaseLayer
+    7401100: Chair|plugg024|Take 001|BaseLayer
+    7401102: Chair|plugg025|Take 001|BaseLayer
+    7401104: Chair|plugg026|Take 001|BaseLayer
+    7401106: Chair|plugg027|Take 001|BaseLayer
+    7401108: Chair|round slot016|Take 001|BaseLayer
+    7401110: Chair|round slot017|Take 001|BaseLayer
+    7401112: Chair|round slot018|Take 001|BaseLayer
+    7401114: Chair|round slot019|Take 001|BaseLayer
+    7401116: Chair|round slot020|Take 001|BaseLayer
+    7401118: Chair|round slot021|Take 001|BaseLayer
+    7401120: Chair|round slot022|Take 001|BaseLayer
+    7401122: Chair|round slot023|Take 001|BaseLayer
+    7401124: Chair|round slot024|Take 001|BaseLayer
+    7401126: Chair|round slot025|Take 001|BaseLayer
+    7401128: Chair|Round_button001|Take 001|BaseLayer
+    7401130: Chair|Round_Scart008|Take 001|BaseLayer
+    7401132: Chair|Round_Scart009|Take 001|BaseLayer
+    7401134: Chair|Round_Scart010|Take 001|BaseLayer
+    7401136: Chair|Round_Scart011|Take 001|BaseLayer
+    7401138: Chair|Round_Scart012|Take 001|BaseLayer
+    7401140: Chair|Round_Scart013|Take 001|BaseLayer
+    7401142: Chair|Round_Scart014|Take 001|BaseLayer
+    7401144: Chair|Round_Scart015|Take 001|BaseLayer
+    7401146: Chair|Sanitizer003|Take 001|BaseLayer
+    7401148: Chair|Sanitizer004|Take 001|BaseLayer
+    7401150: Chair|scart003|Take 001|BaseLayer
+    7401152: Chair|scart004|Take 001|BaseLayer
+    7401154: Chair|scart005|Take 001|BaseLayer
+    7401156: Chair|Shape002|Take 001|BaseLayer
+    7401158: Chair|shelf edge004|Take 001|BaseLayer
+    7401160: Chair|shelf edge005|Take 001|BaseLayer
+    7401162: Chair|shelf edge006|Take 001|BaseLayer
+    7401164: Chair|shelf edge007|Take 001|BaseLayer
+    7401166: Chair|Side_handle002|Take 001|BaseLayer
+    7401168: Chair|Side_handle003|Take 001|BaseLayer
+    7401170: Chair|sky boom base001|Take 001|BaseLayer
+    7401172: Chair|socketA068|Take 001|BaseLayer
+    7401174: Chair|socketA069|Take 001|BaseLayer
+    7401176: Chair|socketA071|Take 001|BaseLayer
+    7401178: Chair|socketA072|Take 001|BaseLayer
+    7401180: Chair|socketA073|Take 001|BaseLayer
+    7401182: Chair|socketA074|Take 001|BaseLayer
+    7401184: Chair|socketA075|Take 001|BaseLayer
+    7401186: Chair|socketA076|Take 001|BaseLayer
+    7401188: Chair|socketA077|Take 001|BaseLayer
+    7401190: Chair|socketA078|Take 001|BaseLayer
+    7401192: Chair|socketA079|Take 001|BaseLayer
+    7401194: Chair|socketA080|Take 001|BaseLayer
+    7401196: Chair|socketA081|Take 001|BaseLayer
+    7401198: Chair|socketA082|Take 001|BaseLayer
+    7401200: Chair|socketA083|Take 001|BaseLayer
+    7401202: Chair|socketA084|Take 001|BaseLayer
+    7401204: Chair|socketA085|Take 001|BaseLayer
+    7401206: Chair|socketA086|Take 001|BaseLayer
+    7401208: Chair|socketA087|Take 001|BaseLayer
+    7401210: Chair|socketA088|Take 001|BaseLayer
+    7401212: Chair|socketA089|Take 001|BaseLayer
+    7401214: Chair|SocketB076|Take 001|BaseLayer
+    7401216: Chair|SocketB082|Take 001|BaseLayer
+    7401218: Chair|SocketB083|Take 001|BaseLayer
+    7401220: Chair|SocketB084|Take 001|BaseLayer
+    7401222: Chair|SocketB085|Take 001|BaseLayer
+    7401224: Chair|SocketB086|Take 001|BaseLayer
+    7401226: Chair|SocketB087|Take 001|BaseLayer
+    7401228: Chair|SocketB088|Take 001|BaseLayer
+    7401230: Chair|SocketB089|Take 001|BaseLayer
+    7401232: Chair|SocketB090|Take 001|BaseLayer
+    7401234: Chair|SocketB091|Take 001|BaseLayer
+    7401236: Chair|SocketB092|Take 001|BaseLayer
+    7401238: Chair|SocketB093|Take 001|BaseLayer
+    7401240: Chair|SocketB094|Take 001|BaseLayer
+    7401242: Chair|SocketB095|Take 001|BaseLayer
+    7401244: Chair|sockets012|Take 001|BaseLayer
+    7401246: Chair|sockets014|Take 001|BaseLayer
+    7401248: Chair|sockets015|Take 001|BaseLayer
+    7401250: Chair|support017|Take 001|BaseLayer
+    7401252: Chair|support018|Take 001|BaseLayer
+    7401254: Chair|support019|Take 001|BaseLayer
+    7401256: Chair|support020|Take 001|BaseLayer
+    7401258: Chair|support021|Take 001|BaseLayer
+    7401260: Chair|support022|Take 001|BaseLayer
+    7401262: Chair|support023|Take 001|BaseLayer
+    7401264: Chair|support024|Take 001|BaseLayer
+    7401266: Chair|support025|Take 001|BaseLayer
+    7401268: Chair|support026|Take 001|BaseLayer
+    7401270: Chair|support027|Take 001|BaseLayer
+    7401272: Chair|support028|Take 001|BaseLayer
+    7401274: Chair|support029|Take 001|BaseLayer
+    7401276: Chair|support030|Take 001|BaseLayer
+    7401278: Chair|support031|Take 001|BaseLayer
+    7401280: Chair|support032|Take 001|BaseLayer
+    7401282: Chair|surgical light handle032|Take 001|BaseLayer
+    7401284: Chair|surgical light handle033|Take 001|BaseLayer
+    7401286: Chair|surgical light handle034|Take 001|BaseLayer
+    7401288: Chair|surgical light handle035|Take 001|BaseLayer
+    7401290: Chair|surgical light handle036|Take 001|BaseLayer
+    7401292: Chair|surgical light handle037|Take 001|BaseLayer
+    7401294: Chair|surgical light handle038|Take 001|BaseLayer
+    7401296: Chair|usb slot027|Take 001|BaseLayer
+    7401298: Chair|usb slot028|Take 001|BaseLayer
+    7401300: Chair|usb slot029|Take 001|BaseLayer
+    7401302: Chair|usb slot030|Take 001|BaseLayer
+    7401304: Chair|usb slot031|Take 001|BaseLayer
+    7401306: Chair|usb slot032|Take 001|BaseLayer
+    7401308: Chair|usb slot033|Take 001|BaseLayer
+    7401310: Chair|usb slot034|Take 001|BaseLayer
+    7401312: Chair|usb slot035|Take 001|BaseLayer
+    7401314: Chair|usb slot036|Take 001|BaseLayer
+    7401316: Chair|usb slot037|Take 001|BaseLayer
+    7401318: Chair|usb slot038|Take 001|BaseLayer
+    7401320: Chair|ventilator  bag cap001|Take 001|BaseLayer
+    7401322: Chair|ventilator arm adjustable support001|Take 001|BaseLayer
+    7401324: Chair|ventilator arm handle002|Take 001|BaseLayer
+    7401326: Chair|ventilator arm segment005|Take 001|BaseLayer
+    7401328: Chair|ventilator arm segment006|Take 001|BaseLayer
+    7401330: Chair|ventilator arm segment007|Take 001|BaseLayer
+    7401332: Chair|ventilator arm segment008|Take 001|BaseLayer
+    7401334: Chair|ventilator bag001|Take 001|BaseLayer
+    7401336: Chair|ventilator box002|Take 001|BaseLayer
+    7401338: Chair|ventilator brushed metal002|Take 001|BaseLayer
+    7401340: Chair|ventilator controls 003|Take 001|BaseLayer
+    7401342: Chair|ventilator glass004|Take 001|BaseLayer
+    7401344: Chair|ventilator glass005|Take 001|BaseLayer
+    7401346: Chair|ventilator glass006|Take 001|BaseLayer
+    7401348: Chair|ventilator hose cap 012|Take 001|BaseLayer
+    7401350: Chair|ventilator hose cap 013|Take 001|BaseLayer
+    7401352: Chair|ventilator hose cap 014|Take 001|BaseLayer
+    7401354: Chair|ventilator hose cap 015|Take 001|BaseLayer
+    7401356: Chair|ventilator hose cap 016|Take 001|BaseLayer
+    7401358: Chair|ventilator hose cap 017|Take 001|BaseLayer
+    7401360: Chair|ventilator hose cap005|Take 001|BaseLayer
+    7401362: Chair|ventilator hose cap006|Take 001|BaseLayer
+    7401364: Chair|ventilator hose cap007|Take 001|BaseLayer
+    7401366: Chair|ventilator hose cap008|Take 001|BaseLayer
+    7401368: Chair|ventilator hose output003|Take 001|BaseLayer
+    7401370: Chair|ventilator hose output004|Take 001|BaseLayer
+    7401372: Chair|ventilator hose support 004|Take 001|BaseLayer
+    7401374: Chair|ventilator hose support 005|Take 001|BaseLayer
+    7401376: Chair|ventilator hose support001|Take 001|BaseLayer
+    7401378: Chair|ventilator large button001|Take 001|BaseLayer
+    7401380: Chair|ventilator screen002|Take 001|BaseLayer
+    7401382: Chair|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7401384: Chair|Ventilator_main_body001|Take 001|BaseLayer
+    7401386: Chair|Ventilator_wheel004|Take 001|BaseLayer
+    7401388: Chair|Ventilator_wheel005|Take 001|BaseLayer.001
+    7401390: Chair|Ventilator_wheel006|Take 001|BaseLayer
+    7401392: Chair|Ventilator_wheel007|Take 001|BaseLayer
+    7401394: Chair|ventilatorHose006|Take 001|BaseLayer
+    7401396: Chair|ventilatorHose007|Take 001|BaseLayer
+    7401398: Chair|ventilatorHose008|Take 001|BaseLayer
+    7401400: Chair|ventilatorHose009|Take 001|BaseLayer
+    7401402: Chair|ventilatorHose010|Take 001|BaseLayer
+    7401404: Chair|vga slot031|Take 001|BaseLayer
+    7401406: Chair|vga slot034|Take 001|BaseLayer
+    7401408: Chair|vga slot035|Take 001|BaseLayer
+    7401410: Chair|Wheel_arm009|Take 001|BaseLayer
+    7401412: Chair|Wheel_arm010|Take 001|BaseLayer.001
+    7401414: Chair|Wheel_arm011|Take 001|BaseLayer
+    7401416: Chair|Wheel_arm012|Take 001|BaseLayer
+    7401418: Chair|wheel_ax008|Take 001|BaseLayer
+    7401420: Chair|wheel_ax009|Take 001|BaseLayer.001
+    7401422: Chair|wheel_ax010|Take 001|BaseLayer
+    7401424: Chair|wheel_ax011|Take 001|BaseLayer
+    7401426: Chair|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7401428: Chair|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7401430: Chair|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7401432: Chair|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7401434: Chair|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7401436: Chair|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7401438: Chair|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7401440: Chair|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7401442: Chair|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7401444: Chair|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7401446: Chair|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7401448: Chair|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7401450: Chair|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7401452: Chair|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7401454: Chair|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7401456: Chair|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7401458: Chair|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7401460: Chair|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7401462: Chair|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7401464: Chair|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7401466: Chair|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7401468: Chair|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7401470: Chair|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7401472: Chair|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7401474: Chair|wheel_rubber007|Take 001|BaseLayer
+    7401476: Chair|wheel_rubber008|Take 001|BaseLayer.001
+    7401478: Chair|wheel_rubber009|Take 001|BaseLayer
+    7401480: Chair|wheel_rubber010|Take 001|BaseLayer
+    7401482: Chair|wheelCenterPivot004|Take 001|BaseLayer
+    7401484: Chair|wheelCenterPivot005|Take 001|BaseLayer.001
+    7401486: Chair|wheelCenterPivot006|Take 001|BaseLayer
+    7401488: Chair|wheelCenterPivot007|Take 001|BaseLayer
+    7401490: Chair|ceilung|Take 001|BaseLayer
+    7401492: Chair|Cylinder4465|Take 001|BaseLayer
+    7401494: Chair|Cylinder4466|Take 001|BaseLayer
+    7401496: Chair|Cylinder4467|Take 001|BaseLayer
+    7401498: Chair|Cylinder4468|Take 001|BaseLayer
+    7401500: Chair|Cylinder4469|Take 001|BaseLayer
+    7401502: Chair|Cylinder4470|Take 001|BaseLayer
+    7401504: Chair|Cylinder4471|Take 001|BaseLayer
+    7401506: Chair|Cylinder4472|Take 001|BaseLayer
+    7401508: Chair|Cylinder4473|Take 001|BaseLayer
+    7401510: Chair|Cylinder4771|Take 001|BaseLayer
+    7401512: Chair|Cylinder4772|Take 001|BaseLayer
+    7401514: Chair|Cylinder4773|Take 001|BaseLayer
+    7401516: Chair|Cylinder65ssa007|Take 001|BaseLayer
+    7401518: Chair|Locker_top001|Take 001|BaseLayer
+    7401520: Chair|monitor screen003|Take 001|BaseLayer
+    7401522: Chair|plinth 2|Take 001|BaseLayer
+    7401524: Chair|aluminium_corner002asfa|Take 001|BaseLayer
+    7401526: Chair|aluminium_corner003|Take 001|BaseLayer
+    7401528: Chair|Box23|Take 001|BaseLayer
+    7401530: Chair|Box847|Take 001|BaseLayer
+    7401532: Chair|cupboard|Take 001|BaseLayer
+    7401534: Chair|door frame001|Take 001|BaseLayer
+    7401536: Chair|door frame|Take 001|BaseLayer
+    7401538: Chair|drawer back002|Take 001|BaseLayer
+    7401540: Chair|drawer back003223a|Take 001|BaseLayer
+    7401542: Chair|drawer_box001bda|Take 001|BaseLayer
+    7401544: Chair|drawer_box002ra2|Take 001|BaseLayer
+    7401546: Chair|drawer_face003|Take 001|BaseLayer
+    7401548: Chair|drawer_face004vas|Take 001|BaseLayer
+    7401550: Chair|drawer_face005221a|Take 001|BaseLayer
+    7401552: Chair|drawer_face0062231|Take 001|BaseLayer
+    7401554: Chair|drawer_face009|Take 001|BaseLayer
+    7401556: Chair|drawer_frame001bsa|Take 001|BaseLayer
+    7401558: Chair|drawer_frame002|Take 001|BaseLayer
+    7401560: Chair|handle014|Take 001|BaseLayer
+    7401562: Chair|handle015|Take 001|BaseLayer
+    7401564: Chair|handle016|Take 001|BaseLayer
+    7401566: Chair|handle017|Take 001|BaseLayer
+    7401568: Chair|lightwoodborders|Take 001|BaseLayer
+    7401570: Chair|Locker_bottom001bdae|Take 001|BaseLayer
+    7401572: Chair|Locker_bottom002assa|Take 001|BaseLayer
+    7401574: Chair|Locker_bottom004|Take 001|BaseLayer
+    7401576: Chair|Locker_top00122ab|Take 001|BaseLayer
+    7401578: Chair|mirror2a|Take 001|BaseLayer
+    7401580: Chair|nets support|Take 001|BaseLayer
+    7401582: Chair|Object32|Take 001|BaseLayer
+    7401584: Chair|Object4449|Take 001|BaseLayer
+    7401586: Chair|Object4483|Take 001|BaseLayer
+    7401588: Chair|Object4491|Take 001|BaseLayer
+    7401590: Chair|OptiTherm_cold002|Take 001|BaseLayer
+    7401592: Chair|OptiTherm_handle003|Take 001|BaseLayer
+    7401594: Chair|OptiTherm_tap003|Take 001|BaseLayer
+    7401596: Chair|OptiTherm_tap004|Take 001|BaseLayer
+    7401598: Chair|OptiTherm_warm002|Take 001|BaseLayer
+    7401600: Chair|OptiTherm_water_cap002|Take 001|BaseLayer
+    7401602: Chair|Paper_towel_dispenser1a|Take 001|BaseLayer
+    7401604: Chair|Paper_towel_dispenser_cap|Take 001|BaseLayer
+    7401606: Chair|Paper_towel_dispenser_eye|Take 001|BaseLayer
+    7401608: Chair|Paper_towel_dispenser|Take 001|BaseLayer
+    7401610: Chair|Paper_towel|Take 001|BaseLayer
+    7401612: Chair|Plane13|Take 001|BaseLayer
+    7401614: Chair|Plane17|Take 001|BaseLayer
+    7401616: Chair|Plane183|Take 001|BaseLayer
+    7401618: Chair|Plane184|Take 001|BaseLayer
+    7401620: Chair|Plane185|Take 001|BaseLayer
+    7401622: Chair|sanitiz|Take 001|BaseLayer
+    7401624: Chair|Soap_gel_dispenser001|Take 001|BaseLayer
+    7401626: Chair|Soap_gel_dispenser1a001|Take 001|BaseLayer
+    7401628: Chair|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+    7401630: Chair|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+    7401632: Chair|Wash_basin001|Take 001|BaseLayer
+    7401634: Chair|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_Paint_Standard.001
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

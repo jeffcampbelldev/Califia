@@ -1,0 +1,3229 @@
+fileFormatVersion: 2
+guid: a588920bc7288d641946d6cb08787330
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: lighrWood
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: plinth 2
+  - first:
+      74: 7400000
+    second: plinth 2|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: plinth 2|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: plinth 2|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: plinth 2|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: plinth 2|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: plinth 2|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: plinth 2|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: plinth 2|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: plinth 2|aluminium_corner002|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: plinth 2|Back_display_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: plinth 2|bedside_table003|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: plinth 2|bedside_table_adjuster003|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: plinth 2|bedside_table_adjuster_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: plinth 2|Bedside_table_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: plinth 2|Bedside_table_axis_support005|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: plinth 2|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: plinth 2|Bedside_table_border003|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: plinth 2|Bedside_table_borderedge003|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: plinth 2|bedside_table_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: plinth 2|bedside_table_handle_support003|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: plinth 2|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: plinth 2|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: plinth 2|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: plinth 2|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: plinth 2|Bedside_table_support010|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: plinth 2|Bedside_table_support011|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: plinth 2|Bedside_table_support012|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: plinth 2|Bedside_table_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: plinth 2|Bedside_table_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: plinth 2|Bedside_table_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: plinth 2|Bedside_table_wheel055|Take 001|BaseLayer.001
+  - first:
+      74: 7400062
+    second: plinth 2|Bedside_table_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: plinth 2|big_drawer001|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: plinth 2|black_fill_console072|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: plinth 2|black_fill_console073|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: plinth 2|black_fill_console074|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: plinth 2|black_fill_console075|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: plinth 2|black_fill_console076|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: plinth 2|black_fill_console077|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: plinth 2|black_fill_console078|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: plinth 2|black_fill_console079|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: plinth 2|black_fill_console080|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: plinth 2|black_fill_console081|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: plinth 2|black_fill_console082|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: plinth 2|black_fill_console116|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: plinth 2|Blue_light001|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: plinth 2|bolt424|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: plinth 2|bolt425|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: plinth 2|bolt426|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: plinth 2|bolt427|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: plinth 2|bolt431|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: plinth 2|bolt432|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: plinth 2|bolt433|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: plinth 2|bolt434|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: plinth 2|bolt435|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: plinth 2|bolt436|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: plinth 2|bolt437|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: plinth 2|bolt438|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: plinth 2|bolt439|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: plinth 2|bolt439|Take 001|BaseLayer.001
+  - first:
+      74: 7400120
+    second: plinth 2|bolt440|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: plinth 2|bolt440|Take 001|BaseLayer.001
+  - first:
+      74: 7400124
+    second: plinth 2|bolt441|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: plinth 2|bolt442|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: plinth 2|bolt442|Take 001|BaseLayer.001
+  - first:
+      74: 7400130
+    second: plinth 2|bolt443|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: plinth 2|bolt443|Take 001|BaseLayer.001
+  - first:
+      74: 7400134
+    second: plinth 2|bolt444|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: plinth 2|bolt444|Take 001|BaseLayer.001
+  - first:
+      74: 7400138
+    second: plinth 2|bolt445|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: plinth 2|bolt446|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: plinth 2|bolt447|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: plinth 2|bolt448|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: plinth 2|bolt449|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: plinth 2|bolt450|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: plinth 2|bolt451|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: plinth 2|bolt452|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: plinth 2|bolt453|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: plinth 2|bolt454|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: plinth 2|bolt455|Take 001|BaseLayer
+  - first:
+      74: 7400160
+    second: plinth 2|bolt456|Take 001|BaseLayer
+  - first:
+      74: 7400162
+    second: plinth 2|bolt457|Take 001|BaseLayer
+  - first:
+      74: 7400164
+    second: plinth 2|bolt458|Take 001|BaseLayer
+  - first:
+      74: 7400166
+    second: plinth 2|bolt459|Take 001|BaseLayer
+  - first:
+      74: 7400168
+    second: plinth 2|bolt460|Take 001|BaseLayer
+  - first:
+      74: 7400170
+    second: plinth 2|bolt461|Take 001|BaseLayer
+  - first:
+      74: 7400172
+    second: plinth 2|bolt462|Take 001|BaseLayer
+  - first:
+      74: 7400174
+    second: plinth 2|bolt463|Take 001|BaseLayer
+  - first:
+      74: 7400176
+    second: plinth 2|bolt464|Take 001|BaseLayer
+  - first:
+      74: 7400178
+    second: plinth 2|bolt465|Take 001|BaseLayer
+  - first:
+      74: 7400180
+    second: plinth 2|bolt466|Take 001|BaseLayer
+  - first:
+      74: 7400182
+    second: plinth 2|bolt467|Take 001|BaseLayer
+  - first:
+      74: 7400184
+    second: plinth 2|bolt468|Take 001|BaseLayer
+  - first:
+      74: 7400186
+    second: plinth 2|bolt469|Take 001|BaseLayer
+  - first:
+      74: 7400188
+    second: plinth 2|bolt470|Take 001|BaseLayer
+  - first:
+      74: 7400190
+    second: plinth 2|bolt471|Take 001|BaseLayer
+  - first:
+      74: 7400192
+    second: plinth 2|bolt472|Take 001|BaseLayer
+  - first:
+      74: 7400194
+    second: plinth 2|bolt473|Take 001|BaseLayer
+  - first:
+      74: 7400196
+    second: plinth 2|bolt474|Take 001|BaseLayer
+  - first:
+      74: 7400198
+    second: plinth 2|bolt475|Take 001|BaseLayer
+  - first:
+      74: 7400200
+    second: plinth 2|bolt476|Take 001|BaseLayer
+  - first:
+      74: 7400202
+    second: plinth 2|bolt477|Take 001|BaseLayer
+  - first:
+      74: 7400204
+    second: plinth 2|bolt478|Take 001|BaseLayer
+  - first:
+      74: 7400206
+    second: plinth 2|bolt479|Take 001|BaseLayer
+  - first:
+      74: 7400208
+    second: plinth 2|bolt480|Take 001|BaseLayer
+  - first:
+      74: 7400210
+    second: plinth 2|bolt481|Take 001|BaseLayer
+  - first:
+      74: 7400212
+    second: plinth 2|bolt482|Take 001|BaseLayer
+  - first:
+      74: 7400214
+    second: plinth 2|bolt483|Take 001|BaseLayer
+  - first:
+      74: 7400216
+    second: plinth 2|bolt484|Take 001|BaseLayer
+  - first:
+      74: 7400218
+    second: plinth 2|bolt485|Take 001|BaseLayer
+  - first:
+      74: 7400220
+    second: plinth 2|bolt486|Take 001|BaseLayer
+  - first:
+      74: 7400222
+    second: plinth 2|bolt487|Take 001|BaseLayer
+  - first:
+      74: 7400224
+    second: plinth 2|bolt488|Take 001|BaseLayer
+  - first:
+      74: 7400226
+    second: plinth 2|bolt489|Take 001|BaseLayer
+  - first:
+      74: 7400228
+    second: plinth 2|bolt490|Take 001|BaseLayer
+  - first:
+      74: 7400230
+    second: plinth 2|bolt491|Take 001|BaseLayer
+  - first:
+      74: 7400232
+    second: plinth 2|bolt492|Take 001|BaseLayer
+  - first:
+      74: 7400234
+    second: plinth 2|bolt493|Take 001|BaseLayer
+  - first:
+      74: 7400236
+    second: plinth 2|bolt494|Take 001|BaseLayer
+  - first:
+      74: 7400238
+    second: plinth 2|bolt496|Take 001|BaseLayer
+  - first:
+      74: 7400240
+    second: plinth 2|bolt497|Take 001|BaseLayer
+  - first:
+      74: 7400242
+    second: plinth 2|bolt498|Take 001|BaseLayer
+  - first:
+      74: 7400244
+    second: plinth 2|bolt499|Take 001|BaseLayer
+  - first:
+      74: 7400246
+    second: plinth 2|bolt500|Take 001|BaseLayer
+  - first:
+      74: 7400248
+    second: plinth 2|bolt501|Take 001|BaseLayer
+  - first:
+      74: 7400250
+    second: plinth 2|bolt502|Take 001|BaseLayer
+  - first:
+      74: 7400252
+    second: plinth 2|bolt503|Take 001|BaseLayer
+  - first:
+      74: 7400254
+    second: plinth 2|bolt503|Take 001|BaseLayer.001
+  - first:
+      74: 7400256
+    second: plinth 2|bolt504|Take 001|BaseLayer
+  - first:
+      74: 7400258
+    second: plinth 2|bolt504|Take 001|BaseLayer.001
+  - first:
+      74: 7400260
+    second: plinth 2|bolt505|Take 001|BaseLayer
+  - first:
+      74: 7400262
+    second: plinth 2|bolt505|Take 001|BaseLayer.001
+  - first:
+      74: 7400264
+    second: plinth 2|bolt506|Take 001|BaseLayer
+  - first:
+      74: 7400266
+    second: plinth 2|bolt506|Take 001|BaseLayer.001
+  - first:
+      74: 7400268
+    second: plinth 2|bolt507|Take 001|BaseLayer
+  - first:
+      74: 7400270
+    second: plinth 2|bolt508|Take 001|BaseLayer
+  - first:
+      74: 7400272
+    second: plinth 2|bolt509|Take 001|BaseLayer
+  - first:
+      74: 7400274
+    second: plinth 2|bolt510|Take 001|BaseLayer
+  - first:
+      74: 7400276
+    second: plinth 2|bolt511|Take 001|BaseLayer
+  - first:
+      74: 7400278
+    second: plinth 2|bolt512|Take 001|BaseLayer
+  - first:
+      74: 7400280
+    second: plinth 2|bolt513|Take 001|BaseLayer
+  - first:
+      74: 7400282
+    second: plinth 2|bolt514|Take 001|BaseLayer
+  - first:
+      74: 7400284
+    second: plinth 2|bolt515|Take 001|BaseLayer
+  - first:
+      74: 7400286
+    second: plinth 2|bolt516|Take 001|BaseLayer
+  - first:
+      74: 7400288
+    second: plinth 2|bolt517|Take 001|BaseLayer
+  - first:
+      74: 7400290
+    second: plinth 2|bolt518|Take 001|BaseLayer
+  - first:
+      74: 7400292
+    second: plinth 2|bolt519|Take 001|BaseLayer
+  - first:
+      74: 7400294
+    second: plinth 2|bolt520|Take 001|BaseLayer
+  - first:
+      74: 7400296
+    second: plinth 2|bolt521|Take 001|BaseLayer
+  - first:
+      74: 7400298
+    second: plinth 2|bolt522|Take 001|BaseLayer
+  - first:
+      74: 7400300
+    second: plinth 2|bolt523|Take 001|BaseLayer
+  - first:
+      74: 7400302
+    second: plinth 2|bolt524|Take 001|BaseLayer
+  - first:
+      74: 7400304
+    second: plinth 2|bolt525|Take 001|BaseLayer
+  - first:
+      74: 7400306
+    second: plinth 2|bolt526|Take 001|BaseLayer
+  - first:
+      74: 7400308
+    second: plinth 2|bolt527|Take 001|BaseLayer
+  - first:
+      74: 7400310
+    second: plinth 2|bolt528|Take 001|BaseLayer
+  - first:
+      74: 7400312
+    second: plinth 2|bolt529|Take 001|BaseLayer
+  - first:
+      74: 7400314
+    second: plinth 2|bolt530|Take 001|BaseLayer
+  - first:
+      74: 7400316
+    second: plinth 2|bolt531|Take 001|BaseLayer
+  - first:
+      74: 7400318
+    second: plinth 2|bolt532|Take 001|BaseLayer
+  - first:
+      74: 7400320
+    second: plinth 2|bolt533|Take 001|BaseLayer
+  - first:
+      74: 7400322
+    second: plinth 2|bolt534|Take 001|BaseLayer
+  - first:
+      74: 7400324
+    second: plinth 2|bolt535|Take 001|BaseLayer
+  - first:
+      74: 7400326
+    second: plinth 2|bolt536|Take 001|BaseLayer
+  - first:
+      74: 7400328
+    second: plinth 2|bolt537|Take 001|BaseLayer
+  - first:
+      74: 7400330
+    second: plinth 2|bolt538|Take 001|BaseLayer
+  - first:
+      74: 7400332
+    second: plinth 2|boom segment 009|Take 001|BaseLayer
+  - first:
+      74: 7400334
+    second: plinth 2|boom segment 010|Take 001|BaseLayer
+  - first:
+      74: 7400336
+    second: plinth 2|boom segment 011|Take 001|BaseLayer
+  - first:
+      74: 7400338
+    second: plinth 2|BoomArm001|Take 001|BaseLayer
+  - first:
+      74: 7400340
+    second: plinth 2|BoomMonitor002|Take 001|BaseLayer
+  - first:
+      74: 7400342
+    second: plinth 2|Box205a007|Take 001|BaseLayer
+  - first:
+      74: 7400344
+    second: plinth 2|Box206b007|Take 001|BaseLayer
+  - first:
+      74: 7400346
+    second: plinth 2|Box206b007|Take 001|BaseLayer.001
+  - first:
+      74: 7400348
+    second: plinth 2|Box276|Take 001|BaseLayer
+  - first:
+      74: 7400350
+    second: plinth 2|Box276|Take 001|BaseLayer.001
+  - first:
+      74: 7400352
+    second: plinth 2|Box277|Take 001|BaseLayer
+  - first:
+      74: 7400354
+    second: plinth 2|Box278|Take 001|BaseLayer
+  - first:
+      74: 7400356
+    second: plinth 2|Box278|Take 001|BaseLayer.001
+  - first:
+      74: 7400358
+    second: plinth 2|Box279|Take 001|BaseLayer
+  - first:
+      74: 7400360
+    second: plinth 2|Box279|Take 001|BaseLayer.001
+  - first:
+      74: 7400362
+    second: plinth 2|Box280|Take 001|BaseLayer
+  - first:
+      74: 7400364
+    second: plinth 2|Box281|Take 001|BaseLayer
+  - first:
+      74: 7400366
+    second: plinth 2|Box282|Take 001|BaseLayer
+  - first:
+      74: 7400368
+    second: plinth 2|Box283|Take 001|BaseLayer
+  - first:
+      74: 7400370
+    second: plinth 2|Box284|Take 001|BaseLayer
+  - first:
+      74: 7400372
+    second: plinth 2|bzt040|Take 001|BaseLayer
+  - first:
+      74: 7400374
+    second: plinth 2|bzt040|Take 001|BaseLayer.001
+  - first:
+      74: 7400376
+    second: plinth 2|bzt041|Take 001|BaseLayer
+  - first:
+      74: 7400378
+    second: plinth 2|bzt041|Take 001|BaseLayer.001
+  - first:
+      74: 7400380
+    second: plinth 2|bzt042|Take 001|BaseLayer
+  - first:
+      74: 7400382
+    second: plinth 2|bzt042|Take 001|BaseLayer.001
+  - first:
+      74: 7400384
+    second: plinth 2|bzt043|Take 001|BaseLayer
+  - first:
+      74: 7400386
+    second: plinth 2|bzt043|Take 001|BaseLayer.001
+  - first:
+      74: 7400388
+    second: plinth 2|bzt044|Take 001|BaseLayer
+  - first:
+      74: 7400390
+    second: plinth 2|bzt044|Take 001|BaseLayer.001
+  - first:
+      74: 7400392
+    second: plinth 2|cable005|Take 001|BaseLayer
+  - first:
+      74: 7400394
+    second: plinth 2|cable006|Take 001|BaseLayer
+  - first:
+      74: 7400396
+    second: plinth 2|cable007|Take 001|BaseLayer
+  - first:
+      74: 7400398
+    second: plinth 2|cable008|Take 001|BaseLayer
+  - first:
+      74: 7400400
+    second: plinth 2|cable009|Take 001|BaseLayer
+  - first:
+      74: 7400402
+    second: plinth 2|card slot001|Take 001|BaseLayer
+  - first:
+      74: 7400404
+    second: plinth 2|ChamferBox013|Take 001|BaseLayer
+  - first:
+      74: 7400406
+    second: plinth 2|ChamferCyl099|Take 001|BaseLayer
+  - first:
+      74: 7400408
+    second: plinth 2|ChamferCyl100|Take 001|BaseLayer
+  - first:
+      74: 7400410
+    second: plinth 2|Circle007|Take 001|BaseLayer
+  - first:
+      74: 7400412
+    second: plinth 2|Circle007|Take 001|BaseLayer.001
+  - first:
+      74: 7400414
+    second: plinth 2|Clay_Paky_case001|Take 001|BaseLayer
+  - first:
+      74: 7400416
+    second: plinth 2|console air_socket006|Take 001|BaseLayer
+  - first:
+      74: 7400418
+    second: plinth 2|console_bolt130|Take 001|BaseLayer
+  - first:
+      74: 7400420
+    second: plinth 2|console_bolt131|Take 001|BaseLayer
+  - first:
+      74: 7400422
+    second: plinth 2|console_bolt132|Take 001|BaseLayer
+  - first:
+      74: 7400424
+    second: plinth 2|console_bolt133|Take 001|BaseLayer
+  - first:
+      74: 7400426
+    second: plinth 2|console_bolt134|Take 001|BaseLayer
+  - first:
+      74: 7400428
+    second: plinth 2|console_bolt135|Take 001|BaseLayer
+  - first:
+      74: 7400430
+    second: plinth 2|console_bolt136|Take 001|BaseLayer
+  - first:
+      74: 7400432
+    second: plinth 2|console_bolt137|Take 001|BaseLayer
+  - first:
+      74: 7400434
+    second: plinth 2|console_bolt138|Take 001|BaseLayer
+  - first:
+      74: 7400436
+    second: plinth 2|console_bolt139|Take 001|BaseLayer
+  - first:
+      74: 7400438
+    second: plinth 2|console_bolt170|Take 001|BaseLayer
+  - first:
+      74: 7400440
+    second: plinth 2|console_bolt171|Take 001|BaseLayer
+  - first:
+      74: 7400442
+    second: plinth 2|console_button_large024|Take 001|BaseLayer
+  - first:
+      74: 7400444
+    second: plinth 2|console_button_large025|Take 001|BaseLayer
+  - first:
+      74: 7400446
+    second: plinth 2|console_button_large026|Take 001|BaseLayer
+  - first:
+      74: 7400448
+    second: plinth 2|console_button_large027|Take 001|BaseLayer
+  - first:
+      74: 7400450
+    second: plinth 2|console_lamp013|Take 001|BaseLayer
+  - first:
+      74: 7400452
+    second: plinth 2|console_lamp014|Take 001|BaseLayer
+  - first:
+      74: 7400454
+    second: plinth 2|console_socket007|Take 001|BaseLayer
+  - first:
+      74: 7400456
+    second: plinth 2|consoler_button032|Take 001|BaseLayer
+  - first:
+      74: 7400458
+    second: plinth 2|consoler_button033|Take 001|BaseLayer
+  - first:
+      74: 7400460
+    second: plinth 2|consoler_button034|Take 001|BaseLayer
+  - first:
+      74: 7400462
+    second: plinth 2|consoler_button035|Take 001|BaseLayer
+  - first:
+      74: 7400464
+    second: plinth 2|consoler_button036|Take 001|BaseLayer
+  - first:
+      74: 7400466
+    second: plinth 2|consoler_button053|Take 001|BaseLayer
+  - first:
+      74: 7400468
+    second: plinth 2|Control_button001|Take 001|BaseLayer
+  - first:
+      74: 7400470
+    second: plinth 2|cooler001|Take 001|BaseLayer
+  - first:
+      74: 7400472
+    second: plinth 2|Cooler_fan002|Take 001|BaseLayer
+  - first:
+      74: 7400474
+    second: plinth 2|Cooler_propeller012|Take 001|BaseLayer
+  - first:
+      74: 7400476
+    second: plinth 2|Cooler_propeller013|Take 001|BaseLayer
+  - first:
+      74: 7400478
+    second: plinth 2|Cooler_propeller014|Take 001|BaseLayer
+  - first:
+      74: 7400480
+    second: plinth 2|Cooler_propeller015|Take 001|BaseLayer
+  - first:
+      74: 7400482
+    second: plinth 2|Cooler_propeller016|Take 001|BaseLayer
+  - first:
+      74: 7400484
+    second: plinth 2|Cooler_propeller017|Take 001|BaseLayer
+  - first:
+      74: 7400486
+    second: plinth 2|curtain_hospital_ward001|Take 001|BaseLayer
+  - first:
+      74: 7400488
+    second: plinth 2|curtain_hospital_ward007|Take 001|BaseLayer
+  - first:
+      74: 7400490
+    second: plinth 2|curtain_hospital_ward008|Take 001|BaseLayer
+  - first:
+      74: 7400492
+    second: plinth 2|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400494
+    second: plinth 2|Cylinder01a007|Take 001|BaseLayer
+  - first:
+      74: 7400496
+    second: plinth 2|Cylinder02fggsa007|Take 001|BaseLayer
+  - first:
+      74: 7400498
+    second: plinth 2|Cylinder03vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400500
+    second: plinth 2|Cylinder04sd007|Take 001|BaseLayer
+  - first:
+      74: 7400502
+    second: plinth 2|Cylinder04sd007|Take 001|BaseLayer.001
+  - first:
+      74: 7400504
+    second: plinth 2|Cylinder159ass007|Take 001|BaseLayer
+  - first:
+      74: 7400506
+    second: plinth 2|Cylinder16033d007|Take 001|BaseLayer
+  - first:
+      74: 7400508
+    second: plinth 2|Cylinder171fddf007|Take 001|BaseLayer
+  - first:
+      74: 7400510
+    second: plinth 2|Cylinder172vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400512
+    second: plinth 2|Cylinder172vbbv007|Take 001|BaseLayer.001
+  - first:
+      74: 7400514
+    second: plinth 2|Cylinder173assa007|Take 001|BaseLayer
+  - first:
+      74: 7400516
+    second: plinth 2|Cylinder4509|Take 001|BaseLayer
+  - first:
+      74: 7400518
+    second: plinth 2|Cylinder4510|Take 001|BaseLayer
+  - first:
+      74: 7400520
+    second: plinth 2|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400522
+    second: plinth 2|Cylinder4511|Take 001|BaseLayer
+  - first:
+      74: 7400524
+    second: plinth 2|Cylinder4511|Take 001|BaseLayer.001
+  - first:
+      74: 7400526
+    second: plinth 2|Cylinder4512|Take 001|BaseLayer
+  - first:
+      74: 7400528
+    second: plinth 2|Cylinder4512|Take 001|BaseLayer.001
+  - first:
+      74: 7400530
+    second: plinth 2|Cylinder4513|Take 001|BaseLayer
+  - first:
+      74: 7400532
+    second: plinth 2|Cylinder4513|Take 001|BaseLayer.001
+  - first:
+      74: 7400534
+    second: plinth 2|Cylinder4514|Take 001|BaseLayer
+  - first:
+      74: 7400536
+    second: plinth 2|Cylinder4514|Take 001|BaseLayer.001
+  - first:
+      74: 7400538
+    second: plinth 2|Cylinder4515|Take 001|BaseLayer
+  - first:
+      74: 7400540
+    second: plinth 2|Cylinder4515|Take 001|BaseLayer.001
+  - first:
+      74: 7400542
+    second: plinth 2|Cylinder4516|Take 001|BaseLayer
+  - first:
+      74: 7400544
+    second: plinth 2|Cylinder4516|Take 001|BaseLayer.001
+  - first:
+      74: 7400546
+    second: plinth 2|Cylinder4517|Take 001|BaseLayer
+  - first:
+      74: 7400548
+    second: plinth 2|Cylinder4517|Take 001|BaseLayer.001
+  - first:
+      74: 7400550
+    second: plinth 2|Cylinder4518|Take 001|BaseLayer
+  - first:
+      74: 7400552
+    second: plinth 2|Cylinder4518|Take 001|BaseLayer.001
+  - first:
+      74: 7400554
+    second: plinth 2|Cylinder4519|Take 001|BaseLayer
+  - first:
+      74: 7400556
+    second: plinth 2|Cylinder4519|Take 001|BaseLayer.001
+  - first:
+      74: 7400558
+    second: plinth 2|Cylinder4520|Take 001|BaseLayer
+  - first:
+      74: 7400560
+    second: plinth 2|Cylinder4520|Take 001|BaseLayer.001
+  - first:
+      74: 7400562
+    second: plinth 2|Cylinder4521|Take 001|BaseLayer
+  - first:
+      74: 7400564
+    second: plinth 2|Cylinder4522|Take 001|BaseLayer
+  - first:
+      74: 7400566
+    second: plinth 2|Cylinder4522|Take 001|BaseLayer.001
+  - first:
+      74: 7400568
+    second: plinth 2|Cylinder4523|Take 001|BaseLayer
+  - first:
+      74: 7400570
+    second: plinth 2|Cylinder4524|Take 001|BaseLayer
+  - first:
+      74: 7400572
+    second: plinth 2|Cylinder4525|Take 001|BaseLayer
+  - first:
+      74: 7400574
+    second: plinth 2|Cylinder4525|Take 001|BaseLayer.001
+  - first:
+      74: 7400576
+    second: plinth 2|Cylinder4526|Take 001|BaseLayer
+  - first:
+      74: 7400578
+    second: plinth 2|Cylinder4526|Take 001|BaseLayer.001
+  - first:
+      74: 7400580
+    second: plinth 2|Cylinder4527|Take 001|BaseLayer
+  - first:
+      74: 7400582
+    second: plinth 2|Cylinder4527|Take 001|BaseLayer.001
+  - first:
+      74: 7400584
+    second: plinth 2|Cylinder4528|Take 001|BaseLayer
+  - first:
+      74: 7400586
+    second: plinth 2|Cylinder4528|Take 001|BaseLayer.001
+  - first:
+      74: 7400588
+    second: plinth 2|Cylinder4529|Take 001|BaseLayer
+  - first:
+      74: 7400590
+    second: plinth 2|Cylinder4529|Take 001|BaseLayer.001
+  - first:
+      74: 7400592
+    second: plinth 2|Cylinder4530|Take 001|BaseLayer
+  - first:
+      74: 7400594
+    second: plinth 2|Cylinder4530|Take 001|BaseLayer.001
+  - first:
+      74: 7400596
+    second: plinth 2|Cylinder4531|Take 001|BaseLayer
+  - first:
+      74: 7400598
+    second: plinth 2|Cylinder4531|Take 001|BaseLayer.001
+  - first:
+      74: 7400600
+    second: plinth 2|Cylinder4532|Take 001|BaseLayer
+  - first:
+      74: 7400602
+    second: plinth 2|Cylinder4532|Take 001|BaseLayer.001
+  - first:
+      74: 7400604
+    second: plinth 2|Cylinder4533|Take 001|BaseLayer
+  - first:
+      74: 7400606
+    second: plinth 2|Cylinder4533|Take 001|BaseLayer.001
+  - first:
+      74: 7400608
+    second: plinth 2|Cylinder4534|Take 001|BaseLayer
+  - first:
+      74: 7400610
+    second: plinth 2|Cylinder4534|Take 001|BaseLayer.001
+  - first:
+      74: 7400612
+    second: plinth 2|Cylinder4541|Take 001|BaseLayer
+  - first:
+      74: 7400614
+    second: plinth 2|Cylinder4542|Take 001|BaseLayer
+  - first:
+      74: 7400616
+    second: plinth 2|Cylinder4542|Take 001|BaseLayer.001
+  - first:
+      74: 7400618
+    second: plinth 2|Cylinder4543|Take 001|BaseLayer
+  - first:
+      74: 7400620
+    second: plinth 2|Cylinder4543|Take 001|BaseLayer.001
+  - first:
+      74: 7400622
+    second: plinth 2|Cylinder4544|Take 001|BaseLayer
+  - first:
+      74: 7400624
+    second: plinth 2|Cylinder4544|Take 001|BaseLayer.001
+  - first:
+      74: 7400626
+    second: plinth 2|Cylinder4545|Take 001|BaseLayer
+  - first:
+      74: 7400628
+    second: plinth 2|Cylinder4545|Take 001|BaseLayer.001
+  - first:
+      74: 7400630
+    second: plinth 2|Cylinder4546|Take 001|BaseLayer
+  - first:
+      74: 7400632
+    second: plinth 2|Cylinder4546|Take 001|BaseLayer.001
+  - first:
+      74: 7400634
+    second: plinth 2|Cylinder4547|Take 001|BaseLayer
+  - first:
+      74: 7400636
+    second: plinth 2|Cylinder4548|Take 001|BaseLayer
+  - first:
+      74: 7400638
+    second: plinth 2|Cylinder4549|Take 001|BaseLayer
+  - first:
+      74: 7400640
+    second: plinth 2|Cylinder4550|Take 001|BaseLayer
+  - first:
+      74: 7400642
+    second: plinth 2|Cylinder4551|Take 001|BaseLayer
+  - first:
+      74: 7400644
+    second: plinth 2|Cylinder4552|Take 001|BaseLayer
+  - first:
+      74: 7400646
+    second: plinth 2|Cylinder4553|Take 001|BaseLayer
+  - first:
+      74: 7400648
+    second: plinth 2|Cylinder4554|Take 001|BaseLayer
+  - first:
+      74: 7400650
+    second: plinth 2|Cylinder4555|Take 001|BaseLayer
+  - first:
+      74: 7400652
+    second: plinth 2|Cylinder4556|Take 001|BaseLayer
+  - first:
+      74: 7400654
+    second: plinth 2|Cylinder4557|Take 001|BaseLayer
+  - first:
+      74: 7400656
+    second: plinth 2|Cylinder4558|Take 001|BaseLayer
+  - first:
+      74: 7400658
+    second: plinth 2|Cylinder4559|Take 001|BaseLayer
+  - first:
+      74: 7400660
+    second: plinth 2|Cylinder4560|Take 001|BaseLayer
+  - first:
+      74: 7400662
+    second: plinth 2|Cylinder4561|Take 001|BaseLayer
+  - first:
+      74: 7400664
+    second: plinth 2|Cylinder4562|Take 001|BaseLayer
+  - first:
+      74: 7400666
+    second: plinth 2|Cylinder4563|Take 001|BaseLayer
+  - first:
+      74: 7400668
+    second: plinth 2|Cylinder4564|Take 001|BaseLayer
+  - first:
+      74: 7400670
+    second: plinth 2|Cylinder4565|Take 001|BaseLayer
+  - first:
+      74: 7400672
+    second: plinth 2|Cylinder4566|Take 001|BaseLayer
+  - first:
+      74: 7400674
+    second: plinth 2|Cylinder4769|Take 001|BaseLayer
+  - first:
+      74: 7400676
+    second: plinth 2|Cylinder4770|Take 001|BaseLayer
+  - first:
+      74: 7400678
+    second: plinth 2|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7400680
+    second: plinth 2|Cylinder69ddssa007|Take 001|BaseLayer
+  - first:
+      74: 7400682
+    second: plinth 2|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+  - first:
+      74: 7400684
+    second: plinth 2|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+  - first:
+      74: 7400686
+    second: plinth 2|Display_body001|Take 001|BaseLayer
+  - first:
+      74: 7400688
+    second: plinth 2|doctor_stool005|Take 001|BaseLayer
+  - first:
+      74: 7400690
+    second: plinth 2|doctor_stool005|Take 001|BaseLayer.001
+  - first:
+      74: 7400692
+    second: plinth 2|drawer back002aasa|Take 001|BaseLayer
+  - first:
+      74: 7400694
+    second: plinth 2|drawer_box001|Take 001|BaseLayer
+  - first:
+      74: 7400696
+    second: plinth 2|drawer_face003asa1|Take 001|BaseLayer
+  - first:
+      74: 7400698
+    second: plinth 2|drawer_face004|Take 001|BaseLayer
+  - first:
+      74: 7400700
+    second: plinth 2|drawer_frame001|Take 001|BaseLayer
+  - first:
+      74: 7400702
+    second: plinth 2|electrical socket_incubator060|Take 001|BaseLayer
+  - first:
+      74: 7400704
+    second: plinth 2|electrical socket_incubator061|Take 001|BaseLayer
+  - first:
+      74: 7400706
+    second: plinth 2|electrical socket_incubator062|Take 001|BaseLayer
+  - first:
+      74: 7400708
+    second: plinth 2|electrical socket_incubator063|Take 001|BaseLayer
+  - first:
+      74: 7400710
+    second: plinth 2|electrical socket_incubator064|Take 001|BaseLayer
+  - first:
+      74: 7400712
+    second: plinth 2|electrical socket_incubator065|Take 001|BaseLayer
+  - first:
+      74: 7400714
+    second: plinth 2|electrical socket_incubator066|Take 001|BaseLayer
+  - first:
+      74: 7400716
+    second: plinth 2|electrical socket_incubator067|Take 001|BaseLayer
+  - first:
+      74: 7400718
+    second: plinth 2|electrical socket_incubator068|Take 001|BaseLayer
+  - first:
+      74: 7400720
+    second: plinth 2|electrical socket_incubator069|Take 001|BaseLayer
+  - first:
+      74: 7400722
+    second: plinth 2|electrical socket_incubator070|Take 001|BaseLayer
+  - first:
+      74: 7400724
+    second: plinth 2|Enterprise Bedside Locker001|Take 001|BaseLayer
+  - first:
+      74: 7400726
+    second: plinth 2|equipement carrier handle002|Take 001|BaseLayer
+  - first:
+      74: 7400728
+    second: plinth 2|equipment carrier body001|Take 001|BaseLayer
+  - first:
+      74: 7400730
+    second: plinth 2|equipment_carrier_shelf005|Take 001|BaseLayer
+  - first:
+      74: 7400732
+    second: plinth 2|equipment_carrier_shelf006|Take 001|BaseLayer
+  - first:
+      74: 7400734
+    second: plinth 2|equipment_carrier_shelf007|Take 001|BaseLayer
+  - first:
+      74: 7400736
+    second: plinth 2|equipment_carrier_shelf008|Take 001|BaseLayer
+  - first:
+      74: 7400738
+    second: plinth 2|Group042|Take 001|BaseLayer
+  - first:
+      74: 7400740
+    second: plinth 2|Group042|Take 001|BaseLayer.001
+  - first:
+      74: 7400742
+    second: plinth 2|Group043|Take 001|BaseLayer
+  - first:
+      74: 7400744
+    second: plinth 2|Group044|Take 001|BaseLayer
+  - first:
+      74: 7400746
+    second: plinth 2|Group045|Take 001|BaseLayer
+  - first:
+      74: 7400748
+    second: plinth 2|Group12a007|Take 001|BaseLayer
+  - first:
+      74: 7400750
+    second: plinth 2|Group14a007|Take 001|BaseLayer
+  - first:
+      74: 7400752
+    second: plinth 2|handle002|Take 001|BaseLayer
+  - first:
+      74: 7400754
+    second: plinth 2|handle003|Take 001|BaseLayer
+  - first:
+      74: 7400756
+    second: plinth 2|Helix004|Take 001|BaseLayer
+  - first:
+      74: 7400758
+    second: plinth 2|Helix012|Take 001|BaseLayer
+  - first:
+      74: 7400760
+    second: plinth 2|Hospital Bed001|Take 001|BaseLayer
+  - first:
+      74: 7400762
+    second: plinth 2|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400764
+    second: plinth 2|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+  - first:
+      74: 7400766
+    second: plinth 2|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400768
+    second: plinth 2|Hospital_bed_base_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400770
+    second: plinth 2|Hospital_bed_base_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400772
+    second: plinth 2|Hospital_bed_base_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400774
+    second: plinth 2|Hospital_bed_base_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400776
+    second: plinth 2|Hospital_bed_bumper007|Take 001|BaseLayer
+  - first:
+      74: 7400778
+    second: plinth 2|Hospital_bed_bumper008|Take 001|BaseLayer
+  - first:
+      74: 7400780
+    second: plinth 2|Hospital_bed_bumper009|Take 001|BaseLayer
+  - first:
+      74: 7400782
+    second: plinth 2|Hospital_bed_bumper010|Take 001|BaseLayer
+  - first:
+      74: 7400784
+    second: plinth 2|Hospital_bed_button012|Take 001|BaseLayer
+  - first:
+      74: 7400786
+    second: plinth 2|Hospital_bed_button013|Take 001|BaseLayer
+  - first:
+      74: 7400788
+    second: plinth 2|Hospital_bed_button_large005|Take 001|BaseLayer
+  - first:
+      74: 7400790
+    second: plinth 2|Hospital_bed_button_large006|Take 001|BaseLayer
+  - first:
+      74: 7400792
+    second: plinth 2|Hospital_bed_footpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400794
+    second: plinth 2|Hospital_bed_framepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400796
+    second: plinth 2|Hospital_bed_framepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400798
+    second: plinth 2|Hospital_bed_headpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400800
+    second: plinth 2|Hospital_bed_leg003|Take 001|BaseLayer
+  - first:
+      74: 7400802
+    second: plinth 2|Hospital_bed_leg004|Take 001|BaseLayer
+  - first:
+      74: 7400804
+    second: plinth 2|Hospital_bed_leg005|Take 001|BaseLayer
+  - first:
+      74: 7400806
+    second: plinth 2|Hospital_bed_matress001|Take 001|BaseLayer
+  - first:
+      74: 7400808
+    second: plinth 2|Hospital_bed_pedal064|Take 001|BaseLayer
+  - first:
+      74: 7400810
+    second: plinth 2|Hospital_bed_pedal065|Take 001|BaseLayer
+  - first:
+      74: 7400812
+    second: plinth 2|Hospital_bed_pedal066|Take 001|BaseLayer
+  - first:
+      74: 7400814
+    second: plinth 2|Hospital_bed_pedal067|Take 001|BaseLayer
+  - first:
+      74: 7400816
+    second: plinth 2|Hospital_bed_pedal068|Take 001|BaseLayer
+  - first:
+      74: 7400818
+    second: plinth 2|Hospital_bed_pedal069|Take 001|BaseLayer
+  - first:
+      74: 7400820
+    second: plinth 2|Hospital_bed_pedal070|Take 001|BaseLayer
+  - first:
+      74: 7400822
+    second: plinth 2|Hospital_bed_pedal2a001|Take 001|BaseLayer
+  - first:
+      74: 7400824
+    second: plinth 2|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+  - first:
+      74: 7400826
+    second: plinth 2|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+  - first:
+      74: 7400828
+    second: plinth 2|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+  - first:
+      74: 7400830
+    second: plinth 2|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+  - first:
+      74: 7400832
+    second: plinth 2|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+  - first:
+      74: 7400834
+    second: plinth 2|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+  - first:
+      74: 7400836
+    second: plinth 2|Hospital_bed_pedals001|Take 001|BaseLayer
+  - first:
+      74: 7400838
+    second: plinth 2|Hospital_bed_piston006|Take 001|BaseLayer
+  - first:
+      74: 7400840
+    second: plinth 2|Hospital_bed_piston007|Take 001|BaseLayer
+  - first:
+      74: 7400842
+    second: plinth 2|Hospital_bed_piston008|Take 001|BaseLayer
+  - first:
+      74: 7400844
+    second: plinth 2|Hospital_bed_piston009|Take 001|BaseLayer
+  - first:
+      74: 7400846
+    second: plinth 2|Hospital_bed_piston010|Take 001|BaseLayer
+  - first:
+      74: 7400848
+    second: plinth 2|Hospital_bed_piston011|Take 001|BaseLayer
+  - first:
+      74: 7400850
+    second: plinth 2|hospital_bed_piston_cap030|Take 001|BaseLayer
+  - first:
+      74: 7400852
+    second: plinth 2|hospital_bed_piston_cap031|Take 001|BaseLayer
+  - first:
+      74: 7400854
+    second: plinth 2|hospital_bed_piston_cap032|Take 001|BaseLayer
+  - first:
+      74: 7400856
+    second: plinth 2|hospital_bed_piston_cap033|Take 001|BaseLayer
+  - first:
+      74: 7400858
+    second: plinth 2|hospital_bed_piston_cap034|Take 001|BaseLayer
+  - first:
+      74: 7400860
+    second: plinth 2|hospital_bed_piston_cap035|Take 001|BaseLayer
+  - first:
+      74: 7400862
+    second: plinth 2|hospital_bed_piston_cap036|Take 001|BaseLayer
+  - first:
+      74: 7400864
+    second: plinth 2|hospital_bed_piston_cap037|Take 001|BaseLayer
+  - first:
+      74: 7400866
+    second: plinth 2|hospital_bed_piston_cap038|Take 001|BaseLayer
+  - first:
+      74: 7400868
+    second: plinth 2|hospital_bed_piston_cap039|Take 001|BaseLayer
+  - first:
+      74: 7400870
+    second: plinth 2|hospital_bed_piston_cap040|Take 001|BaseLayer
+  - first:
+      74: 7400872
+    second: plinth 2|hospital_bed_piston_cap041|Take 001|BaseLayer
+  - first:
+      74: 7400874
+    second: plinth 2|hospital_bed_piston_cap042|Take 001|BaseLayer
+  - first:
+      74: 7400876
+    second: plinth 2|hospital_bed_piston_cap043|Take 001|BaseLayer
+  - first:
+      74: 7400878
+    second: plinth 2|hospital_bed_piston_cap044|Take 001|BaseLayer
+  - first:
+      74: 7400880
+    second: plinth 2|hospital_bed_piston_cap045|Take 001|BaseLayer
+  - first:
+      74: 7400882
+    second: plinth 2|hospital_bed_piston_cap046|Take 001|BaseLayer
+  - first:
+      74: 7400884
+    second: plinth 2|hospital_bed_piston_cap047|Take 001|BaseLayer
+  - first:
+      74: 7400886
+    second: plinth 2|hospital_bed_piston_cap048|Take 001|BaseLayer
+  - first:
+      74: 7400888
+    second: plinth 2|hospital_bed_piston_cap049|Take 001|BaseLayer
+  - first:
+      74: 7400890
+    second: plinth 2|hospital_bed_piston_cap050|Take 001|BaseLayer
+  - first:
+      74: 7400892
+    second: plinth 2|hospital_bed_piston_cap051|Take 001|BaseLayer
+  - first:
+      74: 7400894
+    second: plinth 2|hospital_bed_piston_cap052|Take 001|BaseLayer
+  - first:
+      74: 7400896
+    second: plinth 2|hospital_bed_piston_cap053|Take 001|BaseLayer
+  - first:
+      74: 7400898
+    second: plinth 2|hospital_bed_piston_cap054|Take 001|BaseLayer
+  - first:
+      74: 7400900
+    second: plinth 2|hospital_bed_piston_cap055|Take 001|BaseLayer
+  - first:
+      74: 7400902
+    second: plinth 2|hospital_bed_piston_cap056|Take 001|BaseLayer
+  - first:
+      74: 7400904
+    second: plinth 2|hospital_bed_piston_cap057|Take 001|BaseLayer
+  - first:
+      74: 7400906
+    second: plinth 2|hospital_bed_piston_cap058|Take 001|BaseLayer
+  - first:
+      74: 7400908
+    second: plinth 2|hospital_bed_piston_cap059|Take 001|BaseLayer
+  - first:
+      74: 7400910
+    second: plinth 2|Hospital_bed_pistons002|Take 001|BaseLayer
+  - first:
+      74: 7400912
+    second: plinth 2|Hospital_bed_pistons2a001|Take 001|BaseLayer
+  - first:
+      74: 7400914
+    second: plinth 2|Hospital_bed_pole003|Take 001|BaseLayer
+  - first:
+      74: 7400916
+    second: plinth 2|Hospital_bed_pole004|Take 001|BaseLayer
+  - first:
+      74: 7400918
+    second: plinth 2|Hospital_bed_pole005|Take 001|BaseLayer
+  - first:
+      74: 7400920
+    second: plinth 2|Hospital_bed_pole_support006|Take 001|BaseLayer
+  - first:
+      74: 7400922
+    second: plinth 2|Hospital_bed_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400924
+    second: plinth 2|Hospital_bed_pole_support008|Take 001|BaseLayer
+  - first:
+      74: 7400926
+    second: plinth 2|Hospital_bed_pole_support009|Take 001|BaseLayer
+  - first:
+      74: 7400928
+    second: plinth 2|Hospital_bed_pole_support010|Take 001|BaseLayer
+  - first:
+      74: 7400930
+    second: plinth 2|Hospital_bed_pole_support011|Take 001|BaseLayer
+  - first:
+      74: 7400932
+    second: plinth 2|Hospital_bed_side_caps013|Take 001|BaseLayer
+  - first:
+      74: 7400934
+    second: plinth 2|Hospital_bed_side_caps014|Take 001|BaseLayer
+  - first:
+      74: 7400936
+    second: plinth 2|Hospital_bed_side_caps015|Take 001|BaseLayer
+  - first:
+      74: 7400938
+    second: plinth 2|Hospital_bed_side_caps016|Take 001|BaseLayer
+  - first:
+      74: 7400940
+    second: plinth 2|Hospital_bed_side_caps017|Take 001|BaseLayer
+  - first:
+      74: 7400942
+    second: plinth 2|Hospital_bed_side_caps018|Take 001|BaseLayer
+  - first:
+      74: 7400944
+    second: plinth 2|Hospital_bed_side_caps019|Take 001|BaseLayer
+  - first:
+      74: 7400946
+    second: plinth 2|Hospital_bed_side_caps020|Take 001|BaseLayer
+  - first:
+      74: 7400948
+    second: plinth 2|Hospital_bed_side_caps021|Take 001|BaseLayer
+  - first:
+      74: 7400950
+    second: plinth 2|Hospital_bed_side_caps022|Take 001|BaseLayer
+  - first:
+      74: 7400952
+    second: plinth 2|Hospital_bed_side_caps023|Take 001|BaseLayer
+  - first:
+      74: 7400954
+    second: plinth 2|Hospital_bed_side_caps023|Take 001|BaseLayer.001
+  - first:
+      74: 7400956
+    second: plinth 2|Hospital_bed_side_caps024|Take 001|BaseLayer
+  - first:
+      74: 7400958
+    second: plinth 2|Hospital_bed_side_caps025|Take 001|BaseLayer
+  - first:
+      74: 7400960
+    second: plinth 2|Hospital_bed_side_hinge008|Take 001|BaseLayer
+  - first:
+      74: 7400962
+    second: plinth 2|Hospital_bed_side_hinge009|Take 001|BaseLayer
+  - first:
+      74: 7400964
+    second: plinth 2|Hospital_bed_side_hinge010|Take 001|BaseLayer
+  - first:
+      74: 7400966
+    second: plinth 2|Hospital_bed_side_hinge011|Take 001|BaseLayer
+  - first:
+      74: 7400968
+    second: plinth 2|Hospital_bed_side_hinge012|Take 001|BaseLayer
+  - first:
+      74: 7400970
+    second: plinth 2|Hospital_bed_side_hinge013|Take 001|BaseLayer
+  - first:
+      74: 7400972
+    second: plinth 2|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400974
+    second: plinth 2|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400976
+    second: plinth 2|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+  - first:
+      74: 7400978
+    second: plinth 2|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+  - first:
+      74: 7400980
+    second: plinth 2|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+  - first:
+      74: 7400982
+    second: plinth 2|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+  - first:
+      74: 7400984
+    second: plinth 2|Hospital_bed_sidepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400986
+    second: plinth 2|Hospital_bed_sidepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400988
+    second: plinth 2|Hospital_bed_sides001|Take 001|BaseLayer
+  - first:
+      74: 7400990
+    second: plinth 2|Hospital_bed_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400992
+    second: plinth 2|Hospital_bed_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400994
+    second: plinth 2|Hospital_bed_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400996
+    second: plinth 2|Hospital_bed_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400998
+    second: plinth 2|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7401000
+    second: plinth 2|humidifier001|Take 001|BaseLayer
+  - first:
+      74: 7401002
+    second: plinth 2|Infant_warmer_switch022|Take 001|BaseLayer
+  - first:
+      74: 7401004
+    second: plinth 2|Infant_warmer_switch023|Take 001|BaseLayer
+  - first:
+      74: 7401006
+    second: plinth 2|insuflation tube040|Take 001|BaseLayer
+  - first:
+      74: 7401008
+    second: plinth 2|insuflation tube041|Take 001|BaseLayer
+  - first:
+      74: 7401010
+    second: plinth 2|insuflation tube042|Take 001|BaseLayer
+  - first:
+      74: 7401012
+    second: plinth 2|insuflation tube043|Take 001|BaseLayer
+  - first:
+      74: 7401014
+    second: plinth 2|insuflation tube044|Take 001|BaseLayer
+  - first:
+      74: 7401016
+    second: plinth 2|insuflation tube045|Take 001|BaseLayer
+  - first:
+      74: 7401018
+    second: plinth 2|insuflation tube046|Take 001|BaseLayer
+  - first:
+      74: 7401020
+    second: plinth 2|insuflation tube047|Take 001|BaseLayer
+  - first:
+      74: 7401022
+    second: plinth 2|insuflation tube048|Take 001|BaseLayer
+  - first:
+      74: 7401024
+    second: plinth 2|insuflation tube049|Take 001|BaseLayer
+  - first:
+      74: 7401026
+    second: plinth 2|insuflation tube050|Take 001|BaseLayer
+  - first:
+      74: 7401028
+    second: plinth 2|insuflation tube051|Take 001|BaseLayer
+  - first:
+      74: 7401030
+    second: plinth 2|insuflation tube052|Take 001|BaseLayer
+  - first:
+      74: 7401032
+    second: plinth 2|insuflation tube053|Take 001|BaseLayer
+  - first:
+      74: 7401034
+    second: plinth 2|insuflation tube054|Take 001|BaseLayer
+  - first:
+      74: 7401036
+    second: plinth 2|insuflation tube055|Take 001|BaseLayer
+  - first:
+      74: 7401038
+    second: plinth 2|insuflation tube056|Take 001|BaseLayer
+  - first:
+      74: 7401040
+    second: plinth 2|insuflation tube057|Take 001|BaseLayer
+  - first:
+      74: 7401042
+    second: plinth 2|insuflation tube058|Take 001|BaseLayer
+  - first:
+      74: 7401044
+    second: plinth 2|insuflation tube059|Take 001|BaseLayer
+  - first:
+      74: 7401046
+    second: plinth 2|insuflation tube060|Take 001|BaseLayer
+  - first:
+      74: 7401048
+    second: plinth 2|insuflation tube061|Take 001|BaseLayer
+  - first:
+      74: 7401050
+    second: plinth 2|insuflation tube062|Take 001|BaseLayer
+  - first:
+      74: 7401052
+    second: plinth 2|insuflation tube063|Take 001|BaseLayer
+  - first:
+      74: 7401054
+    second: plinth 2|insuflation tube064|Take 001|BaseLayer
+  - first:
+      74: 7401056
+    second: plinth 2|insuflation tube065|Take 001|BaseLayer
+  - first:
+      74: 7401058
+    second: plinth 2|insuflation tube066|Take 001|BaseLayer
+  - first:
+      74: 7401060
+    second: plinth 2|insuflation tube067|Take 001|BaseLayer
+  - first:
+      74: 7401062
+    second: plinth 2|insuflation tube068|Take 001|BaseLayer
+  - first:
+      74: 7401064
+    second: plinth 2|insuflation tube069|Take 001|BaseLayer
+  - first:
+      74: 7401066
+    second: plinth 2|insuflation tube070|Take 001|BaseLayer
+  - first:
+      74: 7401068
+    second: plinth 2|insuflation tube071|Take 001|BaseLayer
+  - first:
+      74: 7401070
+    second: plinth 2|insuflation tube072|Take 001|BaseLayer
+  - first:
+      74: 7401072
+    second: plinth 2|insuflation tube073|Take 001|BaseLayer
+  - first:
+      74: 7401074
+    second: plinth 2|insuflation tube074|Take 001|BaseLayer
+  - first:
+      74: 7401076
+    second: plinth 2|insuflation tube075|Take 001|BaseLayer
+  - first:
+      74: 7401078
+    second: plinth 2|insuflation tube076|Take 001|BaseLayer
+  - first:
+      74: 7401080
+    second: plinth 2|insuflation tube189|Take 001|BaseLayer
+  - first:
+      74: 7401082
+    second: plinth 2|iv pole007|Take 001|BaseLayer
+  - first:
+      74: 7401084
+    second: plinth 2|lamp_neon064|Take 001|BaseLayer
+  - first:
+      74: 7401086
+    second: plinth 2|lamp_neon065|Take 001|BaseLayer
+  - first:
+      74: 7401088
+    second: plinth 2|lamp_neon066|Take 001|BaseLayer
+  - first:
+      74: 7401090
+    second: plinth 2|lamp_neon067|Take 001|BaseLayer
+  - first:
+      74: 7401092
+    second: plinth 2|lamp_neon068|Take 001|BaseLayer
+  - first:
+      74: 7401094
+    second: plinth 2|lamp_neon069|Take 001|BaseLayer
+  - first:
+      74: 7401096
+    second: plinth 2|lamp_neon070|Take 001|BaseLayer
+  - first:
+      74: 7401098
+    second: plinth 2|lamp_neon071|Take 001|BaseLayer
+  - first:
+      74: 7401100
+    second: plinth 2|Line01assadss007|Take 001|BaseLayer
+  - first:
+      74: 7401102
+    second: plinth 2|Line033|Take 001|BaseLayer
+  - first:
+      74: 7401104
+    second: plinth 2|Line034|Take 001|BaseLayer
+  - first:
+      74: 7401106
+    second: plinth 2|Line035|Take 001|BaseLayer
+  - first:
+      74: 7401108
+    second: plinth 2|Line036|Take 001|BaseLayer
+  - first:
+      74: 7401110
+    second: plinth 2|Line037|Take 001|BaseLayer
+  - first:
+      74: 7401112
+    second: plinth 2|Line038|Take 001|BaseLayer
+  - first:
+      74: 7401114
+    second: plinth 2|Line03bc007|Take 001|BaseLayer
+  - first:
+      74: 7401116
+    second: plinth 2|liquid003|Take 001|BaseLayer
+  - first:
+      74: 7401118
+    second: plinth 2|liquid004|Take 001|BaseLayer
+  - first:
+      74: 7401120
+    second: plinth 2|Locker_bottom001|Take 001|BaseLayer
+  - first:
+      74: 7401122
+    second: plinth 2|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7401124
+    second: plinth 2|Locker_tray001|Take 001|BaseLayer
+  - first:
+      74: 7401126
+    second: plinth 2|Medical Console006|Take 001|BaseLayer
+  - first:
+      74: 7401128
+    second: plinth 2|medical device 01back005|Take 001|BaseLayer
+  - first:
+      74: 7401130
+    second: plinth 2|medical device 01back006|Take 001|BaseLayer
+  - first:
+      74: 7401132
+    second: plinth 2|medical device 01back007|Take 001|BaseLayer
+  - first:
+      74: 7401134
+    second: plinth 2|medical device 01back008|Take 001|BaseLayer
+  - first:
+      74: 7401136
+    second: plinth 2|medical device 01body015|Take 001|BaseLayer
+  - first:
+      74: 7401138
+    second: plinth 2|medical device 01body016|Take 001|BaseLayer
+  - first:
+      74: 7401140
+    second: plinth 2|medical device 01body017|Take 001|BaseLayer
+  - first:
+      74: 7401142
+    second: plinth 2|medical device 01body018|Take 001|BaseLayer
+  - first:
+      74: 7401144
+    second: plinth 2|medical device 01body019|Take 001|BaseLayer
+  - first:
+      74: 7401146
+    second: plinth 2|medical device 01front002|Take 001|BaseLayer
+  - first:
+      74: 7401148
+    second: plinth 2|medical device 01front003|Take 001|BaseLayer
+  - first:
+      74: 7401150
+    second: plinth 2|medical device 02front004|Take 001|BaseLayer
+  - first:
+      74: 7401152
+    second: plinth 2|medical device 02front005|Take 001|BaseLayer
+  - first:
+      74: 7401154
+    second: plinth 2|medical device side016|Take 001|BaseLayer
+  - first:
+      74: 7401156
+    second: plinth 2|medical device side017|Take 001|BaseLayer
+  - first:
+      74: 7401158
+    second: plinth 2|medical device side018|Take 001|BaseLayer
+  - first:
+      74: 7401160
+    second: plinth 2|medical device side019|Take 001|BaseLayer
+  - first:
+      74: 7401162
+    second: plinth 2|medical device side020|Take 001|BaseLayer
+  - first:
+      74: 7401164
+    second: plinth 2|medical device side021|Take 001|BaseLayer
+  - first:
+      74: 7401166
+    second: plinth 2|medical device side022|Take 001|BaseLayer
+  - first:
+      74: 7401168
+    second: plinth 2|medical device side023|Take 001|BaseLayer
+  - first:
+      74: 7401170
+    second: plinth 2|medical devices001|Take 001|BaseLayer
+  - first:
+      74: 7401172
+    second: plinth 2|medical_device005|Take 001|BaseLayer
+  - first:
+      74: 7401174
+    second: plinth 2|medical_device006|Take 001|BaseLayer
+  - first:
+      74: 7401176
+    second: plinth 2|medical_device007|Take 001|BaseLayer
+  - first:
+      74: 7401178
+    second: plinth 2|medical_device008|Take 001|BaseLayer
+  - first:
+      74: 7401180
+    second: plinth 2|MEdicalAir001|Take 001|BaseLayer
+  - first:
+      74: 7401182
+    second: plinth 2|medicine bottle 01 cap035|Take 001|BaseLayer
+  - first:
+      74: 7401184
+    second: plinth 2|medicine bottle 01 cap036|Take 001|BaseLayer
+  - first:
+      74: 7401186
+    second: plinth 2|medicine bottle 01 cap037|Take 001|BaseLayer
+  - first:
+      74: 7401188
+    second: plinth 2|medicine bottle 02_ut002|Take 001|BaseLayer
+  - first:
+      74: 7401190
+    second: plinth 2|medicine bottle 037|Take 001|BaseLayer
+  - first:
+      74: 7401192
+    second: plinth 2|medicine bottle 03_v002|Take 001|BaseLayer
+  - first:
+      74: 7401194
+    second: plinth 2|medicine box051|Take 001|BaseLayer
+  - first:
+      74: 7401196
+    second: plinth 2|metal ring 004|Take 001|BaseLayer
+  - first:
+      74: 7401198
+    second: plinth 2|metal ring 005|Take 001|BaseLayer
+  - first:
+      74: 7401200
+    second: plinth 2|metal ring 006|Take 001|BaseLayer
+  - first:
+      74: 7401202
+    second: plinth 2|Mobile_trolley001|Take 001|BaseLayer
+  - first:
+      74: 7401204
+    second: plinth 2|monitor joint 003|Take 001|BaseLayer
+  - first:
+      74: 7401206
+    second: plinth 2|monitor joint 004|Take 001|BaseLayer
+  - first:
+      74: 7401208
+    second: plinth 2|monitor joint019|Take 001|BaseLayer
+  - first:
+      74: 7401210
+    second: plinth 2|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7401212
+    second: plinth 2|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7401214
+    second: plinth 2|monitor01_body007|Take 001|BaseLayer
+  - first:
+      74: 7401216
+    second: plinth 2|monitor01_body008|Take 001|BaseLayer
+  - first:
+      74: 7401218
+    second: plinth 2|Monitor_ax002|Take 001|BaseLayer
+  - first:
+      74: 7401220
+    second: plinth 2|Monitor_ax003|Take 001|BaseLayer
+  - first:
+      74: 7401222
+    second: plinth 2|MONITOR_PIVOT001|Take 001|BaseLayer
+  - first:
+      74: 7401224
+    second: plinth 2|monitorARM002|Take 001|BaseLayer
+  - first:
+      74: 7401226
+    second: plinth 2|monitorARM003|Take 001|BaseLayer
+  - first:
+      74: 7401228
+    second: plinth 2|mufa albastra017|Take 001|BaseLayer
+  - first:
+      74: 7401230
+    second: plinth 2|mufa albastra018|Take 001|BaseLayer
+  - first:
+      74: 7401232
+    second: plinth 2|mufa albastra019|Take 001|BaseLayer
+  - first:
+      74: 7401234
+    second: plinth 2|mufaalbastra013|Take 001|BaseLayer
+  - first:
+      74: 7401236
+    second: plinth 2|mufaalbastra014|Take 001|BaseLayer
+  - first:
+      74: 7401238
+    second: plinth 2|mufaalbastra015|Take 001|BaseLayer
+  - first:
+      74: 7401240
+    second: plinth 2|mufaalbastra016|Take 001|BaseLayer
+  - first:
+      74: 7401242
+    second: plinth 2|mufaalbastra017|Take 001|BaseLayer
+  - first:
+      74: 7401244
+    second: plinth 2|mufaalbastra018|Take 001|BaseLayer
+  - first:
+      74: 7401246
+    second: plinth 2|mufaalbastra019|Take 001|BaseLayer
+  - first:
+      74: 7401248
+    second: plinth 2|mufaalbastra020|Take 001|BaseLayer
+  - first:
+      74: 7401250
+    second: plinth 2|mufaalbastra021|Take 001|BaseLayer
+  - first:
+      74: 7401252
+    second: plinth 2|mufaalbastra022|Take 001|BaseLayer
+  - first:
+      74: 7401254
+    second: plinth 2|Object4468|Take 001|BaseLayer
+  - first:
+      74: 7401256
+    second: plinth 2|Object4469|Take 001|BaseLayer
+  - first:
+      74: 7401258
+    second: plinth 2|Object4470|Take 001|BaseLayer
+  - first:
+      74: 7401260
+    second: plinth 2|Object4471|Take 001|BaseLayer
+  - first:
+      74: 7401262
+    second: plinth 2|Object4472|Take 001|BaseLayer
+  - first:
+      74: 7401264
+    second: plinth 2|Object4473|Take 001|BaseLayer
+  - first:
+      74: 7401266
+    second: plinth 2|Object4474|Take 001|BaseLayer
+  - first:
+      74: 7401268
+    second: plinth 2|Object4474|Take 001|BaseLayer.001
+  - first:
+      74: 7401270
+    second: plinth 2|Object4475|Take 001|BaseLayer
+  - first:
+      74: 7401272
+    second: plinth 2|Object4475|Take 001|BaseLayer.001
+  - first:
+      74: 7401274
+    second: plinth 2|Object4476|Take 001|BaseLayer
+  - first:
+      74: 7401276
+    second: plinth 2|Object4476|Take 001|BaseLayer.001
+  - first:
+      74: 7401278
+    second: plinth 2|Object4477|Take 001|BaseLayer
+  - first:
+      74: 7401280
+    second: plinth 2|Object4477|Take 001|BaseLayer.001
+  - first:
+      74: 7401282
+    second: plinth 2|Object4478|Take 001|BaseLayer
+  - first:
+      74: 7401284
+    second: plinth 2|Object4478|Take 001|BaseLayer.001
+  - first:
+      74: 7401286
+    second: plinth 2|Object4479|Take 001|BaseLayer
+  - first:
+      74: 7401288
+    second: plinth 2|Object4480|Take 001|BaseLayer
+  - first:
+      74: 7401290
+    second: plinth 2|Object4481|Take 001|BaseLayer
+  - first:
+      74: 7401292
+    second: plinth 2|Object4482|Take 001|BaseLayer
+  - first:
+      74: 7401294
+    second: plinth 2|off button device002|Take 001|BaseLayer
+  - first:
+      74: 7401296
+    second: plinth 2|off button008|Take 001|BaseLayer
+  - first:
+      74: 7401298
+    second: plinth 2|off button009|Take 001|BaseLayer
+  - first:
+      74: 7401300
+    second: plinth 2|off button010|Take 001|BaseLayer
+  - first:
+      74: 7401302
+    second: plinth 2|on button device002|Take 001|BaseLayer
+  - first:
+      74: 7401304
+    second: plinth 2|on button008|Take 001|BaseLayer
+  - first:
+      74: 7401306
+    second: plinth 2|on button009|Take 001|BaseLayer
+  - first:
+      74: 7401308
+    second: plinth 2|on button010|Take 001|BaseLayer
+  - first:
+      74: 7401310
+    second: plinth 2|on/off button008|Take 001|BaseLayer
+  - first:
+      74: 7401312
+    second: plinth 2|on/off button009|Take 001|BaseLayer
+  - first:
+      74: 7401314
+    second: plinth 2|on/off button010|Take 001|BaseLayer
+  - first:
+      74: 7401316
+    second: plinth 2|oxygen socket035|Take 001|BaseLayer
+  - first:
+      74: 7401318
+    second: plinth 2|oxygen socket036|Take 001|BaseLayer
+  - first:
+      74: 7401320
+    second: plinth 2|oxygen socket037|Take 001|BaseLayer
+  - first:
+      74: 7401322
+    second: plinth 2|oxygen socket038|Take 001|BaseLayer
+  - first:
+      74: 7401324
+    second: plinth 2|oxygen socket051|Take 001|BaseLayer
+  - first:
+      74: 7401326
+    second: plinth 2|padding_hospital_bed_panels004|Take 001|BaseLayer
+  - first:
+      74: 7401328
+    second: plinth 2|padding_hospital_bed_panels005|Take 001|BaseLayer
+  - first:
+      74: 7401330
+    second: plinth 2|pillow001|Take 001|BaseLayer
+  - first:
+      74: 7401332
+    second: plinth 2|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7401334
+    second: plinth 2|plugg socket044|Take 001|BaseLayer
+  - first:
+      74: 7401336
+    second: plinth 2|plugg socket045|Take 001|BaseLayer
+  - first:
+      74: 7401338
+    second: plinth 2|plugg socket046|Take 001|BaseLayer
+  - first:
+      74: 7401340
+    second: plinth 2|plugg socket047|Take 001|BaseLayer
+  - first:
+      74: 7401342
+    second: plinth 2|plugg socket048|Take 001|BaseLayer
+  - first:
+      74: 7401344
+    second: plinth 2|plugg socket049|Take 001|BaseLayer
+  - first:
+      74: 7401346
+    second: plinth 2|plugg socket050|Take 001|BaseLayer
+  - first:
+      74: 7401348
+    second: plinth 2|plugg socket051|Take 001|BaseLayer
+  - first:
+      74: 7401350
+    second: plinth 2|plugg socket052|Take 001|BaseLayer
+  - first:
+      74: 7401352
+    second: plinth 2|plugg socket053|Take 001|BaseLayer
+  - first:
+      74: 7401354
+    second: plinth 2|plugg socket054|Take 001|BaseLayer
+  - first:
+      74: 7401356
+    second: plinth 2|plugg socket055|Take 001|BaseLayer
+  - first:
+      74: 7401358
+    second: plinth 2|plugg socket056|Take 001|BaseLayer
+  - first:
+      74: 7401360
+    second: plinth 2|plugg socket057|Take 001|BaseLayer
+  - first:
+      74: 7401362
+    second: plinth 2|plugg015|Take 001|BaseLayer
+  - first:
+      74: 7401364
+    second: plinth 2|plugg016|Take 001|BaseLayer
+  - first:
+      74: 7401366
+    second: plinth 2|plugg017|Take 001|BaseLayer
+  - first:
+      74: 7401368
+    second: plinth 2|plugg018|Take 001|BaseLayer
+  - first:
+      74: 7401370
+    second: plinth 2|plugg019|Take 001|BaseLayer
+  - first:
+      74: 7401372
+    second: plinth 2|plugg020|Take 001|BaseLayer
+  - first:
+      74: 7401374
+    second: plinth 2|plugg021|Take 001|BaseLayer
+  - first:
+      74: 7401376
+    second: plinth 2|plugg022|Take 001|BaseLayer
+  - first:
+      74: 7401378
+    second: plinth 2|plugg023|Take 001|BaseLayer
+  - first:
+      74: 7401380
+    second: plinth 2|plugg024|Take 001|BaseLayer
+  - first:
+      74: 7401382
+    second: plinth 2|plugg025|Take 001|BaseLayer
+  - first:
+      74: 7401384
+    second: plinth 2|plugg026|Take 001|BaseLayer
+  - first:
+      74: 7401386
+    second: plinth 2|plugg027|Take 001|BaseLayer
+  - first:
+      74: 7401388
+    second: plinth 2|roata045|Take 001|BaseLayer
+  - first:
+      74: 7401390
+    second: plinth 2|roata045|Take 001|BaseLayer.001
+  - first:
+      74: 7401392
+    second: plinth 2|roata046|Take 001|BaseLayer
+  - first:
+      74: 7401394
+    second: plinth 2|roata046|Take 001|BaseLayer.001
+  - first:
+      74: 7401396
+    second: plinth 2|roata047|Take 001|BaseLayer
+  - first:
+      74: 7401398
+    second: plinth 2|roata047|Take 001|BaseLayer.001
+  - first:
+      74: 7401400
+    second: plinth 2|roata048|Take 001|BaseLayer
+  - first:
+      74: 7401402
+    second: plinth 2|roata048|Take 001|BaseLayer.001
+  - first:
+      74: 7401404
+    second: plinth 2|roata049|Take 001|BaseLayer
+  - first:
+      74: 7401406
+    second: plinth 2|roata049|Take 001|BaseLayer.001
+  - first:
+      74: 7401408
+    second: plinth 2|round slot016|Take 001|BaseLayer
+  - first:
+      74: 7401410
+    second: plinth 2|round slot017|Take 001|BaseLayer
+  - first:
+      74: 7401412
+    second: plinth 2|round slot018|Take 001|BaseLayer
+  - first:
+      74: 7401414
+    second: plinth 2|round slot019|Take 001|BaseLayer
+  - first:
+      74: 7401416
+    second: plinth 2|round slot020|Take 001|BaseLayer
+  - first:
+      74: 7401418
+    second: plinth 2|round slot021|Take 001|BaseLayer
+  - first:
+      74: 7401420
+    second: plinth 2|round slot022|Take 001|BaseLayer
+  - first:
+      74: 7401422
+    second: plinth 2|round slot023|Take 001|BaseLayer
+  - first:
+      74: 7401424
+    second: plinth 2|round slot024|Take 001|BaseLayer
+  - first:
+      74: 7401426
+    second: plinth 2|round slot025|Take 001|BaseLayer
+  - first:
+      74: 7401428
+    second: plinth 2|Round_button001|Take 001|BaseLayer
+  - first:
+      74: 7401430
+    second: plinth 2|Round_Scart008|Take 001|BaseLayer
+  - first:
+      74: 7401432
+    second: plinth 2|Round_Scart009|Take 001|BaseLayer
+  - first:
+      74: 7401434
+    second: plinth 2|Round_Scart010|Take 001|BaseLayer
+  - first:
+      74: 7401436
+    second: plinth 2|Round_Scart011|Take 001|BaseLayer
+  - first:
+      74: 7401438
+    second: plinth 2|Round_Scart012|Take 001|BaseLayer
+  - first:
+      74: 7401440
+    second: plinth 2|Round_Scart013|Take 001|BaseLayer
+  - first:
+      74: 7401442
+    second: plinth 2|Round_Scart014|Take 001|BaseLayer
+  - first:
+      74: 7401444
+    second: plinth 2|Round_Scart015|Take 001|BaseLayer
+  - first:
+      74: 7401446
+    second: plinth 2|Rubber_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7401448
+    second: plinth 2|Rubber_bumper017|Take 001|BaseLayer
+  - first:
+      74: 7401450
+    second: plinth 2|Rubber_bumper018|Take 001|BaseLayer
+  - first:
+      74: 7401452
+    second: plinth 2|Rubber_bumper019|Take 001|BaseLayer
+  - first:
+      74: 7401454
+    second: plinth 2|Rubber_bumper020|Take 001|BaseLayer
+  - first:
+      74: 7401456
+    second: plinth 2|Rubber_bumper021|Take 001|BaseLayer
+  - first:
+      74: 7401458
+    second: plinth 2|Rubber_bumper022|Take 001|BaseLayer
+  - first:
+      74: 7401460
+    second: plinth 2|Rubber_bumper023|Take 001|BaseLayer
+  - first:
+      74: 7401462
+    second: plinth 2|Rubber_bumper024|Take 001|BaseLayer
+  - first:
+      74: 7401464
+    second: plinth 2|Rubber_bumper_support008|Take 001|BaseLayer
+  - first:
+      74: 7401466
+    second: plinth 2|Rubber_bumper_support009|Take 001|BaseLayer
+  - first:
+      74: 7401468
+    second: plinth 2|Rubber_bumper_support010|Take 001|BaseLayer
+  - first:
+      74: 7401470
+    second: plinth 2|Rubber_bumper_support011|Take 001|BaseLayer
+  - first:
+      74: 7401472
+    second: plinth 2|Rubber_bumper_support012|Take 001|BaseLayer
+  - first:
+      74: 7401474
+    second: plinth 2|Sanitizer003|Take 001|BaseLayer
+  - first:
+      74: 7401476
+    second: plinth 2|Sanitizer004|Take 001|BaseLayer
+  - first:
+      74: 7401478
+    second: plinth 2|scart003|Take 001|BaseLayer
+  - first:
+      74: 7401480
+    second: plinth 2|scart004|Take 001|BaseLayer
+  - first:
+      74: 7401482
+    second: plinth 2|scart005|Take 001|BaseLayer
+  - first:
+      74: 7401484
+    second: plinth 2|Shape002|Take 001|BaseLayer
+  - first:
+      74: 7401486
+    second: plinth 2|shelf edge004|Take 001|BaseLayer
+  - first:
+      74: 7401488
+    second: plinth 2|shelf edge005|Take 001|BaseLayer
+  - first:
+      74: 7401490
+    second: plinth 2|shelf edge006|Take 001|BaseLayer
+  - first:
+      74: 7401492
+    second: plinth 2|shelf edge007|Take 001|BaseLayer
+  - first:
+      74: 7401494
+    second: plinth 2|side panel controls_head_002|Take 001|BaseLayer
+  - first:
+      74: 7401496
+    second: plinth 2|side panel controls_head_003|Take 001|BaseLayer
+  - first:
+      74: 7401498
+    second: plinth 2|side panel_head002|Take 001|BaseLayer
+  - first:
+      74: 7401500
+    second: plinth 2|side panel_head003|Take 001|BaseLayer
+  - first:
+      74: 7401502
+    second: plinth 2|Side_handle002|Take 001|BaseLayer
+  - first:
+      74: 7401504
+    second: plinth 2|Side_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401506
+    second: plinth 2|side_panel_cap005|Take 001|BaseLayer
+  - first:
+      74: 7401508
+    second: plinth 2|side_panel_cap006|Take 001|BaseLayer
+  - first:
+      74: 7401510
+    second: plinth 2|side_panel_cap007|Take 001|BaseLayer
+  - first:
+      74: 7401512
+    second: plinth 2|side_panel_cap008|Take 001|BaseLayer
+  - first:
+      74: 7401514
+    second: plinth 2|sky boom base001|Take 001|BaseLayer
+  - first:
+      74: 7401516
+    second: plinth 2|small_drawer001|Take 001|BaseLayer
+  - first:
+      74: 7401518
+    second: plinth 2|small_hook002|Take 001|BaseLayer
+  - first:
+      74: 7401520
+    second: plinth 2|small_hook003|Take 001|BaseLayer
+  - first:
+      74: 7401522
+    second: plinth 2|socketA068|Take 001|BaseLayer
+  - first:
+      74: 7401524
+    second: plinth 2|socketA069|Take 001|BaseLayer
+  - first:
+      74: 7401526
+    second: plinth 2|socketA070|Take 001|BaseLayer
+  - first:
+      74: 7401528
+    second: plinth 2|socketA071|Take 001|BaseLayer
+  - first:
+      74: 7401530
+    second: plinth 2|socketA072|Take 001|BaseLayer
+  - first:
+      74: 7401532
+    second: plinth 2|socketA073|Take 001|BaseLayer
+  - first:
+      74: 7401534
+    second: plinth 2|socketA074|Take 001|BaseLayer
+  - first:
+      74: 7401536
+    second: plinth 2|socketA075|Take 001|BaseLayer
+  - first:
+      74: 7401538
+    second: plinth 2|socketA076|Take 001|BaseLayer
+  - first:
+      74: 7401540
+    second: plinth 2|socketA077|Take 001|BaseLayer
+  - first:
+      74: 7401542
+    second: plinth 2|socketA078|Take 001|BaseLayer
+  - first:
+      74: 7401544
+    second: plinth 2|socketA079|Take 001|BaseLayer
+  - first:
+      74: 7401546
+    second: plinth 2|socketA080|Take 001|BaseLayer
+  - first:
+      74: 7401548
+    second: plinth 2|socketA081|Take 001|BaseLayer
+  - first:
+      74: 7401550
+    second: plinth 2|socketA082|Take 001|BaseLayer
+  - first:
+      74: 7401552
+    second: plinth 2|socketA083|Take 001|BaseLayer
+  - first:
+      74: 7401554
+    second: plinth 2|socketA084|Take 001|BaseLayer
+  - first:
+      74: 7401556
+    second: plinth 2|socketA085|Take 001|BaseLayer
+  - first:
+      74: 7401558
+    second: plinth 2|socketA086|Take 001|BaseLayer
+  - first:
+      74: 7401560
+    second: plinth 2|socketA087|Take 001|BaseLayer
+  - first:
+      74: 7401562
+    second: plinth 2|socketA088|Take 001|BaseLayer
+  - first:
+      74: 7401564
+    second: plinth 2|socketA089|Take 001|BaseLayer
+  - first:
+      74: 7401566
+    second: plinth 2|socketA090|Take 001|BaseLayer
+  - first:
+      74: 7401568
+    second: plinth 2|socketA091|Take 001|BaseLayer
+  - first:
+      74: 7401570
+    second: plinth 2|socketA092|Take 001|BaseLayer
+  - first:
+      74: 7401572
+    second: plinth 2|socketA093|Take 001|BaseLayer
+  - first:
+      74: 7401574
+    second: plinth 2|SocketB076|Take 001|BaseLayer
+  - first:
+      74: 7401576
+    second: plinth 2|SocketB077|Take 001|BaseLayer
+  - first:
+      74: 7401578
+    second: plinth 2|SocketB078|Take 001|BaseLayer
+  - first:
+      74: 7401580
+    second: plinth 2|SocketB079|Take 001|BaseLayer
+  - first:
+      74: 7401582
+    second: plinth 2|SocketB080|Take 001|BaseLayer
+  - first:
+      74: 7401584
+    second: plinth 2|SocketB081|Take 001|BaseLayer
+  - first:
+      74: 7401586
+    second: plinth 2|SocketB082|Take 001|BaseLayer
+  - first:
+      74: 7401588
+    second: plinth 2|SocketB083|Take 001|BaseLayer
+  - first:
+      74: 7401590
+    second: plinth 2|SocketB084|Take 001|BaseLayer
+  - first:
+      74: 7401592
+    second: plinth 2|SocketB085|Take 001|BaseLayer
+  - first:
+      74: 7401594
+    second: plinth 2|SocketB086|Take 001|BaseLayer
+  - first:
+      74: 7401596
+    second: plinth 2|SocketB087|Take 001|BaseLayer
+  - first:
+      74: 7401598
+    second: plinth 2|SocketB088|Take 001|BaseLayer
+  - first:
+      74: 7401600
+    second: plinth 2|SocketB089|Take 001|BaseLayer
+  - first:
+      74: 7401602
+    second: plinth 2|SocketB090|Take 001|BaseLayer
+  - first:
+      74: 7401604
+    second: plinth 2|SocketB091|Take 001|BaseLayer
+  - first:
+      74: 7401606
+    second: plinth 2|SocketB092|Take 001|BaseLayer
+  - first:
+      74: 7401608
+    second: plinth 2|SocketB093|Take 001|BaseLayer
+  - first:
+      74: 7401610
+    second: plinth 2|SocketB094|Take 001|BaseLayer
+  - first:
+      74: 7401612
+    second: plinth 2|SocketB095|Take 001|BaseLayer
+  - first:
+      74: 7401614
+    second: plinth 2|SocketB096|Take 001|BaseLayer
+  - first:
+      74: 7401616
+    second: plinth 2|SocketB097|Take 001|BaseLayer
+  - first:
+      74: 7401618
+    second: plinth 2|SocketB098|Take 001|BaseLayer
+  - first:
+      74: 7401620
+    second: plinth 2|SocketB099|Take 001|BaseLayer
+  - first:
+      74: 7401622
+    second: plinth 2|sockets012|Take 001|BaseLayer
+  - first:
+      74: 7401624
+    second: plinth 2|sockets013|Take 001|BaseLayer
+  - first:
+      74: 7401626
+    second: plinth 2|sockets014|Take 001|BaseLayer
+  - first:
+      74: 7401628
+    second: plinth 2|sockets015|Take 001|BaseLayer
+  - first:
+      74: 7401630
+    second: plinth 2|support017|Take 001|BaseLayer
+  - first:
+      74: 7401632
+    second: plinth 2|support018|Take 001|BaseLayer
+  - first:
+      74: 7401634
+    second: plinth 2|support019|Take 001|BaseLayer
+  - first:
+      74: 7401636
+    second: plinth 2|support020|Take 001|BaseLayer
+  - first:
+      74: 7401638
+    second: plinth 2|support021|Take 001|BaseLayer
+  - first:
+      74: 7401640
+    second: plinth 2|support022|Take 001|BaseLayer
+  - first:
+      74: 7401642
+    second: plinth 2|support023|Take 001|BaseLayer
+  - first:
+      74: 7401644
+    second: plinth 2|support024|Take 001|BaseLayer
+  - first:
+      74: 7401646
+    second: plinth 2|support025|Take 001|BaseLayer
+  - first:
+      74: 7401648
+    second: plinth 2|support026|Take 001|BaseLayer
+  - first:
+      74: 7401650
+    second: plinth 2|support027|Take 001|BaseLayer
+  - first:
+      74: 7401652
+    second: plinth 2|support028|Take 001|BaseLayer
+  - first:
+      74: 7401654
+    second: plinth 2|support029|Take 001|BaseLayer
+  - first:
+      74: 7401656
+    second: plinth 2|support030|Take 001|BaseLayer
+  - first:
+      74: 7401658
+    second: plinth 2|support031|Take 001|BaseLayer
+  - first:
+      74: 7401660
+    second: plinth 2|support032|Take 001|BaseLayer
+  - first:
+      74: 7401662
+    second: plinth 2|surgical light handle032|Take 001|BaseLayer
+  - first:
+      74: 7401664
+    second: plinth 2|surgical light handle033|Take 001|BaseLayer
+  - first:
+      74: 7401666
+    second: plinth 2|surgical light handle034|Take 001|BaseLayer
+  - first:
+      74: 7401668
+    second: plinth 2|surgical light handle035|Take 001|BaseLayer
+  - first:
+      74: 7401670
+    second: plinth 2|surgical light handle036|Take 001|BaseLayer
+  - first:
+      74: 7401672
+    second: plinth 2|surgical light handle037|Take 001|BaseLayer
+  - first:
+      74: 7401674
+    second: plinth 2|surgical light handle038|Take 001|BaseLayer
+  - first:
+      74: 7401676
+    second: plinth 2|surgical light handle039|Take 001|BaseLayer
+  - first:
+      74: 7401678
+    second: plinth 2|switch_body_incubator104|Take 001|BaseLayer
+  - first:
+      74: 7401680
+    second: plinth 2|switch_body_incubator105|Take 001|BaseLayer
+  - first:
+      74: 7401682
+    second: plinth 2|switch_body_incubator106|Take 001|BaseLayer
+  - first:
+      74: 7401684
+    second: plinth 2|switch_body_incubator107|Take 001|BaseLayer
+  - first:
+      74: 7401686
+    second: plinth 2|switch_body_incubator108|Take 001|BaseLayer
+  - first:
+      74: 7401688
+    second: plinth 2|switch_body_incubator109|Take 001|BaseLayer
+  - first:
+      74: 7401690
+    second: plinth 2|switch_body_incubator110|Take 001|BaseLayer
+  - first:
+      74: 7401692
+    second: plinth 2|switch_body_incubator111|Take 001|BaseLayer
+  - first:
+      74: 7401694
+    second: plinth 2|switch_body_incubator112|Take 001|BaseLayer
+  - first:
+      74: 7401696
+    second: plinth 2|switch_body_incubator113|Take 001|BaseLayer
+  - first:
+      74: 7401698
+    second: plinth 2|switch_body_incubator114|Take 001|BaseLayer
+  - first:
+      74: 7401700
+    second: plinth 2|switch_body_incubator115|Take 001|BaseLayer
+  - first:
+      74: 7401702
+    second: plinth 2|switch_body_incubator116|Take 001|BaseLayer
+  - first:
+      74: 7401704
+    second: plinth 2|switch_body_incubator117|Take 001|BaseLayer
+  - first:
+      74: 7401706
+    second: plinth 2|switch_body_incubator118|Take 001|BaseLayer
+  - first:
+      74: 7401708
+    second: plinth 2|switch_body_incubator164|Take 001|BaseLayer
+  - first:
+      74: 7401710
+    second: plinth 2|switch_incubator030|Take 001|BaseLayer
+  - first:
+      74: 7401712
+    second: plinth 2|switch_incubator031|Take 001|BaseLayer
+  - first:
+      74: 7401714
+    second: plinth 2|switch_incubator032|Take 001|BaseLayer
+  - first:
+      74: 7401716
+    second: plinth 2|switch_incubator033|Take 001|BaseLayer
+  - first:
+      74: 7401718
+    second: plinth 2|switch_incubator034|Take 001|BaseLayer
+  - first:
+      74: 7401720
+    second: plinth 2|usb slot026|Take 001|BaseLayer
+  - first:
+      74: 7401722
+    second: plinth 2|usb slot027|Take 001|BaseLayer
+  - first:
+      74: 7401724
+    second: plinth 2|usb slot028|Take 001|BaseLayer
+  - first:
+      74: 7401726
+    second: plinth 2|usb slot029|Take 001|BaseLayer
+  - first:
+      74: 7401728
+    second: plinth 2|usb slot030|Take 001|BaseLayer
+  - first:
+      74: 7401730
+    second: plinth 2|usb slot031|Take 001|BaseLayer
+  - first:
+      74: 7401732
+    second: plinth 2|usb slot032|Take 001|BaseLayer
+  - first:
+      74: 7401734
+    second: plinth 2|usb slot033|Take 001|BaseLayer
+  - first:
+      74: 7401736
+    second: plinth 2|usb slot034|Take 001|BaseLayer
+  - first:
+      74: 7401738
+    second: plinth 2|usb slot035|Take 001|BaseLayer
+  - first:
+      74: 7401740
+    second: plinth 2|usb slot036|Take 001|BaseLayer
+  - first:
+      74: 7401742
+    second: plinth 2|usb slot037|Take 001|BaseLayer
+  - first:
+      74: 7401744
+    second: plinth 2|usb slot038|Take 001|BaseLayer
+  - first:
+      74: 7401746
+    second: plinth 2|ventilator  bag cap001|Take 001|BaseLayer
+  - first:
+      74: 7401748
+    second: plinth 2|ventilator arm adjustable support001|Take 001|BaseLayer
+  - first:
+      74: 7401750
+    second: plinth 2|ventilator arm handle002|Take 001|BaseLayer
+  - first:
+      74: 7401752
+    second: plinth 2|ventilator arm segment005|Take 001|BaseLayer
+  - first:
+      74: 7401754
+    second: plinth 2|ventilator arm segment006|Take 001|BaseLayer
+  - first:
+      74: 7401756
+    second: plinth 2|ventilator arm segment007|Take 001|BaseLayer
+  - first:
+      74: 7401758
+    second: plinth 2|ventilator arm segment008|Take 001|BaseLayer
+  - first:
+      74: 7401760
+    second: plinth 2|ventilator bag001|Take 001|BaseLayer
+  - first:
+      74: 7401762
+    second: plinth 2|ventilator box002|Take 001|BaseLayer
+  - first:
+      74: 7401764
+    second: plinth 2|ventilator brushed metal002|Take 001|BaseLayer
+  - first:
+      74: 7401766
+    second: plinth 2|ventilator controls 003|Take 001|BaseLayer
+  - first:
+      74: 7401768
+    second: plinth 2|ventilator glass004|Take 001|BaseLayer
+  - first:
+      74: 7401770
+    second: plinth 2|ventilator glass005|Take 001|BaseLayer
+  - first:
+      74: 7401772
+    second: plinth 2|ventilator glass006|Take 001|BaseLayer
+  - first:
+      74: 7401774
+    second: plinth 2|ventilator hose cap 012|Take 001|BaseLayer
+  - first:
+      74: 7401776
+    second: plinth 2|ventilator hose cap 013|Take 001|BaseLayer
+  - first:
+      74: 7401778
+    second: plinth 2|ventilator hose cap 014|Take 001|BaseLayer
+  - first:
+      74: 7401780
+    second: plinth 2|ventilator hose cap 015|Take 001|BaseLayer
+  - first:
+      74: 7401782
+    second: plinth 2|ventilator hose cap 016|Take 001|BaseLayer
+  - first:
+      74: 7401784
+    second: plinth 2|ventilator hose cap 017|Take 001|BaseLayer
+  - first:
+      74: 7401786
+    second: plinth 2|ventilator hose cap005|Take 001|BaseLayer
+  - first:
+      74: 7401788
+    second: plinth 2|ventilator hose cap006|Take 001|BaseLayer
+  - first:
+      74: 7401790
+    second: plinth 2|ventilator hose cap007|Take 001|BaseLayer
+  - first:
+      74: 7401792
+    second: plinth 2|ventilator hose cap008|Take 001|BaseLayer
+  - first:
+      74: 7401794
+    second: plinth 2|ventilator hose output003|Take 001|BaseLayer
+  - first:
+      74: 7401796
+    second: plinth 2|ventilator hose output004|Take 001|BaseLayer
+  - first:
+      74: 7401798
+    second: plinth 2|ventilator hose support 004|Take 001|BaseLayer
+  - first:
+      74: 7401800
+    second: plinth 2|ventilator hose support 005|Take 001|BaseLayer
+  - first:
+      74: 7401802
+    second: plinth 2|ventilator hose support001|Take 001|BaseLayer
+  - first:
+      74: 7401804
+    second: plinth 2|ventilator large button001|Take 001|BaseLayer
+  - first:
+      74: 7401806
+    second: plinth 2|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7401808
+    second: plinth 2|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+  - first:
+      74: 7401810
+    second: plinth 2|Ventilator_main_body001|Take 001|BaseLayer
+  - first:
+      74: 7401812
+    second: plinth 2|Ventilator_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7401814
+    second: plinth 2|Ventilator_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7401816
+    second: plinth 2|Ventilator_wheel005|Take 001|BaseLayer.001
+  - first:
+      74: 7401818
+    second: plinth 2|Ventilator_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7401820
+    second: plinth 2|Ventilator_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7401822
+    second: plinth 2|ventilatorHose006|Take 001|BaseLayer
+  - first:
+      74: 7401824
+    second: plinth 2|ventilatorHose007|Take 001|BaseLayer
+  - first:
+      74: 7401826
+    second: plinth 2|ventilatorHose008|Take 001|BaseLayer
+  - first:
+      74: 7401828
+    second: plinth 2|ventilatorHose009|Take 001|BaseLayer
+  - first:
+      74: 7401830
+    second: plinth 2|ventilatorHose010|Take 001|BaseLayer
+  - first:
+      74: 7401832
+    second: plinth 2|vga slot031|Take 001|BaseLayer
+  - first:
+      74: 7401834
+    second: plinth 2|vga slot032|Take 001|BaseLayer
+  - first:
+      74: 7401836
+    second: plinth 2|vga slot033|Take 001|BaseLayer
+  - first:
+      74: 7401838
+    second: plinth 2|vga slot034|Take 001|BaseLayer
+  - first:
+      74: 7401840
+    second: plinth 2|vga slot035|Take 001|BaseLayer
+  - first:
+      74: 7401842
+    second: plinth 2|walls|Take 001|BaseLayer
+  - first:
+      74: 7401844
+    second: plinth 2|WardConsole001|Take 001|BaseLayer
+  - first:
+      74: 7401846
+    second: plinth 2|warmer_lamp016|Take 001|BaseLayer
+  - first:
+      74: 7401848
+    second: plinth 2|warmer_lamp017|Take 001|BaseLayer
+  - first:
+      74: 7401850
+    second: plinth 2|Warmer_lamp_blades016|Take 001|BaseLayer
+  - first:
+      74: 7401852
+    second: plinth 2|Warmer_lamp_blades017|Take 001|BaseLayer
+  - first:
+      74: 7401854
+    second: plinth 2|warmer_lamp_glass016|Take 001|BaseLayer
+  - first:
+      74: 7401856
+    second: plinth 2|warmer_lamp_glass017|Take 001|BaseLayer
+  - first:
+      74: 7401858
+    second: plinth 2|warmer_lamp_shade016|Take 001|BaseLayer
+  - first:
+      74: 7401860
+    second: plinth 2|warmer_lamp_shade017|Take 001|BaseLayer
+  - first:
+      74: 7401862
+    second: plinth 2|wheel044|Take 001|BaseLayer
+  - first:
+      74: 7401864
+    second: plinth 2|wheel044|Take 001|BaseLayer.001
+  - first:
+      74: 7401866
+    second: plinth 2|wheel045|Take 001|BaseLayer
+  - first:
+      74: 7401868
+    second: plinth 2|wheel045|Take 001|BaseLayer.001
+  - first:
+      74: 7401870
+    second: plinth 2|wheel046|Take 001|BaseLayer
+  - first:
+      74: 7401872
+    second: plinth 2|wheel047|Take 001|BaseLayer
+  - first:
+      74: 7401874
+    second: plinth 2|wheel048|Take 001|BaseLayer
+  - first:
+      74: 7401876
+    second: plinth 2|wheel049|Take 001|BaseLayer
+  - first:
+      74: 7401878
+    second: plinth 2|wheel050|Take 001|BaseLayer
+  - first:
+      74: 7401880
+    second: plinth 2|wheel051|Take 001|BaseLayer
+  - first:
+      74: 7401882
+    second: plinth 2|wheel052|Take 001|BaseLayer
+  - first:
+      74: 7401884
+    second: plinth 2|Wheel_arm009|Take 001|BaseLayer
+  - first:
+      74: 7401886
+    second: plinth 2|Wheel_arm010|Take 001|BaseLayer
+  - first:
+      74: 7401888
+    second: plinth 2|Wheel_arm010|Take 001|BaseLayer.001
+  - first:
+      74: 7401890
+    second: plinth 2|Wheel_arm011|Take 001|BaseLayer
+  - first:
+      74: 7401892
+    second: plinth 2|Wheel_arm012|Take 001|BaseLayer
+  - first:
+      74: 7401894
+    second: plinth 2|wheel_ax008|Take 001|BaseLayer
+  - first:
+      74: 7401896
+    second: plinth 2|wheel_ax009|Take 001|BaseLayer
+  - first:
+      74: 7401898
+    second: plinth 2|wheel_ax009|Take 001|BaseLayer.001
+  - first:
+      74: 7401900
+    second: plinth 2|wheel_ax010|Take 001|BaseLayer
+  - first:
+      74: 7401902
+    second: plinth 2|wheel_ax011|Take 001|BaseLayer
+  - first:
+      74: 7401904
+    second: plinth 2|wheel_ax012|Take 001|BaseLayer
+  - first:
+      74: 7401906
+    second: plinth 2|wheel_ax013|Take 001|BaseLayer
+  - first:
+      74: 7401908
+    second: plinth 2|wheel_ax014|Take 001|BaseLayer
+  - first:
+      74: 7401910
+    second: plinth 2|wheel_ax015|Take 001|BaseLayer
+  - first:
+      74: 7401912
+    second: plinth 2|wheel_cover005|Take 001|BaseLayer
+  - first:
+      74: 7401914
+    second: plinth 2|wheel_cover006|Take 001|BaseLayer
+  - first:
+      74: 7401916
+    second: plinth 2|wheel_cover007|Take 001|BaseLayer
+  - first:
+      74: 7401918
+    second: plinth 2|wheel_cover008|Take 001|BaseLayer
+  - first:
+      74: 7401920
+    second: plinth 2|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7401922
+    second: plinth 2|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7401924
+    second: plinth 2|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7401926
+    second: plinth 2|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7401928
+    second: plinth 2|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+  - first:
+      74: 7401930
+    second: plinth 2|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+  - first:
+      74: 7401932
+    second: plinth 2|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7401934
+    second: plinth 2|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer.001
+  - first:
+      74: 7401936
+    second: plinth 2|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7401938
+    second: plinth 2|Wheel_Hospital_bed118|Take 001|BaseLayer
+  - first:
+      74: 7401940
+    second: plinth 2|Wheel_Hospital_bed119|Take 001|BaseLayer
+  - first:
+      74: 7401942
+    second: plinth 2|Wheel_Hospital_bed120|Take 001|BaseLayer
+  - first:
+      74: 7401944
+    second: plinth 2|Wheel_Hospital_bed121|Take 001|BaseLayer
+  - first:
+      74: 7401946
+    second: plinth 2|Wheel_Hospital_bed122|Take 001|BaseLayer
+  - first:
+      74: 7401948
+    second: plinth 2|Wheel_Hospital_bed123|Take 001|BaseLayer
+  - first:
+      74: 7401950
+    second: plinth 2|Wheel_Hospital_bed124|Take 001|BaseLayer
+  - first:
+      74: 7401952
+    second: plinth 2|Wheel_Hospital_bed125|Take 001|BaseLayer
+  - first:
+      74: 7401954
+    second: plinth 2|Wheel_Hospital_bed126|Take 001|BaseLayer
+  - first:
+      74: 7401956
+    second: plinth 2|Wheel_Hospital_bed127|Take 001|BaseLayer
+  - first:
+      74: 7401958
+    second: plinth 2|Wheel_Hospital_bed128|Take 001|BaseLayer
+  - first:
+      74: 7401960
+    second: plinth 2|Wheel_Hospital_bed129|Take 001|BaseLayer
+  - first:
+      74: 7401962
+    second: plinth 2|Wheel_Hospital_bed130|Take 001|BaseLayer
+  - first:
+      74: 7401964
+    second: plinth 2|Wheel_Hospital_bed130|Take 001|BaseLayer.001
+  - first:
+      74: 7401966
+    second: plinth 2|Wheel_Hospital_bed131|Take 001|BaseLayer
+  - first:
+      74: 7401968
+    second: plinth 2|Wheel_Hospital_bed131|Take 001|BaseLayer.001
+  - first:
+      74: 7401970
+    second: plinth 2|Wheel_Hospital_bed132|Take 001|BaseLayer
+  - first:
+      74: 7401972
+    second: plinth 2|Wheel_Hospital_bed133|Take 001|BaseLayer
+  - first:
+      74: 7401974
+    second: plinth 2|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+  - first:
+      74: 7401976
+    second: plinth 2|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+  - first:
+      74: 7401978
+    second: plinth 2|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+  - first:
+      74: 7401980
+    second: plinth 2|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+  - first:
+      74: 7401982
+    second: plinth 2|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+  - first:
+      74: 7401984
+    second: plinth 2|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+  - first:
+      74: 7401986
+    second: plinth 2|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+  - first:
+      74: 7401988
+    second: plinth 2|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+  - first:
+      74: 7401990
+    second: plinth 2|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+  - first:
+      74: 7401992
+    second: plinth 2|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+  - first:
+      74: 7401994
+    second: plinth 2|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+  - first:
+      74: 7401996
+    second: plinth 2|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+  - first:
+      74: 7401998
+    second: plinth 2|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+  - first:
+      74: 7402000
+    second: plinth 2|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+  - first:
+      74: 7402002
+    second: plinth 2|Wheel_Hospital_bed_cap129|Take 001|BaseLayer.001
+  - first:
+      74: 7402004
+    second: plinth 2|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+  - first:
+      74: 7402006
+    second: plinth 2|Wheel_Hospital_bed_cap130|Take 001|BaseLayer.001
+  - first:
+      74: 7402008
+    second: plinth 2|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+  - first:
+      74: 7402010
+    second: plinth 2|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+  - first:
+      74: 7402012
+    second: plinth 2|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+  - first:
+      74: 7402014
+    second: plinth 2|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+  - first:
+      74: 7402016
+    second: plinth 2|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+  - first:
+      74: 7402018
+    second: plinth 2|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+  - first:
+      74: 7402020
+    second: plinth 2|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+  - first:
+      74: 7402022
+    second: plinth 2|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+  - first:
+      74: 7402024
+    second: plinth 2|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+  - first:
+      74: 7402026
+    second: plinth 2|Wheel_Hospital_bed_case059|Take 001|BaseLayer.001
+  - first:
+      74: 7402028
+    second: plinth 2|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+  - first:
+      74: 7402030
+    second: plinth 2|wheel_rubber007|Take 001|BaseLayer
+  - first:
+      74: 7402032
+    second: plinth 2|wheel_rubber008|Take 001|BaseLayer
+  - first:
+      74: 7402034
+    second: plinth 2|wheel_rubber008|Take 001|BaseLayer.001
+  - first:
+      74: 7402036
+    second: plinth 2|wheel_rubber009|Take 001|BaseLayer
+  - first:
+      74: 7402038
+    second: plinth 2|wheel_rubber010|Take 001|BaseLayer
+  - first:
+      74: 7402040
+    second: plinth 2|wheel_rubber011|Take 001|BaseLayer
+  - first:
+      74: 7402042
+    second: plinth 2|wheel_rubber012|Take 001|BaseLayer
+  - first:
+      74: 7402044
+    second: plinth 2|wheel_rubber013|Take 001|BaseLayer
+  - first:
+      74: 7402046
+    second: plinth 2|wheel_rubber014|Take 001|BaseLayer
+  - first:
+      74: 7402048
+    second: plinth 2|wheelCenterPivot004|Take 001|BaseLayer
+  - first:
+      74: 7402050
+    second: plinth 2|wheelCenterPivot005|Take 001|BaseLayer
+  - first:
+      74: 7402052
+    second: plinth 2|wheelCenterPivot005|Take 001|BaseLayer.001
+  - first:
+      74: 7402054
+    second: plinth 2|wheelCenterPivot006|Take 001|BaseLayer
+  - first:
+      74: 7402056
+    second: plinth 2|wheelCenterPivot007|Take 001|BaseLayer
+  - first:
+      74: 7402058
+    second: plinth 2|wooden floor|Take 001|BaseLayer
+  - first:
+      74: 7402060
+    second: plinth 2|wooden floor|Take 001|BaseLayer.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: -6424746641542323352
+    second: plinth 2|Box847|Take 001|BaseLayer
+  - first:
+      74: -976228190310411326
+    second: plinth 2|ceilung|Take 001|BaseLayer
+  - first:
+      74: -4210826419959813802
+    second: plinth 2|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7184286684334230920
+    second: plinth 2|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7548734656136061092
+    second: plinth 2|Object4483|Take 001|BaseLayer
+  - first:
+      74: 885318750470629892
+    second: plinth 2|Object4491|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

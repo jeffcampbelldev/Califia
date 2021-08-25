@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 7e368e1a69213bc46bfb3d217b0a7243
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 6127717547175655033
+    second: Plane015|Basic Wall Generic - 6" [158853]|Take 001|BaseLayer
+  - first:
+      74: -3248210292582469216
+    second: Plane015|Basic Wall Generic - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -2378980347309489335
+    second: Plane015|Basic Wall Generic - 6" [158855]|Take 001|BaseLayer
+  - first:
+      74: -5168148595125513573
+    second: Plane015|Basic Wall Generic - 6" [158856]|Take 001|BaseLayer
+  - first:
+      74: 9119479102738844527
+    second: Plane015|Basic Wall Interior - 3 1/8" Partition (1-hr) [242614]|Take
+      001
+  - first:
+      74: -6356738807991280910
+    second: Plane015|Basic Wall Interior - 3 1/8" Partition (1-hr) [242685]|Take
+      001
+  - first:
+      74: -2558038063549844159
+    second: Plane015|Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Take
+      001
+  - first:
+      74: -1022106764461131737
+    second: Plane015|Cart-Laptop_Reed Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: 8680425994895611202
+    second: Plane015|Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -7616684311793218903
+    second: Plane015|Compound Ceiling GWB on Mtl. Stud [242839]|Take 001|BaseLayer
+  - first:
+      74: -2726918420272736408
+    second: Plane015|Computer_LCD_Reed Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: 3286132847902637207
+    second: Plane015|Door_Vision-Panel_Reed Door_Vision-Panel_Reed [198105]|Take
+      001
+  - first:
+      74: 7593932930653298707
+    second: Plane015|Flat_Panel_TV_42 40 inch [228411]|Take 001|BaseLayer
+  - first:
+      74: -31700458564210780
+    second: Plane015|Floor Conc - 6" - Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 8885264950777014293
+    second: Plane015|Floor Conc - 6" - Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 3321143412123958295
+    second: Plane015|Floor Conc - 6" - Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: -5295787413040092344
+    second: Plane015|Floor Conc - 6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 4469297379730421206
+    second: Plane015|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [195098]|Tak
+  - first:
+      74: 2095320467395843367
+    second: Plane015|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [211522]|Tak
+  - first:
+      74: -4091902754783369960
+    second: Plane015|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 2221777764161839304
+    second: Plane015|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [242180]|Tak
+  - first:
+      74: -8754071523132522583
+    second: Plane015|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [318757]|Tak
+  - first:
+      74: 2085913373150036641
+    second: Plane015|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -1554926640674937025
+    second: Plane015|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195214]|Take 001|B
+  - first:
+      74: -1929391572731829656
+    second: Plane015|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: 2450640467786285539
+    second: Plane015|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195216]|Take 001|B
+  - first:
+      74: -6641769365660930873
+    second: Plane015|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen [243262]|Take
+      001
+  - first:
+      74: 3977448736045129829
+    second: Plane015|Plane015|Take 001|BaseLayer
+  - first:
+      74: 7028440529048108801
+    second: Plane015|Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: 4254062814816271534
+    second: Plane015|Surgery Stool Surgery Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: -6396220377512222872
+    second: Plane015|Surgery Stool Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -8243983834599608354
+    second: Plane015|Surgery Stool Surgery Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: -1640433719436826013
+    second: Plane015|Table-Overbed_Reed Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: 1202660415382661086
+    second: Plane015|Ventilator-2_Reed Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: 8317558905483119880
+    second: Plane015|Ventilator_Reed Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: -3568020075320406025
+    second: Plane015|w-Anesthesia_Tower 26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -4339698176254067590
+    second: Plane015|w-Contamination Tray w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: -3193176182294195454
+    second: Plane015|w-Med Cabinet - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -1022182425212832380
+    second: Plane015|w-Medical Equipment - ElectroSurgical Generator ESU w-M_2cc8069
+  - first:
+      74: 656071246099113525
+    second: Plane015|w-Medical Equipment - Olympus Xenon Light Source Contro_875c195
+  - first:
+      74: -8883047623178698282
+    second: Plane015|w-Medical Equipment - SurgeryRoom Psymograph w-Medical _d4ab6fd
+  - first:
+      74: -3443061500840077957
+    second: Plane015|w-Medical Equipment - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: 2448443202484882689
+    second: Plane015|w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -4356553525877244670
+    second: Plane015|w-Medical Equipment -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -976493898634625506
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -780977521265386425
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: 2381498407021701187
+    second: Plane015|Compound Ceiling GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: -8792353368851714588
+    second: Plane015|Double_Flush_-_Unequal 72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: 381600293942721627
+    second: Plane015|Plane001|Take 001|BaseLayer
+  - first:
+      74: -1751751813612082202
+    second: Plane015|Plane002|Take 001|BaseLayer
+  - first:
+      74: -714461476483986543
+    second: Plane015|Plane003|Take 001|BaseLayer
+  - first:
+      74: 674982835175723063
+    second: Plane015|Plane004|Take 001|BaseLayer
+  - first:
+      74: -1603477674845966928
+    second: Plane015|Plane005|Take 001|BaseLayer
+  - first:
+      74: -9190933970220132558
+    second: Plane015|Plane006|Take 001|BaseLayer
+  - first:
+      74: 2559813991168020217
+    second: Plane015|Plane007|Take 001|BaseLayer
+  - first:
+      74: 1025581415918848832
+    second: Plane015|Plane008|Take 001|BaseLayer
+  - first:
+      74: -3867022039999079069
+    second: Plane015|Plane009|Take 001|BaseLayer
+  - first:
+      74: -3316997789886600703
+    second: Plane015|Plane014|Take 001|BaseLayer
+  - first:
+      74: -5158503338138577560
+    second: Plane015|Rauland - Flush mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 8187589546638974488
+    second: Plane015|w-Fire Alarm Box Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: -7997559213294741843
+    second: Plane015|w-SurgeryRoom 24inc-Diffuser - Titus TLF-AA w-SurgeryRo_3a88bd0
+  - first:
+      74: 106396624084245685
+    second: Plane015|w-SurgeryRoom 24inc-Diffuser - Titus TLF-AA w-SurgeryRo_616be44
+  - first:
+      74: -2379355474468964722
+    second: Plane015|w-SurgeryRoom 24inc-Diffuser - Titus TLF-AA w-SurgeryRo_b985b54
+  - first:
+      74: -2028900705795138272
+    second: Plane015|w-SurgeryRoom 24inc-Diffuser - Titus TLF-AA w-SurgeryRo_f529a41
+  - first:
+      74: -7610427117124749156
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_1183ffe
+  - first:
+      74: 6369101373209661348
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_491ff65
+  - first:
+      74: -6745151737593110106
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_663f02c
+  - first:
+      74: -6137837075292373283
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_7ce1703
+  - first:
+      74: 3323007388594976258
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_8d5a40d
+  - first:
+      74: 4590582524870457895
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_920575c
+  - first:
+      74: -4430229097605358715
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_9f084db
+  - first:
+      74: -863368286256565984
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_dad0568
+  - first:
+      74: -4466988833948689526
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_e5da27a
+  - first:
+      74: 4744465519814309432
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  - first:
+      74: -4504777506208140136
+    second: Plane015|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_fb61b1a
+  - first:
+      74: 9121936499520704661
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_06d6b53
+  - first:
+      74: -7034792498216123412
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_2ef.000
+  - first:
+      74: 4775026388537295553
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_4d0.000
+  - first:
+      74: 1459257191326095321
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_b19db64
+  - first:
+      74: 3821029610575490098
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_ebaec81
+  - first:
+      74: 1508364481881804075
+    second: Plane015|w-SurgeryRoom Diffuser - Titus TLF-AA w-SurgeryRoom Dif_eda4d66
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

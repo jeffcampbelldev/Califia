@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: e4c5de268190539468bd65d8362c11ef
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7974956651256265665
+    second: Hand.001|Hand|Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camer_ee
+  - first:
+      74: -6390262032356655275
+    second: Hand.001|Hand|Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camer_dc
+  - first:
+      74: -7513026060160686626
+    second: Hand.001|Hand|Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camer_37
+  - first:
+      74: -5265546104199606055
+    second: Hand.001|Hand|Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Ta_34
+  - first:
+      74: -6718421448368867397
+    second: Hand.001|Hand|Hand|Hand|Hand|Directional Light.001|Take 001|Layer 001_11
+  - first:
+      74: -4019679700212439665
+    second: Hand.001|Hand|Hand|Hand|Hand|Directional Light.002|Take 001|Layer 001_99
+  - first:
+      74: 2404350672468484709
+    second: Hand.001|Hand|Hand|Hand|Hand|Directional Light.003|Take 001|Layer 001_40
+  - first:
+      74: 1627445285636948053
+    second: Hand.001|Hand|Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Han_de
+  - first:
+      74: -4066856328372983763
+    second: Hand.001|Hand|Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|H_cd
+  - first:
+      74: 8022313624539984263
+    second: Hand.001|Hand|Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|H_ec
+  - first:
+      74: 4734747197471535924
+    second: Hand.001|Hand|Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer 001_df
+  - first:
+      74: -4231211924222919171
+    second: Hand.001|Hand|Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer 001_ac
+  - first:
+      74: 2394735500512100563
+    second: Hand.001|Hand|Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Han_28
+  - first:
+      74: 5698388079447575617
+    second: Hand.001|Hand|Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Han_57
+  - first:
+      74: 3056043367242436001
+    second: Hand.001|Hand|Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Han_7e
+  - first:
+      74: -2572021694457105945
+    second: Hand.001|Hand|Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Te_39
+  - first:
+      74: 626037863895776395
+    second: Hand.001|PlaneAction
+  - first:
+      74: -4639323031208925365
+    second: Hand.001|PlaneAction.001
+  - first:
+      74: 2014313321451221874
+    second: Hand.001|PlayerCameraAction
+  - first:
+      74: 6093225430303232669
+    second: Armature|ArmatureAction.002
+  - first:
+      74: 8542783494169761753
+    second: Armature|Hand|Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camer_ee
+  - first:
+      74: -3280028409035423444
+    second: Armature|Hand|Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camer_dc
+  - first:
+      74: 833706668400618938
+    second: Armature|Hand|Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camer_37
+  - first:
+      74: -8442719080499723443
+    second: Armature|Hand|Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Ta_34
+  - first:
+      74: 865524437227359771
+    second: Armature|Hand|Hand|Hand|Hand|Directional Light.001|Take 001|Layer 001_11
+  - first:
+      74: 8829260912381118537
+    second: Armature|Hand|Hand|Hand|Hand|Directional Light.002|Take 001|Layer 001_99
+  - first:
+      74: 313129159894689179
+    second: Armature|Hand|Hand|Hand|Hand|Directional Light.003|Take 001|Layer 001_40
+  - first:
+      74: 8474511860109617526
+    second: Armature|Hand|Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Han_de
+  - first:
+      74: -4456421471812391240
+    second: Armature|Hand|Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|H_cd
+  - first:
+      74: -2198943294529824368
+    second: Armature|Hand|Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|H_ec
+  - first:
+      74: -4954075243592817418
+    second: Armature|Hand|Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer 001_df
+  - first:
+      74: -3947346084682263695
+    second: Armature|Hand|Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer 001_ac
+  - first:
+      74: -2985714613465312898
+    second: Armature|Hand|Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Han_28
+  - first:
+      74: 3056292445223992997
+    second: Armature|Hand|Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Han_57
+  - first:
+      74: 4144564097179441338
+    second: Armature|Hand|Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Han_7e
+  - first:
+      74: -2573711923317777787
+    second: Armature|Hand|Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Te_39
+  - first:
+      74: 2920023865792766560
+    second: Armature|PlaneAction
+  - first:
+      74: -3722548421079296135
+    second: Armature|PlaneAction.001
+  - first:
+      74: 1109867621332361883
+    second: Armature|PlayerCameraAction
+  - first:
+      74: -6085618037705311261
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camer_ee
+  - first:
+      74: 4525848520450721746
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camer_dc
+  - first:
+      74: 7846458285047570628
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camer_37
+  - first:
+      74: 7899244867225772002
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Ta_34
+  - first:
+      74: 7895753894310243822
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Directional Light.001|Take 001|Layer
+      001_11
+  - first:
+      74: -2504080516790889275
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Directional Light.002|Take 001|Layer
+      001_99
+  - first:
+      74: -435866488596022760
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Directional Light.003|Take 001|Layer
+      001_40
+  - first:
+      74: 4805376003649691865
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Han_de
+  - first:
+      74: -1888066135632373936
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|H_cd
+  - first:
+      74: -4843488524729088996
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|H_ec
+  - first:
+      74: -6759904534786789722
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer
+      001_df
+  - first:
+      74: 7269054865642016099
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer
+      001_ac
+  - first:
+      74: 5053175926642762457
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Han_28
+  - first:
+      74: 816464383600867005
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Han_57
+  - first:
+      74: -1995470059517711657
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Han_7e
+  - first:
+      74: 8623535088784747241
+    second: PlayerCamera|Hand|Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Te_39
+  - first:
+      74: -8769853825023757246
+    second: PlayerCamera|PlaneAction
+  - first:
+      74: 3594242673706365453
+    second: PlayerCamera|PlaneAction.001
+  - first:
+      74: 6734452474622168981
+    second: PlayerCamera|PlayerCameraAction
+  - first:
+      74: -2200071392438515502
+    second: Plane|Hand|Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camer_ee
+  - first:
+      74: 596212747546736511
+    second: Plane|Hand|Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camer_dc
+  - first:
+      74: -8753326911024283355
+    second: Plane|Hand|Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camer_37
+  - first:
+      74: -2451074164327368073
+    second: Plane|Hand|Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Ta_34
+  - first:
+      74: 4887777093522343356
+    second: Plane|Hand|Hand|Hand|Hand|Directional Light.001|Take 001|Layer 001_11
+  - first:
+      74: -4878130014623243264
+    second: Plane|Hand|Hand|Hand|Hand|Directional Light.002|Take 001|Layer 001_99
+  - first:
+      74: -1642776024640259903
+    second: Plane|Hand|Hand|Hand|Hand|Directional Light.003|Take 001|Layer 001_40
+  - first:
+      74: -9022358011728244994
+    second: Plane|Hand|Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Han_de
+  - first:
+      74: -5388341911341037817
+    second: Plane|Hand|Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|H_cd
+  - first:
+      74: -2662859904101116865
+    second: Plane|Hand|Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|H_ec
+  - first:
+      74: 8015457873222240182
+    second: Plane|Hand|Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer 001_df
+  - first:
+      74: 7065130719821705772
+    second: Plane|Hand|Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer 001_ac
+  - first:
+      74: 7931529233612515194
+    second: Plane|Hand|Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Han_28
+  - first:
+      74: 7739657398393485516
+    second: Plane|Hand|Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Han_57
+  - first:
+      74: -6612097990090055902
+    second: Plane|Hand|Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Han_7e
+  - first:
+      74: 8970876283110802993
+    second: Plane|Hand|Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Te_39
+  - first:
+      74: -5187248419258813496
+    second: Plane|PlaneAction
+  - first:
+      74: -7218490717262395308
+    second: Plane|PlaneAction.001
+  - first:
+      74: -3459748535476023638
+    second: Plane|PlayerCameraAction
+  - first:
+      74: -568602289439765888
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camer_ee
+  - first:
+      74: 6019027202950599906
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camer_dc
+  - first:
+      74: 2698766154774655088
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camer_37
+  - first:
+      74: -3597847339401104803
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Ta_34
+  - first:
+      74: 956327830497503679
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Directional Light.001|Take 001|Layer 001_11
+  - first:
+      74: -3861757104485859005
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Directional Light.002|Take 001|Layer 001_99
+  - first:
+      74: -2552100352974474110
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Directional Light.003|Take 001|Layer 001_40
+  - first:
+      74: 6813556991756147943
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Han_de
+  - first:
+      74: -5176099320319205482
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|H_cd
+  - first:
+      74: 1071821112528591207
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|H_ec
+  - first:
+      74: 8081962593548051394
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer 001_df
+  - first:
+      74: 256664376362084758
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer 001_ac
+  - first:
+      74: -2112311416679747797
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Han_28
+  - first:
+      74: 4372945225239319411
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Han_57
+  - first:
+      74: 5388970796619862414
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Han_7e
+  - first:
+      74: 3471684147958383485
+    second: SurgeonRig|Hand|Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Te_39
+  - first:
+      74: -3180859917899263500
+    second: SurgeonRig|PlaneAction
+  - first:
+      74: -6612527626132226109
+    second: SurgeonRig|PlaneAction.001
+  - first:
+      74: -3340985310443419087
+    second: SurgeonRig|PlayerCameraAction
+  - first:
+      74: 6600008285188543175
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Action|SurgeonRig|Action
+  - first:
+      74: -6171383654270541784
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Camera.001|Take 001|Layer 001|SurgeonRig|
+  - first:
+      74: -868931897549688174
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Camera|Take 001|Layer 001|SurgeonRig|Came
+  - first:
+      74: 6097008927453848757
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Default.001|SurgeonRig|Default.001
+  - first:
+      74: -1098007921219269201
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Default|SurgeonRig|Default
+  - first:
+      74: 1265322089011631535
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Directional Light.001|Take 001|Layer
+      001|
+  - first:
+      74: -3580373606545711918
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Directional Light|Take 001|Layer 001|Surg
+  - first:
+      74: 1815068457719605407
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Doctor 11 Operation|Take 001|Layer 001|Su
+  - first:
+      74: -3359296629551209394
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Nurse 11 Operation|Take 001|Layer 001|Sur
+  - first:
+      74: 1625503273786704139
+    second: SurgeonRig|SurgeonRig|SurgeonRig|SurgeonRigAction|SurgeonRig|SurgeonRigAct
+  - first:
+      74: -7748241069054970041
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Texture Group.001|Take 001|Layer 001|Surg
+  - first:
+      74: -6305550829000351901
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Texture Group|Take 001|Layer 001|SurgeonR
+  - first:
+      74: -4728239203087757158
+    second: SurgeonRig|SurgeonRig|SurgeonRig|Walk|SurgeonRig|Walk
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

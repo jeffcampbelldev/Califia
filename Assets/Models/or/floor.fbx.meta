@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 42d681c53daf62e47ac05eca29e51178
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 181747653702040679
+    second: Floor|Floor Conc - 6" - Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: -1167467731807681686
+    second: Floor|Floor Conc - 6" - Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: -6689719718414064794
+    second: Floor|Floor Conc - 6" - Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 7925756411785872336
+    second: Floor|Floor Conc - 6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 334657180851978312
+    second: Floor|Basic Wall Generic - 6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -3155203210095763377
+    second: Floor|Basic Wall Interior - 3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: 29080917181683494
+    second: Floor|Cart-Laptop_Reed Cart-Laptop_Reed [160984]|Take 001|BaseLayer
+  - first:
+      74: -3158414243760675863
+    second: Floor|Cart_Utility_Reed 35In H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -6182357646735331797
+    second: Floor|Compound Ceiling GWB on Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: -3145941763879525106
+    second: Floor|Computer_LCD_Reed Standard [160990]|Take 001|BaseLayer
+  - first:
+      74: 7054936063043933671
+    second: Floor|Door_Vision-Panel_Reed Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: -7967334157234567423
+    second: Floor|Double_Flush_-_Unequal 72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: -829894639715388114
+    second: Floor|Handrail_Wall_Hospital_Reed Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 4243646864785650030
+    second: Floor|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -3287658090704050842
+    second: Floor|Med-Gas-Outlet_MEP_Reed Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: 1322147943428426099
+    second: Floor|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: -1989774831049461473
+    second: Floor|Plane015|Take 001|BaseLayer
+  - first:
+      74: 7367643457736924073
+    second: Floor|Rauland - Flush mounted - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 6883049564134853441
+    second: Floor|Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: -2583786270523479474
+    second: Floor|Surgery Stool Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: 2763996959225018486
+    second: Floor|Table-Overbed_Reed Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: 738549537909344718
+    second: Floor|Ventilator-2_Reed Ventilator-2_Reed [160977]|Take 001|BaseLayer
+  - first:
+      74: -6518493053098464163
+    second: Floor|Ventilator_Reed Ventilator_Reed [160979]|Take 001|BaseLayer
+  - first:
+      74: 7933065119479259409
+    second: Floor|w-Anesthesia_Tower 26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -8931525255439952104
+    second: Floor|w-Fire Alarm Box Fire Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 543194807400322966
+    second: Floor|w-Med Cabinet - Tall 49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: 7675508996282192488
+    second: Floor|w-Medical Equipment - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: 6213930711532465856
+    second: Floor|w-Medical Equipment -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: 8158821435009865697
+    second: Floor|w-SurgeryRoom 48inch Light Fixture w-SurgeryRoom 48inch_f35eb91
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: da608383258cd1b4392ba160f878b2b5
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1722034748867490998
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Basic Wall Generic -
+      6" [158853]|Take 001|BaseLayer
+  - first:
+      74: -4378600089017796605
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Basic Wall Generic -
+      6" [158854]|Take 001|BaseLayer
+  - first:
+      74: -947268040579940492
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Basic Wall Generic -
+      6" [158855]|Take 001|BaseLayer
+  - first:
+      74: -7052994440531307412
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Basic Wall Generic -
+      6" [158856]|Take 001|BaseLayer
+  - first:
+      74: -924034810681429099
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Cart-Laptop_Reed Cart-Laptop_Reed
+      [160984]|Take 001|BaseLayer
+  - first:
+      74: -4641691514125591587
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Cart_Utility_Reed 35In
+      H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: -239488804052520804
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Computer_LCD_Reed Standard
+      [160990]|Take 001|BaseLayer
+  - first:
+      74: -6516695866211233823
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Floor Conc - 6" - Rubber
+      Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: -3666852766606882773
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: -4275115271873623904
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: 2829974439005804483
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Floor Conc - 6" - Rubber
+      Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 3332933395635044979
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [195098]|Tak
+  - first:
+      74: -7229163650859372423
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [211522]|Tak
+  - first:
+      74: -6393768465510351798
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: -7376474891911282327
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242180]|Tak
+  - first:
+      74: -5063898156097619042
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [318757]|Tak
+  - first:
+      74: -652566107958706753
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 5428062844111263469
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: -7346885501296675649
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Stand-Infusion_Reed
+      Stand-Infusion_Reed [160983]|Take 001|BaseL
+  - first:
+      74: 2890996265985599142
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Surgery Stool Surgery
+      Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: -4325015407309126609
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Surgery Stool Surgery
+      Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -3523825944247501970
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Surgery Stool Surgery
+      Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: 5293239036710361783
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: -3833637826944202968
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: 8404683978648259792
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|Ventilator_Reed Ventilator_Reed
+      [160979]|Take 001|BaseLayer
+  - first:
+      74: -384230558225107796
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Anesthesia_Tower 26"
+      x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -9076272609778297513
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Contamination Tray
+      w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: 8836808458719470625
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Med Cabinet - Tall
+      49.5" [262813]|Take 001|BaseLayer
+  - first:
+      74: -2597924213926533608
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      - ElectroSurgical Generator ESU w-M_2cc8069
+  - first:
+      74: 4884567703618308229
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      - Olympus Xenon Light Source Contro_875c195
+  - first:
+      74: 3558278282478813059
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      - SurgeryRoom Psymograph w-Medical _d4ab6fd
+  - first:
+      74: -5888044864970720581
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: 8955276445762390998
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -5228112805140790521
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-Medical Equipment
+      -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -5054903426563989881
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: 2680064865494319930
+    second: Stand-Infusion_Reed Stand-Infusion_Reed [160983]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

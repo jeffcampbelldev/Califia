@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 64b9a21003d267c4abc353dc5678d1fd
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 2627391037564672149
+    second: GasPorts|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 3390903947543371786
+    second: GasPorts|Box847|Take 001|BaseLayer
+  - first:
+      74: 7614309249777915914
+    second: GasPorts|ceilung|Take 001|BaseLayer
+  - first:
+      74: 8181423358300057192
+    second: GasPorts|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 6701979918127435597
+    second: GasPorts|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 5367121908384419509
+    second: GasPorts|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: -3323798946749122802
+    second: GasPorts|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: -9064353290196448691
+    second: GasPorts|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 3494019949188335292
+    second: GasPorts|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 814468821268714480
+    second: GasPorts|mirror2a|Take 001|BaseLayer
+  - first:
+      74: -3653761100855121942
+    second: GasPorts|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: -6169007911180475555
+    second: GasPorts|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 1704391611327874300
+    second: GasPorts|Object4483|Take 001|BaseLayer
+  - first:
+      74: 5005563553912731388
+    second: GasPorts|Object4491|Take 001|BaseLayer
+  - first:
+      74: -7348649873156965688
+    second: GasPorts|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 1158270696411733839
+    second: GasPorts|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 2331423059678826110
+    second: GasPorts|walls|Take 001|BaseLayer
+  - first:
+      74: -809036993576429044
+    second: GasPorts|wooden floor|Take 001|BaseLayer.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

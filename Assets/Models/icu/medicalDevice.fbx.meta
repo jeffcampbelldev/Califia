@@ -1,0 +1,2448 @@
+fileFormatVersion: 2
+guid: 380606f4c32f16e40b9f73eafcd60423
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: monitor screen
+  - first:
+      21: 2100002
+    second: Chrome.004
+  - first:
+      21: 2100004
+    second: surgical white.001
+  - first:
+      21: 2100006
+    second: surgical light black plastic.002
+  - first:
+      21: 2100008
+    second: Aluminum_matted.005
+  - first:
+      21: 2100010
+    second: medical device1
+  - first:
+      21: 2100012
+    second: medical device 03
+  - first:
+      21: 2100014
+    second: medical device 02
+  - first:
+      21: 2100016
+    second: surgical blue plastic.002
+  - first:
+      21: 2100018
+    second: incubator black plastic.005
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: MedicalDevice
+  - first:
+      74: 7400000
+    second: MedicalDevice|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: MedicalDevice|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: MedicalDevice|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: MedicalDevice|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: MedicalDevice|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: MedicalDevice|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: MedicalDevice|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: MedicalDevice|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: MedicalDevice|Back_display_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: MedicalDevice|bedside_table003|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: MedicalDevice|bedside_table_adjuster003|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: MedicalDevice|bedside_table_adjuster_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: MedicalDevice|Bedside_table_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: MedicalDevice|Bedside_table_axis_support005|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: MedicalDevice|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: MedicalDevice|Bedside_table_border003|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: MedicalDevice|Bedside_table_borderedge003|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: MedicalDevice|bedside_table_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: MedicalDevice|bedside_table_handle_support003|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: MedicalDevice|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: MedicalDevice|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: MedicalDevice|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: MedicalDevice|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: MedicalDevice|Bedside_table_support010|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: MedicalDevice|Bedside_table_support011|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: MedicalDevice|Bedside_table_support012|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: MedicalDevice|Bedside_table_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: MedicalDevice|Bedside_table_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: MedicalDevice|Bedside_table_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: MedicalDevice|Bedside_table_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: MedicalDevice|Blue_light001|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: MedicalDevice|bolt424|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: MedicalDevice|bolt425|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: MedicalDevice|bolt426|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: MedicalDevice|bolt427|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: MedicalDevice|bolt431|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: MedicalDevice|bolt443|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: MedicalDevice|bolt444|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: MedicalDevice|bolt445|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: MedicalDevice|bolt446|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: MedicalDevice|bolt447|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: MedicalDevice|bolt448|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: MedicalDevice|bolt449|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: MedicalDevice|bolt450|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: MedicalDevice|bolt451|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: MedicalDevice|bolt452|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: MedicalDevice|bolt453|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: MedicalDevice|bolt454|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: MedicalDevice|bolt455|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: MedicalDevice|bolt456|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: MedicalDevice|bolt457|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: MedicalDevice|bolt458|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: MedicalDevice|bolt459|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: MedicalDevice|bolt460|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: MedicalDevice|bolt461|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: MedicalDevice|bolt462|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: MedicalDevice|bolt463|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: MedicalDevice|bolt464|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: MedicalDevice|bolt465|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: MedicalDevice|bolt466|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: MedicalDevice|bolt467|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: MedicalDevice|bolt468|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: MedicalDevice|bolt469|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: MedicalDevice|bolt470|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: MedicalDevice|bolt471|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: MedicalDevice|bolt472|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: MedicalDevice|bolt473|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: MedicalDevice|bolt474|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: MedicalDevice|bolt475|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: MedicalDevice|bolt476|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: MedicalDevice|bolt477|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: MedicalDevice|bolt478|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: MedicalDevice|bolt479|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: MedicalDevice|bolt480|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: MedicalDevice|bolt481|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: MedicalDevice|bolt482|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: MedicalDevice|bolt483|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: MedicalDevice|bolt484|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: MedicalDevice|bolt485|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: MedicalDevice|bolt486|Take 001|BaseLayer
+  - first:
+      74: 7400160
+    second: MedicalDevice|bolt487|Take 001|BaseLayer
+  - first:
+      74: 7400162
+    second: MedicalDevice|bolt488|Take 001|BaseLayer
+  - first:
+      74: 7400164
+    second: MedicalDevice|bolt489|Take 001|BaseLayer
+  - first:
+      74: 7400166
+    second: MedicalDevice|bolt490|Take 001|BaseLayer
+  - first:
+      74: 7400168
+    second: MedicalDevice|bolt491|Take 001|BaseLayer
+  - first:
+      74: 7400170
+    second: MedicalDevice|bolt492|Take 001|BaseLayer
+  - first:
+      74: 7400172
+    second: MedicalDevice|bolt493|Take 001|BaseLayer
+  - first:
+      74: 7400174
+    second: MedicalDevice|bolt494|Take 001|BaseLayer
+  - first:
+      74: 7400176
+    second: MedicalDevice|bolt496|Take 001|BaseLayer
+  - first:
+      74: 7400178
+    second: MedicalDevice|bolt497|Take 001|BaseLayer
+  - first:
+      74: 7400180
+    second: MedicalDevice|bolt498|Take 001|BaseLayer
+  - first:
+      74: 7400182
+    second: MedicalDevice|bolt499|Take 001|BaseLayer
+  - first:
+      74: 7400184
+    second: MedicalDevice|bolt500|Take 001|BaseLayer
+  - first:
+      74: 7400186
+    second: MedicalDevice|bolt501|Take 001|BaseLayer
+  - first:
+      74: 7400188
+    second: MedicalDevice|bolt502|Take 001|BaseLayer
+  - first:
+      74: 7400190
+    second: MedicalDevice|bolt503|Take 001|BaseLayer
+  - first:
+      74: 7400192
+    second: MedicalDevice|bolt503|Take 001|BaseLayer.001
+  - first:
+      74: 7400194
+    second: MedicalDevice|bolt504|Take 001|BaseLayer
+  - first:
+      74: 7400196
+    second: MedicalDevice|bolt504|Take 001|BaseLayer.001
+  - first:
+      74: 7400198
+    second: MedicalDevice|bolt505|Take 001|BaseLayer
+  - first:
+      74: 7400200
+    second: MedicalDevice|bolt505|Take 001|BaseLayer.001
+  - first:
+      74: 7400202
+    second: MedicalDevice|bolt506|Take 001|BaseLayer
+  - first:
+      74: 7400204
+    second: MedicalDevice|bolt506|Take 001|BaseLayer.001
+  - first:
+      74: 7400206
+    second: MedicalDevice|bolt507|Take 001|BaseLayer
+  - first:
+      74: 7400208
+    second: MedicalDevice|bolt508|Take 001|BaseLayer
+  - first:
+      74: 7400210
+    second: MedicalDevice|bolt509|Take 001|BaseLayer
+  - first:
+      74: 7400212
+    second: MedicalDevice|bolt510|Take 001|BaseLayer
+  - first:
+      74: 7400214
+    second: MedicalDevice|bolt511|Take 001|BaseLayer
+  - first:
+      74: 7400216
+    second: MedicalDevice|bolt512|Take 001|BaseLayer
+  - first:
+      74: 7400218
+    second: MedicalDevice|bolt513|Take 001|BaseLayer
+  - first:
+      74: 7400220
+    second: MedicalDevice|bolt514|Take 001|BaseLayer
+  - first:
+      74: 7400222
+    second: MedicalDevice|bolt515|Take 001|BaseLayer
+  - first:
+      74: 7400224
+    second: MedicalDevice|bolt516|Take 001|BaseLayer
+  - first:
+      74: 7400226
+    second: MedicalDevice|bolt517|Take 001|BaseLayer
+  - first:
+      74: 7400228
+    second: MedicalDevice|bolt518|Take 001|BaseLayer
+  - first:
+      74: 7400230
+    second: MedicalDevice|boom segment 009|Take 001|BaseLayer
+  - first:
+      74: 7400232
+    second: MedicalDevice|boom segment 010|Take 001|BaseLayer
+  - first:
+      74: 7400234
+    second: MedicalDevice|boom segment 011|Take 001|BaseLayer
+  - first:
+      74: 7400236
+    second: MedicalDevice|BoomArm001|Take 001|BaseLayer
+  - first:
+      74: 7400238
+    second: MedicalDevice|BoomMonitor002|Take 001|BaseLayer
+  - first:
+      74: 7400240
+    second: MedicalDevice|Box206b007|Take 001|BaseLayer
+  - first:
+      74: 7400242
+    second: MedicalDevice|Box276|Take 001|BaseLayer
+  - first:
+      74: 7400244
+    second: MedicalDevice|Box276|Take 001|BaseLayer.001
+  - first:
+      74: 7400246
+    second: MedicalDevice|Box277|Take 001|BaseLayer
+  - first:
+      74: 7400248
+    second: MedicalDevice|Box278|Take 001|BaseLayer
+  - first:
+      74: 7400250
+    second: MedicalDevice|Box278|Take 001|BaseLayer.001
+  - first:
+      74: 7400252
+    second: MedicalDevice|Box279|Take 001|BaseLayer
+  - first:
+      74: 7400254
+    second: MedicalDevice|Box279|Take 001|BaseLayer.001
+  - first:
+      74: 7400256
+    second: MedicalDevice|Box280|Take 001|BaseLayer
+  - first:
+      74: 7400258
+    second: MedicalDevice|bzt040|Take 001|BaseLayer
+  - first:
+      74: 7400260
+    second: MedicalDevice|bzt040|Take 001|BaseLayer.001
+  - first:
+      74: 7400262
+    second: MedicalDevice|bzt041|Take 001|BaseLayer
+  - first:
+      74: 7400264
+    second: MedicalDevice|bzt041|Take 001|BaseLayer.001
+  - first:
+      74: 7400266
+    second: MedicalDevice|bzt042|Take 001|BaseLayer
+  - first:
+      74: 7400268
+    second: MedicalDevice|bzt042|Take 001|BaseLayer.001
+  - first:
+      74: 7400270
+    second: MedicalDevice|bzt043|Take 001|BaseLayer
+  - first:
+      74: 7400272
+    second: MedicalDevice|bzt043|Take 001|BaseLayer.001
+  - first:
+      74: 7400274
+    second: MedicalDevice|bzt044|Take 001|BaseLayer
+  - first:
+      74: 7400276
+    second: MedicalDevice|bzt044|Take 001|BaseLayer.001
+  - first:
+      74: 7400278
+    second: MedicalDevice|cable005|Take 001|BaseLayer
+  - first:
+      74: 7400280
+    second: MedicalDevice|cable006|Take 001|BaseLayer
+  - first:
+      74: 7400282
+    second: MedicalDevice|cable007|Take 001|BaseLayer
+  - first:
+      74: 7400284
+    second: MedicalDevice|cable008|Take 001|BaseLayer
+  - first:
+      74: 7400286
+    second: MedicalDevice|cable009|Take 001|BaseLayer
+  - first:
+      74: 7400288
+    second: MedicalDevice|card slot001|Take 001|BaseLayer
+  - first:
+      74: 7400290
+    second: MedicalDevice|Circle007|Take 001|BaseLayer
+  - first:
+      74: 7400292
+    second: MedicalDevice|Circle007|Take 001|BaseLayer.001
+  - first:
+      74: 7400294
+    second: MedicalDevice|Clay_Paky_case001|Take 001|BaseLayer
+  - first:
+      74: 7400296
+    second: MedicalDevice|Control_button001|Take 001|BaseLayer
+  - first:
+      74: 7400298
+    second: MedicalDevice|cooler001|Take 001|BaseLayer
+  - first:
+      74: 7400300
+    second: MedicalDevice|Cooler_fan002|Take 001|BaseLayer
+  - first:
+      74: 7400302
+    second: MedicalDevice|Cooler_propeller012|Take 001|BaseLayer
+  - first:
+      74: 7400304
+    second: MedicalDevice|Cooler_propeller013|Take 001|BaseLayer
+  - first:
+      74: 7400306
+    second: MedicalDevice|Cooler_propeller014|Take 001|BaseLayer
+  - first:
+      74: 7400308
+    second: MedicalDevice|Cooler_propeller015|Take 001|BaseLayer
+  - first:
+      74: 7400310
+    second: MedicalDevice|Cooler_propeller016|Take 001|BaseLayer
+  - first:
+      74: 7400312
+    second: MedicalDevice|Cooler_propeller017|Take 001|BaseLayer
+  - first:
+      74: 7400314
+    second: MedicalDevice|curtain_hospital_ward001|Take 001|BaseLayer
+  - first:
+      74: 7400316
+    second: MedicalDevice|curtain_hospital_ward007|Take 001|BaseLayer
+  - first:
+      74: 7400318
+    second: MedicalDevice|curtain_hospital_ward008|Take 001|BaseLayer
+  - first:
+      74: 7400320
+    second: MedicalDevice|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400322
+    second: MedicalDevice|Cylinder04sd007|Take 001|BaseLayer
+  - first:
+      74: 7400324
+    second: MedicalDevice|Cylinder172vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400326
+    second: MedicalDevice|Cylinder4509|Take 001|BaseLayer
+  - first:
+      74: 7400328
+    second: MedicalDevice|Cylinder4510|Take 001|BaseLayer
+  - first:
+      74: 7400330
+    second: MedicalDevice|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400332
+    second: MedicalDevice|Cylinder4511|Take 001|BaseLayer
+  - first:
+      74: 7400334
+    second: MedicalDevice|Cylinder4511|Take 001|BaseLayer.001
+  - first:
+      74: 7400336
+    second: MedicalDevice|Cylinder4512|Take 001|BaseLayer
+  - first:
+      74: 7400338
+    second: MedicalDevice|Cylinder4512|Take 001|BaseLayer.001
+  - first:
+      74: 7400340
+    second: MedicalDevice|Cylinder4513|Take 001|BaseLayer
+  - first:
+      74: 7400342
+    second: MedicalDevice|Cylinder4513|Take 001|BaseLayer.001
+  - first:
+      74: 7400344
+    second: MedicalDevice|Cylinder4514|Take 001|BaseLayer
+  - first:
+      74: 7400346
+    second: MedicalDevice|Cylinder4514|Take 001|BaseLayer.001
+  - first:
+      74: 7400348
+    second: MedicalDevice|Cylinder4515|Take 001|BaseLayer
+  - first:
+      74: 7400350
+    second: MedicalDevice|Cylinder4515|Take 001|BaseLayer.001
+  - first:
+      74: 7400352
+    second: MedicalDevice|Cylinder4516|Take 001|BaseLayer
+  - first:
+      74: 7400354
+    second: MedicalDevice|Cylinder4516|Take 001|BaseLayer.001
+  - first:
+      74: 7400356
+    second: MedicalDevice|Cylinder4517|Take 001|BaseLayer
+  - first:
+      74: 7400358
+    second: MedicalDevice|Cylinder4517|Take 001|BaseLayer.001
+  - first:
+      74: 7400360
+    second: MedicalDevice|Cylinder4518|Take 001|BaseLayer
+  - first:
+      74: 7400362
+    second: MedicalDevice|Cylinder4518|Take 001|BaseLayer.001
+  - first:
+      74: 7400364
+    second: MedicalDevice|Cylinder4519|Take 001|BaseLayer
+  - first:
+      74: 7400366
+    second: MedicalDevice|Cylinder4519|Take 001|BaseLayer.001
+  - first:
+      74: 7400368
+    second: MedicalDevice|Cylinder4520|Take 001|BaseLayer
+  - first:
+      74: 7400370
+    second: MedicalDevice|Cylinder4520|Take 001|BaseLayer.001
+  - first:
+      74: 7400372
+    second: MedicalDevice|Cylinder4521|Take 001|BaseLayer
+  - first:
+      74: 7400374
+    second: MedicalDevice|Cylinder4522|Take 001|BaseLayer
+  - first:
+      74: 7400376
+    second: MedicalDevice|Cylinder4522|Take 001|BaseLayer.001
+  - first:
+      74: 7400378
+    second: MedicalDevice|Cylinder4523|Take 001|BaseLayer
+  - first:
+      74: 7400380
+    second: MedicalDevice|Cylinder4524|Take 001|BaseLayer
+  - first:
+      74: 7400382
+    second: MedicalDevice|Cylinder4525|Take 001|BaseLayer
+  - first:
+      74: 7400384
+    second: MedicalDevice|Cylinder4525|Take 001|BaseLayer.001
+  - first:
+      74: 7400386
+    second: MedicalDevice|Cylinder4526|Take 001|BaseLayer
+  - first:
+      74: 7400388
+    second: MedicalDevice|Cylinder4526|Take 001|BaseLayer.001
+  - first:
+      74: 7400390
+    second: MedicalDevice|Cylinder4527|Take 001|BaseLayer
+  - first:
+      74: 7400392
+    second: MedicalDevice|Cylinder4527|Take 001|BaseLayer.001
+  - first:
+      74: 7400394
+    second: MedicalDevice|Cylinder4528|Take 001|BaseLayer
+  - first:
+      74: 7400396
+    second: MedicalDevice|Cylinder4528|Take 001|BaseLayer.001
+  - first:
+      74: 7400398
+    second: MedicalDevice|Cylinder4529|Take 001|BaseLayer
+  - first:
+      74: 7400400
+    second: MedicalDevice|Cylinder4529|Take 001|BaseLayer.001
+  - first:
+      74: 7400402
+    second: MedicalDevice|Cylinder4530|Take 001|BaseLayer
+  - first:
+      74: 7400404
+    second: MedicalDevice|Cylinder4530|Take 001|BaseLayer.001
+  - first:
+      74: 7400406
+    second: MedicalDevice|Cylinder4531|Take 001|BaseLayer
+  - first:
+      74: 7400408
+    second: MedicalDevice|Cylinder4531|Take 001|BaseLayer.001
+  - first:
+      74: 7400410
+    second: MedicalDevice|Cylinder4532|Take 001|BaseLayer
+  - first:
+      74: 7400412
+    second: MedicalDevice|Cylinder4532|Take 001|BaseLayer.001
+  - first:
+      74: 7400414
+    second: MedicalDevice|Cylinder4533|Take 001|BaseLayer
+  - first:
+      74: 7400416
+    second: MedicalDevice|Cylinder4533|Take 001|BaseLayer.001
+  - first:
+      74: 7400418
+    second: MedicalDevice|Cylinder4534|Take 001|BaseLayer
+  - first:
+      74: 7400420
+    second: MedicalDevice|Cylinder4534|Take 001|BaseLayer.001
+  - first:
+      74: 7400422
+    second: MedicalDevice|Cylinder4542|Take 001|BaseLayer
+  - first:
+      74: 7400424
+    second: MedicalDevice|Cylinder4543|Take 001|BaseLayer
+  - first:
+      74: 7400426
+    second: MedicalDevice|Cylinder4544|Take 001|BaseLayer
+  - first:
+      74: 7400428
+    second: MedicalDevice|Cylinder4545|Take 001|BaseLayer
+  - first:
+      74: 7400430
+    second: MedicalDevice|Cylinder4546|Take 001|BaseLayer
+  - first:
+      74: 7400432
+    second: MedicalDevice|Cylinder4769|Take 001|BaseLayer
+  - first:
+      74: 7400434
+    second: MedicalDevice|Cylinder4770|Take 001|BaseLayer
+  - first:
+      74: 7400436
+    second: MedicalDevice|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+  - first:
+      74: 7400438
+    second: MedicalDevice|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+  - first:
+      74: 7400440
+    second: MedicalDevice|Display_body001|Take 001|BaseLayer
+  - first:
+      74: 7400442
+    second: MedicalDevice|doctor_stool005|Take 001|BaseLayer
+  - first:
+      74: 7400444
+    second: MedicalDevice|doctor_stool005|Take 001|BaseLayer.001
+  - first:
+      74: 7400446
+    second: MedicalDevice|equipement carrier handle002|Take 001|BaseLayer
+  - first:
+      74: 7400448
+    second: MedicalDevice|equipment carrier body001|Take 001|BaseLayer
+  - first:
+      74: 7400450
+    second: MedicalDevice|equipment_carrier_shelf005|Take 001|BaseLayer
+  - first:
+      74: 7400452
+    second: MedicalDevice|equipment_carrier_shelf006|Take 001|BaseLayer
+  - first:
+      74: 7400454
+    second: MedicalDevice|equipment_carrier_shelf007|Take 001|BaseLayer
+  - first:
+      74: 7400456
+    second: MedicalDevice|equipment_carrier_shelf008|Take 001|BaseLayer
+  - first:
+      74: 7400458
+    second: MedicalDevice|Group042|Take 001|BaseLayer
+  - first:
+      74: 7400460
+    second: MedicalDevice|Hospital Bed001|Take 001|BaseLayer
+  - first:
+      74: 7400462
+    second: MedicalDevice|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400464
+    second: MedicalDevice|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+  - first:
+      74: 7400466
+    second: MedicalDevice|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400468
+    second: MedicalDevice|Hospital_bed_base_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400470
+    second: MedicalDevice|Hospital_bed_base_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400472
+    second: MedicalDevice|Hospital_bed_base_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400474
+    second: MedicalDevice|Hospital_bed_base_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400476
+    second: MedicalDevice|Hospital_bed_bumper007|Take 001|BaseLayer
+  - first:
+      74: 7400478
+    second: MedicalDevice|Hospital_bed_bumper008|Take 001|BaseLayer
+  - first:
+      74: 7400480
+    second: MedicalDevice|Hospital_bed_bumper009|Take 001|BaseLayer
+  - first:
+      74: 7400482
+    second: MedicalDevice|Hospital_bed_bumper010|Take 001|BaseLayer
+  - first:
+      74: 7400484
+    second: MedicalDevice|Hospital_bed_button012|Take 001|BaseLayer
+  - first:
+      74: 7400486
+    second: MedicalDevice|Hospital_bed_button013|Take 001|BaseLayer
+  - first:
+      74: 7400488
+    second: MedicalDevice|Hospital_bed_button_large005|Take 001|BaseLayer
+  - first:
+      74: 7400490
+    second: MedicalDevice|Hospital_bed_button_large006|Take 001|BaseLayer
+  - first:
+      74: 7400492
+    second: MedicalDevice|Hospital_bed_footpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400494
+    second: MedicalDevice|Hospital_bed_framepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400496
+    second: MedicalDevice|Hospital_bed_framepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400498
+    second: MedicalDevice|Hospital_bed_headpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400500
+    second: MedicalDevice|Hospital_bed_leg003|Take 001|BaseLayer
+  - first:
+      74: 7400502
+    second: MedicalDevice|Hospital_bed_leg004|Take 001|BaseLayer
+  - first:
+      74: 7400504
+    second: MedicalDevice|Hospital_bed_leg005|Take 001|BaseLayer
+  - first:
+      74: 7400506
+    second: MedicalDevice|Hospital_bed_matress001|Take 001|BaseLayer
+  - first:
+      74: 7400508
+    second: MedicalDevice|Hospital_bed_pedal064|Take 001|BaseLayer
+  - first:
+      74: 7400510
+    second: MedicalDevice|Hospital_bed_pedal065|Take 001|BaseLayer
+  - first:
+      74: 7400512
+    second: MedicalDevice|Hospital_bed_pedal066|Take 001|BaseLayer
+  - first:
+      74: 7400514
+    second: MedicalDevice|Hospital_bed_pedal067|Take 001|BaseLayer
+  - first:
+      74: 7400516
+    second: MedicalDevice|Hospital_bed_pedal068|Take 001|BaseLayer
+  - first:
+      74: 7400518
+    second: MedicalDevice|Hospital_bed_pedal069|Take 001|BaseLayer
+  - first:
+      74: 7400520
+    second: MedicalDevice|Hospital_bed_pedal070|Take 001|BaseLayer
+  - first:
+      74: 7400522
+    second: MedicalDevice|Hospital_bed_pedal2a001|Take 001|BaseLayer
+  - first:
+      74: 7400524
+    second: MedicalDevice|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+  - first:
+      74: 7400526
+    second: MedicalDevice|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+  - first:
+      74: 7400528
+    second: MedicalDevice|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+  - first:
+      74: 7400530
+    second: MedicalDevice|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+  - first:
+      74: 7400532
+    second: MedicalDevice|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+  - first:
+      74: 7400534
+    second: MedicalDevice|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+  - first:
+      74: 7400536
+    second: MedicalDevice|Hospital_bed_pedals001|Take 001|BaseLayer
+  - first:
+      74: 7400538
+    second: MedicalDevice|Hospital_bed_piston006|Take 001|BaseLayer
+  - first:
+      74: 7400540
+    second: MedicalDevice|Hospital_bed_piston007|Take 001|BaseLayer
+  - first:
+      74: 7400542
+    second: MedicalDevice|Hospital_bed_piston008|Take 001|BaseLayer
+  - first:
+      74: 7400544
+    second: MedicalDevice|Hospital_bed_piston009|Take 001|BaseLayer
+  - first:
+      74: 7400546
+    second: MedicalDevice|Hospital_bed_piston010|Take 001|BaseLayer
+  - first:
+      74: 7400548
+    second: MedicalDevice|Hospital_bed_piston011|Take 001|BaseLayer
+  - first:
+      74: 7400550
+    second: MedicalDevice|hospital_bed_piston_cap030|Take 001|BaseLayer
+  - first:
+      74: 7400552
+    second: MedicalDevice|hospital_bed_piston_cap031|Take 001|BaseLayer
+  - first:
+      74: 7400554
+    second: MedicalDevice|hospital_bed_piston_cap032|Take 001|BaseLayer
+  - first:
+      74: 7400556
+    second: MedicalDevice|hospital_bed_piston_cap033|Take 001|BaseLayer
+  - first:
+      74: 7400558
+    second: MedicalDevice|hospital_bed_piston_cap034|Take 001|BaseLayer
+  - first:
+      74: 7400560
+    second: MedicalDevice|hospital_bed_piston_cap035|Take 001|BaseLayer
+  - first:
+      74: 7400562
+    second: MedicalDevice|hospital_bed_piston_cap036|Take 001|BaseLayer
+  - first:
+      74: 7400564
+    second: MedicalDevice|hospital_bed_piston_cap037|Take 001|BaseLayer
+  - first:
+      74: 7400566
+    second: MedicalDevice|hospital_bed_piston_cap038|Take 001|BaseLayer
+  - first:
+      74: 7400568
+    second: MedicalDevice|hospital_bed_piston_cap039|Take 001|BaseLayer
+  - first:
+      74: 7400570
+    second: MedicalDevice|hospital_bed_piston_cap040|Take 001|BaseLayer
+  - first:
+      74: 7400572
+    second: MedicalDevice|hospital_bed_piston_cap041|Take 001|BaseLayer
+  - first:
+      74: 7400574
+    second: MedicalDevice|hospital_bed_piston_cap042|Take 001|BaseLayer
+  - first:
+      74: 7400576
+    second: MedicalDevice|hospital_bed_piston_cap043|Take 001|BaseLayer
+  - first:
+      74: 7400578
+    second: MedicalDevice|hospital_bed_piston_cap044|Take 001|BaseLayer
+  - first:
+      74: 7400580
+    second: MedicalDevice|hospital_bed_piston_cap045|Take 001|BaseLayer
+  - first:
+      74: 7400582
+    second: MedicalDevice|hospital_bed_piston_cap046|Take 001|BaseLayer
+  - first:
+      74: 7400584
+    second: MedicalDevice|hospital_bed_piston_cap047|Take 001|BaseLayer
+  - first:
+      74: 7400586
+    second: MedicalDevice|hospital_bed_piston_cap048|Take 001|BaseLayer
+  - first:
+      74: 7400588
+    second: MedicalDevice|hospital_bed_piston_cap049|Take 001|BaseLayer
+  - first:
+      74: 7400590
+    second: MedicalDevice|hospital_bed_piston_cap050|Take 001|BaseLayer
+  - first:
+      74: 7400592
+    second: MedicalDevice|hospital_bed_piston_cap051|Take 001|BaseLayer
+  - first:
+      74: 7400594
+    second: MedicalDevice|hospital_bed_piston_cap052|Take 001|BaseLayer
+  - first:
+      74: 7400596
+    second: MedicalDevice|hospital_bed_piston_cap053|Take 001|BaseLayer
+  - first:
+      74: 7400598
+    second: MedicalDevice|hospital_bed_piston_cap054|Take 001|BaseLayer
+  - first:
+      74: 7400600
+    second: MedicalDevice|hospital_bed_piston_cap055|Take 001|BaseLayer
+  - first:
+      74: 7400602
+    second: MedicalDevice|hospital_bed_piston_cap056|Take 001|BaseLayer
+  - first:
+      74: 7400604
+    second: MedicalDevice|hospital_bed_piston_cap057|Take 001|BaseLayer
+  - first:
+      74: 7400606
+    second: MedicalDevice|hospital_bed_piston_cap058|Take 001|BaseLayer
+  - first:
+      74: 7400608
+    second: MedicalDevice|hospital_bed_piston_cap059|Take 001|BaseLayer
+  - first:
+      74: 7400610
+    second: MedicalDevice|Hospital_bed_pistons002|Take 001|BaseLayer
+  - first:
+      74: 7400612
+    second: MedicalDevice|Hospital_bed_pistons2a001|Take 001|BaseLayer
+  - first:
+      74: 7400614
+    second: MedicalDevice|Hospital_bed_pole003|Take 001|BaseLayer
+  - first:
+      74: 7400616
+    second: MedicalDevice|Hospital_bed_pole004|Take 001|BaseLayer
+  - first:
+      74: 7400618
+    second: MedicalDevice|Hospital_bed_pole005|Take 001|BaseLayer
+  - first:
+      74: 7400620
+    second: MedicalDevice|Hospital_bed_pole_support006|Take 001|BaseLayer
+  - first:
+      74: 7400622
+    second: MedicalDevice|Hospital_bed_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400624
+    second: MedicalDevice|Hospital_bed_pole_support008|Take 001|BaseLayer
+  - first:
+      74: 7400626
+    second: MedicalDevice|Hospital_bed_pole_support009|Take 001|BaseLayer
+  - first:
+      74: 7400628
+    second: MedicalDevice|Hospital_bed_pole_support010|Take 001|BaseLayer
+  - first:
+      74: 7400630
+    second: MedicalDevice|Hospital_bed_pole_support011|Take 001|BaseLayer
+  - first:
+      74: 7400632
+    second: MedicalDevice|Hospital_bed_side_caps013|Take 001|BaseLayer
+  - first:
+      74: 7400634
+    second: MedicalDevice|Hospital_bed_side_caps014|Take 001|BaseLayer
+  - first:
+      74: 7400636
+    second: MedicalDevice|Hospital_bed_side_caps015|Take 001|BaseLayer
+  - first:
+      74: 7400638
+    second: MedicalDevice|Hospital_bed_side_caps016|Take 001|BaseLayer
+  - first:
+      74: 7400640
+    second: MedicalDevice|Hospital_bed_side_caps017|Take 001|BaseLayer
+  - first:
+      74: 7400642
+    second: MedicalDevice|Hospital_bed_side_caps018|Take 001|BaseLayer
+  - first:
+      74: 7400644
+    second: MedicalDevice|Hospital_bed_side_caps019|Take 001|BaseLayer
+  - first:
+      74: 7400646
+    second: MedicalDevice|Hospital_bed_side_caps020|Take 001|BaseLayer
+  - first:
+      74: 7400648
+    second: MedicalDevice|Hospital_bed_side_caps021|Take 001|BaseLayer
+  - first:
+      74: 7400650
+    second: MedicalDevice|Hospital_bed_side_caps022|Take 001|BaseLayer
+  - first:
+      74: 7400652
+    second: MedicalDevice|Hospital_bed_side_caps023|Take 001|BaseLayer
+  - first:
+      74: 7400654
+    second: MedicalDevice|Hospital_bed_side_caps024|Take 001|BaseLayer
+  - first:
+      74: 7400656
+    second: MedicalDevice|Hospital_bed_side_caps025|Take 001|BaseLayer
+  - first:
+      74: 7400658
+    second: MedicalDevice|Hospital_bed_side_hinge008|Take 001|BaseLayer
+  - first:
+      74: 7400660
+    second: MedicalDevice|Hospital_bed_side_hinge009|Take 001|BaseLayer
+  - first:
+      74: 7400662
+    second: MedicalDevice|Hospital_bed_side_hinge010|Take 001|BaseLayer
+  - first:
+      74: 7400664
+    second: MedicalDevice|Hospital_bed_side_hinge011|Take 001|BaseLayer
+  - first:
+      74: 7400666
+    second: MedicalDevice|Hospital_bed_side_hinge012|Take 001|BaseLayer
+  - first:
+      74: 7400668
+    second: MedicalDevice|Hospital_bed_side_hinge013|Take 001|BaseLayer
+  - first:
+      74: 7400670
+    second: MedicalDevice|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400672
+    second: MedicalDevice|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400674
+    second: MedicalDevice|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+  - first:
+      74: 7400676
+    second: MedicalDevice|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+  - first:
+      74: 7400678
+    second: MedicalDevice|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+  - first:
+      74: 7400680
+    second: MedicalDevice|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+  - first:
+      74: 7400682
+    second: MedicalDevice|Hospital_bed_sidepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400684
+    second: MedicalDevice|Hospital_bed_sidepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400686
+    second: MedicalDevice|Hospital_bed_sides001|Take 001|BaseLayer
+  - first:
+      74: 7400688
+    second: MedicalDevice|Hospital_bed_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400690
+    second: MedicalDevice|Hospital_bed_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400692
+    second: MedicalDevice|Hospital_bed_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400694
+    second: MedicalDevice|Hospital_bed_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400696
+    second: MedicalDevice|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400698
+    second: MedicalDevice|humidifier001|Take 001|BaseLayer
+  - first:
+      74: 7400700
+    second: MedicalDevice|insuflation tube040|Take 001|BaseLayer
+  - first:
+      74: 7400702
+    second: MedicalDevice|insuflation tube041|Take 001|BaseLayer
+  - first:
+      74: 7400704
+    second: MedicalDevice|insuflation tube042|Take 001|BaseLayer
+  - first:
+      74: 7400706
+    second: MedicalDevice|insuflation tube043|Take 001|BaseLayer
+  - first:
+      74: 7400708
+    second: MedicalDevice|insuflation tube044|Take 001|BaseLayer
+  - first:
+      74: 7400710
+    second: MedicalDevice|insuflation tube045|Take 001|BaseLayer
+  - first:
+      74: 7400712
+    second: MedicalDevice|insuflation tube046|Take 001|BaseLayer
+  - first:
+      74: 7400714
+    second: MedicalDevice|insuflation tube047|Take 001|BaseLayer
+  - first:
+      74: 7400716
+    second: MedicalDevice|insuflation tube049|Take 001|BaseLayer
+  - first:
+      74: 7400718
+    second: MedicalDevice|insuflation tube050|Take 001|BaseLayer
+  - first:
+      74: 7400720
+    second: MedicalDevice|insuflation tube051|Take 001|BaseLayer
+  - first:
+      74: 7400722
+    second: MedicalDevice|insuflation tube052|Take 001|BaseLayer
+  - first:
+      74: 7400724
+    second: MedicalDevice|insuflation tube053|Take 001|BaseLayer
+  - first:
+      74: 7400726
+    second: MedicalDevice|insuflation tube054|Take 001|BaseLayer
+  - first:
+      74: 7400728
+    second: MedicalDevice|insuflation tube055|Take 001|BaseLayer
+  - first:
+      74: 7400730
+    second: MedicalDevice|insuflation tube056|Take 001|BaseLayer
+  - first:
+      74: 7400732
+    second: MedicalDevice|insuflation tube057|Take 001|BaseLayer
+  - first:
+      74: 7400734
+    second: MedicalDevice|insuflation tube058|Take 001|BaseLayer
+  - first:
+      74: 7400736
+    second: MedicalDevice|insuflation tube059|Take 001|BaseLayer
+  - first:
+      74: 7400738
+    second: MedicalDevice|insuflation tube060|Take 001|BaseLayer
+  - first:
+      74: 7400740
+    second: MedicalDevice|insuflation tube061|Take 001|BaseLayer
+  - first:
+      74: 7400742
+    second: MedicalDevice|insuflation tube062|Take 001|BaseLayer
+  - first:
+      74: 7400744
+    second: MedicalDevice|insuflation tube063|Take 001|BaseLayer
+  - first:
+      74: 7400746
+    second: MedicalDevice|insuflation tube064|Take 001|BaseLayer
+  - first:
+      74: 7400748
+    second: MedicalDevice|insuflation tube065|Take 001|BaseLayer
+  - first:
+      74: 7400750
+    second: MedicalDevice|insuflation tube066|Take 001|BaseLayer
+  - first:
+      74: 7400752
+    second: MedicalDevice|insuflation tube067|Take 001|BaseLayer
+  - first:
+      74: 7400754
+    second: MedicalDevice|insuflation tube068|Take 001|BaseLayer
+  - first:
+      74: 7400756
+    second: MedicalDevice|Line033|Take 001|BaseLayer
+  - first:
+      74: 7400758
+    second: MedicalDevice|liquid003|Take 001|BaseLayer
+  - first:
+      74: 7400760
+    second: MedicalDevice|liquid004|Take 001|BaseLayer
+  - first:
+      74: 7400762
+    second: MedicalDevice|Locker_tray001|Take 001|BaseLayer
+  - first:
+      74: 7400764
+    second: MedicalDevice|medical device 01back005|Take 001|BaseLayer
+  - first:
+      74: 7400766
+    second: MedicalDevice|medical device 01back006|Take 001|BaseLayer
+  - first:
+      74: 7400768
+    second: MedicalDevice|medical device 01back007|Take 001|BaseLayer
+  - first:
+      74: 7400770
+    second: MedicalDevice|medical device 01back008|Take 001|BaseLayer
+  - first:
+      74: 7400772
+    second: MedicalDevice|medical device 01body015|Take 001|BaseLayer
+  - first:
+      74: 7400774
+    second: MedicalDevice|medical device 01body016|Take 001|BaseLayer
+  - first:
+      74: 7400776
+    second: MedicalDevice|medical device 01body017|Take 001|BaseLayer
+  - first:
+      74: 7400778
+    second: MedicalDevice|medical device 01body018|Take 001|BaseLayer
+  - first:
+      74: 7400780
+    second: MedicalDevice|medical device 01body019|Take 001|BaseLayer
+  - first:
+      74: 7400782
+    second: MedicalDevice|medical device 01front002|Take 001|BaseLayer
+  - first:
+      74: 7400784
+    second: MedicalDevice|medical device 01front003|Take 001|BaseLayer
+  - first:
+      74: 7400786
+    second: MedicalDevice|medical device 02front004|Take 001|BaseLayer
+  - first:
+      74: 7400788
+    second: MedicalDevice|medical device 02front005|Take 001|BaseLayer
+  - first:
+      74: 7400790
+    second: MedicalDevice|medical device side016|Take 001|BaseLayer
+  - first:
+      74: 7400792
+    second: MedicalDevice|medical device side017|Take 001|BaseLayer
+  - first:
+      74: 7400794
+    second: MedicalDevice|medical device side018|Take 001|BaseLayer
+  - first:
+      74: 7400796
+    second: MedicalDevice|medical device side019|Take 001|BaseLayer
+  - first:
+      74: 7400798
+    second: MedicalDevice|medical device side020|Take 001|BaseLayer
+  - first:
+      74: 7400800
+    second: MedicalDevice|medical device side021|Take 001|BaseLayer
+  - first:
+      74: 7400802
+    second: MedicalDevice|medical device side022|Take 001|BaseLayer
+  - first:
+      74: 7400804
+    second: MedicalDevice|medical device side023|Take 001|BaseLayer
+  - first:
+      74: 7400806
+    second: MedicalDevice|medical devices001|Take 001|BaseLayer
+  - first:
+      74: 7400808
+    second: MedicalDevice|medical_device005|Take 001|BaseLayer
+  - first:
+      74: 7400810
+    second: MedicalDevice|medical_device006|Take 001|BaseLayer
+  - first:
+      74: 7400812
+    second: MedicalDevice|medical_device007|Take 001|BaseLayer
+  - first:
+      74: 7400814
+    second: MedicalDevice|medical_device008|Take 001|BaseLayer
+  - first:
+      74: 7400816
+    second: MedicalDevice|medicine bottle 01 cap035|Take 001|BaseLayer
+  - first:
+      74: 7400818
+    second: MedicalDevice|medicine bottle 01 cap036|Take 001|BaseLayer
+  - first:
+      74: 7400820
+    second: MedicalDevice|medicine bottle 01 cap037|Take 001|BaseLayer
+  - first:
+      74: 7400822
+    second: MedicalDevice|medicine bottle 02_ut002|Take 001|BaseLayer
+  - first:
+      74: 7400824
+    second: MedicalDevice|medicine bottle 037|Take 001|BaseLayer
+  - first:
+      74: 7400826
+    second: MedicalDevice|medicine bottle 03_v002|Take 001|BaseLayer
+  - first:
+      74: 7400828
+    second: MedicalDevice|medicine box051|Take 001|BaseLayer
+  - first:
+      74: 7400830
+    second: MedicalDevice|metal ring 004|Take 001|BaseLayer
+  - first:
+      74: 7400832
+    second: MedicalDevice|metal ring 005|Take 001|BaseLayer
+  - first:
+      74: 7400834
+    second: MedicalDevice|metal ring 006|Take 001|BaseLayer
+  - first:
+      74: 7400836
+    second: MedicalDevice|Mobile_trolley001|Take 001|BaseLayer
+  - first:
+      74: 7400838
+    second: MedicalDevice|monitor joint 003|Take 001|BaseLayer
+  - first:
+      74: 7400840
+    second: MedicalDevice|monitor joint 004|Take 001|BaseLayer
+  - first:
+      74: 7400842
+    second: MedicalDevice|monitor joint019|Take 001|BaseLayer
+  - first:
+      74: 7400844
+    second: MedicalDevice|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400846
+    second: MedicalDevice|monitor01_body007|Take 001|BaseLayer
+  - first:
+      74: 7400848
+    second: MedicalDevice|Monitor_ax002|Take 001|BaseLayer
+  - first:
+      74: 7400850
+    second: MedicalDevice|monitorARM002|Take 001|BaseLayer
+  - first:
+      74: 7400852
+    second: MedicalDevice|mufa albastra017|Take 001|BaseLayer
+  - first:
+      74: 7400854
+    second: MedicalDevice|mufa albastra018|Take 001|BaseLayer
+  - first:
+      74: 7400856
+    second: MedicalDevice|mufa albastra019|Take 001|BaseLayer
+  - first:
+      74: 7400858
+    second: MedicalDevice|mufaalbastra013|Take 001|BaseLayer
+  - first:
+      74: 7400860
+    second: MedicalDevice|mufaalbastra014|Take 001|BaseLayer
+  - first:
+      74: 7400862
+    second: MedicalDevice|mufaalbastra015|Take 001|BaseLayer
+  - first:
+      74: 7400864
+    second: MedicalDevice|mufaalbastra016|Take 001|BaseLayer
+  - first:
+      74: 7400866
+    second: MedicalDevice|mufaalbastra017|Take 001|BaseLayer
+  - first:
+      74: 7400868
+    second: MedicalDevice|mufaalbastra018|Take 001|BaseLayer
+  - first:
+      74: 7400870
+    second: MedicalDevice|mufaalbastra019|Take 001|BaseLayer
+  - first:
+      74: 7400872
+    second: MedicalDevice|mufaalbastra020|Take 001|BaseLayer
+  - first:
+      74: 7400874
+    second: MedicalDevice|mufaalbastra021|Take 001|BaseLayer
+  - first:
+      74: 7400876
+    second: MedicalDevice|mufaalbastra022|Take 001|BaseLayer
+  - first:
+      74: 7400878
+    second: MedicalDevice|Object4468|Take 001|BaseLayer
+  - first:
+      74: 7400880
+    second: MedicalDevice|Object4469|Take 001|BaseLayer
+  - first:
+      74: 7400882
+    second: MedicalDevice|Object4470|Take 001|BaseLayer
+  - first:
+      74: 7400884
+    second: MedicalDevice|Object4471|Take 001|BaseLayer
+  - first:
+      74: 7400886
+    second: MedicalDevice|Object4472|Take 001|BaseLayer
+  - first:
+      74: 7400888
+    second: MedicalDevice|Object4473|Take 001|BaseLayer
+  - first:
+      74: 7400890
+    second: MedicalDevice|Object4474|Take 001|BaseLayer
+  - first:
+      74: 7400892
+    second: MedicalDevice|Object4474|Take 001|BaseLayer.001
+  - first:
+      74: 7400894
+    second: MedicalDevice|Object4475|Take 001|BaseLayer
+  - first:
+      74: 7400896
+    second: MedicalDevice|Object4475|Take 001|BaseLayer.001
+  - first:
+      74: 7400898
+    second: MedicalDevice|Object4476|Take 001|BaseLayer
+  - first:
+      74: 7400900
+    second: MedicalDevice|Object4476|Take 001|BaseLayer.001
+  - first:
+      74: 7400902
+    second: MedicalDevice|Object4477|Take 001|BaseLayer
+  - first:
+      74: 7400904
+    second: MedicalDevice|Object4477|Take 001|BaseLayer.001
+  - first:
+      74: 7400906
+    second: MedicalDevice|Object4478|Take 001|BaseLayer
+  - first:
+      74: 7400908
+    second: MedicalDevice|Object4478|Take 001|BaseLayer.001
+  - first:
+      74: 7400910
+    second: MedicalDevice|off button device002|Take 001|BaseLayer
+  - first:
+      74: 7400912
+    second: MedicalDevice|off button008|Take 001|BaseLayer
+  - first:
+      74: 7400914
+    second: MedicalDevice|off button009|Take 001|BaseLayer
+  - first:
+      74: 7400916
+    second: MedicalDevice|off button010|Take 001|BaseLayer
+  - first:
+      74: 7400918
+    second: MedicalDevice|on button device002|Take 001|BaseLayer
+  - first:
+      74: 7400920
+    second: MedicalDevice|on button008|Take 001|BaseLayer
+  - first:
+      74: 7400922
+    second: MedicalDevice|on button009|Take 001|BaseLayer
+  - first:
+      74: 7400924
+    second: MedicalDevice|on button010|Take 001|BaseLayer
+  - first:
+      74: 7400926
+    second: MedicalDevice|on/off button008|Take 001|BaseLayer
+  - first:
+      74: 7400928
+    second: MedicalDevice|on/off button009|Take 001|BaseLayer
+  - first:
+      74: 7400930
+    second: MedicalDevice|on/off button010|Take 001|BaseLayer
+  - first:
+      74: 7400932
+    second: MedicalDevice|padding_hospital_bed_panels004|Take 001|BaseLayer
+  - first:
+      74: 7400934
+    second: MedicalDevice|padding_hospital_bed_panels005|Take 001|BaseLayer
+  - first:
+      74: 7400936
+    second: MedicalDevice|pillow001|Take 001|BaseLayer
+  - first:
+      74: 7400938
+    second: MedicalDevice|plugg socket044|Take 001|BaseLayer
+  - first:
+      74: 7400940
+    second: MedicalDevice|plugg socket045|Take 001|BaseLayer
+  - first:
+      74: 7400942
+    second: MedicalDevice|plugg socket049|Take 001|BaseLayer
+  - first:
+      74: 7400944
+    second: MedicalDevice|plugg socket050|Take 001|BaseLayer
+  - first:
+      74: 7400946
+    second: MedicalDevice|plugg socket051|Take 001|BaseLayer
+  - first:
+      74: 7400948
+    second: MedicalDevice|plugg015|Take 001|BaseLayer
+  - first:
+      74: 7400950
+    second: MedicalDevice|plugg016|Take 001|BaseLayer
+  - first:
+      74: 7400952
+    second: MedicalDevice|plugg017|Take 001|BaseLayer
+  - first:
+      74: 7400954
+    second: MedicalDevice|plugg018|Take 001|BaseLayer
+  - first:
+      74: 7400956
+    second: MedicalDevice|plugg019|Take 001|BaseLayer
+  - first:
+      74: 7400958
+    second: MedicalDevice|plugg020|Take 001|BaseLayer
+  - first:
+      74: 7400960
+    second: MedicalDevice|plugg021|Take 001|BaseLayer
+  - first:
+      74: 7400962
+    second: MedicalDevice|plugg022|Take 001|BaseLayer
+  - first:
+      74: 7400964
+    second: MedicalDevice|plugg023|Take 001|BaseLayer
+  - first:
+      74: 7400966
+    second: MedicalDevice|plugg024|Take 001|BaseLayer
+  - first:
+      74: 7400968
+    second: MedicalDevice|plugg025|Take 001|BaseLayer
+  - first:
+      74: 7400970
+    second: MedicalDevice|plugg026|Take 001|BaseLayer
+  - first:
+      74: 7400972
+    second: MedicalDevice|plugg027|Take 001|BaseLayer
+  - first:
+      74: 7400974
+    second: MedicalDevice|roata045|Take 001|BaseLayer
+  - first:
+      74: 7400976
+    second: MedicalDevice|roata045|Take 001|BaseLayer.001
+  - first:
+      74: 7400978
+    second: MedicalDevice|roata046|Take 001|BaseLayer
+  - first:
+      74: 7400980
+    second: MedicalDevice|roata046|Take 001|BaseLayer.001
+  - first:
+      74: 7400982
+    second: MedicalDevice|roata047|Take 001|BaseLayer
+  - first:
+      74: 7400984
+    second: MedicalDevice|roata047|Take 001|BaseLayer.001
+  - first:
+      74: 7400986
+    second: MedicalDevice|roata048|Take 001|BaseLayer
+  - first:
+      74: 7400988
+    second: MedicalDevice|roata048|Take 001|BaseLayer.001
+  - first:
+      74: 7400990
+    second: MedicalDevice|roata049|Take 001|BaseLayer
+  - first:
+      74: 7400992
+    second: MedicalDevice|roata049|Take 001|BaseLayer.001
+  - first:
+      74: 7400994
+    second: MedicalDevice|round slot016|Take 001|BaseLayer
+  - first:
+      74: 7400996
+    second: MedicalDevice|round slot017|Take 001|BaseLayer
+  - first:
+      74: 7400998
+    second: MedicalDevice|round slot018|Take 001|BaseLayer
+  - first:
+      74: 7401000
+    second: MedicalDevice|round slot019|Take 001|BaseLayer
+  - first:
+      74: 7401002
+    second: MedicalDevice|round slot020|Take 001|BaseLayer
+  - first:
+      74: 7401004
+    second: MedicalDevice|round slot021|Take 001|BaseLayer
+  - first:
+      74: 7401006
+    second: MedicalDevice|round slot022|Take 001|BaseLayer
+  - first:
+      74: 7401008
+    second: MedicalDevice|round slot023|Take 001|BaseLayer
+  - first:
+      74: 7401010
+    second: MedicalDevice|round slot024|Take 001|BaseLayer
+  - first:
+      74: 7401012
+    second: MedicalDevice|round slot025|Take 001|BaseLayer
+  - first:
+      74: 7401014
+    second: MedicalDevice|Round_button001|Take 001|BaseLayer
+  - first:
+      74: 7401016
+    second: MedicalDevice|Round_Scart008|Take 001|BaseLayer
+  - first:
+      74: 7401018
+    second: MedicalDevice|Round_Scart009|Take 001|BaseLayer
+  - first:
+      74: 7401020
+    second: MedicalDevice|Round_Scart010|Take 001|BaseLayer
+  - first:
+      74: 7401022
+    second: MedicalDevice|Round_Scart011|Take 001|BaseLayer
+  - first:
+      74: 7401024
+    second: MedicalDevice|Round_Scart012|Take 001|BaseLayer
+  - first:
+      74: 7401026
+    second: MedicalDevice|Round_Scart013|Take 001|BaseLayer
+  - first:
+      74: 7401028
+    second: MedicalDevice|Round_Scart014|Take 001|BaseLayer
+  - first:
+      74: 7401030
+    second: MedicalDevice|Round_Scart015|Take 001|BaseLayer
+  - first:
+      74: 7401032
+    second: MedicalDevice|Rubber_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7401034
+    second: MedicalDevice|Rubber_bumper017|Take 001|BaseLayer
+  - first:
+      74: 7401036
+    second: MedicalDevice|Rubber_bumper018|Take 001|BaseLayer
+  - first:
+      74: 7401038
+    second: MedicalDevice|Rubber_bumper019|Take 001|BaseLayer
+  - first:
+      74: 7401040
+    second: MedicalDevice|Rubber_bumper020|Take 001|BaseLayer
+  - first:
+      74: 7401042
+    second: MedicalDevice|Rubber_bumper021|Take 001|BaseLayer
+  - first:
+      74: 7401044
+    second: MedicalDevice|Rubber_bumper022|Take 001|BaseLayer
+  - first:
+      74: 7401046
+    second: MedicalDevice|Rubber_bumper023|Take 001|BaseLayer
+  - first:
+      74: 7401048
+    second: MedicalDevice|Rubber_bumper024|Take 001|BaseLayer
+  - first:
+      74: 7401050
+    second: MedicalDevice|Rubber_bumper_support008|Take 001|BaseLayer
+  - first:
+      74: 7401052
+    second: MedicalDevice|Rubber_bumper_support009|Take 001|BaseLayer
+  - first:
+      74: 7401054
+    second: MedicalDevice|Rubber_bumper_support010|Take 001|BaseLayer
+  - first:
+      74: 7401056
+    second: MedicalDevice|Rubber_bumper_support011|Take 001|BaseLayer
+  - first:
+      74: 7401058
+    second: MedicalDevice|Rubber_bumper_support012|Take 001|BaseLayer
+  - first:
+      74: 7401060
+    second: MedicalDevice|Sanitizer003|Take 001|BaseLayer
+  - first:
+      74: 7401062
+    second: MedicalDevice|Sanitizer004|Take 001|BaseLayer
+  - first:
+      74: 7401064
+    second: MedicalDevice|scart003|Take 001|BaseLayer
+  - first:
+      74: 7401066
+    second: MedicalDevice|scart004|Take 001|BaseLayer
+  - first:
+      74: 7401068
+    second: MedicalDevice|scart005|Take 001|BaseLayer
+  - first:
+      74: 7401070
+    second: MedicalDevice|Shape002|Take 001|BaseLayer
+  - first:
+      74: 7401072
+    second: MedicalDevice|shelf edge004|Take 001|BaseLayer
+  - first:
+      74: 7401074
+    second: MedicalDevice|shelf edge005|Take 001|BaseLayer
+  - first:
+      74: 7401076
+    second: MedicalDevice|shelf edge006|Take 001|BaseLayer
+  - first:
+      74: 7401078
+    second: MedicalDevice|shelf edge007|Take 001|BaseLayer
+  - first:
+      74: 7401080
+    second: MedicalDevice|side panel controls_head_002|Take 001|BaseLayer
+  - first:
+      74: 7401082
+    second: MedicalDevice|side panel controls_head_003|Take 001|BaseLayer
+  - first:
+      74: 7401084
+    second: MedicalDevice|side panel_head002|Take 001|BaseLayer
+  - first:
+      74: 7401086
+    second: MedicalDevice|side panel_head003|Take 001|BaseLayer
+  - first:
+      74: 7401088
+    second: MedicalDevice|Side_handle002|Take 001|BaseLayer
+  - first:
+      74: 7401090
+    second: MedicalDevice|Side_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401092
+    second: MedicalDevice|side_panel_cap005|Take 001|BaseLayer
+  - first:
+      74: 7401094
+    second: MedicalDevice|side_panel_cap006|Take 001|BaseLayer
+  - first:
+      74: 7401096
+    second: MedicalDevice|side_panel_cap007|Take 001|BaseLayer
+  - first:
+      74: 7401098
+    second: MedicalDevice|side_panel_cap008|Take 001|BaseLayer
+  - first:
+      74: 7401100
+    second: MedicalDevice|sky boom base001|Take 001|BaseLayer
+  - first:
+      74: 7401102
+    second: MedicalDevice|socketA068|Take 001|BaseLayer
+  - first:
+      74: 7401104
+    second: MedicalDevice|socketA069|Take 001|BaseLayer
+  - first:
+      74: 7401106
+    second: MedicalDevice|socketA071|Take 001|BaseLayer
+  - first:
+      74: 7401108
+    second: MedicalDevice|socketA072|Take 001|BaseLayer
+  - first:
+      74: 7401110
+    second: MedicalDevice|socketA073|Take 001|BaseLayer
+  - first:
+      74: 7401112
+    second: MedicalDevice|socketA074|Take 001|BaseLayer
+  - first:
+      74: 7401114
+    second: MedicalDevice|socketA075|Take 001|BaseLayer
+  - first:
+      74: 7401116
+    second: MedicalDevice|socketA076|Take 001|BaseLayer
+  - first:
+      74: 7401118
+    second: MedicalDevice|socketA077|Take 001|BaseLayer
+  - first:
+      74: 7401120
+    second: MedicalDevice|socketA078|Take 001|BaseLayer
+  - first:
+      74: 7401122
+    second: MedicalDevice|socketA079|Take 001|BaseLayer
+  - first:
+      74: 7401124
+    second: MedicalDevice|socketA080|Take 001|BaseLayer
+  - first:
+      74: 7401126
+    second: MedicalDevice|socketA081|Take 001|BaseLayer
+  - first:
+      74: 7401128
+    second: MedicalDevice|socketA082|Take 001|BaseLayer
+  - first:
+      74: 7401130
+    second: MedicalDevice|socketA083|Take 001|BaseLayer
+  - first:
+      74: 7401132
+    second: MedicalDevice|socketA084|Take 001|BaseLayer
+  - first:
+      74: 7401134
+    second: MedicalDevice|socketA085|Take 001|BaseLayer
+  - first:
+      74: 7401136
+    second: MedicalDevice|socketA086|Take 001|BaseLayer
+  - first:
+      74: 7401138
+    second: MedicalDevice|socketA087|Take 001|BaseLayer
+  - first:
+      74: 7401140
+    second: MedicalDevice|socketA088|Take 001|BaseLayer
+  - first:
+      74: 7401142
+    second: MedicalDevice|socketA089|Take 001|BaseLayer
+  - first:
+      74: 7401144
+    second: MedicalDevice|SocketB076|Take 001|BaseLayer
+  - first:
+      74: 7401146
+    second: MedicalDevice|SocketB082|Take 001|BaseLayer
+  - first:
+      74: 7401148
+    second: MedicalDevice|SocketB083|Take 001|BaseLayer
+  - first:
+      74: 7401150
+    second: MedicalDevice|SocketB084|Take 001|BaseLayer
+  - first:
+      74: 7401152
+    second: MedicalDevice|SocketB085|Take 001|BaseLayer
+  - first:
+      74: 7401154
+    second: MedicalDevice|SocketB086|Take 001|BaseLayer
+  - first:
+      74: 7401156
+    second: MedicalDevice|SocketB087|Take 001|BaseLayer
+  - first:
+      74: 7401158
+    second: MedicalDevice|SocketB088|Take 001|BaseLayer
+  - first:
+      74: 7401160
+    second: MedicalDevice|SocketB089|Take 001|BaseLayer
+  - first:
+      74: 7401162
+    second: MedicalDevice|SocketB090|Take 001|BaseLayer
+  - first:
+      74: 7401164
+    second: MedicalDevice|SocketB091|Take 001|BaseLayer
+  - first:
+      74: 7401166
+    second: MedicalDevice|SocketB092|Take 001|BaseLayer
+  - first:
+      74: 7401168
+    second: MedicalDevice|SocketB093|Take 001|BaseLayer
+  - first:
+      74: 7401170
+    second: MedicalDevice|SocketB094|Take 001|BaseLayer
+  - first:
+      74: 7401172
+    second: MedicalDevice|SocketB095|Take 001|BaseLayer
+  - first:
+      74: 7401174
+    second: MedicalDevice|sockets012|Take 001|BaseLayer
+  - first:
+      74: 7401176
+    second: MedicalDevice|sockets014|Take 001|BaseLayer
+  - first:
+      74: 7401178
+    second: MedicalDevice|sockets015|Take 001|BaseLayer
+  - first:
+      74: 7401180
+    second: MedicalDevice|support017|Take 001|BaseLayer
+  - first:
+      74: 7401182
+    second: MedicalDevice|support018|Take 001|BaseLayer
+  - first:
+      74: 7401184
+    second: MedicalDevice|support019|Take 001|BaseLayer
+  - first:
+      74: 7401186
+    second: MedicalDevice|support020|Take 001|BaseLayer
+  - first:
+      74: 7401188
+    second: MedicalDevice|support021|Take 001|BaseLayer
+  - first:
+      74: 7401190
+    second: MedicalDevice|support022|Take 001|BaseLayer
+  - first:
+      74: 7401192
+    second: MedicalDevice|support023|Take 001|BaseLayer
+  - first:
+      74: 7401194
+    second: MedicalDevice|support024|Take 001|BaseLayer
+  - first:
+      74: 7401196
+    second: MedicalDevice|support025|Take 001|BaseLayer
+  - first:
+      74: 7401198
+    second: MedicalDevice|support026|Take 001|BaseLayer
+  - first:
+      74: 7401200
+    second: MedicalDevice|support027|Take 001|BaseLayer
+  - first:
+      74: 7401202
+    second: MedicalDevice|support028|Take 001|BaseLayer
+  - first:
+      74: 7401204
+    second: MedicalDevice|support029|Take 001|BaseLayer
+  - first:
+      74: 7401206
+    second: MedicalDevice|support030|Take 001|BaseLayer
+  - first:
+      74: 7401208
+    second: MedicalDevice|support031|Take 001|BaseLayer
+  - first:
+      74: 7401210
+    second: MedicalDevice|support032|Take 001|BaseLayer
+  - first:
+      74: 7401212
+    second: MedicalDevice|surgical light handle032|Take 001|BaseLayer
+  - first:
+      74: 7401214
+    second: MedicalDevice|surgical light handle033|Take 001|BaseLayer
+  - first:
+      74: 7401216
+    second: MedicalDevice|surgical light handle034|Take 001|BaseLayer
+  - first:
+      74: 7401218
+    second: MedicalDevice|surgical light handle035|Take 001|BaseLayer
+  - first:
+      74: 7401220
+    second: MedicalDevice|surgical light handle036|Take 001|BaseLayer
+  - first:
+      74: 7401222
+    second: MedicalDevice|surgical light handle037|Take 001|BaseLayer
+  - first:
+      74: 7401224
+    second: MedicalDevice|surgical light handle038|Take 001|BaseLayer
+  - first:
+      74: 7401226
+    second: MedicalDevice|usb slot027|Take 001|BaseLayer
+  - first:
+      74: 7401228
+    second: MedicalDevice|usb slot028|Take 001|BaseLayer
+  - first:
+      74: 7401230
+    second: MedicalDevice|usb slot029|Take 001|BaseLayer
+  - first:
+      74: 7401232
+    second: MedicalDevice|usb slot030|Take 001|BaseLayer
+  - first:
+      74: 7401234
+    second: MedicalDevice|usb slot031|Take 001|BaseLayer
+  - first:
+      74: 7401236
+    second: MedicalDevice|usb slot032|Take 001|BaseLayer
+  - first:
+      74: 7401238
+    second: MedicalDevice|usb slot033|Take 001|BaseLayer
+  - first:
+      74: 7401240
+    second: MedicalDevice|usb slot034|Take 001|BaseLayer
+  - first:
+      74: 7401242
+    second: MedicalDevice|usb slot035|Take 001|BaseLayer
+  - first:
+      74: 7401244
+    second: MedicalDevice|usb slot036|Take 001|BaseLayer
+  - first:
+      74: 7401246
+    second: MedicalDevice|usb slot037|Take 001|BaseLayer
+  - first:
+      74: 7401248
+    second: MedicalDevice|usb slot038|Take 001|BaseLayer
+  - first:
+      74: 7401250
+    second: MedicalDevice|ventilator  bag cap001|Take 001|BaseLayer
+  - first:
+      74: 7401252
+    second: MedicalDevice|ventilator arm adjustable support001|Take 001|BaseLayer
+  - first:
+      74: 7401254
+    second: MedicalDevice|ventilator arm handle002|Take 001|BaseLayer
+  - first:
+      74: 7401256
+    second: MedicalDevice|ventilator arm segment005|Take 001|BaseLayer
+  - first:
+      74: 7401258
+    second: MedicalDevice|ventilator arm segment006|Take 001|BaseLayer
+  - first:
+      74: 7401260
+    second: MedicalDevice|ventilator arm segment007|Take 001|BaseLayer
+  - first:
+      74: 7401262
+    second: MedicalDevice|ventilator arm segment008|Take 001|BaseLayer
+  - first:
+      74: 7401264
+    second: MedicalDevice|ventilator bag001|Take 001|BaseLayer
+  - first:
+      74: 7401266
+    second: MedicalDevice|ventilator box002|Take 001|BaseLayer
+  - first:
+      74: 7401268
+    second: MedicalDevice|ventilator brushed metal002|Take 001|BaseLayer
+  - first:
+      74: 7401270
+    second: MedicalDevice|ventilator controls 003|Take 001|BaseLayer
+  - first:
+      74: 7401272
+    second: MedicalDevice|ventilator glass004|Take 001|BaseLayer
+  - first:
+      74: 7401274
+    second: MedicalDevice|ventilator glass005|Take 001|BaseLayer
+  - first:
+      74: 7401276
+    second: MedicalDevice|ventilator glass006|Take 001|BaseLayer
+  - first:
+      74: 7401278
+    second: MedicalDevice|ventilator hose cap 012|Take 001|BaseLayer
+  - first:
+      74: 7401280
+    second: MedicalDevice|ventilator hose cap 013|Take 001|BaseLayer
+  - first:
+      74: 7401282
+    second: MedicalDevice|ventilator hose cap 014|Take 001|BaseLayer
+  - first:
+      74: 7401284
+    second: MedicalDevice|ventilator hose cap 015|Take 001|BaseLayer
+  - first:
+      74: 7401286
+    second: MedicalDevice|ventilator hose cap 016|Take 001|BaseLayer
+  - first:
+      74: 7401288
+    second: MedicalDevice|ventilator hose cap 017|Take 001|BaseLayer
+  - first:
+      74: 7401290
+    second: MedicalDevice|ventilator hose cap005|Take 001|BaseLayer
+  - first:
+      74: 7401292
+    second: MedicalDevice|ventilator hose cap006|Take 001|BaseLayer
+  - first:
+      74: 7401294
+    second: MedicalDevice|ventilator hose cap007|Take 001|BaseLayer
+  - first:
+      74: 7401296
+    second: MedicalDevice|ventilator hose cap008|Take 001|BaseLayer
+  - first:
+      74: 7401298
+    second: MedicalDevice|ventilator hose output003|Take 001|BaseLayer
+  - first:
+      74: 7401300
+    second: MedicalDevice|ventilator hose output004|Take 001|BaseLayer
+  - first:
+      74: 7401302
+    second: MedicalDevice|ventilator hose support 004|Take 001|BaseLayer
+  - first:
+      74: 7401304
+    second: MedicalDevice|ventilator hose support 005|Take 001|BaseLayer
+  - first:
+      74: 7401306
+    second: MedicalDevice|ventilator hose support001|Take 001|BaseLayer
+  - first:
+      74: 7401308
+    second: MedicalDevice|ventilator large button001|Take 001|BaseLayer
+  - first:
+      74: 7401310
+    second: MedicalDevice|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7401312
+    second: MedicalDevice|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+  - first:
+      74: 7401314
+    second: MedicalDevice|Ventilator_main_body001|Take 001|BaseLayer
+  - first:
+      74: 7401316
+    second: MedicalDevice|Ventilator_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7401318
+    second: MedicalDevice|Ventilator_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7401320
+    second: MedicalDevice|Ventilator_wheel005|Take 001|BaseLayer.001
+  - first:
+      74: 7401322
+    second: MedicalDevice|Ventilator_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7401324
+    second: MedicalDevice|Ventilator_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7401326
+    second: MedicalDevice|ventilatorHose006|Take 001|BaseLayer
+  - first:
+      74: 7401328
+    second: MedicalDevice|ventilatorHose007|Take 001|BaseLayer
+  - first:
+      74: 7401330
+    second: MedicalDevice|ventilatorHose008|Take 001|BaseLayer
+  - first:
+      74: 7401332
+    second: MedicalDevice|ventilatorHose009|Take 001|BaseLayer
+  - first:
+      74: 7401334
+    second: MedicalDevice|ventilatorHose010|Take 001|BaseLayer
+  - first:
+      74: 7401336
+    second: MedicalDevice|vga slot031|Take 001|BaseLayer
+  - first:
+      74: 7401338
+    second: MedicalDevice|vga slot034|Take 001|BaseLayer
+  - first:
+      74: 7401340
+    second: MedicalDevice|vga slot035|Take 001|BaseLayer
+  - first:
+      74: 7401342
+    second: MedicalDevice|walls|Take 001|BaseLayer
+  - first:
+      74: 7401344
+    second: MedicalDevice|wheel044|Take 001|BaseLayer
+  - first:
+      74: 7401346
+    second: MedicalDevice|wheel045|Take 001|BaseLayer
+  - first:
+      74: 7401348
+    second: MedicalDevice|Wheel_arm009|Take 001|BaseLayer
+  - first:
+      74: 7401350
+    second: MedicalDevice|Wheel_arm010|Take 001|BaseLayer
+  - first:
+      74: 7401352
+    second: MedicalDevice|Wheel_arm010|Take 001|BaseLayer.001
+  - first:
+      74: 7401354
+    second: MedicalDevice|Wheel_arm011|Take 001|BaseLayer
+  - first:
+      74: 7401356
+    second: MedicalDevice|Wheel_arm012|Take 001|BaseLayer
+  - first:
+      74: 7401358
+    second: MedicalDevice|wheel_ax008|Take 001|BaseLayer
+  - first:
+      74: 7401360
+    second: MedicalDevice|wheel_ax009|Take 001|BaseLayer
+  - first:
+      74: 7401362
+    second: MedicalDevice|wheel_ax009|Take 001|BaseLayer.001
+  - first:
+      74: 7401364
+    second: MedicalDevice|wheel_ax010|Take 001|BaseLayer
+  - first:
+      74: 7401366
+    second: MedicalDevice|wheel_ax011|Take 001|BaseLayer
+  - first:
+      74: 7401368
+    second: MedicalDevice|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7401370
+    second: MedicalDevice|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7401372
+    second: MedicalDevice|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7401374
+    second: MedicalDevice|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7401376
+    second: MedicalDevice|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+  - first:
+      74: 7401378
+    second: MedicalDevice|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+  - first:
+      74: 7401380
+    second: MedicalDevice|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7401382
+    second: MedicalDevice|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7401384
+    second: MedicalDevice|Wheel_Hospital_bed118|Take 001|BaseLayer
+  - first:
+      74: 7401386
+    second: MedicalDevice|Wheel_Hospital_bed119|Take 001|BaseLayer
+  - first:
+      74: 7401388
+    second: MedicalDevice|Wheel_Hospital_bed120|Take 001|BaseLayer
+  - first:
+      74: 7401390
+    second: MedicalDevice|Wheel_Hospital_bed121|Take 001|BaseLayer
+  - first:
+      74: 7401392
+    second: MedicalDevice|Wheel_Hospital_bed122|Take 001|BaseLayer
+  - first:
+      74: 7401394
+    second: MedicalDevice|Wheel_Hospital_bed123|Take 001|BaseLayer
+  - first:
+      74: 7401396
+    second: MedicalDevice|Wheel_Hospital_bed124|Take 001|BaseLayer
+  - first:
+      74: 7401398
+    second: MedicalDevice|Wheel_Hospital_bed125|Take 001|BaseLayer
+  - first:
+      74: 7401400
+    second: MedicalDevice|Wheel_Hospital_bed126|Take 001|BaseLayer
+  - first:
+      74: 7401402
+    second: MedicalDevice|Wheel_Hospital_bed127|Take 001|BaseLayer
+  - first:
+      74: 7401404
+    second: MedicalDevice|Wheel_Hospital_bed128|Take 001|BaseLayer
+  - first:
+      74: 7401406
+    second: MedicalDevice|Wheel_Hospital_bed129|Take 001|BaseLayer
+  - first:
+      74: 7401408
+    second: MedicalDevice|Wheel_Hospital_bed130|Take 001|BaseLayer
+  - first:
+      74: 7401410
+    second: MedicalDevice|Wheel_Hospital_bed131|Take 001|BaseLayer
+  - first:
+      74: 7401412
+    second: MedicalDevice|Wheel_Hospital_bed132|Take 001|BaseLayer
+  - first:
+      74: 7401414
+    second: MedicalDevice|Wheel_Hospital_bed133|Take 001|BaseLayer
+  - first:
+      74: 7401416
+    second: MedicalDevice|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+  - first:
+      74: 7401418
+    second: MedicalDevice|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+  - first:
+      74: 7401420
+    second: MedicalDevice|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+  - first:
+      74: 7401422
+    second: MedicalDevice|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+  - first:
+      74: 7401424
+    second: MedicalDevice|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+  - first:
+      74: 7401426
+    second: MedicalDevice|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+  - first:
+      74: 7401428
+    second: MedicalDevice|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+  - first:
+      74: 7401430
+    second: MedicalDevice|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+  - first:
+      74: 7401432
+    second: MedicalDevice|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+  - first:
+      74: 7401434
+    second: MedicalDevice|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+  - first:
+      74: 7401436
+    second: MedicalDevice|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+  - first:
+      74: 7401438
+    second: MedicalDevice|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+  - first:
+      74: 7401440
+    second: MedicalDevice|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+  - first:
+      74: 7401442
+    second: MedicalDevice|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+  - first:
+      74: 7401444
+    second: MedicalDevice|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+  - first:
+      74: 7401446
+    second: MedicalDevice|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+  - first:
+      74: 7401448
+    second: MedicalDevice|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+  - first:
+      74: 7401450
+    second: MedicalDevice|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+  - first:
+      74: 7401452
+    second: MedicalDevice|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+  - first:
+      74: 7401454
+    second: MedicalDevice|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+  - first:
+      74: 7401456
+    second: MedicalDevice|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+  - first:
+      74: 7401458
+    second: MedicalDevice|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+  - first:
+      74: 7401460
+    second: MedicalDevice|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+  - first:
+      74: 7401462
+    second: MedicalDevice|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+  - first:
+      74: 7401464
+    second: MedicalDevice|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+  - first:
+      74: 7401466
+    second: MedicalDevice|wheel_rubber007|Take 001|BaseLayer
+  - first:
+      74: 7401468
+    second: MedicalDevice|wheel_rubber008|Take 001|BaseLayer
+  - first:
+      74: 7401470
+    second: MedicalDevice|wheel_rubber008|Take 001|BaseLayer.001
+  - first:
+      74: 7401472
+    second: MedicalDevice|wheel_rubber009|Take 001|BaseLayer
+  - first:
+      74: 7401474
+    second: MedicalDevice|wheel_rubber010|Take 001|BaseLayer
+  - first:
+      74: 7401476
+    second: MedicalDevice|wheelCenterPivot004|Take 001|BaseLayer
+  - first:
+      74: 7401478
+    second: MedicalDevice|wheelCenterPivot005|Take 001|BaseLayer
+  - first:
+      74: 7401480
+    second: MedicalDevice|wheelCenterPivot005|Take 001|BaseLayer.001
+  - first:
+      74: 7401482
+    second: MedicalDevice|wheelCenterPivot006|Take 001|BaseLayer
+  - first:
+      74: 7401484
+    second: MedicalDevice|wheelCenterPivot007|Take 001|BaseLayer
+  - first:
+      74: 7401486
+    second: MedicalDevice|wooden floor|Take 001|BaseLayer
+  - first:
+      74: 7401488
+    second: MedicalDevice|wooden floor|Take 001|BaseLayer.001
+  - first:
+      74: 7401490
+    second: MedicalDevice|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7401492
+    second: MedicalDevice|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7401494
+    second: MedicalDevice|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7401496
+    second: MedicalDevice|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7401498
+    second: MedicalDevice|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7401500
+    second: MedicalDevice|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7401502
+    second: MedicalDevice|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7401504
+    second: MedicalDevice|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7401506
+    second: MedicalDevice|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7401508
+    second: MedicalDevice|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7401510
+    second: MedicalDevice|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7401512
+    second: MedicalDevice|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7401514
+    second: MedicalDevice|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7401516
+    second: MedicalDevice|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7401518
+    second: MedicalDevice|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7401520
+    second: MedicalDevice|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7401522
+    second: MedicalDevice|plinth 2|Take 001|BaseLayer
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: 892599634760920671
+    second: MedicalDevice|Box847|Take 001|BaseLayer
+  - first:
+      74: -5511462197302313519
+    second: MedicalDevice|mirror2a|Take 001|BaseLayer
+  - first:
+      74: -5144336338771742070
+    second: MedicalDevice|Object4483|Take 001|BaseLayer
+  - first:
+      74: -3087604015907649355
+    second: MedicalDevice|Object4491|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: surgical white.001
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: f5e73c2099e0bec4e8eda195b4159115
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 4013864776048441470
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Floor Conc - 6" - Rubber
+      Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 7044398844788173464
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: -4841312288675021377
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: -5709818408252117019
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Floor Conc - 6" - Rubber
+      Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: -3749817880974790028
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Surgery Stool Surgery
+      Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: 7409751883798891652
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Surgery Stool Surgery
+      Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: 310619249825496502
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Surgery Stool Surgery
+      Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: -2244821480359034019
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: 4007168137220419265
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Contamination Tray w-Contamination
+      Tray [367117]|Take 001|Bas
+  - first:
+      74: 4985639868225905581
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Medical Equipment -Trumpf
+      - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -7956682040546178735
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: 597173446861830697
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-SurgeryRoom Diffuser
+      - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: -7004224508127750213
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Anesthesia_Tower 26"
+      x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: 8882990579306874606
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Basic Wall Generic - 6"
+      [158854]|Take 001|BaseLayer
+  - first:
+      74: 4499942746542289048
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Basic Wall Interior -
+      3 1/8" Partition (1-hr) [243081]|Take 001
+  - first:
+      74: -6018656870388044348
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Cart-Laptop_Reed Cart-Laptop_Reed
+      [160984]|Take 001|BaseLayer
+  - first:
+      74: 4096159685611948043
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Cart_Utility_Reed 35In
+      H x 29In D x 16In W [160982]|Take 001|Ba
+  - first:
+      74: 3952752467782009672
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Compound Ceiling GWB on
+      Mtl. Stud [213220]|Take 001|BaseLayer
+  - first:
+      74: 5547567764546444165
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Computer_LCD_Reed Standard
+      [160990]|Take 001|BaseLayer
+  - first:
+      74: -4611600156408473787
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Door_Vision-Panel_Reed
+      Door_Vision-Panel_Reed [198105]|Take 001
+  - first:
+      74: 8755226850884495398
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Double_Flush_-_Unequal
+      72" x 78" [211553]|Take 001|BaseLayer
+  - first:
+      74: 6515495455024610247
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Handrail_Wall_Hospital_Reed
+      Handrail_Hospital_Reed [242155]|Tak
+  - first:
+      74: 1827832310318229011
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: 7720083409556915411
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Med-Gas-Outlet_MEP_Reed
+      Med Gas Wall Outlet [195215]|Take 001|B
+  - first:
+      74: -3595924000822879063
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|PDI_15quot_Flat_Screen
+      PDI_15quot_Flat_Screen [243262]|Take 001
+  - first:
+      74: 5530845683022756108
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Plane015|Take 001|BaseLayer
+  - first:
+      74: 2461887680603264118
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Rauland - Flush mounted
+      - model 2521 Rauland - Flush mo_632cde0
+  - first:
+      74: 2898922865174373
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Stand-Infusion_Reed Stand-Infusion_Reed
+      [160983]|Take 001|BaseL
+  - first:
+      74: -5443295633365886919
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: 673335291689410991
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|Ventilator_Reed Ventilator_Reed
+      [160979]|Take 001|BaseLayer
+  - first:
+      74: -8933790782133951055
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Fire Alarm Box Fire
+      Alarm Pull Box-NH [160855]|Take 001|BaseL
+  - first:
+      74: 8624883148661626658
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Med Cabinet - Tall 49.5"
+      [262813]|Take 001|BaseLayer
+  - first:
+      74: -990971260549570736
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-Medical Equipment -
+      Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: -5376362029629654571
+    second: Table-Overbed_Reed Table-Overbed_Reed [160993]|w-SurgeryRoom 48inch Light
+      Fixture w-SurgeryRoom 48inch_f35eb91
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Contamination Tray - Towel - Blue.001
+    second: {fileID: 2100000, guid: cd7617fa2d9cce84496f800cd87d903a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

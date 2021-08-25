@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: b706cb740cad6ff42b55a1a3ea36457b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 8703236413420365041
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158853]|Take
+      001|BaseLayer
+  - first:
+      74: -8563159564900200857
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Take
+      001|BaseLayer
+  - first:
+      74: 2223183195262868842
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158855]|Take
+      001|BaseLayer
+  - first:
+      74: 6102288924877937680
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158856]|Take
+      001|BaseLayer
+  - first:
+      74: -7074382228624002816
+    second: Basic Wall Generic - 6" [158854]|Cart-Laptop_Reed Cart-Laptop_Reed [160984]|Take
+      001|BaseLayer
+  - first:
+      74: -3556885752687058459
+    second: Basic Wall Generic - 6" [158854]|Cart_Utility_Reed 35In H x 29In D x
+      16In W [160982]|Take 001|Ba
+  - first:
+      74: -8548562151437625661
+    second: Basic Wall Generic - 6" [158854]|Computer_LCD_Reed Standard [160990]|Take
+      001|BaseLayer
+  - first:
+      74: -2380683190123895633
+    second: Basic Wall Generic - 6" [158854]|Floor Conc - 6" - Rubber Floor - Blue
+      [211487]|Take 001|BaseLay
+  - first:
+      74: -3603055287127861940
+    second: Basic Wall Generic - 6" [158854]|Floor Conc - 6" - Rubber Floor - Dark
+      Blue2 [316164]|Take 001|B
+  - first:
+      74: 7142605905072812392
+    second: Basic Wall Generic - 6" [158854]|Floor Conc - 6" - Rubber Floor - Dark
+      Blue2 [378046]|Take 001|B
+  - first:
+      74: -7707621652015382871
+    second: Basic Wall Generic - 6" [158854]|Floor Conc - 6" - Rubber Floor Dark
+      Blue [316282]|Take 001|Base
+  - first:
+      74: 591442394886303004
+    second: Basic Wall Generic - 6" [158854]|Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -4886840877633777682
+    second: Basic Wall Generic - 6" [158854]|PDI_15quot_Flat_Screen PDI_15quot_Flat_Screen
+      [243262]|Take 001
+  - first:
+      74: -287495097970885097
+    second: Basic Wall Generic - 6" [158854]|Surgery Stool Surgery Stool [285409]|Take
+      001|BaseLayer
+  - first:
+      74: 571777725651146890
+    second: Basic Wall Generic - 6" [158854]|Surgery Stool Surgery Stool [285507]|Take
+      001|BaseLayer
+  - first:
+      74: -221946893083985296
+    second: Basic Wall Generic - 6" [158854]|Surgery Stool Surgery Stool [318555]|Take
+      001|BaseLayer
+  - first:
+      74: -8870381200633511426
+    second: Basic Wall Generic - 6" [158854]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: -8826335549237066285
+    second: Basic Wall Generic - 6" [158854]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: 3532326380409928957
+    second: Basic Wall Generic - 6" [158854]|Ventilator_Reed Ventilator_Reed [160979]|Take
+      001|BaseLayer
+  - first:
+      74: -1102122229201678247
+    second: Basic Wall Generic - 6" [158854]|w-Anesthesia_Tower 26" x 26" [226134]|Take
+      001|BaseLayer
+  - first:
+      74: 5685608695987086250
+    second: Basic Wall Generic - 6" [158854]|w-Contamination Tray w-Contamination
+      Tray [367117]|Take 001|Bas
+  - first:
+      74: 2180121634575383271
+    second: Basic Wall Generic - 6" [158854]|w-Med Cabinet - Tall 49.5" [262813]|Take
+      001|BaseLayer
+  - first:
+      74: 786189304402556073
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment - ElectroSurgical
+      Generator ESU w-M_2cc8069
+  - first:
+      74: -4943669906316901752
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment - Olympus Xenon
+      Light Source Contro_875c195
+  - first:
+      74: -8506302673827498473
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment - SurgeryRoom Psymograph
+      w-Medical _d4ab6fd
+  - first:
+      74: 1343392778429833224
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment - Trumpf - i310
+      i310 FP [263967]|Take 001|B
+  - first:
+      74: -7405497874562709248
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment - Trumpf - i310
+      i310 FP [320310]|Take 001|B
+  - first:
+      74: 301553277469984225
+    second: Basic Wall Generic - 6" [158854]|w-Medical Equipment -Trumpf - Titan
+      Surgery Table Titan_241c58f
+  - first:
+      74: 790968417765446015
+    second: Basic Wall Generic - 6" [158854]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: 2107747482200831142
+    second: Basic Wall Generic - 6" [158854]|w-SurgeryRoom Diffuser - Titus TLF-AA
+      w-SurgeryRoom Dif_4d09d3c
+  - first:
+      74: -6499232322940757731
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.000
+  - first:
+      74: -2959405969700122952
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.001
+  - first:
+      74: -5059393989701761642
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.002
+  - first:
+      74: 5973841368624262558
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.003
+  - first:
+      74: -4793113741327149441
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.004
+  - first:
+      74: 8893056694943554699
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.005
+  - first:
+      74: 1817940698664374154
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.006
+  - first:
+      74: 3777494133699989069
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.007
+  - first:
+      74: -9091384540734472864
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.008
+  - first:
+      74: 213369189609389643
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.009
+  - first:
+      74: -543219162679060288
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.010
+  - first:
+      74: 4449617807068852358
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.011
+  - first:
+      74: 2986820885857613753
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.012
+  - first:
+      74: -5585844476673939454
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.013
+  - first:
+      74: 4059964472806236108
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.014
+  - first:
+      74: -8178822829287743243
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.015
+  - first:
+      74: 4092003392417276913
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.016
+  - first:
+      74: -4031798643366750608
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.017
+  - first:
+      74: 1304758637269939115
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.018
+  - first:
+      74: 997463798325041153
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.019
+  - first:
+      74: 6135268065091256500
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.020
+  - first:
+      74: -1913383725390682666
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.021
+  - first:
+      74: -3115429556627138304
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.022
+  - first:
+      74: 223076807706290693
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.023
+  - first:
+      74: 6095673216412297440
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.024
+  - first:
+      74: -4144423355376848213
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.025
+  - first:
+      74: 8485535981213940962
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.026
+  - first:
+      74: 6866520761010555346
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.027
+  - first:
+      74: 3346249342824966671
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [1.028
+  - first:
+      74: 1254200195467557710
+    second: Basic Wall Generic - 6" [158854]|Basic Wall Generic - 6" [158854]|Basic
+      Wall Generic - 6" [15885
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

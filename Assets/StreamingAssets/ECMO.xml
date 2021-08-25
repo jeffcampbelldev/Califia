@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ECMO noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema">
+  <!--XML designed to guide ECMO circuit and component configuration, assembly, placement, operation.-->
+  <Type>NONE</Type>
+  <Type>VA ECMO<Cannulation_Sites><Name Index="3">Right Femoral Drainage</Name><Default_Cannula>Bio-Medicus_NextGen_Drainage_25_Fr</Default_Cannula></Cannulation_Sites><Cannulation_Sites><Name Index="0">Left Femoral Delivery</Name><Default_Cannula>Bio-Medicus_NextGen_Delivery_23_Fr</Default_Cannula></Cannulation_Sites></Type>
+  <Type>VAV ECMO - Fem-Fem-IJ<Cannulation_Sites><Name Index="3">Right Femoral Drainage</Name><Default_Cannula>Bio-Medicus_NextGen_Drainage_25_Fr</Default_Cannula></Cannulation_Sites><Cannulation_Sites><Name Index="0">Left Femoral Delivery</Name><Default_Cannula>Bio-Medicus_NextGen_Delivery_23_Fr</Default_Cannula></Cannulation_Sites><Cannulation_Sites><Name Index="7">Right Internal Jugular</Name><Default_Cannula>Bio-Medicus_NextGen_Delivery_23_Fr</Default_Cannula></Cannulation_Sites></Type>
+  <Type>VAV ECMO - Fem-IJ (Dual Lumen)<Cannulation_Sites><Name Index="0">Left Femoral Delivery</Name><Default_Cannula>Bio-Medicus_NextGen_Delivery_23_Fr</Default_Cannula></Cannulation_Sites><Cannulation_Sites><Name Index="7">Right Internal Jugular</Name><Default_Cannula>Crescent_Dual_Lumen_32_Fr</Default_Cannula></Cannulation_Sites></Type>
+  <Type>VV ECMO - Fem-IJ<Cannulation_Sites><Name Index="3">Right Femoral Drainage</Name><Default_Cannula>Bio-Medicus_NextGen_Drainage_25_Fr</Default_Cannula></Cannulation_Sites><Cannulation_Sites><Name Index="7">Right Internal Jugular</Name><Default_Cannula>Bio-Medicus_NextGen_Delivery_23_Fr</Default_Cannula></Cannulation_Sites></Type>
+  <Type>VV ECMO - IJ-IJ<Cannulation_Sites><Name Index="7">Right Internal Jugular</Name><Default_Cannula>Crescent_Dual_Lumen_32_Fr</Default_Cannula></Cannulation_Sites></Type>
+  <Cannulas>
+    <!--Many cannulas include attributes and default settings. For instance, dual lumen IJ cannulas specify maximum insertion depth. Default values for depth and rotational placement are specified. Rotation=0 means infusion port facing straight left. Rotation angle increases clockwise.-->
+    <Bio-Medicus_NextGen_Delivery_15_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="0">Left Femoral Delivery</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Delivery_15_Fr>
+    <Bio-Medicus_NextGen_Delivery_19_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="0">Left Femoral Delivery</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Delivery_19_Fr>
+    <Bio-Medicus_NextGen_Delivery_23_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="0">Left Femoral Delivery</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Delivery_23_Fr>
+    <Bio-Medicus_NextGen_Drainage_15_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="1">Left Femoral Drainage</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="3">Right Femoral Drainage</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Drainage_15_Fr>
+    <Bio-Medicus_NextGen_Drainage_19_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="1">Left Femoral Drainage</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="3">Right Femoral Drainage</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Drainage_19_Fr>
+    <Bio-Medicus_NextGen_Drainage_25_Fr>
+      <ECMO_Type>VA ECMO</ECMO_Type>
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-Fem-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="1">Left Femoral Drainage</Name>
+      </Cannulation_Sites>
+      <Cannulation_Sites>
+        <Name Index="3">Right Femoral Drainage</Name>
+      </Cannulation_Sites>
+    </Bio-Medicus_NextGen_Drainage_25_Fr>
+    <Crescent_Dual_Lumen_24_Fr iLength="30">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>30</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Crescent_Dual_Lumen_24_Fr>
+    <Crescent_Dual_Lumen_28_Fr iLength="34">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>34</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Crescent_Dual_Lumen_28_Fr>
+    <Crescent_Dual_Lumen_32_Fr iLength="34">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>34</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Crescent_Dual_Lumen_32_Fr>
+    <Avalon_Dual_Lumen_23_Fr iLength="31">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>31</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Avalon_Dual_Lumen_23_Fr>
+    <Avalon_Dual_Lumen_27_Fr iLength="31">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>31</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Avalon_Dual_Lumen_27_Fr>
+    <Avalon_Dual_Lumen_31_Fr iLength="31">
+      <!--Insertable Length (iLength) in cm-->
+      <ECMO_Type>VV ECMO - Fem-IJ</ECMO_Type>
+      <ECMO_Type>VAV ECMO - Fem-IJ-IJ</ECMO_Type>
+      <Cannulation_Sites>
+        <Name Index="7">Right Internal Jugular</Name>
+      </Cannulation_Sites>
+      <Default>
+        <Depth>31</Depth>
+        <Rotation>0</Rotation>
+      </Default>
+    </Avalon_Dual_Lumen_31_Fr>
+  </Cannulas>
+</ECMO>

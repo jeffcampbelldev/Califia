@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2981909508277160820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6437453589325762633}
+  m_Layer: 0
+  m_Name: OutflowPlaceholder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6437453589325762633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2981909508277160820}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.837, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3428508809411246488}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3428508809411246489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3428508809411246488}
+  - component: {fileID: 721949658514620550}
+  m_Layer: 0
+  m_Name: EcmoCart
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3428508809411246488
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3428508809411246489}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6979451061421229986}
+  - {fileID: 5726041095443839814}
+  - {fileID: 6437453589325762633}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &721949658514620550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3428508809411246489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f7d3bc467cf97488c1b7db7d5a23e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _carts:
+  - {fileID: 3261167963768595636, guid: a593477b15e2c464db8a13bc023efcdc, type: 3}
+  - {fileID: 785496822092427399, guid: 0f66d68098211794e9312120c14c3396, type: 3}
+  _pumps:
+  - {fileID: 8846442952257949123, guid: a996a6be7c66c254fbdbcc47c59d1e03, type: 3}
+  - {fileID: 4858902537416848969, guid: ed56ba77ce033b740bdc527498771dd8, type: 3}
+  - {fileID: 8975150696857286473, guid: fe4dfe7e8b6776847b2c495587e1448f, type: 3}
+  _oxygenators:
+  - {fileID: 2969682565484205608, guid: 4b2a9626078ddf54bb80b9bbaa6fac54, type: 3}
+  - {fileID: 2086087537678116033, guid: f2392e9424f180b4a88f10b4c668ffd4, type: 3}
+  - {fileID: 7743902689751402156, guid: da3270b2e2baf824bb39afa7d25fde62, type: 3}
+  - {fileID: 3636408003228269136, guid: 02c5d4d44bf1a2f4e88cf916bc6366bf, type: 3}
+  _flowSensorDisplays:
+  - {fileID: 1413451696602127986, guid: 00587c5c905968f4385140ef3298e8b0, type: 3}
+  _heaters:
+  - {fileID: 849817381923307806, guid: 2d2f50ec2ba10c5419bf5ef2b167213e, type: 3}
+  _gasBlenders:
+  - {fileID: 10718653187001488, guid: 14a9ead8fd189bf4f8ddbca80a31b7a1, type: 3}
+  _ibgas:
+  - {fileID: 6063156448075400101, guid: 162ee2944f7b104428115cf46d3141c2, type: 3}
+  - {fileID: 6063156448075400101, guid: e3e736e132f34e340b5212259cbf9940, type: 3}
+  _hemofilters:
+  - {fileID: 3411197802163541384, guid: 256d742d80706914f91add0a0570b344, type: 3}
+  _pump: {fileID: 0}
+  _gasBlender: {fileID: 0}
+  _mixedAirGravCardiohelp: 0.5
+--- !u!1 &6636633553575894052
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6979451061421229986}
+  m_Layer: 0
+  m_Name: CartSlot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6979451061421229986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6636633553575894052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3428508809411246488}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7697389885411174895
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5726041095443839814}
+  m_Layer: 0
+  m_Name: InflowPlaceholder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5726041095443839814
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7697389885411174895}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.837, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3428508809411246488}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

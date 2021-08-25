@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 8eae52a2f8a193649a64dbd95400d8aa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 6920438332775049775
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Floor Conc - 6" - Rubber
+      Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 1945794901750129709
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 7391052109286089214
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Floor Conc - 6" - Rubber
+      Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: -387721264566853296
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Floor Conc - 6" - Rubber
+      Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: 8697287261598234614
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -5977761404878705970
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Surgery Stool Surgery Stool
+      [285409]|Take 001|BaseLayer
+  - first:
+      74: -7860599995984341207
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Surgery Stool Surgery Stool
+      [285507]|Take 001|BaseLayer
+  - first:
+      74: 4374031528781179091
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Surgery Stool Surgery Stool
+      [318555]|Take 001|BaseLayer
+  - first:
+      74: 7026376581254140498
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Table-Overbed_Reed Table-Overbed_Reed
+      [160993]|Take 001|BaseLay
+  - first:
+      74: -4600576237997082059
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Ventilator-2_Reed Ventilator-2_Reed
+      [160977]|Take 001|BaseLayer
+  - first:
+      74: -4815101286608775016
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|Ventilator_Reed Ventilator_Reed
+      [160979]|Take 001|BaseLayer
+  - first:
+      74: -1187860330409450156
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Anesthesia_Tower 26" x
+      26" [226134]|Take 001|BaseLayer
+  - first:
+      74: -6944907615376340800
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Contamination Tray w-Contamination
+      Tray [367117]|Take 001|Bas
+  - first:
+      74: 605011010564298349
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment - ElectroSurgical
+      Generator ESU w-M_2cc8069
+  - first:
+      74: -64101377891161733
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment - Olympus
+      Xenon Light Source Contro_875c195
+  - first:
+      74: 739338489818557156
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment - SurgeryRoom
+      Psymograph w-Medical _d4ab6fd
+  - first:
+      74: 2172707684579661703
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment - Trumpf
+      - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: 7014994312757628552
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment - Trumpf
+      - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: 4120330092042931640
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-Medical Equipment -Trumpf
+      - Titan Surgery Table Titan_241c58f
+  - first:
+      74: -5009684641794437930
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-SurgeryRoom Diffuser -
+      Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: -9204143036199487684
+    second: Ventilator-2_Reed Ventilator-2_Reed [160977]|w-SurgeryRoom Diffuser -
+      Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

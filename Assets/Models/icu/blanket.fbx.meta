@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a12e6e9132dcedf4da5e8850daa2aae6
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -152198056141918871
+    second: Patient 07 Bed|Camera|Take 001|Layer 001
+  - first:
+      74: 4053837018900185419
+    second: Patient 07 Bed|Directional Light|Take 001|Layer 001
+  - first:
+      74: -2601620265610458270
+    second: Patient 07 Bed|Patient 07 Bed|Take 001|Layer 001
+  - first:
+      74: 6823207554789295101
+    second: Patient 07 Bed|Texture Group|Take 001|Layer 001
+  - first:
+      74: -8163984703036636009
+    second: Camera|Camera|Take 001|Layer 001
+  - first:
+      74: -3577948729454352249
+    second: Camera|Directional Light|Take 001|Layer 001
+  - first:
+      74: -5979677357938647806
+    second: Camera|Patient 07 Bed|Take 001|Layer 001
+  - first:
+      74: 2977595913854576119
+    second: Camera|Texture Group|Take 001|Layer 001
+  - first:
+      74: -6126325045238124917
+    second: Texture Group|Camera|Take 001|Layer 001
+  - first:
+      74: -8498303250049754730
+    second: Texture Group|Directional Light|Take 001|Layer 001
+  - first:
+      74: 6404101417748011925
+    second: Texture Group|Patient 07 Bed|Take 001|Layer 001
+  - first:
+      74: 4942489634596724470
+    second: Texture Group|Texture Group|Take 001|Layer 001
+  - first:
+      74: 8795696792602502721
+    second: Directional Light|Camera|Take 001|Layer 001
+  - first:
+      74: -3190873513113683535
+    second: Directional Light|Directional Light|Take 001|Layer 001
+  - first:
+      74: 4883481056546868244
+    second: Directional Light|Patient 07 Bed|Take 001|Layer 001
+  - first:
+      74: -8813710333596313748
+    second: Directional Light|Texture Group|Take 001|Layer 001
+  - first:
+      74: 2961680513195871609
+    second: Patient 07 Bed|Camera.001|Take 001|Layer 001
+  - first:
+      74: -903171664584596940
+    second: Patient 07 Bed|Directional Light.001|Take 001|Layer 001
+  - first:
+      74: 1903158599697403258
+    second: Patient 07 Bed|Patient 07 Bed.001|Take 001|Layer 001
+  - first:
+      74: 3739976404129763838
+    second: Patient 07 Bed|Texture Group.001|Take 001|Layer 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

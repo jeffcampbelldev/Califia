@@ -1,0 +1,3138 @@
+fileFormatVersion: 2
+guid: 69053c71c79ed7f4f8871e36265c29cc
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: white_ metal_hospital_bed
+  - first:
+      21: 2100002
+    second: white_ plastic_hospital_bed
+  - first:
+      21: 2100004
+    second: Aluminum_matted
+  - first:
+      21: 2100006
+    second: blue_hospital_bed
+  - first:
+      21: 2100008
+    second: hospital bed matresse
+  - first:
+      21: 2100010
+    second: incubator black plastic
+  - first:
+      21: 2100012
+    second: side panel controls_type2
+  - first:
+      21: 2100014
+    second: pillow
+  - first:
+      21: 2100016
+    second: side panel controls_head_1
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Hospital_bed_base001
+  - first:
+      74: 7400000
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: Hospital_bed_base001|curtain_hospital_ward001|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: Hospital_bed_base001|curtain_hospital_ward007|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: Hospital_bed_base001|curtain_hospital_ward008|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: Hospital_bed_base001|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: Hospital_bed_base001|Hospital Bed001|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: Hospital_bed_base001|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: Hospital_bed_base001|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: Hospital_bed_base001|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: Hospital_bed_base001|Hospital_bed_base_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: Hospital_bed_base001|Hospital_bed_base_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: Hospital_bed_base001|Hospital_bed_base_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: Hospital_bed_base001|Hospital_bed_base_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: Hospital_bed_base001|Hospital_bed_bumper007|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: Hospital_bed_base001|Hospital_bed_bumper008|Take 001|BaseLayer
+  - first:
+      74: 7400036
+    second: Hospital_bed_base001|Hospital_bed_bumper009|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: Hospital_bed_base001|Hospital_bed_bumper010|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: Hospital_bed_base001|Hospital_bed_button012|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: Hospital_bed_base001|Hospital_bed_button013|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: Hospital_bed_base001|Hospital_bed_button_large005|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: Hospital_bed_base001|Hospital_bed_button_large006|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: Hospital_bed_base001|Hospital_bed_footpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: Hospital_bed_base001|Hospital_bed_framepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: Hospital_bed_base001|Hospital_bed_framepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: Hospital_bed_base001|Hospital_bed_headpanel002|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: Hospital_bed_base001|Hospital_bed_leg003|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: Hospital_bed_base001|Hospital_bed_leg004|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: Hospital_bed_base001|Hospital_bed_leg005|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: Hospital_bed_base001|Hospital_bed_matress001|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: Hospital_bed_base001|Hospital_bed_pedal064|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: Hospital_bed_base001|Hospital_bed_pedal065|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: Hospital_bed_base001|Hospital_bed_pedal066|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: Hospital_bed_base001|Hospital_bed_pedal067|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: Hospital_bed_base001|Hospital_bed_pedal068|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: Hospital_bed_base001|Hospital_bed_pedal2a001|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: Hospital_bed_base001|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: Hospital_bed_base001|Hospital_bed_pedals001|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: Hospital_bed_base001|Hospital_bed_piston006|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: Hospital_bed_base001|Hospital_bed_piston007|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: Hospital_bed_base001|Hospital_bed_piston008|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: Hospital_bed_base001|Hospital_bed_piston009|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: Hospital_bed_base001|Hospital_bed_piston010|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: Hospital_bed_base001|Hospital_bed_piston011|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: Hospital_bed_base001|hospital_bed_piston_cap030|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: Hospital_bed_base001|hospital_bed_piston_cap031|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: Hospital_bed_base001|hospital_bed_piston_cap032|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: Hospital_bed_base001|hospital_bed_piston_cap033|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: Hospital_bed_base001|hospital_bed_piston_cap034|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: Hospital_bed_base001|hospital_bed_piston_cap035|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: Hospital_bed_base001|hospital_bed_piston_cap036|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: Hospital_bed_base001|hospital_bed_piston_cap037|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: Hospital_bed_base001|hospital_bed_piston_cap038|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: Hospital_bed_base001|hospital_bed_piston_cap039|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: Hospital_bed_base001|hospital_bed_piston_cap040|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: Hospital_bed_base001|hospital_bed_piston_cap041|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: Hospital_bed_base001|hospital_bed_piston_cap042|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: Hospital_bed_base001|hospital_bed_piston_cap043|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: Hospital_bed_base001|hospital_bed_piston_cap044|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: Hospital_bed_base001|hospital_bed_piston_cap045|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: Hospital_bed_base001|hospital_bed_piston_cap046|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: Hospital_bed_base001|hospital_bed_piston_cap047|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: Hospital_bed_base001|hospital_bed_piston_cap048|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: Hospital_bed_base001|hospital_bed_piston_cap049|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: Hospital_bed_base001|hospital_bed_piston_cap050|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: Hospital_bed_base001|hospital_bed_piston_cap051|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: Hospital_bed_base001|hospital_bed_piston_cap052|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: Hospital_bed_base001|hospital_bed_piston_cap053|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: Hospital_bed_base001|hospital_bed_piston_cap054|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: Hospital_bed_base001|hospital_bed_piston_cap055|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: Hospital_bed_base001|hospital_bed_piston_cap056|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: Hospital_bed_base001|hospital_bed_piston_cap057|Take 001|BaseLayer
+  - first:
+      74: 7400158
+    second: Hospital_bed_base001|hospital_bed_piston_cap058|Take 001|BaseLayer
+  - first:
+      74: 7400160
+    second: Hospital_bed_base001|hospital_bed_piston_cap059|Take 001|BaseLayer
+  - first:
+      74: 7400162
+    second: Hospital_bed_base001|Hospital_bed_pistons002|Take 001|BaseLayer
+  - first:
+      74: 7400164
+    second: Hospital_bed_base001|Hospital_bed_pistons2a001|Take 001|BaseLayer
+  - first:
+      74: 7400166
+    second: Hospital_bed_base001|Hospital_bed_pole003|Take 001|BaseLayer
+  - first:
+      74: 7400168
+    second: Hospital_bed_base001|Hospital_bed_pole004|Take 001|BaseLayer
+  - first:
+      74: 7400170
+    second: Hospital_bed_base001|Hospital_bed_pole005|Take 001|BaseLayer
+  - first:
+      74: 7400172
+    second: Hospital_bed_base001|Hospital_bed_pole_support006|Take 001|BaseLayer
+  - first:
+      74: 7400174
+    second: Hospital_bed_base001|Hospital_bed_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400176
+    second: Hospital_bed_base001|Hospital_bed_pole_support008|Take 001|BaseLayer
+  - first:
+      74: 7400178
+    second: Hospital_bed_base001|Hospital_bed_pole_support009|Take 001|BaseLayer
+  - first:
+      74: 7400180
+    second: Hospital_bed_base001|Hospital_bed_pole_support010|Take 001|BaseLayer
+  - first:
+      74: 7400182
+    second: Hospital_bed_base001|Hospital_bed_pole_support011|Take 001|BaseLayer
+  - first:
+      74: 7400184
+    second: Hospital_bed_base001|Hospital_bed_side_caps013|Take 001|BaseLayer
+  - first:
+      74: 7400186
+    second: Hospital_bed_base001|Hospital_bed_side_caps014|Take 001|BaseLayer
+  - first:
+      74: 7400188
+    second: Hospital_bed_base001|Hospital_bed_side_caps015|Take 001|BaseLayer
+  - first:
+      74: 7400190
+    second: Hospital_bed_base001|Hospital_bed_side_caps016|Take 001|BaseLayer
+  - first:
+      74: 7400192
+    second: Hospital_bed_base001|Hospital_bed_side_caps017|Take 001|BaseLayer
+  - first:
+      74: 7400194
+    second: Hospital_bed_base001|Hospital_bed_side_caps018|Take 001|BaseLayer
+  - first:
+      74: 7400196
+    second: Hospital_bed_base001|Hospital_bed_side_caps019|Take 001|BaseLayer
+  - first:
+      74: 7400198
+    second: Hospital_bed_base001|Hospital_bed_side_caps020|Take 001|BaseLayer
+  - first:
+      74: 7400200
+    second: Hospital_bed_base001|Hospital_bed_side_caps021|Take 001|BaseLayer
+  - first:
+      74: 7400202
+    second: Hospital_bed_base001|Hospital_bed_side_caps022|Take 001|BaseLayer
+  - first:
+      74: 7400204
+    second: Hospital_bed_base001|Hospital_bed_side_caps023|Take 001|BaseLayer
+  - first:
+      74: 7400206
+    second: Hospital_bed_base001|Hospital_bed_side_caps024|Take 001|BaseLayer
+  - first:
+      74: 7400208
+    second: Hospital_bed_base001|Hospital_bed_side_caps025|Take 001|BaseLayer
+  - first:
+      74: 7400210
+    second: Hospital_bed_base001|Hospital_bed_side_hinge008|Take 001|BaseLayer
+  - first:
+      74: 7400212
+    second: Hospital_bed_base001|Hospital_bed_side_hinge009|Take 001|BaseLayer
+  - first:
+      74: 7400214
+    second: Hospital_bed_base001|Hospital_bed_side_hinge010|Take 001|BaseLayer
+  - first:
+      74: 7400216
+    second: Hospital_bed_base001|Hospital_bed_side_hinge011|Take 001|BaseLayer
+  - first:
+      74: 7400218
+    second: Hospital_bed_base001|Hospital_bed_side_hinge012|Take 001|BaseLayer
+  - first:
+      74: 7400220
+    second: Hospital_bed_base001|Hospital_bed_side_hinge013|Take 001|BaseLayer
+  - first:
+      74: 7400222
+    second: Hospital_bed_base001|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+  - first:
+      74: 7400224
+    second: Hospital_bed_base001|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400226
+    second: Hospital_bed_base001|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+  - first:
+      74: 7400228
+    second: Hospital_bed_base001|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+  - first:
+      74: 7400230
+    second: Hospital_bed_base001|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+  - first:
+      74: 7400232
+    second: Hospital_bed_base001|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+  - first:
+      74: 7400234
+    second: Hospital_bed_base001|Hospital_bed_sidepanel003|Take 001|BaseLayer
+  - first:
+      74: 7400236
+    second: Hospital_bed_base001|Hospital_bed_sidepanel004|Take 001|BaseLayer
+  - first:
+      74: 7400238
+    second: Hospital_bed_base001|Hospital_bed_sides001|Take 001|BaseLayer
+  - first:
+      74: 7400240
+    second: Hospital_bed_base001|Hospital_bed_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7400242
+    second: Hospital_bed_base001|Hospital_bed_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7400244
+    second: Hospital_bed_base001|Hospital_bed_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7400246
+    second: Hospital_bed_base001|Hospital_bed_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7400248
+    second: Hospital_bed_base001|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+  - first:
+      74: 7400250
+    second: Hospital_bed_base001|padding_hospital_bed_panels004|Take 001|BaseLayer
+  - first:
+      74: 7400252
+    second: Hospital_bed_base001|padding_hospital_bed_panels005|Take 001|BaseLayer
+  - first:
+      74: 7400254
+    second: Hospital_bed_base001|pillow001|Take 001|BaseLayer
+  - first:
+      74: 7400256
+    second: Hospital_bed_base001|Rubber_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400258
+    second: Hospital_bed_base001|Rubber_bumper017|Take 001|BaseLayer
+  - first:
+      74: 7400260
+    second: Hospital_bed_base001|Rubber_bumper018|Take 001|BaseLayer
+  - first:
+      74: 7400262
+    second: Hospital_bed_base001|Rubber_bumper019|Take 001|BaseLayer
+  - first:
+      74: 7400264
+    second: Hospital_bed_base001|Rubber_bumper020|Take 001|BaseLayer
+  - first:
+      74: 7400266
+    second: Hospital_bed_base001|Rubber_bumper021|Take 001|BaseLayer
+  - first:
+      74: 7400268
+    second: Hospital_bed_base001|Rubber_bumper022|Take 001|BaseLayer
+  - first:
+      74: 7400270
+    second: Hospital_bed_base001|Rubber_bumper023|Take 001|BaseLayer
+  - first:
+      74: 7400272
+    second: Hospital_bed_base001|Rubber_bumper024|Take 001|BaseLayer
+  - first:
+      74: 7400274
+    second: Hospital_bed_base001|Rubber_bumper_support008|Take 001|BaseLayer
+  - first:
+      74: 7400276
+    second: Hospital_bed_base001|Rubber_bumper_support009|Take 001|BaseLayer
+  - first:
+      74: 7400278
+    second: Hospital_bed_base001|Rubber_bumper_support010|Take 001|BaseLayer
+  - first:
+      74: 7400280
+    second: Hospital_bed_base001|Rubber_bumper_support011|Take 001|BaseLayer
+  - first:
+      74: 7400282
+    second: Hospital_bed_base001|Rubber_bumper_support012|Take 001|BaseLayer
+  - first:
+      74: 7400284
+    second: Hospital_bed_base001|side panel controls_head_002|Take 001|BaseLayer
+  - first:
+      74: 7400286
+    second: Hospital_bed_base001|side panel controls_head_003|Take 001|BaseLayer
+  - first:
+      74: 7400288
+    second: Hospital_bed_base001|side panel_head002|Take 001|BaseLayer
+  - first:
+      74: 7400290
+    second: Hospital_bed_base001|side panel_head003|Take 001|BaseLayer
+  - first:
+      74: 7400292
+    second: Hospital_bed_base001|side_panel_cap005|Take 001|BaseLayer
+  - first:
+      74: 7400294
+    second: Hospital_bed_base001|side_panel_cap006|Take 001|BaseLayer
+  - first:
+      74: 7400296
+    second: Hospital_bed_base001|side_panel_cap007|Take 001|BaseLayer
+  - first:
+      74: 7400298
+    second: Hospital_bed_base001|side_panel_cap008|Take 001|BaseLayer
+  - first:
+      74: 7400300
+    second: Hospital_bed_base001|walls|Take 001|BaseLayer
+  - first:
+      74: 7400302
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400304
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400306
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400308
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400310
+    second: Hospital_bed_base001|Wheel_Hospital_bed118|Take 001|BaseLayer
+  - first:
+      74: 7400312
+    second: Hospital_bed_base001|Wheel_Hospital_bed119|Take 001|BaseLayer
+  - first:
+      74: 7400314
+    second: Hospital_bed_base001|Wheel_Hospital_bed120|Take 001|BaseLayer
+  - first:
+      74: 7400316
+    second: Hospital_bed_base001|Wheel_Hospital_bed121|Take 001|BaseLayer
+  - first:
+      74: 7400318
+    second: Hospital_bed_base001|Wheel_Hospital_bed122|Take 001|BaseLayer
+  - first:
+      74: 7400320
+    second: Hospital_bed_base001|Wheel_Hospital_bed123|Take 001|BaseLayer
+  - first:
+      74: 7400322
+    second: Hospital_bed_base001|Wheel_Hospital_bed124|Take 001|BaseLayer
+  - first:
+      74: 7400324
+    second: Hospital_bed_base001|Wheel_Hospital_bed125|Take 001|BaseLayer
+  - first:
+      74: 7400326
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+  - first:
+      74: 7400328
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+  - first:
+      74: 7400330
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+  - first:
+      74: 7400332
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+  - first:
+      74: 7400334
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+  - first:
+      74: 7400336
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+  - first:
+      74: 7400338
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+  - first:
+      74: 7400340
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+  - first:
+      74: 7400342
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+  - first:
+      74: 7400344
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+  - first:
+      74: 7400346
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+  - first:
+      74: 7400348
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+  - first:
+      74: 7400350
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+  - first:
+      74: 7400352
+    second: Hospital_bed_base001|wooden floor|Take 001|BaseLayer
+  - first:
+      74: 7400354
+    second: Hospital_bed_base001|wooden floor|Take 001|BaseLayer.001
+  - first:
+      74: 7400356
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+  - first:
+      74: 7400358
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+  - first:
+      74: 7400360
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+  - first:
+      74: 7400362
+    second: Hospital_bed_base001|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+  - first:
+      74: 7400364
+    second: Hospital_bed_base001|Back_display_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400366
+    second: Hospital_bed_base001|bedside_table003|Take 001|BaseLayer
+  - first:
+      74: 7400368
+    second: Hospital_bed_base001|bedside_table_adjuster003|Take 001|BaseLayer
+  - first:
+      74: 7400370
+    second: Hospital_bed_base001|bedside_table_adjuster_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400372
+    second: Hospital_bed_base001|Bedside_table_axis003|Take 001|BaseLayer
+  - first:
+      74: 7400374
+    second: Hospital_bed_base001|Bedside_table_axis_support005|Take 001|BaseLayer
+  - first:
+      74: 7400376
+    second: Hospital_bed_base001|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400378
+    second: Hospital_bed_base001|Bedside_table_border003|Take 001|BaseLayer
+  - first:
+      74: 7400380
+    second: Hospital_bed_base001|Bedside_table_borderedge003|Take 001|BaseLayer
+  - first:
+      74: 7400382
+    second: Hospital_bed_base001|bedside_table_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400384
+    second: Hospital_bed_base001|bedside_table_handle_support003|Take 001|BaseLayer
+  - first:
+      74: 7400386
+    second: Hospital_bed_base001|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+  - first:
+      74: 7400388
+    second: Hospital_bed_base001|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+  - first:
+      74: 7400390
+    second: Hospital_bed_base001|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+  - first:
+      74: 7400392
+    second: Hospital_bed_base001|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+  - first:
+      74: 7400394
+    second: Hospital_bed_base001|Bedside_table_support010|Take 001|BaseLayer
+  - first:
+      74: 7400396
+    second: Hospital_bed_base001|Bedside_table_support011|Take 001|BaseLayer
+  - first:
+      74: 7400398
+    second: Hospital_bed_base001|Bedside_table_support012|Take 001|BaseLayer
+  - first:
+      74: 7400400
+    second: Hospital_bed_base001|Bedside_table_wheel053|Take 001|BaseLayer
+  - first:
+      74: 7400402
+    second: Hospital_bed_base001|Bedside_table_wheel054|Take 001|BaseLayer
+  - first:
+      74: 7400404
+    second: Hospital_bed_base001|Bedside_table_wheel055|Take 001|BaseLayer
+  - first:
+      74: 7400406
+    second: Hospital_bed_base001|Bedside_table_wheel056|Take 001|BaseLayer
+  - first:
+      74: 7400408
+    second: Hospital_bed_base001|Blue_light001|Take 001|BaseLayer
+  - first:
+      74: 7400410
+    second: Hospital_bed_base001|bolt424|Take 001|BaseLayer
+  - first:
+      74: 7400412
+    second: Hospital_bed_base001|bolt425|Take 001|BaseLayer
+  - first:
+      74: 7400414
+    second: Hospital_bed_base001|bolt426|Take 001|BaseLayer
+  - first:
+      74: 7400416
+    second: Hospital_bed_base001|bolt427|Take 001|BaseLayer
+  - first:
+      74: 7400418
+    second: Hospital_bed_base001|bolt431|Take 001|BaseLayer
+  - first:
+      74: 7400420
+    second: Hospital_bed_base001|bolt443|Take 001|BaseLayer
+  - first:
+      74: 7400422
+    second: Hospital_bed_base001|bolt444|Take 001|BaseLayer
+  - first:
+      74: 7400424
+    second: Hospital_bed_base001|bolt445|Take 001|BaseLayer
+  - first:
+      74: 7400426
+    second: Hospital_bed_base001|bolt446|Take 001|BaseLayer
+  - first:
+      74: 7400428
+    second: Hospital_bed_base001|bolt447|Take 001|BaseLayer
+  - first:
+      74: 7400430
+    second: Hospital_bed_base001|bolt448|Take 001|BaseLayer
+  - first:
+      74: 7400432
+    second: Hospital_bed_base001|bolt449|Take 001|BaseLayer
+  - first:
+      74: 7400434
+    second: Hospital_bed_base001|bolt450|Take 001|BaseLayer
+  - first:
+      74: 7400436
+    second: Hospital_bed_base001|bolt451|Take 001|BaseLayer
+  - first:
+      74: 7400438
+    second: Hospital_bed_base001|bolt452|Take 001|BaseLayer
+  - first:
+      74: 7400440
+    second: Hospital_bed_base001|bolt453|Take 001|BaseLayer
+  - first:
+      74: 7400442
+    second: Hospital_bed_base001|bolt454|Take 001|BaseLayer
+  - first:
+      74: 7400444
+    second: Hospital_bed_base001|bolt455|Take 001|BaseLayer
+  - first:
+      74: 7400446
+    second: Hospital_bed_base001|bolt456|Take 001|BaseLayer
+  - first:
+      74: 7400448
+    second: Hospital_bed_base001|bolt457|Take 001|BaseLayer
+  - first:
+      74: 7400450
+    second: Hospital_bed_base001|bolt458|Take 001|BaseLayer
+  - first:
+      74: 7400452
+    second: Hospital_bed_base001|bolt459|Take 001|BaseLayer
+  - first:
+      74: 7400454
+    second: Hospital_bed_base001|bolt460|Take 001|BaseLayer
+  - first:
+      74: 7400456
+    second: Hospital_bed_base001|bolt461|Take 001|BaseLayer
+  - first:
+      74: 7400458
+    second: Hospital_bed_base001|bolt462|Take 001|BaseLayer
+  - first:
+      74: 7400460
+    second: Hospital_bed_base001|bolt463|Take 001|BaseLayer
+  - first:
+      74: 7400462
+    second: Hospital_bed_base001|bolt464|Take 001|BaseLayer
+  - first:
+      74: 7400464
+    second: Hospital_bed_base001|bolt465|Take 001|BaseLayer
+  - first:
+      74: 7400466
+    second: Hospital_bed_base001|bolt466|Take 001|BaseLayer
+  - first:
+      74: 7400468
+    second: Hospital_bed_base001|bolt467|Take 001|BaseLayer
+  - first:
+      74: 7400470
+    second: Hospital_bed_base001|bolt468|Take 001|BaseLayer
+  - first:
+      74: 7400472
+    second: Hospital_bed_base001|bolt469|Take 001|BaseLayer
+  - first:
+      74: 7400474
+    second: Hospital_bed_base001|bolt470|Take 001|BaseLayer
+  - first:
+      74: 7400476
+    second: Hospital_bed_base001|bolt471|Take 001|BaseLayer
+  - first:
+      74: 7400478
+    second: Hospital_bed_base001|bolt472|Take 001|BaseLayer
+  - first:
+      74: 7400480
+    second: Hospital_bed_base001|bolt473|Take 001|BaseLayer
+  - first:
+      74: 7400482
+    second: Hospital_bed_base001|bolt474|Take 001|BaseLayer
+  - first:
+      74: 7400484
+    second: Hospital_bed_base001|bolt475|Take 001|BaseLayer
+  - first:
+      74: 7400486
+    second: Hospital_bed_base001|bolt476|Take 001|BaseLayer
+  - first:
+      74: 7400488
+    second: Hospital_bed_base001|bolt477|Take 001|BaseLayer
+  - first:
+      74: 7400490
+    second: Hospital_bed_base001|bolt478|Take 001|BaseLayer
+  - first:
+      74: 7400492
+    second: Hospital_bed_base001|bolt479|Take 001|BaseLayer
+  - first:
+      74: 7400494
+    second: Hospital_bed_base001|bolt480|Take 001|BaseLayer
+  - first:
+      74: 7400496
+    second: Hospital_bed_base001|bolt481|Take 001|BaseLayer
+  - first:
+      74: 7400498
+    second: Hospital_bed_base001|bolt482|Take 001|BaseLayer
+  - first:
+      74: 7400500
+    second: Hospital_bed_base001|bolt483|Take 001|BaseLayer
+  - first:
+      74: 7400502
+    second: Hospital_bed_base001|bolt484|Take 001|BaseLayer
+  - first:
+      74: 7400504
+    second: Hospital_bed_base001|bolt485|Take 001|BaseLayer
+  - first:
+      74: 7400506
+    second: Hospital_bed_base001|bolt486|Take 001|BaseLayer
+  - first:
+      74: 7400508
+    second: Hospital_bed_base001|bolt487|Take 001|BaseLayer
+  - first:
+      74: 7400510
+    second: Hospital_bed_base001|bolt488|Take 001|BaseLayer
+  - first:
+      74: 7400512
+    second: Hospital_bed_base001|bolt489|Take 001|BaseLayer
+  - first:
+      74: 7400514
+    second: Hospital_bed_base001|bolt490|Take 001|BaseLayer
+  - first:
+      74: 7400516
+    second: Hospital_bed_base001|bolt491|Take 001|BaseLayer
+  - first:
+      74: 7400518
+    second: Hospital_bed_base001|bolt492|Take 001|BaseLayer
+  - first:
+      74: 7400520
+    second: Hospital_bed_base001|bolt493|Take 001|BaseLayer
+  - first:
+      74: 7400522
+    second: Hospital_bed_base001|bolt494|Take 001|BaseLayer
+  - first:
+      74: 7400524
+    second: Hospital_bed_base001|bolt496|Take 001|BaseLayer
+  - first:
+      74: 7400526
+    second: Hospital_bed_base001|bolt497|Take 001|BaseLayer
+  - first:
+      74: 7400528
+    second: Hospital_bed_base001|bolt498|Take 001|BaseLayer
+  - first:
+      74: 7400530
+    second: Hospital_bed_base001|bolt499|Take 001|BaseLayer
+  - first:
+      74: 7400532
+    second: Hospital_bed_base001|bolt500|Take 001|BaseLayer
+  - first:
+      74: 7400534
+    second: Hospital_bed_base001|bolt501|Take 001|BaseLayer
+  - first:
+      74: 7400536
+    second: Hospital_bed_base001|bolt502|Take 001|BaseLayer
+  - first:
+      74: 7400538
+    second: Hospital_bed_base001|bolt503|Take 001|BaseLayer
+  - first:
+      74: 7400540
+    second: Hospital_bed_base001|bolt503|Take 001|BaseLayer.001
+  - first:
+      74: 7400542
+    second: Hospital_bed_base001|bolt504|Take 001|BaseLayer
+  - first:
+      74: 7400544
+    second: Hospital_bed_base001|bolt504|Take 001|BaseLayer.001
+  - first:
+      74: 7400546
+    second: Hospital_bed_base001|bolt505|Take 001|BaseLayer
+  - first:
+      74: 7400548
+    second: Hospital_bed_base001|bolt505|Take 001|BaseLayer.001
+  - first:
+      74: 7400550
+    second: Hospital_bed_base001|bolt506|Take 001|BaseLayer
+  - first:
+      74: 7400552
+    second: Hospital_bed_base001|bolt506|Take 001|BaseLayer.001
+  - first:
+      74: 7400554
+    second: Hospital_bed_base001|bolt507|Take 001|BaseLayer
+  - first:
+      74: 7400556
+    second: Hospital_bed_base001|bolt508|Take 001|BaseLayer
+  - first:
+      74: 7400558
+    second: Hospital_bed_base001|bolt509|Take 001|BaseLayer
+  - first:
+      74: 7400560
+    second: Hospital_bed_base001|bolt510|Take 001|BaseLayer
+  - first:
+      74: 7400562
+    second: Hospital_bed_base001|bolt511|Take 001|BaseLayer
+  - first:
+      74: 7400564
+    second: Hospital_bed_base001|bolt512|Take 001|BaseLayer
+  - first:
+      74: 7400566
+    second: Hospital_bed_base001|bolt513|Take 001|BaseLayer
+  - first:
+      74: 7400568
+    second: Hospital_bed_base001|bolt514|Take 001|BaseLayer
+  - first:
+      74: 7400570
+    second: Hospital_bed_base001|bolt515|Take 001|BaseLayer
+  - first:
+      74: 7400572
+    second: Hospital_bed_base001|bolt516|Take 001|BaseLayer
+  - first:
+      74: 7400574
+    second: Hospital_bed_base001|bolt517|Take 001|BaseLayer
+  - first:
+      74: 7400576
+    second: Hospital_bed_base001|bolt518|Take 001|BaseLayer
+  - first:
+      74: 7400578
+    second: Hospital_bed_base001|boom segment 009|Take 001|BaseLayer
+  - first:
+      74: 7400580
+    second: Hospital_bed_base001|boom segment 010|Take 001|BaseLayer
+  - first:
+      74: 7400582
+    second: Hospital_bed_base001|boom segment 011|Take 001|BaseLayer
+  - first:
+      74: 7400584
+    second: Hospital_bed_base001|BoomArm001|Take 001|BaseLayer
+  - first:
+      74: 7400586
+    second: Hospital_bed_base001|BoomMonitor002|Take 001|BaseLayer
+  - first:
+      74: 7400588
+    second: Hospital_bed_base001|Box206b007|Take 001|BaseLayer
+  - first:
+      74: 7400590
+    second: Hospital_bed_base001|Box276|Take 001|BaseLayer
+  - first:
+      74: 7400592
+    second: Hospital_bed_base001|Box276|Take 001|BaseLayer.001
+  - first:
+      74: 7400594
+    second: Hospital_bed_base001|Box277|Take 001|BaseLayer
+  - first:
+      74: 7400596
+    second: Hospital_bed_base001|Box278|Take 001|BaseLayer
+  - first:
+      74: 7400598
+    second: Hospital_bed_base001|Box278|Take 001|BaseLayer.001
+  - first:
+      74: 7400600
+    second: Hospital_bed_base001|Box279|Take 001|BaseLayer
+  - first:
+      74: 7400602
+    second: Hospital_bed_base001|Box279|Take 001|BaseLayer.001
+  - first:
+      74: 7400604
+    second: Hospital_bed_base001|Box280|Take 001|BaseLayer
+  - first:
+      74: 7400606
+    second: Hospital_bed_base001|bzt040|Take 001|BaseLayer
+  - first:
+      74: 7400608
+    second: Hospital_bed_base001|bzt040|Take 001|BaseLayer.001
+  - first:
+      74: 7400610
+    second: Hospital_bed_base001|bzt041|Take 001|BaseLayer
+  - first:
+      74: 7400612
+    second: Hospital_bed_base001|bzt041|Take 001|BaseLayer.001
+  - first:
+      74: 7400614
+    second: Hospital_bed_base001|bzt042|Take 001|BaseLayer
+  - first:
+      74: 7400616
+    second: Hospital_bed_base001|bzt042|Take 001|BaseLayer.001
+  - first:
+      74: 7400618
+    second: Hospital_bed_base001|bzt043|Take 001|BaseLayer
+  - first:
+      74: 7400620
+    second: Hospital_bed_base001|bzt043|Take 001|BaseLayer.001
+  - first:
+      74: 7400622
+    second: Hospital_bed_base001|bzt044|Take 001|BaseLayer
+  - first:
+      74: 7400624
+    second: Hospital_bed_base001|bzt044|Take 001|BaseLayer.001
+  - first:
+      74: 7400626
+    second: Hospital_bed_base001|cable005|Take 001|BaseLayer
+  - first:
+      74: 7400628
+    second: Hospital_bed_base001|cable006|Take 001|BaseLayer
+  - first:
+      74: 7400630
+    second: Hospital_bed_base001|cable007|Take 001|BaseLayer
+  - first:
+      74: 7400632
+    second: Hospital_bed_base001|cable008|Take 001|BaseLayer
+  - first:
+      74: 7400634
+    second: Hospital_bed_base001|cable009|Take 001|BaseLayer
+  - first:
+      74: 7400636
+    second: Hospital_bed_base001|card slot001|Take 001|BaseLayer
+  - first:
+      74: 7400638
+    second: Hospital_bed_base001|Circle007|Take 001|BaseLayer
+  - first:
+      74: 7400640
+    second: Hospital_bed_base001|Circle007|Take 001|BaseLayer.001
+  - first:
+      74: 7400642
+    second: Hospital_bed_base001|Clay_Paky_case001|Take 001|BaseLayer
+  - first:
+      74: 7400644
+    second: Hospital_bed_base001|Control_button001|Take 001|BaseLayer
+  - first:
+      74: 7400646
+    second: Hospital_bed_base001|cooler001|Take 001|BaseLayer
+  - first:
+      74: 7400648
+    second: Hospital_bed_base001|Cooler_fan002|Take 001|BaseLayer
+  - first:
+      74: 7400650
+    second: Hospital_bed_base001|Cooler_propeller012|Take 001|BaseLayer
+  - first:
+      74: 7400652
+    second: Hospital_bed_base001|Cooler_propeller013|Take 001|BaseLayer
+  - first:
+      74: 7400654
+    second: Hospital_bed_base001|Cooler_propeller014|Take 001|BaseLayer
+  - first:
+      74: 7400656
+    second: Hospital_bed_base001|Cooler_propeller015|Take 001|BaseLayer
+  - first:
+      74: 7400658
+    second: Hospital_bed_base001|Cooler_propeller016|Take 001|BaseLayer
+  - first:
+      74: 7400660
+    second: Hospital_bed_base001|Cooler_propeller017|Take 001|BaseLayer
+  - first:
+      74: 7400662
+    second: Hospital_bed_base001|Cylinder04sd007|Take 001|BaseLayer
+  - first:
+      74: 7400664
+    second: Hospital_bed_base001|Cylinder172vbbv007|Take 001|BaseLayer
+  - first:
+      74: 7400666
+    second: Hospital_bed_base001|Cylinder4509|Take 001|BaseLayer
+  - first:
+      74: 7400668
+    second: Hospital_bed_base001|Cylinder4510|Take 001|BaseLayer
+  - first:
+      74: 7400670
+    second: Hospital_bed_base001|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400672
+    second: Hospital_bed_base001|Cylinder4511|Take 001|BaseLayer
+  - first:
+      74: 7400674
+    second: Hospital_bed_base001|Cylinder4511|Take 001|BaseLayer.001
+  - first:
+      74: 7400676
+    second: Hospital_bed_base001|Cylinder4512|Take 001|BaseLayer
+  - first:
+      74: 7400678
+    second: Hospital_bed_base001|Cylinder4512|Take 001|BaseLayer.001
+  - first:
+      74: 7400680
+    second: Hospital_bed_base001|Cylinder4513|Take 001|BaseLayer
+  - first:
+      74: 7400682
+    second: Hospital_bed_base001|Cylinder4513|Take 001|BaseLayer.001
+  - first:
+      74: 7400684
+    second: Hospital_bed_base001|Cylinder4514|Take 001|BaseLayer
+  - first:
+      74: 7400686
+    second: Hospital_bed_base001|Cylinder4514|Take 001|BaseLayer.001
+  - first:
+      74: 7400688
+    second: Hospital_bed_base001|Cylinder4515|Take 001|BaseLayer
+  - first:
+      74: 7400690
+    second: Hospital_bed_base001|Cylinder4515|Take 001|BaseLayer.001
+  - first:
+      74: 7400692
+    second: Hospital_bed_base001|Cylinder4516|Take 001|BaseLayer
+  - first:
+      74: 7400694
+    second: Hospital_bed_base001|Cylinder4516|Take 001|BaseLayer.001
+  - first:
+      74: 7400696
+    second: Hospital_bed_base001|Cylinder4517|Take 001|BaseLayer
+  - first:
+      74: 7400698
+    second: Hospital_bed_base001|Cylinder4517|Take 001|BaseLayer.001
+  - first:
+      74: 7400700
+    second: Hospital_bed_base001|Cylinder4518|Take 001|BaseLayer
+  - first:
+      74: 7400702
+    second: Hospital_bed_base001|Cylinder4518|Take 001|BaseLayer.001
+  - first:
+      74: 7400704
+    second: Hospital_bed_base001|Cylinder4519|Take 001|BaseLayer
+  - first:
+      74: 7400706
+    second: Hospital_bed_base001|Cylinder4519|Take 001|BaseLayer.001
+  - first:
+      74: 7400708
+    second: Hospital_bed_base001|Cylinder4520|Take 001|BaseLayer
+  - first:
+      74: 7400710
+    second: Hospital_bed_base001|Cylinder4520|Take 001|BaseLayer.001
+  - first:
+      74: 7400712
+    second: Hospital_bed_base001|Cylinder4521|Take 001|BaseLayer
+  - first:
+      74: 7400714
+    second: Hospital_bed_base001|Cylinder4522|Take 001|BaseLayer
+  - first:
+      74: 7400716
+    second: Hospital_bed_base001|Cylinder4522|Take 001|BaseLayer.001
+  - first:
+      74: 7400718
+    second: Hospital_bed_base001|Cylinder4523|Take 001|BaseLayer
+  - first:
+      74: 7400720
+    second: Hospital_bed_base001|Cylinder4524|Take 001|BaseLayer
+  - first:
+      74: 7400722
+    second: Hospital_bed_base001|Cylinder4525|Take 001|BaseLayer
+  - first:
+      74: 7400724
+    second: Hospital_bed_base001|Cylinder4525|Take 001|BaseLayer.001
+  - first:
+      74: 7400726
+    second: Hospital_bed_base001|Cylinder4526|Take 001|BaseLayer
+  - first:
+      74: 7400728
+    second: Hospital_bed_base001|Cylinder4526|Take 001|BaseLayer.001
+  - first:
+      74: 7400730
+    second: Hospital_bed_base001|Cylinder4527|Take 001|BaseLayer
+  - first:
+      74: 7400732
+    second: Hospital_bed_base001|Cylinder4527|Take 001|BaseLayer.001
+  - first:
+      74: 7400734
+    second: Hospital_bed_base001|Cylinder4528|Take 001|BaseLayer
+  - first:
+      74: 7400736
+    second: Hospital_bed_base001|Cylinder4528|Take 001|BaseLayer.001
+  - first:
+      74: 7400738
+    second: Hospital_bed_base001|Cylinder4529|Take 001|BaseLayer
+  - first:
+      74: 7400740
+    second: Hospital_bed_base001|Cylinder4529|Take 001|BaseLayer.001
+  - first:
+      74: 7400742
+    second: Hospital_bed_base001|Cylinder4530|Take 001|BaseLayer
+  - first:
+      74: 7400744
+    second: Hospital_bed_base001|Cylinder4530|Take 001|BaseLayer.001
+  - first:
+      74: 7400746
+    second: Hospital_bed_base001|Cylinder4531|Take 001|BaseLayer
+  - first:
+      74: 7400748
+    second: Hospital_bed_base001|Cylinder4531|Take 001|BaseLayer.001
+  - first:
+      74: 7400750
+    second: Hospital_bed_base001|Cylinder4532|Take 001|BaseLayer
+  - first:
+      74: 7400752
+    second: Hospital_bed_base001|Cylinder4532|Take 001|BaseLayer.001
+  - first:
+      74: 7400754
+    second: Hospital_bed_base001|Cylinder4533|Take 001|BaseLayer
+  - first:
+      74: 7400756
+    second: Hospital_bed_base001|Cylinder4533|Take 001|BaseLayer.001
+  - first:
+      74: 7400758
+    second: Hospital_bed_base001|Cylinder4534|Take 001|BaseLayer
+  - first:
+      74: 7400760
+    second: Hospital_bed_base001|Cylinder4534|Take 001|BaseLayer.001
+  - first:
+      74: 7400762
+    second: Hospital_bed_base001|Cylinder4542|Take 001|BaseLayer
+  - first:
+      74: 7400764
+    second: Hospital_bed_base001|Cylinder4543|Take 001|BaseLayer
+  - first:
+      74: 7400766
+    second: Hospital_bed_base001|Cylinder4544|Take 001|BaseLayer
+  - first:
+      74: 7400768
+    second: Hospital_bed_base001|Cylinder4545|Take 001|BaseLayer
+  - first:
+      74: 7400770
+    second: Hospital_bed_base001|Cylinder4546|Take 001|BaseLayer
+  - first:
+      74: 7400772
+    second: Hospital_bed_base001|Cylinder4769|Take 001|BaseLayer
+  - first:
+      74: 7400774
+    second: Hospital_bed_base001|Cylinder4770|Take 001|BaseLayer
+  - first:
+      74: 7400776
+    second: Hospital_bed_base001|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+  - first:
+      74: 7400778
+    second: Hospital_bed_base001|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+  - first:
+      74: 7400780
+    second: Hospital_bed_base001|Display_body001|Take 001|BaseLayer
+  - first:
+      74: 7400782
+    second: Hospital_bed_base001|doctor_stool005|Take 001|BaseLayer
+  - first:
+      74: 7400784
+    second: Hospital_bed_base001|doctor_stool005|Take 001|BaseLayer.001
+  - first:
+      74: 7400786
+    second: Hospital_bed_base001|equipement carrier handle002|Take 001|BaseLayer
+  - first:
+      74: 7400788
+    second: Hospital_bed_base001|equipment carrier body001|Take 001|BaseLayer
+  - first:
+      74: 7400790
+    second: Hospital_bed_base001|equipment_carrier_shelf005|Take 001|BaseLayer
+  - first:
+      74: 7400792
+    second: Hospital_bed_base001|equipment_carrier_shelf006|Take 001|BaseLayer
+  - first:
+      74: 7400794
+    second: Hospital_bed_base001|equipment_carrier_shelf007|Take 001|BaseLayer
+  - first:
+      74: 7400796
+    second: Hospital_bed_base001|equipment_carrier_shelf008|Take 001|BaseLayer
+  - first:
+      74: 7400798
+    second: Hospital_bed_base001|Group042|Take 001|BaseLayer
+  - first:
+      74: 7400800
+    second: Hospital_bed_base001|Hospital_bed_pedal069|Take 001|BaseLayer
+  - first:
+      74: 7400802
+    second: Hospital_bed_base001|Hospital_bed_pedal070|Take 001|BaseLayer
+  - first:
+      74: 7400804
+    second: Hospital_bed_base001|humidifier001|Take 001|BaseLayer
+  - first:
+      74: 7400806
+    second: Hospital_bed_base001|insuflation tube040|Take 001|BaseLayer
+  - first:
+      74: 7400808
+    second: Hospital_bed_base001|insuflation tube041|Take 001|BaseLayer
+  - first:
+      74: 7400810
+    second: Hospital_bed_base001|insuflation tube042|Take 001|BaseLayer
+  - first:
+      74: 7400812
+    second: Hospital_bed_base001|insuflation tube043|Take 001|BaseLayer
+  - first:
+      74: 7400814
+    second: Hospital_bed_base001|insuflation tube044|Take 001|BaseLayer
+  - first:
+      74: 7400816
+    second: Hospital_bed_base001|insuflation tube045|Take 001|BaseLayer
+  - first:
+      74: 7400818
+    second: Hospital_bed_base001|insuflation tube046|Take 001|BaseLayer
+  - first:
+      74: 7400820
+    second: Hospital_bed_base001|insuflation tube047|Take 001|BaseLayer
+  - first:
+      74: 7400822
+    second: Hospital_bed_base001|insuflation tube049|Take 001|BaseLayer
+  - first:
+      74: 7400824
+    second: Hospital_bed_base001|insuflation tube050|Take 001|BaseLayer
+  - first:
+      74: 7400826
+    second: Hospital_bed_base001|insuflation tube051|Take 001|BaseLayer
+  - first:
+      74: 7400828
+    second: Hospital_bed_base001|insuflation tube052|Take 001|BaseLayer
+  - first:
+      74: 7400830
+    second: Hospital_bed_base001|insuflation tube053|Take 001|BaseLayer
+  - first:
+      74: 7400832
+    second: Hospital_bed_base001|insuflation tube054|Take 001|BaseLayer
+  - first:
+      74: 7400834
+    second: Hospital_bed_base001|insuflation tube055|Take 001|BaseLayer
+  - first:
+      74: 7400836
+    second: Hospital_bed_base001|insuflation tube056|Take 001|BaseLayer
+  - first:
+      74: 7400838
+    second: Hospital_bed_base001|insuflation tube057|Take 001|BaseLayer
+  - first:
+      74: 7400840
+    second: Hospital_bed_base001|insuflation tube058|Take 001|BaseLayer
+  - first:
+      74: 7400842
+    second: Hospital_bed_base001|insuflation tube059|Take 001|BaseLayer
+  - first:
+      74: 7400844
+    second: Hospital_bed_base001|insuflation tube060|Take 001|BaseLayer
+  - first:
+      74: 7400846
+    second: Hospital_bed_base001|insuflation tube061|Take 001|BaseLayer
+  - first:
+      74: 7400848
+    second: Hospital_bed_base001|insuflation tube062|Take 001|BaseLayer
+  - first:
+      74: 7400850
+    second: Hospital_bed_base001|insuflation tube063|Take 001|BaseLayer
+  - first:
+      74: 7400852
+    second: Hospital_bed_base001|insuflation tube064|Take 001|BaseLayer
+  - first:
+      74: 7400854
+    second: Hospital_bed_base001|insuflation tube065|Take 001|BaseLayer
+  - first:
+      74: 7400856
+    second: Hospital_bed_base001|insuflation tube066|Take 001|BaseLayer
+  - first:
+      74: 7400858
+    second: Hospital_bed_base001|insuflation tube067|Take 001|BaseLayer
+  - first:
+      74: 7400860
+    second: Hospital_bed_base001|insuflation tube068|Take 001|BaseLayer
+  - first:
+      74: 7400862
+    second: Hospital_bed_base001|Line033|Take 001|BaseLayer
+  - first:
+      74: 7400864
+    second: Hospital_bed_base001|liquid003|Take 001|BaseLayer
+  - first:
+      74: 7400866
+    second: Hospital_bed_base001|liquid004|Take 001|BaseLayer
+  - first:
+      74: 7400868
+    second: Hospital_bed_base001|Locker_tray001|Take 001|BaseLayer
+  - first:
+      74: 7400870
+    second: Hospital_bed_base001|medical device 01back005|Take 001|BaseLayer
+  - first:
+      74: 7400872
+    second: Hospital_bed_base001|medical device 01back006|Take 001|BaseLayer
+  - first:
+      74: 7400874
+    second: Hospital_bed_base001|medical device 01back007|Take 001|BaseLayer
+  - first:
+      74: 7400876
+    second: Hospital_bed_base001|medical device 01back008|Take 001|BaseLayer
+  - first:
+      74: 7400878
+    second: Hospital_bed_base001|medical device 01body015|Take 001|BaseLayer
+  - first:
+      74: 7400880
+    second: Hospital_bed_base001|medical device 01body016|Take 001|BaseLayer
+  - first:
+      74: 7400882
+    second: Hospital_bed_base001|medical device 01body017|Take 001|BaseLayer
+  - first:
+      74: 7400884
+    second: Hospital_bed_base001|medical device 01body018|Take 001|BaseLayer
+  - first:
+      74: 7400886
+    second: Hospital_bed_base001|medical device 01body019|Take 001|BaseLayer
+  - first:
+      74: 7400888
+    second: Hospital_bed_base001|medical device 01front002|Take 001|BaseLayer
+  - first:
+      74: 7400890
+    second: Hospital_bed_base001|medical device 01front003|Take 001|BaseLayer
+  - first:
+      74: 7400892
+    second: Hospital_bed_base001|medical device 02front004|Take 001|BaseLayer
+  - first:
+      74: 7400894
+    second: Hospital_bed_base001|medical device 02front005|Take 001|BaseLayer
+  - first:
+      74: 7400896
+    second: Hospital_bed_base001|medical device side016|Take 001|BaseLayer
+  - first:
+      74: 7400898
+    second: Hospital_bed_base001|medical device side017|Take 001|BaseLayer
+  - first:
+      74: 7400900
+    second: Hospital_bed_base001|medical device side018|Take 001|BaseLayer
+  - first:
+      74: 7400902
+    second: Hospital_bed_base001|medical device side019|Take 001|BaseLayer
+  - first:
+      74: 7400904
+    second: Hospital_bed_base001|medical device side020|Take 001|BaseLayer
+  - first:
+      74: 7400906
+    second: Hospital_bed_base001|medical device side021|Take 001|BaseLayer
+  - first:
+      74: 7400908
+    second: Hospital_bed_base001|medical device side022|Take 001|BaseLayer
+  - first:
+      74: 7400910
+    second: Hospital_bed_base001|medical device side023|Take 001|BaseLayer
+  - first:
+      74: 7400912
+    second: Hospital_bed_base001|medical devices001|Take 001|BaseLayer
+  - first:
+      74: 7400914
+    second: Hospital_bed_base001|medical_device005|Take 001|BaseLayer
+  - first:
+      74: 7400916
+    second: Hospital_bed_base001|medical_device006|Take 001|BaseLayer
+  - first:
+      74: 7400918
+    second: Hospital_bed_base001|medical_device007|Take 001|BaseLayer
+  - first:
+      74: 7400920
+    second: Hospital_bed_base001|medical_device008|Take 001|BaseLayer
+  - first:
+      74: 7400922
+    second: Hospital_bed_base001|medicine bottle 01 cap035|Take 001|BaseLayer
+  - first:
+      74: 7400924
+    second: Hospital_bed_base001|medicine bottle 01 cap036|Take 001|BaseLayer
+  - first:
+      74: 7400926
+    second: Hospital_bed_base001|medicine bottle 01 cap037|Take 001|BaseLayer
+  - first:
+      74: 7400928
+    second: Hospital_bed_base001|medicine bottle 02_ut002|Take 001|BaseLayer
+  - first:
+      74: 7400930
+    second: Hospital_bed_base001|medicine bottle 037|Take 001|BaseLayer
+  - first:
+      74: 7400932
+    second: Hospital_bed_base001|medicine bottle 03_v002|Take 001|BaseLayer
+  - first:
+      74: 7400934
+    second: Hospital_bed_base001|medicine box051|Take 001|BaseLayer
+  - first:
+      74: 7400936
+    second: Hospital_bed_base001|metal ring 004|Take 001|BaseLayer
+  - first:
+      74: 7400938
+    second: Hospital_bed_base001|metal ring 005|Take 001|BaseLayer
+  - first:
+      74: 7400940
+    second: Hospital_bed_base001|metal ring 006|Take 001|BaseLayer
+  - first:
+      74: 7400942
+    second: Hospital_bed_base001|Mobile_trolley001|Take 001|BaseLayer
+  - first:
+      74: 7400944
+    second: Hospital_bed_base001|monitor joint 003|Take 001|BaseLayer
+  - first:
+      74: 7400946
+    second: Hospital_bed_base001|monitor joint 004|Take 001|BaseLayer
+  - first:
+      74: 7400948
+    second: Hospital_bed_base001|monitor joint019|Take 001|BaseLayer
+  - first:
+      74: 7400950
+    second: Hospital_bed_base001|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400952
+    second: Hospital_bed_base001|monitor01_body007|Take 001|BaseLayer
+  - first:
+      74: 7400954
+    second: Hospital_bed_base001|Monitor_ax002|Take 001|BaseLayer
+  - first:
+      74: 7400956
+    second: Hospital_bed_base001|monitorARM002|Take 001|BaseLayer
+  - first:
+      74: 7400958
+    second: Hospital_bed_base001|mufa albastra017|Take 001|BaseLayer
+  - first:
+      74: 7400960
+    second: Hospital_bed_base001|mufa albastra018|Take 001|BaseLayer
+  - first:
+      74: 7400962
+    second: Hospital_bed_base001|mufa albastra019|Take 001|BaseLayer
+  - first:
+      74: 7400964
+    second: Hospital_bed_base001|mufaalbastra013|Take 001|BaseLayer
+  - first:
+      74: 7400966
+    second: Hospital_bed_base001|mufaalbastra014|Take 001|BaseLayer
+  - first:
+      74: 7400968
+    second: Hospital_bed_base001|mufaalbastra015|Take 001|BaseLayer
+  - first:
+      74: 7400970
+    second: Hospital_bed_base001|mufaalbastra016|Take 001|BaseLayer
+  - first:
+      74: 7400972
+    second: Hospital_bed_base001|mufaalbastra017|Take 001|BaseLayer
+  - first:
+      74: 7400974
+    second: Hospital_bed_base001|mufaalbastra018|Take 001|BaseLayer
+  - first:
+      74: 7400976
+    second: Hospital_bed_base001|mufaalbastra019|Take 001|BaseLayer
+  - first:
+      74: 7400978
+    second: Hospital_bed_base001|mufaalbastra020|Take 001|BaseLayer
+  - first:
+      74: 7400980
+    second: Hospital_bed_base001|mufaalbastra021|Take 001|BaseLayer
+  - first:
+      74: 7400982
+    second: Hospital_bed_base001|mufaalbastra022|Take 001|BaseLayer
+  - first:
+      74: 7400984
+    second: Hospital_bed_base001|Object4468|Take 001|BaseLayer
+  - first:
+      74: 7400986
+    second: Hospital_bed_base001|Object4469|Take 001|BaseLayer
+  - first:
+      74: 7400988
+    second: Hospital_bed_base001|Object4470|Take 001|BaseLayer
+  - first:
+      74: 7400990
+    second: Hospital_bed_base001|Object4471|Take 001|BaseLayer
+  - first:
+      74: 7400992
+    second: Hospital_bed_base001|Object4472|Take 001|BaseLayer
+  - first:
+      74: 7400994
+    second: Hospital_bed_base001|Object4473|Take 001|BaseLayer
+  - first:
+      74: 7400996
+    second: Hospital_bed_base001|Object4474|Take 001|BaseLayer
+  - first:
+      74: 7400998
+    second: Hospital_bed_base001|Object4474|Take 001|BaseLayer.001
+  - first:
+      74: 7401000
+    second: Hospital_bed_base001|Object4475|Take 001|BaseLayer
+  - first:
+      74: 7401002
+    second: Hospital_bed_base001|Object4475|Take 001|BaseLayer.001
+  - first:
+      74: 7401004
+    second: Hospital_bed_base001|Object4476|Take 001|BaseLayer
+  - first:
+      74: 7401006
+    second: Hospital_bed_base001|Object4476|Take 001|BaseLayer.001
+  - first:
+      74: 7401008
+    second: Hospital_bed_base001|Object4477|Take 001|BaseLayer
+  - first:
+      74: 7401010
+    second: Hospital_bed_base001|Object4477|Take 001|BaseLayer.001
+  - first:
+      74: 7401012
+    second: Hospital_bed_base001|Object4478|Take 001|BaseLayer
+  - first:
+      74: 7401014
+    second: Hospital_bed_base001|Object4478|Take 001|BaseLayer.001
+  - first:
+      74: 7401016
+    second: Hospital_bed_base001|off button device002|Take 001|BaseLayer
+  - first:
+      74: 7401018
+    second: Hospital_bed_base001|off button008|Take 001|BaseLayer
+  - first:
+      74: 7401020
+    second: Hospital_bed_base001|off button009|Take 001|BaseLayer
+  - first:
+      74: 7401022
+    second: Hospital_bed_base001|off button010|Take 001|BaseLayer
+  - first:
+      74: 7401024
+    second: Hospital_bed_base001|on button device002|Take 001|BaseLayer
+  - first:
+      74: 7401026
+    second: Hospital_bed_base001|on button008|Take 001|BaseLayer
+  - first:
+      74: 7401028
+    second: Hospital_bed_base001|on button009|Take 001|BaseLayer
+  - first:
+      74: 7401030
+    second: Hospital_bed_base001|on button010|Take 001|BaseLayer
+  - first:
+      74: 7401032
+    second: Hospital_bed_base001|on/off button008|Take 001|BaseLayer
+  - first:
+      74: 7401034
+    second: Hospital_bed_base001|on/off button009|Take 001|BaseLayer
+  - first:
+      74: 7401036
+    second: Hospital_bed_base001|on/off button010|Take 001|BaseLayer
+  - first:
+      74: 7401038
+    second: Hospital_bed_base001|plugg socket044|Take 001|BaseLayer
+  - first:
+      74: 7401040
+    second: Hospital_bed_base001|plugg socket045|Take 001|BaseLayer
+  - first:
+      74: 7401042
+    second: Hospital_bed_base001|plugg socket049|Take 001|BaseLayer
+  - first:
+      74: 7401044
+    second: Hospital_bed_base001|plugg socket050|Take 001|BaseLayer
+  - first:
+      74: 7401046
+    second: Hospital_bed_base001|plugg socket051|Take 001|BaseLayer
+  - first:
+      74: 7401048
+    second: Hospital_bed_base001|plugg015|Take 001|BaseLayer
+  - first:
+      74: 7401050
+    second: Hospital_bed_base001|plugg016|Take 001|BaseLayer
+  - first:
+      74: 7401052
+    second: Hospital_bed_base001|plugg017|Take 001|BaseLayer
+  - first:
+      74: 7401054
+    second: Hospital_bed_base001|plugg018|Take 001|BaseLayer
+  - first:
+      74: 7401056
+    second: Hospital_bed_base001|plugg019|Take 001|BaseLayer
+  - first:
+      74: 7401058
+    second: Hospital_bed_base001|plugg020|Take 001|BaseLayer
+  - first:
+      74: 7401060
+    second: Hospital_bed_base001|plugg021|Take 001|BaseLayer
+  - first:
+      74: 7401062
+    second: Hospital_bed_base001|plugg022|Take 001|BaseLayer
+  - first:
+      74: 7401064
+    second: Hospital_bed_base001|plugg023|Take 001|BaseLayer
+  - first:
+      74: 7401066
+    second: Hospital_bed_base001|plugg024|Take 001|BaseLayer
+  - first:
+      74: 7401068
+    second: Hospital_bed_base001|plugg025|Take 001|BaseLayer
+  - first:
+      74: 7401070
+    second: Hospital_bed_base001|plugg026|Take 001|BaseLayer
+  - first:
+      74: 7401072
+    second: Hospital_bed_base001|plugg027|Take 001|BaseLayer
+  - first:
+      74: 7401074
+    second: Hospital_bed_base001|roata045|Take 001|BaseLayer
+  - first:
+      74: 7401076
+    second: Hospital_bed_base001|roata045|Take 001|BaseLayer.001
+  - first:
+      74: 7401078
+    second: Hospital_bed_base001|roata046|Take 001|BaseLayer
+  - first:
+      74: 7401080
+    second: Hospital_bed_base001|roata046|Take 001|BaseLayer.001
+  - first:
+      74: 7401082
+    second: Hospital_bed_base001|roata047|Take 001|BaseLayer
+  - first:
+      74: 7401084
+    second: Hospital_bed_base001|roata047|Take 001|BaseLayer.001
+  - first:
+      74: 7401086
+    second: Hospital_bed_base001|roata048|Take 001|BaseLayer
+  - first:
+      74: 7401088
+    second: Hospital_bed_base001|roata048|Take 001|BaseLayer.001
+  - first:
+      74: 7401090
+    second: Hospital_bed_base001|roata049|Take 001|BaseLayer
+  - first:
+      74: 7401092
+    second: Hospital_bed_base001|roata049|Take 001|BaseLayer.001
+  - first:
+      74: 7401094
+    second: Hospital_bed_base001|round slot016|Take 001|BaseLayer
+  - first:
+      74: 7401096
+    second: Hospital_bed_base001|round slot017|Take 001|BaseLayer
+  - first:
+      74: 7401098
+    second: Hospital_bed_base001|round slot018|Take 001|BaseLayer
+  - first:
+      74: 7401100
+    second: Hospital_bed_base001|round slot019|Take 001|BaseLayer
+  - first:
+      74: 7401102
+    second: Hospital_bed_base001|round slot020|Take 001|BaseLayer
+  - first:
+      74: 7401104
+    second: Hospital_bed_base001|round slot021|Take 001|BaseLayer
+  - first:
+      74: 7401106
+    second: Hospital_bed_base001|round slot022|Take 001|BaseLayer
+  - first:
+      74: 7401108
+    second: Hospital_bed_base001|round slot023|Take 001|BaseLayer
+  - first:
+      74: 7401110
+    second: Hospital_bed_base001|round slot024|Take 001|BaseLayer
+  - first:
+      74: 7401112
+    second: Hospital_bed_base001|round slot025|Take 001|BaseLayer
+  - first:
+      74: 7401114
+    second: Hospital_bed_base001|Round_button001|Take 001|BaseLayer
+  - first:
+      74: 7401116
+    second: Hospital_bed_base001|Round_Scart008|Take 001|BaseLayer
+  - first:
+      74: 7401118
+    second: Hospital_bed_base001|Round_Scart009|Take 001|BaseLayer
+  - first:
+      74: 7401120
+    second: Hospital_bed_base001|Round_Scart010|Take 001|BaseLayer
+  - first:
+      74: 7401122
+    second: Hospital_bed_base001|Round_Scart011|Take 001|BaseLayer
+  - first:
+      74: 7401124
+    second: Hospital_bed_base001|Round_Scart012|Take 001|BaseLayer
+  - first:
+      74: 7401126
+    second: Hospital_bed_base001|Round_Scart013|Take 001|BaseLayer
+  - first:
+      74: 7401128
+    second: Hospital_bed_base001|Round_Scart014|Take 001|BaseLayer
+  - first:
+      74: 7401130
+    second: Hospital_bed_base001|Round_Scart015|Take 001|BaseLayer
+  - first:
+      74: 7401132
+    second: Hospital_bed_base001|Sanitizer003|Take 001|BaseLayer
+  - first:
+      74: 7401134
+    second: Hospital_bed_base001|Sanitizer004|Take 001|BaseLayer
+  - first:
+      74: 7401136
+    second: Hospital_bed_base001|scart003|Take 001|BaseLayer
+  - first:
+      74: 7401138
+    second: Hospital_bed_base001|scart004|Take 001|BaseLayer
+  - first:
+      74: 7401140
+    second: Hospital_bed_base001|scart005|Take 001|BaseLayer
+  - first:
+      74: 7401142
+    second: Hospital_bed_base001|Shape002|Take 001|BaseLayer
+  - first:
+      74: 7401144
+    second: Hospital_bed_base001|shelf edge004|Take 001|BaseLayer
+  - first:
+      74: 7401146
+    second: Hospital_bed_base001|shelf edge005|Take 001|BaseLayer
+  - first:
+      74: 7401148
+    second: Hospital_bed_base001|shelf edge006|Take 001|BaseLayer
+  - first:
+      74: 7401150
+    second: Hospital_bed_base001|shelf edge007|Take 001|BaseLayer
+  - first:
+      74: 7401152
+    second: Hospital_bed_base001|Side_handle002|Take 001|BaseLayer
+  - first:
+      74: 7401154
+    second: Hospital_bed_base001|Side_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401156
+    second: Hospital_bed_base001|sky boom base001|Take 001|BaseLayer
+  - first:
+      74: 7401158
+    second: Hospital_bed_base001|socketA068|Take 001|BaseLayer
+  - first:
+      74: 7401160
+    second: Hospital_bed_base001|socketA069|Take 001|BaseLayer
+  - first:
+      74: 7401162
+    second: Hospital_bed_base001|socketA071|Take 001|BaseLayer
+  - first:
+      74: 7401164
+    second: Hospital_bed_base001|socketA072|Take 001|BaseLayer
+  - first:
+      74: 7401166
+    second: Hospital_bed_base001|socketA073|Take 001|BaseLayer
+  - first:
+      74: 7401168
+    second: Hospital_bed_base001|socketA074|Take 001|BaseLayer
+  - first:
+      74: 7401170
+    second: Hospital_bed_base001|socketA075|Take 001|BaseLayer
+  - first:
+      74: 7401172
+    second: Hospital_bed_base001|socketA076|Take 001|BaseLayer
+  - first:
+      74: 7401174
+    second: Hospital_bed_base001|socketA077|Take 001|BaseLayer
+  - first:
+      74: 7401176
+    second: Hospital_bed_base001|socketA078|Take 001|BaseLayer
+  - first:
+      74: 7401178
+    second: Hospital_bed_base001|socketA079|Take 001|BaseLayer
+  - first:
+      74: 7401180
+    second: Hospital_bed_base001|socketA080|Take 001|BaseLayer
+  - first:
+      74: 7401182
+    second: Hospital_bed_base001|socketA081|Take 001|BaseLayer
+  - first:
+      74: 7401184
+    second: Hospital_bed_base001|socketA082|Take 001|BaseLayer
+  - first:
+      74: 7401186
+    second: Hospital_bed_base001|socketA083|Take 001|BaseLayer
+  - first:
+      74: 7401188
+    second: Hospital_bed_base001|socketA084|Take 001|BaseLayer
+  - first:
+      74: 7401190
+    second: Hospital_bed_base001|socketA085|Take 001|BaseLayer
+  - first:
+      74: 7401192
+    second: Hospital_bed_base001|socketA086|Take 001|BaseLayer
+  - first:
+      74: 7401194
+    second: Hospital_bed_base001|socketA087|Take 001|BaseLayer
+  - first:
+      74: 7401196
+    second: Hospital_bed_base001|socketA088|Take 001|BaseLayer
+  - first:
+      74: 7401198
+    second: Hospital_bed_base001|socketA089|Take 001|BaseLayer
+  - first:
+      74: 7401200
+    second: Hospital_bed_base001|SocketB076|Take 001|BaseLayer
+  - first:
+      74: 7401202
+    second: Hospital_bed_base001|SocketB082|Take 001|BaseLayer
+  - first:
+      74: 7401204
+    second: Hospital_bed_base001|SocketB083|Take 001|BaseLayer
+  - first:
+      74: 7401206
+    second: Hospital_bed_base001|SocketB084|Take 001|BaseLayer
+  - first:
+      74: 7401208
+    second: Hospital_bed_base001|SocketB085|Take 001|BaseLayer
+  - first:
+      74: 7401210
+    second: Hospital_bed_base001|SocketB086|Take 001|BaseLayer
+  - first:
+      74: 7401212
+    second: Hospital_bed_base001|SocketB087|Take 001|BaseLayer
+  - first:
+      74: 7401214
+    second: Hospital_bed_base001|SocketB088|Take 001|BaseLayer
+  - first:
+      74: 7401216
+    second: Hospital_bed_base001|SocketB089|Take 001|BaseLayer
+  - first:
+      74: 7401218
+    second: Hospital_bed_base001|SocketB090|Take 001|BaseLayer
+  - first:
+      74: 7401220
+    second: Hospital_bed_base001|SocketB091|Take 001|BaseLayer
+  - first:
+      74: 7401222
+    second: Hospital_bed_base001|SocketB092|Take 001|BaseLayer
+  - first:
+      74: 7401224
+    second: Hospital_bed_base001|SocketB093|Take 001|BaseLayer
+  - first:
+      74: 7401226
+    second: Hospital_bed_base001|SocketB094|Take 001|BaseLayer
+  - first:
+      74: 7401228
+    second: Hospital_bed_base001|SocketB095|Take 001|BaseLayer
+  - first:
+      74: 7401230
+    second: Hospital_bed_base001|sockets012|Take 001|BaseLayer
+  - first:
+      74: 7401232
+    second: Hospital_bed_base001|sockets014|Take 001|BaseLayer
+  - first:
+      74: 7401234
+    second: Hospital_bed_base001|sockets015|Take 001|BaseLayer
+  - first:
+      74: 7401236
+    second: Hospital_bed_base001|support017|Take 001|BaseLayer
+  - first:
+      74: 7401238
+    second: Hospital_bed_base001|support018|Take 001|BaseLayer
+  - first:
+      74: 7401240
+    second: Hospital_bed_base001|support019|Take 001|BaseLayer
+  - first:
+      74: 7401242
+    second: Hospital_bed_base001|support020|Take 001|BaseLayer
+  - first:
+      74: 7401244
+    second: Hospital_bed_base001|support021|Take 001|BaseLayer
+  - first:
+      74: 7401246
+    second: Hospital_bed_base001|support022|Take 001|BaseLayer
+  - first:
+      74: 7401248
+    second: Hospital_bed_base001|support023|Take 001|BaseLayer
+  - first:
+      74: 7401250
+    second: Hospital_bed_base001|support024|Take 001|BaseLayer
+  - first:
+      74: 7401252
+    second: Hospital_bed_base001|support025|Take 001|BaseLayer
+  - first:
+      74: 7401254
+    second: Hospital_bed_base001|support026|Take 001|BaseLayer
+  - first:
+      74: 7401256
+    second: Hospital_bed_base001|support027|Take 001|BaseLayer
+  - first:
+      74: 7401258
+    second: Hospital_bed_base001|support028|Take 001|BaseLayer
+  - first:
+      74: 7401260
+    second: Hospital_bed_base001|support029|Take 001|BaseLayer
+  - first:
+      74: 7401262
+    second: Hospital_bed_base001|support030|Take 001|BaseLayer
+  - first:
+      74: 7401264
+    second: Hospital_bed_base001|support031|Take 001|BaseLayer
+  - first:
+      74: 7401266
+    second: Hospital_bed_base001|support032|Take 001|BaseLayer
+  - first:
+      74: 7401268
+    second: Hospital_bed_base001|surgical light handle032|Take 001|BaseLayer
+  - first:
+      74: 7401270
+    second: Hospital_bed_base001|surgical light handle033|Take 001|BaseLayer
+  - first:
+      74: 7401272
+    second: Hospital_bed_base001|surgical light handle034|Take 001|BaseLayer
+  - first:
+      74: 7401274
+    second: Hospital_bed_base001|surgical light handle035|Take 001|BaseLayer
+  - first:
+      74: 7401276
+    second: Hospital_bed_base001|surgical light handle036|Take 001|BaseLayer
+  - first:
+      74: 7401278
+    second: Hospital_bed_base001|surgical light handle037|Take 001|BaseLayer
+  - first:
+      74: 7401280
+    second: Hospital_bed_base001|surgical light handle038|Take 001|BaseLayer
+  - first:
+      74: 7401282
+    second: Hospital_bed_base001|usb slot027|Take 001|BaseLayer
+  - first:
+      74: 7401284
+    second: Hospital_bed_base001|usb slot028|Take 001|BaseLayer
+  - first:
+      74: 7401286
+    second: Hospital_bed_base001|usb slot029|Take 001|BaseLayer
+  - first:
+      74: 7401288
+    second: Hospital_bed_base001|usb slot030|Take 001|BaseLayer
+  - first:
+      74: 7401290
+    second: Hospital_bed_base001|usb slot031|Take 001|BaseLayer
+  - first:
+      74: 7401292
+    second: Hospital_bed_base001|usb slot032|Take 001|BaseLayer
+  - first:
+      74: 7401294
+    second: Hospital_bed_base001|usb slot033|Take 001|BaseLayer
+  - first:
+      74: 7401296
+    second: Hospital_bed_base001|usb slot034|Take 001|BaseLayer
+  - first:
+      74: 7401298
+    second: Hospital_bed_base001|usb slot035|Take 001|BaseLayer
+  - first:
+      74: 7401300
+    second: Hospital_bed_base001|usb slot036|Take 001|BaseLayer
+  - first:
+      74: 7401302
+    second: Hospital_bed_base001|usb slot037|Take 001|BaseLayer
+  - first:
+      74: 7401304
+    second: Hospital_bed_base001|usb slot038|Take 001|BaseLayer
+  - first:
+      74: 7401306
+    second: Hospital_bed_base001|ventilator  bag cap001|Take 001|BaseLayer
+  - first:
+      74: 7401308
+    second: Hospital_bed_base001|ventilator arm adjustable support001|Take 001|BaseLayer
+  - first:
+      74: 7401310
+    second: Hospital_bed_base001|ventilator arm handle002|Take 001|BaseLayer
+  - first:
+      74: 7401312
+    second: Hospital_bed_base001|ventilator arm segment005|Take 001|BaseLayer
+  - first:
+      74: 7401314
+    second: Hospital_bed_base001|ventilator arm segment006|Take 001|BaseLayer
+  - first:
+      74: 7401316
+    second: Hospital_bed_base001|ventilator arm segment007|Take 001|BaseLayer
+  - first:
+      74: 7401318
+    second: Hospital_bed_base001|ventilator arm segment008|Take 001|BaseLayer
+  - first:
+      74: 7401320
+    second: Hospital_bed_base001|ventilator bag001|Take 001|BaseLayer
+  - first:
+      74: 7401322
+    second: Hospital_bed_base001|ventilator box002|Take 001|BaseLayer
+  - first:
+      74: 7401324
+    second: Hospital_bed_base001|ventilator brushed metal002|Take 001|BaseLayer
+  - first:
+      74: 7401326
+    second: Hospital_bed_base001|ventilator controls 003|Take 001|BaseLayer
+  - first:
+      74: 7401328
+    second: Hospital_bed_base001|ventilator glass004|Take 001|BaseLayer
+  - first:
+      74: 7401330
+    second: Hospital_bed_base001|ventilator glass005|Take 001|BaseLayer
+  - first:
+      74: 7401332
+    second: Hospital_bed_base001|ventilator glass006|Take 001|BaseLayer
+  - first:
+      74: 7401334
+    second: Hospital_bed_base001|ventilator hose cap 012|Take 001|BaseLayer
+  - first:
+      74: 7401336
+    second: Hospital_bed_base001|ventilator hose cap 013|Take 001|BaseLayer
+  - first:
+      74: 7401338
+    second: Hospital_bed_base001|ventilator hose cap 014|Take 001|BaseLayer
+  - first:
+      74: 7401340
+    second: Hospital_bed_base001|ventilator hose cap 015|Take 001|BaseLayer
+  - first:
+      74: 7401342
+    second: Hospital_bed_base001|ventilator hose cap 016|Take 001|BaseLayer
+  - first:
+      74: 7401344
+    second: Hospital_bed_base001|ventilator hose cap 017|Take 001|BaseLayer
+  - first:
+      74: 7401346
+    second: Hospital_bed_base001|ventilator hose cap005|Take 001|BaseLayer
+  - first:
+      74: 7401348
+    second: Hospital_bed_base001|ventilator hose cap006|Take 001|BaseLayer
+  - first:
+      74: 7401350
+    second: Hospital_bed_base001|ventilator hose cap007|Take 001|BaseLayer
+  - first:
+      74: 7401352
+    second: Hospital_bed_base001|ventilator hose cap008|Take 001|BaseLayer
+  - first:
+      74: 7401354
+    second: Hospital_bed_base001|ventilator hose output003|Take 001|BaseLayer
+  - first:
+      74: 7401356
+    second: Hospital_bed_base001|ventilator hose output004|Take 001|BaseLayer
+  - first:
+      74: 7401358
+    second: Hospital_bed_base001|ventilator hose support 004|Take 001|BaseLayer
+  - first:
+      74: 7401360
+    second: Hospital_bed_base001|ventilator hose support 005|Take 001|BaseLayer
+  - first:
+      74: 7401362
+    second: Hospital_bed_base001|ventilator hose support001|Take 001|BaseLayer
+  - first:
+      74: 7401364
+    second: Hospital_bed_base001|ventilator large button001|Take 001|BaseLayer
+  - first:
+      74: 7401366
+    second: Hospital_bed_base001|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7401368
+    second: Hospital_bed_base001|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+  - first:
+      74: 7401370
+    second: Hospital_bed_base001|Ventilator_main_body001|Take 001|BaseLayer
+  - first:
+      74: 7401372
+    second: Hospital_bed_base001|Ventilator_wheel004|Take 001|BaseLayer
+  - first:
+      74: 7401374
+    second: Hospital_bed_base001|Ventilator_wheel005|Take 001|BaseLayer
+  - first:
+      74: 7401376
+    second: Hospital_bed_base001|Ventilator_wheel005|Take 001|BaseLayer.001
+  - first:
+      74: 7401378
+    second: Hospital_bed_base001|Ventilator_wheel006|Take 001|BaseLayer
+  - first:
+      74: 7401380
+    second: Hospital_bed_base001|Ventilator_wheel007|Take 001|BaseLayer
+  - first:
+      74: 7401382
+    second: Hospital_bed_base001|ventilatorHose006|Take 001|BaseLayer
+  - first:
+      74: 7401384
+    second: Hospital_bed_base001|ventilatorHose007|Take 001|BaseLayer
+  - first:
+      74: 7401386
+    second: Hospital_bed_base001|ventilatorHose008|Take 001|BaseLayer
+  - first:
+      74: 7401388
+    second: Hospital_bed_base001|ventilatorHose009|Take 001|BaseLayer
+  - first:
+      74: 7401390
+    second: Hospital_bed_base001|ventilatorHose010|Take 001|BaseLayer
+  - first:
+      74: 7401392
+    second: Hospital_bed_base001|vga slot031|Take 001|BaseLayer
+  - first:
+      74: 7401394
+    second: Hospital_bed_base001|vga slot034|Take 001|BaseLayer
+  - first:
+      74: 7401396
+    second: Hospital_bed_base001|vga slot035|Take 001|BaseLayer
+  - first:
+      74: 7401398
+    second: Hospital_bed_base001|wheel044|Take 001|BaseLayer
+  - first:
+      74: 7401400
+    second: Hospital_bed_base001|wheel045|Take 001|BaseLayer
+  - first:
+      74: 7401402
+    second: Hospital_bed_base001|Wheel_arm009|Take 001|BaseLayer
+  - first:
+      74: 7401404
+    second: Hospital_bed_base001|Wheel_arm010|Take 001|BaseLayer
+  - first:
+      74: 7401406
+    second: Hospital_bed_base001|Wheel_arm010|Take 001|BaseLayer.001
+  - first:
+      74: 7401408
+    second: Hospital_bed_base001|Wheel_arm011|Take 001|BaseLayer
+  - first:
+      74: 7401410
+    second: Hospital_bed_base001|Wheel_arm012|Take 001|BaseLayer
+  - first:
+      74: 7401412
+    second: Hospital_bed_base001|wheel_ax008|Take 001|BaseLayer
+  - first:
+      74: 7401414
+    second: Hospital_bed_base001|wheel_ax009|Take 001|BaseLayer
+  - first:
+      74: 7401416
+    second: Hospital_bed_base001|wheel_ax009|Take 001|BaseLayer.001
+  - first:
+      74: 7401418
+    second: Hospital_bed_base001|wheel_ax010|Take 001|BaseLayer
+  - first:
+      74: 7401420
+    second: Hospital_bed_base001|wheel_ax011|Take 001|BaseLayer
+  - first:
+      74: 7401422
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+  - first:
+      74: 7401424
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+  - first:
+      74: 7401426
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+  - first:
+      74: 7401428
+    second: Hospital_bed_base001|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+  - first:
+      74: 7401430
+    second: Hospital_bed_base001|Wheel_Hospital_bed126|Take 001|BaseLayer
+  - first:
+      74: 7401432
+    second: Hospital_bed_base001|Wheel_Hospital_bed127|Take 001|BaseLayer
+  - first:
+      74: 7401434
+    second: Hospital_bed_base001|Wheel_Hospital_bed128|Take 001|BaseLayer
+  - first:
+      74: 7401436
+    second: Hospital_bed_base001|Wheel_Hospital_bed129|Take 001|BaseLayer
+  - first:
+      74: 7401438
+    second: Hospital_bed_base001|Wheel_Hospital_bed130|Take 001|BaseLayer
+  - first:
+      74: 7401440
+    second: Hospital_bed_base001|Wheel_Hospital_bed131|Take 001|BaseLayer
+  - first:
+      74: 7401442
+    second: Hospital_bed_base001|Wheel_Hospital_bed132|Take 001|BaseLayer
+  - first:
+      74: 7401444
+    second: Hospital_bed_base001|Wheel_Hospital_bed133|Take 001|BaseLayer
+  - first:
+      74: 7401446
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+  - first:
+      74: 7401448
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+  - first:
+      74: 7401450
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+  - first:
+      74: 7401452
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+  - first:
+      74: 7401454
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+  - first:
+      74: 7401456
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+  - first:
+      74: 7401458
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+  - first:
+      74: 7401460
+    second: Hospital_bed_base001|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+  - first:
+      74: 7401462
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+  - first:
+      74: 7401464
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+  - first:
+      74: 7401466
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+  - first:
+      74: 7401468
+    second: Hospital_bed_base001|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+  - first:
+      74: 7401470
+    second: Hospital_bed_base001|wheel_rubber007|Take 001|BaseLayer
+  - first:
+      74: 7401472
+    second: Hospital_bed_base001|wheel_rubber008|Take 001|BaseLayer
+  - first:
+      74: 7401474
+    second: Hospital_bed_base001|wheel_rubber008|Take 001|BaseLayer.001
+  - first:
+      74: 7401476
+    second: Hospital_bed_base001|wheel_rubber009|Take 001|BaseLayer
+  - first:
+      74: 7401478
+    second: Hospital_bed_base001|wheel_rubber010|Take 001|BaseLayer
+  - first:
+      74: 7401480
+    second: Hospital_bed_base001|wheelCenterPivot004|Take 001|BaseLayer
+  - first:
+      74: 7401482
+    second: Hospital_bed_base001|wheelCenterPivot005|Take 001|BaseLayer
+  - first:
+      74: 7401484
+    second: Hospital_bed_base001|wheelCenterPivot005|Take 001|BaseLayer.001
+  - first:
+      74: 7401486
+    second: Hospital_bed_base001|wheelCenterPivot006|Take 001|BaseLayer
+  - first:
+      74: 7401488
+    second: Hospital_bed_base001|wheelCenterPivot007|Take 001|BaseLayer
+  - first:
+      74: 7401490
+    second: Hospital_bed_base001|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7401492
+    second: Hospital_bed_base001|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7401494
+    second: Hospital_bed_base001|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7401496
+    second: Hospital_bed_base001|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7401498
+    second: Hospital_bed_base001|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7401500
+    second: Hospital_bed_base001|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7401502
+    second: Hospital_bed_base001|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7401504
+    second: Hospital_bed_base001|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7401506
+    second: Hospital_bed_base001|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7401508
+    second: Hospital_bed_base001|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7401510
+    second: Hospital_bed_base001|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7401512
+    second: Hospital_bed_base001|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7401514
+    second: Hospital_bed_base001|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7401516
+    second: Hospital_bed_base001|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7401518
+    second: Hospital_bed_base001|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7401520
+    second: Hospital_bed_base001|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7401522
+    second: Hospital_bed_base001|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7401524
+    second: Hospital_bed_base001|aluminium_corner002asfa|Take 001|BaseLayer
+  - first:
+      74: 7401526
+    second: Hospital_bed_base001|aluminium_corner003|Take 001|BaseLayer
+  - first:
+      74: 7401528
+    second: Hospital_bed_base001|Box23|Take 001|BaseLayer
+  - first:
+      74: 7401530
+    second: Hospital_bed_base001|Box847|Take 001|BaseLayer
+  - first:
+      74: 7401532
+    second: Hospital_bed_base001|cupboard|Take 001|BaseLayer
+  - first:
+      74: 7401534
+    second: Hospital_bed_base001|door frame001|Take 001|BaseLayer
+  - first:
+      74: 7401536
+    second: Hospital_bed_base001|door frame|Take 001|BaseLayer
+  - first:
+      74: 7401538
+    second: Hospital_bed_base001|drawer back002|Take 001|BaseLayer
+  - first:
+      74: 7401540
+    second: Hospital_bed_base001|drawer back003223a|Take 001|BaseLayer
+  - first:
+      74: 7401542
+    second: Hospital_bed_base001|drawer_box001bda|Take 001|BaseLayer
+  - first:
+      74: 7401544
+    second: Hospital_bed_base001|drawer_box002ra2|Take 001|BaseLayer
+  - first:
+      74: 7401546
+    second: Hospital_bed_base001|drawer_face003|Take 001|BaseLayer
+  - first:
+      74: 7401548
+    second: Hospital_bed_base001|drawer_face004vas|Take 001|BaseLayer
+  - first:
+      74: 7401550
+    second: Hospital_bed_base001|drawer_face005221a|Take 001|BaseLayer
+  - first:
+      74: 7401552
+    second: Hospital_bed_base001|drawer_face0062231|Take 001|BaseLayer
+  - first:
+      74: 7401554
+    second: Hospital_bed_base001|drawer_face009|Take 001|BaseLayer
+  - first:
+      74: 7401556
+    second: Hospital_bed_base001|drawer_frame001bsa|Take 001|BaseLayer
+  - first:
+      74: 7401558
+    second: Hospital_bed_base001|drawer_frame002|Take 001|BaseLayer
+  - first:
+      74: 7401560
+    second: Hospital_bed_base001|handle014|Take 001|BaseLayer
+  - first:
+      74: 7401562
+    second: Hospital_bed_base001|handle015|Take 001|BaseLayer
+  - first:
+      74: 7401564
+    second: Hospital_bed_base001|handle016|Take 001|BaseLayer
+  - first:
+      74: 7401566
+    second: Hospital_bed_base001|handle017|Take 001|BaseLayer
+  - first:
+      74: 7401568
+    second: Hospital_bed_base001|lightwoodborders|Take 001|BaseLayer
+  - first:
+      74: 7401570
+    second: Hospital_bed_base001|Locker_bottom001bdae|Take 001|BaseLayer
+  - first:
+      74: 7401572
+    second: Hospital_bed_base001|Locker_bottom002assa|Take 001|BaseLayer
+  - first:
+      74: 7401574
+    second: Hospital_bed_base001|Locker_bottom004|Take 001|BaseLayer
+  - first:
+      74: 7401576
+    second: Hospital_bed_base001|Locker_top00122ab|Take 001|BaseLayer
+  - first:
+      74: 7401578
+    second: Hospital_bed_base001|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7401580
+    second: Hospital_bed_base001|nets support|Take 001|BaseLayer
+  - first:
+      74: 7401582
+    second: Hospital_bed_base001|Object32|Take 001|BaseLayer
+  - first:
+      74: 7401584
+    second: Hospital_bed_base001|Object4449|Take 001|BaseLayer
+  - first:
+      74: 7401586
+    second: Hospital_bed_base001|Object4483|Take 001|BaseLayer
+  - first:
+      74: 7401588
+    second: Hospital_bed_base001|Object4491|Take 001|BaseLayer
+  - first:
+      74: 7401590
+    second: Hospital_bed_base001|OptiTherm_cold002|Take 001|BaseLayer
+  - first:
+      74: 7401592
+    second: Hospital_bed_base001|OptiTherm_handle003|Take 001|BaseLayer
+  - first:
+      74: 7401594
+    second: Hospital_bed_base001|OptiTherm_tap003|Take 001|BaseLayer
+  - first:
+      74: 7401596
+    second: Hospital_bed_base001|OptiTherm_tap004|Take 001|BaseLayer
+  - first:
+      74: 7401598
+    second: Hospital_bed_base001|OptiTherm_warm002|Take 001|BaseLayer
+  - first:
+      74: 7401600
+    second: Hospital_bed_base001|OptiTherm_water_cap002|Take 001|BaseLayer
+  - first:
+      74: 7401602
+    second: Hospital_bed_base001|Paper_towel_dispenser1a|Take 001|BaseLayer
+  - first:
+      74: 7401604
+    second: Hospital_bed_base001|Paper_towel_dispenser_cap|Take 001|BaseLayer
+  - first:
+      74: 7401606
+    second: Hospital_bed_base001|Paper_towel_dispenser_eye|Take 001|BaseLayer
+  - first:
+      74: 7401608
+    second: Hospital_bed_base001|Paper_towel_dispenser|Take 001|BaseLayer
+  - first:
+      74: 7401610
+    second: Hospital_bed_base001|Paper_towel|Take 001|BaseLayer
+  - first:
+      74: 7401612
+    second: Hospital_bed_base001|Plane13|Take 001|BaseLayer
+  - first:
+      74: 7401614
+    second: Hospital_bed_base001|Plane17|Take 001|BaseLayer
+  - first:
+      74: 7401616
+    second: Hospital_bed_base001|Plane183|Take 001|BaseLayer
+  - first:
+      74: 7401618
+    second: Hospital_bed_base001|Plane184|Take 001|BaseLayer
+  - first:
+      74: 7401620
+    second: Hospital_bed_base001|Plane185|Take 001|BaseLayer
+  - first:
+      74: 7401622
+    second: Hospital_bed_base001|sanitiz|Take 001|BaseLayer
+  - first:
+      74: 7401624
+    second: Hospital_bed_base001|Soap_gel_dispenser001|Take 001|BaseLayer
+  - first:
+      74: 7401626
+    second: Hospital_bed_base001|Soap_gel_dispenser1a001|Take 001|BaseLayer
+  - first:
+      74: 7401628
+    second: Hospital_bed_base001|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+  - first:
+      74: 7401630
+    second: Hospital_bed_base001|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+  - first:
+      74: 7401632
+    second: Hospital_bed_base001|Wash_basin001|Take 001|BaseLayer
+  - first:
+      74: 7401634
+    second: Hospital_bed_base001|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: 5989379538898682759
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|aluminium_corner002as
+  - first:
+      74: 6759611628019518811
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|aluminium_corner003|T
+  - first:
+      74: 2789527812739311039
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Bedside_table_blat003
+  - first:
+      74: -9116734563214490669
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Box23|Take
+      001|BaseLa
+  - first:
+      74: -178107021304273889
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Box847|Take
+      001|BaseL
+  - first:
+      74: 2286957216344433852
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|ceilung|Take
+      001|Base
+  - first:
+      74: 543868474182509261
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|cupboard|Take
+      001|Bas
+  - first:
+      74: 4546993083182802664
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|curtain_hospital_ward
+  - first:
+      74: -1275976710892247860
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4465|Take
+      001
+  - first:
+      74: 2314376130823612345
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4466|Take
+      001
+  - first:
+      74: -5960665804517555198
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4467|Take
+      001
+  - first:
+      74: 2528993011422887047
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4468|Take
+      001
+  - first:
+      74: -7969186529764940485
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4469|Take
+      001
+  - first:
+      74: -2034583474676736788
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4470|Take
+      001
+  - first:
+      74: 5326707728974073297
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4471|Take
+      001
+  - first:
+      74: -6940588777141666918
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4472|Take
+      001
+  - first:
+      74: -3319927768185352325
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4473|Take
+      001
+  - first:
+      74: -8978950208575461887
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4510|Take
+      001
+  - first:
+      74: -7289161021789608624
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4771|Take
+      001
+  - first:
+      74: 2486233053522262782
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4772|Take
+      001
+  - first:
+      74: 7504470383945875353
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder4773|Take
+      001
+  - first:
+      74: 131177481699361352
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Cylinder65ssa007|Take
+  - first:
+      74: 3227980279587330246
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|door frame001|Take
+      00
+  - first:
+      74: -6551702368195854280
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|door frame|Take
+      001|B
+  - first:
+      74: -5931515849227161958
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer
+      back002|Take 0
+  - first:
+      74: 5643586312699321428
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer
+      back003223a|Ta
+  - first:
+      74: -6670601903975522094
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_box001bda|Take
+  - first:
+      74: 6168249056622070282
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_box002ra2|Take
+  - first:
+      74: -6511544031656790660
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_face003|Take
+      0
+  - first:
+      74: 5459815534546191404
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_face004vas|Tak
+  - first:
+      74: -7804489277852955502
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_face005221a|Ta
+  - first:
+      74: 7795425072837978047
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_face0062231|Ta
+  - first:
+      74: 3181740325122723377
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_face009|Take
+      0
+  - first:
+      74: 2918927954292285210
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_frame001bsa|Ta
+  - first:
+      74: 2458041926341083803
+    second: 'Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|drawer_frame002|Take '
+  - first:
+      74: -4238908710085504403
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|handle014|Take
+      001|Ba
+  - first:
+      74: 170766269383946649
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|handle015|Take
+      001|Ba
+  - first:
+      74: 1250989575183601334
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|handle016|Take
+      001|Ba
+  - first:
+      74: 2466036219322785499
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|handle017|Take
+      001|Ba
+  - first:
+      74: -2781737661575619611
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|
+  - first:
+      74: 7976798901111516265
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|lightwoodborders|Take
+  - first:
+      74: -7248633225874731733
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Locker_bottom001bdae|
+  - first:
+      74: 625258736655861134
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Locker_bottom002assa|
+  - first:
+      74: 6155682171288674733
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Locker_bottom004|Take
+  - first:
+      74: 5349392182675976946
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Locker_top00122ab|Tak
+  - first:
+      74: -7409133640148152369
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Locker_top001|Take
+      00
+  - first:
+      74: -4603139587443547451
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|mirror2a|Take
+      001|Bas
+  - first:
+      74: -1907710997167804043
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|monitor
+      screen002|Tak
+  - first:
+      74: 3962749856027871936
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|monitor
+      screen003|Tak
+  - first:
+      74: -161853390477769443
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|nets support|Take
+      001
+  - first:
+      74: 2527366321724480077
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Object32|Take
+      001|Bas
+  - first:
+      74: -2274135423980490305
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Object4449|Take
+      001|B
+  - first:
+      74: -1573578698004008028
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Object4483|Take
+      001|B
+  - first:
+      74: -6066653934912781926
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Object4491|Take
+      001|B
+  - first:
+      74: -3373903750215541412
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_cold002|Tak
+  - first:
+      74: 2533425214866441189
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_handle003|T
+  - first:
+      74: 63507228866048690
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_tap003|Take
+  - first:
+      74: -2724463210232429879
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_tap004|Take
+  - first:
+      74: 7648140587934774090
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_warm002|Tak
+  - first:
+      74: 6501129411798515423
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|OptiTherm_water_cap00
+  - first:
+      74: -2517489595150258629
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Paper_towel_dispe.000
+  - first:
+      74: 5996434238667151750
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Paper_towel_dispe.001
+  - first:
+      74: 6712557045534224946
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Paper_towel_dispe.002
+  - first:
+      74: 8359401578432445888
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Paper_towel_dispenser
+  - first:
+      74: 1854122179051139350
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Paper_towel|Take
+      001|
+  - first:
+      74: -3884760584738374343
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Plane13|Take
+      001|Base
+  - first:
+      74: 5265969590830809351
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Plane17|Take
+      001|Base
+  - first:
+      74: -705862563109540740
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Plane183|Take
+      001|Bas
+  - first:
+      74: -8692348830575681985
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Plane184|Take
+      001|Bas
+  - first:
+      74: -7887273372709858486
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Plane185|Take
+      001|Bas
+  - first:
+      74: 914404707781453631
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|plinth
+      2|Take 001|Bas
+  - first:
+      74: 4702007117014595196
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|sanitiz|Take
+      001|Base
+  - first:
+      74: -975251070247666362
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Soap_gel_dispenser001
+  - first:
+      74: -7721844678486896383
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Soap_gel_dispenser1a0
+  - first:
+      74: -4824491520203044598
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Soap_gel_dispenser_de
+  - first:
+      74: -5422515245609953858
+    second: 'Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Twyford_Galerie
+      Wash '
+  - first:
+      74: 663850002803756315
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|ventilator
+      screen002|
+  - first:
+      74: -6770565366028806179
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|walls|Take
+      001|BaseLa
+  - first:
+      74: 898228254405511672
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Wash_basin001|Take
+      00
+  - first:
+      74: 5819164411411446095
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Waste_fitting_slotted
+  - first:
+      74: -7558245550420522497
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|wooden
+      floor|Take 001
+  - first:
+      74: 8744533634639421877
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.000
+  - first:
+      74: -7512079380773182383
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.001
+  - first:
+      74: -1107298436112570857
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.002
+  - first:
+      74: 3799351032097773478
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.003
+  - first:
+      74: -4729160134369693159
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.004
+  - first:
+      74: -5792059748513216497
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.005
+  - first:
+      74: 2098463893535883760
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.006
+  - first:
+      74: -4961603276277707238
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.007
+  - first:
+      74: 1518127771141452245
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.008
+  - first:
+      74: -4629118704908936322
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.009
+  - first:
+      74: 4462090394527044866
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.010
+  - first:
+      74: -4170606021331047865
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.011
+  - first:
+      74: -8493331196410641221
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.012
+  - first:
+      74: 5103378638826088721
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.013
+  - first:
+      74: -2115466030260177964
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.014
+  - first:
+      74: 7476750735328359611
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.015
+  - first:
+      74: -4012344160009882252
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.016
+  - first:
+      74: -5845989996486386573
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.017
+  - first:
+      74: 6407142118410114442
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.018
+  - first:
+      74: 8827277290503945219
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.019
+  - first:
+      74: 3452699616948953794
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.020
+  - first:
+      74: 7332078869841701685
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.021
+  - first:
+      74: 1389607650523462110
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.022
+  - first:
+      74: 6200359534300598403
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.023
+  - first:
+      74: -5985727898441834820
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.024
+  - first:
+      74: -1011218077432133108
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.025
+  - first:
+      74: -37458725341172611
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.026
+  - first:
+      74: 7176196290544828337
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.027
+  - first:
+      74: 5864286140496885280
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.028
+  - first:
+      74: -4100474213175685806
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.029
+  - first:
+      74: 7402952459930297268
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.030
+  - first:
+      74: 7027841982093837249
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.031
+  - first:
+      74: -6519235976613905157
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.032
+  - first:
+      74: 2772497555554411249
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.033
+  - first:
+      74: 3305775657050632631
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.034
+  - first:
+      74: -5200345741859232332
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.035
+  - first:
+      74: 5367106462164275816
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.036
+  - first:
+      74: -2039261718570816311
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.037
+  - first:
+      74: -3873606892828289596
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.038
+  - first:
+      74: -733053078742145917
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.039
+  - first:
+      74: 6359203642837279348
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.040
+  - first:
+      74: 5111662046048972593
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.041
+  - first:
+      74: -6530240541824969480
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.042
+  - first:
+      74: 3764838378275743747
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.043
+  - first:
+      74: -1491626747007444575
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.044
+  - first:
+      74: 6144733740566929970
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.045
+  - first:
+      74: -2759323105665815831
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.046
+  - first:
+      74: -4249233752476056720
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.047
+  - first:
+      74: -6777911508927126393
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.048
+  - first:
+      74: 4823985887156048439
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.049
+  - first:
+      74: 729579899226814926
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.050
+  - first:
+      74: 4900138280455000647
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.051
+  - first:
+      74: -174410177841670616
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.052
+  - first:
+      74: 4773182141095253114
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.053
+  - first:
+      74: 2689014679963739905
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.054
+  - first:
+      74: 3475918995005082879
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.055
+  - first:
+      74: 5201749438691375647
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.056
+  - first:
+      74: -4211498930906779997
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.057
+  - first:
+      74: -5527821976459891977
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.058
+  - first:
+      74: 5614385518271390667
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.059
+  - first:
+      74: 159450897219527431
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.060
+  - first:
+      74: -1183782447619969739
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.061
+  - first:
+      74: 7504394699390550930
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.062
+  - first:
+      74: 3855539130102962957
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.063
+  - first:
+      74: 6506871255153503749
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.064
+  - first:
+      74: 9064966397414021963
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.065
+  - first:
+      74: 4889177750784424915
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.066
+  - first:
+      74: -1834507050426745589
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.067
+  - first:
+      74: 6668375369755384238
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.068
+  - first:
+      74: 1787696927573164528
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.069
+  - first:
+      74: -6590911438803238401
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.070
+  - first:
+      74: -7896453719231569162
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.071
+  - first:
+      74: 2705270811264824225
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.072
+  - first:
+      74: 196288095506530990
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.073
+  - first:
+      74: -1123232468407656611
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.074
+  - first:
+      74: 6650486156316089296
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.075
+  - first:
+      74: 240673893628486080
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.076
+  - first:
+      74: 5316439877348533549
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.077
+  - first:
+      74: -2262415640702580882
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.078
+  - first:
+      74: -4232723795939459744
+    second: Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base001|Hospital_bed_base.079
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ metal_hospital_bed
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ plastic_hospital_bed
+    second: {fileID: 2100000, guid: 326efa82a1e7d2c4abeae46efd33a05f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

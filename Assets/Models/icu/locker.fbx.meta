@@ -1,0 +1,1150 @@
+fileFormatVersion: 2
+guid: b467914dfe238144f8c01656b85420ac
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: white_ plastic_hospital_bed.005
+    2100002: blue_hospital_bed.003
+    2100004: Aluminum_matted.007
+    2100006: incubator black plastic.007
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Locker
+    7400000: Locker|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400002: Locker|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400004: Locker|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400006: Locker|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400008: Locker|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400010: Locker|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400012: Locker|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400014: Locker|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400016: Locker|aluminium_corner002|Take 001|BaseLayer
+    7400018: Locker|Back_display_detail001|Take 001|BaseLayer
+    7400020: Locker|bedside_table003|Take 001|BaseLayer
+    7400022: Locker|bedside_table_adjuster003|Take 001|BaseLayer
+    7400024: Locker|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400026: Locker|Bedside_table_axis003|Take 001|BaseLayer
+    7400028: Locker|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400030: Locker|Bedside_table_blat003|Take 001|BaseLayer
+    7400032: Locker|Bedside_table_border003|Take 001|BaseLayer
+    7400034: Locker|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400036: Locker|bedside_table_handle003|Take 001|BaseLayer
+    7400038: Locker|bedside_table_handle_support003|Take 001|BaseLayer
+    7400040: Locker|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400042: Locker|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400044: Locker|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400046: Locker|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400048: Locker|Bedside_table_support010|Take 001|BaseLayer
+    7400050: Locker|Bedside_table_support011|Take 001|BaseLayer
+    7400052: Locker|Bedside_table_support012|Take 001|BaseLayer
+    7400054: Locker|Bedside_table_wheel053|Take 001|BaseLayer
+    7400056: Locker|Bedside_table_wheel054|Take 001|BaseLayer
+    7400058: Locker|Bedside_table_wheel055|Take 001|BaseLayer
+    7400060: Locker|Bedside_table_wheel055|Take 001|BaseLayer.001
+    7400062: Locker|Bedside_table_wheel056|Take 001|BaseLayer
+    7400064: Locker|big_drawer001|Take 001|BaseLayer
+    7400066: Locker|black_fill_console072|Take 001|BaseLayer
+    7400068: Locker|black_fill_console073|Take 001|BaseLayer
+    7400070: Locker|black_fill_console074|Take 001|BaseLayer
+    7400072: Locker|black_fill_console075|Take 001|BaseLayer
+    7400074: Locker|black_fill_console076|Take 001|BaseLayer
+    7400076: Locker|black_fill_console077|Take 001|BaseLayer
+    7400078: Locker|black_fill_console078|Take 001|BaseLayer
+    7400080: Locker|black_fill_console079|Take 001|BaseLayer
+    7400082: Locker|black_fill_console080|Take 001|BaseLayer
+    7400084: Locker|black_fill_console081|Take 001|BaseLayer
+    7400086: Locker|black_fill_console082|Take 001|BaseLayer
+    7400088: Locker|black_fill_console116|Take 001|BaseLayer
+    7400090: Locker|Blue_light001|Take 001|BaseLayer
+    7400092: Locker|bolt424|Take 001|BaseLayer
+    7400094: Locker|bolt425|Take 001|BaseLayer
+    7400096: Locker|bolt426|Take 001|BaseLayer
+    7400098: Locker|bolt427|Take 001|BaseLayer
+    7400100: Locker|bolt431|Take 001|BaseLayer
+    7400102: Locker|bolt432|Take 001|BaseLayer
+    7400104: Locker|bolt433|Take 001|BaseLayer
+    7400106: Locker|bolt434|Take 001|BaseLayer
+    7400108: Locker|bolt435|Take 001|BaseLayer
+    7400110: Locker|bolt436|Take 001|BaseLayer
+    7400112: Locker|bolt437|Take 001|BaseLayer
+    7400114: Locker|bolt438|Take 001|BaseLayer
+    7400116: Locker|bolt439|Take 001|BaseLayer
+    7400118: Locker|bolt439|Take 001|BaseLayer.001
+    7400120: Locker|bolt440|Take 001|BaseLayer
+    7400122: Locker|bolt440|Take 001|BaseLayer.001
+    7400124: Locker|bolt441|Take 001|BaseLayer
+    7400126: Locker|bolt442|Take 001|BaseLayer
+    7400128: Locker|bolt442|Take 001|BaseLayer.001
+    7400130: Locker|bolt443|Take 001|BaseLayer
+    7400132: Locker|bolt443|Take 001|BaseLayer.001
+    7400134: Locker|bolt444|Take 001|BaseLayer
+    7400136: Locker|bolt444|Take 001|BaseLayer.001
+    7400138: Locker|bolt445|Take 001|BaseLayer
+    7400140: Locker|bolt446|Take 001|BaseLayer
+    7400142: Locker|bolt447|Take 001|BaseLayer
+    7400144: Locker|bolt448|Take 001|BaseLayer
+    7400146: Locker|bolt449|Take 001|BaseLayer
+    7400148: Locker|bolt450|Take 001|BaseLayer
+    7400150: Locker|bolt451|Take 001|BaseLayer
+    7400152: Locker|bolt452|Take 001|BaseLayer
+    7400154: Locker|bolt453|Take 001|BaseLayer
+    7400156: Locker|bolt454|Take 001|BaseLayer
+    7400158: Locker|bolt455|Take 001|BaseLayer
+    7400160: Locker|bolt456|Take 001|BaseLayer
+    7400162: Locker|bolt457|Take 001|BaseLayer
+    7400164: Locker|bolt458|Take 001|BaseLayer
+    7400166: Locker|bolt459|Take 001|BaseLayer
+    7400168: Locker|bolt460|Take 001|BaseLayer
+    7400170: Locker|bolt461|Take 001|BaseLayer
+    7400172: Locker|bolt462|Take 001|BaseLayer
+    7400174: Locker|bolt463|Take 001|BaseLayer
+    7400176: Locker|bolt464|Take 001|BaseLayer
+    7400178: Locker|bolt465|Take 001|BaseLayer
+    7400180: Locker|bolt466|Take 001|BaseLayer
+    7400182: Locker|bolt467|Take 001|BaseLayer
+    7400184: Locker|bolt468|Take 001|BaseLayer
+    7400186: Locker|bolt469|Take 001|BaseLayer
+    7400188: Locker|bolt470|Take 001|BaseLayer
+    7400190: Locker|bolt471|Take 001|BaseLayer
+    7400192: Locker|bolt472|Take 001|BaseLayer
+    7400194: Locker|bolt473|Take 001|BaseLayer
+    7400196: Locker|bolt474|Take 001|BaseLayer
+    7400198: Locker|bolt475|Take 001|BaseLayer
+    7400200: Locker|bolt476|Take 001|BaseLayer
+    7400202: Locker|bolt477|Take 001|BaseLayer
+    7400204: Locker|bolt478|Take 001|BaseLayer
+    7400206: Locker|bolt479|Take 001|BaseLayer
+    7400208: Locker|bolt480|Take 001|BaseLayer
+    7400210: Locker|bolt481|Take 001|BaseLayer
+    7400212: Locker|bolt482|Take 001|BaseLayer
+    7400214: Locker|bolt483|Take 001|BaseLayer
+    7400216: Locker|bolt484|Take 001|BaseLayer
+    7400218: Locker|bolt485|Take 001|BaseLayer
+    7400220: Locker|bolt486|Take 001|BaseLayer
+    7400222: Locker|bolt487|Take 001|BaseLayer
+    7400224: Locker|bolt488|Take 001|BaseLayer
+    7400226: Locker|bolt489|Take 001|BaseLayer
+    7400228: Locker|bolt490|Take 001|BaseLayer
+    7400230: Locker|bolt491|Take 001|BaseLayer
+    7400232: Locker|bolt492|Take 001|BaseLayer
+    7400234: Locker|bolt493|Take 001|BaseLayer
+    7400236: Locker|bolt494|Take 001|BaseLayer
+    7400238: Locker|bolt496|Take 001|BaseLayer
+    7400240: Locker|bolt497|Take 001|BaseLayer
+    7400242: Locker|bolt498|Take 001|BaseLayer
+    7400244: Locker|bolt499|Take 001|BaseLayer
+    7400246: Locker|bolt500|Take 001|BaseLayer
+    7400248: Locker|bolt501|Take 001|BaseLayer
+    7400250: Locker|bolt502|Take 001|BaseLayer
+    7400252: Locker|bolt503|Take 001|BaseLayer
+    7400254: Locker|bolt503|Take 001|BaseLayer.001
+    7400256: Locker|bolt504|Take 001|BaseLayer
+    7400258: Locker|bolt504|Take 001|BaseLayer.001
+    7400260: Locker|bolt505|Take 001|BaseLayer
+    7400262: Locker|bolt505|Take 001|BaseLayer.001
+    7400264: Locker|bolt506|Take 001|BaseLayer
+    7400266: Locker|bolt506|Take 001|BaseLayer.001
+    7400268: Locker|bolt507|Take 001|BaseLayer
+    7400270: Locker|bolt508|Take 001|BaseLayer
+    7400272: Locker|bolt509|Take 001|BaseLayer
+    7400274: Locker|bolt510|Take 001|BaseLayer
+    7400276: Locker|bolt511|Take 001|BaseLayer
+    7400278: Locker|bolt512|Take 001|BaseLayer
+    7400280: Locker|bolt513|Take 001|BaseLayer
+    7400282: Locker|bolt514|Take 001|BaseLayer
+    7400284: Locker|bolt515|Take 001|BaseLayer
+    7400286: Locker|bolt516|Take 001|BaseLayer
+    7400288: Locker|bolt517|Take 001|BaseLayer
+    7400290: Locker|bolt518|Take 001|BaseLayer
+    7400292: Locker|bolt519|Take 001|BaseLayer
+    7400294: Locker|bolt520|Take 001|BaseLayer
+    7400296: Locker|bolt521|Take 001|BaseLayer
+    7400298: Locker|bolt522|Take 001|BaseLayer
+    7400300: Locker|bolt523|Take 001|BaseLayer
+    7400302: Locker|bolt524|Take 001|BaseLayer
+    7400304: Locker|bolt525|Take 001|BaseLayer
+    7400306: Locker|bolt526|Take 001|BaseLayer
+    7400308: Locker|bolt527|Take 001|BaseLayer
+    7400310: Locker|bolt528|Take 001|BaseLayer
+    7400312: Locker|bolt529|Take 001|BaseLayer
+    7400314: Locker|bolt530|Take 001|BaseLayer
+    7400316: Locker|bolt531|Take 001|BaseLayer
+    7400318: Locker|bolt532|Take 001|BaseLayer
+    7400320: Locker|bolt533|Take 001|BaseLayer
+    7400322: Locker|bolt534|Take 001|BaseLayer
+    7400324: Locker|bolt535|Take 001|BaseLayer
+    7400326: Locker|bolt536|Take 001|BaseLayer
+    7400328: Locker|bolt537|Take 001|BaseLayer
+    7400330: Locker|bolt538|Take 001|BaseLayer
+    7400332: Locker|boom segment 009|Take 001|BaseLayer
+    7400334: Locker|boom segment 010|Take 001|BaseLayer
+    7400336: Locker|boom segment 011|Take 001|BaseLayer
+    7400338: Locker|BoomArm001|Take 001|BaseLayer
+    7400340: Locker|BoomMonitor002|Take 001|BaseLayer
+    7400342: Locker|Box205a007|Take 001|BaseLayer
+    7400344: Locker|Box206b007|Take 001|BaseLayer
+    7400346: Locker|Box206b007|Take 001|BaseLayer.001
+    7400348: Locker|Box276|Take 001|BaseLayer
+    7400350: Locker|Box276|Take 001|BaseLayer.001
+    7400352: Locker|Box277|Take 001|BaseLayer
+    7400354: Locker|Box278|Take 001|BaseLayer
+    7400356: Locker|Box278|Take 001|BaseLayer.001
+    7400358: Locker|Box279|Take 001|BaseLayer
+    7400360: Locker|Box279|Take 001|BaseLayer.001
+    7400362: Locker|Box280|Take 001|BaseLayer
+    7400364: Locker|Box281|Take 001|BaseLayer
+    7400366: Locker|Box282|Take 001|BaseLayer
+    7400368: Locker|Box283|Take 001|BaseLayer
+    7400370: Locker|Box284|Take 001|BaseLayer
+    7400372: Locker|bzt040|Take 001|BaseLayer
+    7400374: Locker|bzt040|Take 001|BaseLayer.001
+    7400376: Locker|bzt041|Take 001|BaseLayer
+    7400378: Locker|bzt041|Take 001|BaseLayer.001
+    7400380: Locker|bzt042|Take 001|BaseLayer
+    7400382: Locker|bzt042|Take 001|BaseLayer.001
+    7400384: Locker|bzt043|Take 001|BaseLayer
+    7400386: Locker|bzt043|Take 001|BaseLayer.001
+    7400388: Locker|bzt044|Take 001|BaseLayer
+    7400390: Locker|bzt044|Take 001|BaseLayer.001
+    7400392: Locker|cable005|Take 001|BaseLayer
+    7400394: Locker|cable006|Take 001|BaseLayer
+    7400396: Locker|cable007|Take 001|BaseLayer
+    7400398: Locker|cable008|Take 001|BaseLayer
+    7400400: Locker|cable009|Take 001|BaseLayer
+    7400402: Locker|card slot001|Take 001|BaseLayer
+    7400404: Locker|ChamferBox013|Take 001|BaseLayer
+    7400406: Locker|ChamferCyl099|Take 001|BaseLayer
+    7400408: Locker|ChamferCyl100|Take 001|BaseLayer
+    7400410: Locker|Circle007|Take 001|BaseLayer
+    7400412: Locker|Circle007|Take 001|BaseLayer.001
+    7400414: Locker|Clay_Paky_case001|Take 001|BaseLayer
+    7400416: Locker|console air_socket006|Take 001|BaseLayer
+    7400418: Locker|console_bolt130|Take 001|BaseLayer
+    7400420: Locker|console_bolt131|Take 001|BaseLayer
+    7400422: Locker|console_bolt132|Take 001|BaseLayer
+    7400424: Locker|console_bolt133|Take 001|BaseLayer
+    7400426: Locker|console_bolt134|Take 001|BaseLayer
+    7400428: Locker|console_bolt135|Take 001|BaseLayer
+    7400430: Locker|console_bolt136|Take 001|BaseLayer
+    7400432: Locker|console_bolt137|Take 001|BaseLayer
+    7400434: Locker|console_bolt138|Take 001|BaseLayer
+    7400436: Locker|console_bolt139|Take 001|BaseLayer
+    7400438: Locker|console_bolt170|Take 001|BaseLayer
+    7400440: Locker|console_bolt171|Take 001|BaseLayer
+    7400442: Locker|console_button_large024|Take 001|BaseLayer
+    7400444: Locker|console_button_large025|Take 001|BaseLayer
+    7400446: Locker|console_button_large026|Take 001|BaseLayer
+    7400448: Locker|console_button_large027|Take 001|BaseLayer
+    7400450: Locker|console_lamp013|Take 001|BaseLayer
+    7400452: Locker|console_lamp014|Take 001|BaseLayer
+    7400454: Locker|console_socket007|Take 001|BaseLayer
+    7400456: Locker|consoler_button032|Take 001|BaseLayer
+    7400458: Locker|consoler_button033|Take 001|BaseLayer
+    7400460: Locker|consoler_button034|Take 001|BaseLayer
+    7400462: Locker|consoler_button035|Take 001|BaseLayer
+    7400464: Locker|consoler_button036|Take 001|BaseLayer
+    7400466: Locker|consoler_button053|Take 001|BaseLayer
+    7400468: Locker|Control_button001|Take 001|BaseLayer
+    7400470: Locker|cooler001|Take 001|BaseLayer
+    7400472: Locker|Cooler_fan002|Take 001|BaseLayer
+    7400474: Locker|Cooler_propeller012|Take 001|BaseLayer
+    7400476: Locker|Cooler_propeller013|Take 001|BaseLayer
+    7400478: Locker|Cooler_propeller014|Take 001|BaseLayer
+    7400480: Locker|Cooler_propeller015|Take 001|BaseLayer
+    7400482: Locker|Cooler_propeller016|Take 001|BaseLayer
+    7400484: Locker|Cooler_propeller017|Take 001|BaseLayer
+    7400486: Locker|curtain_hospital_ward001|Take 001|BaseLayer
+    7400488: Locker|curtain_hospital_ward007|Take 001|BaseLayer
+    7400490: Locker|curtain_hospital_ward008|Take 001|BaseLayer
+    7400492: Locker|curtain_hospital_ward|Take 001|BaseLayer
+    7400494: Locker|Cylinder01a007|Take 001|BaseLayer
+    7400496: Locker|Cylinder02fggsa007|Take 001|BaseLayer
+    7400498: Locker|Cylinder03vbbv007|Take 001|BaseLayer
+    7400500: Locker|Cylinder04sd007|Take 001|BaseLayer
+    7400502: Locker|Cylinder04sd007|Take 001|BaseLayer.001
+    7400504: Locker|Cylinder159ass007|Take 001|BaseLayer
+    7400506: Locker|Cylinder16033d007|Take 001|BaseLayer
+    7400508: Locker|Cylinder171fddf007|Take 001|BaseLayer
+    7400510: Locker|Cylinder172vbbv007|Take 001|BaseLayer
+    7400512: Locker|Cylinder172vbbv007|Take 001|BaseLayer.001
+    7400514: Locker|Cylinder173assa007|Take 001|BaseLayer
+    7400516: Locker|Cylinder4509|Take 001|BaseLayer
+    7400518: Locker|Cylinder4510|Take 001|BaseLayer
+    7400520: Locker|Cylinder4510|Take 001|BaseLayer.001
+    7400522: Locker|Cylinder4511|Take 001|BaseLayer
+    7400524: Locker|Cylinder4511|Take 001|BaseLayer.001
+    7400526: Locker|Cylinder4512|Take 001|BaseLayer
+    7400528: Locker|Cylinder4512|Take 001|BaseLayer.001
+    7400530: Locker|Cylinder4513|Take 001|BaseLayer
+    7400532: Locker|Cylinder4513|Take 001|BaseLayer.001
+    7400534: Locker|Cylinder4514|Take 001|BaseLayer
+    7400536: Locker|Cylinder4514|Take 001|BaseLayer.001
+    7400538: Locker|Cylinder4515|Take 001|BaseLayer
+    7400540: Locker|Cylinder4515|Take 001|BaseLayer.001
+    7400542: Locker|Cylinder4516|Take 001|BaseLayer
+    7400544: Locker|Cylinder4516|Take 001|BaseLayer.001
+    7400546: Locker|Cylinder4517|Take 001|BaseLayer
+    7400548: Locker|Cylinder4517|Take 001|BaseLayer.001
+    7400550: Locker|Cylinder4518|Take 001|BaseLayer
+    7400552: Locker|Cylinder4518|Take 001|BaseLayer.001
+    7400554: Locker|Cylinder4519|Take 001|BaseLayer
+    7400556: Locker|Cylinder4519|Take 001|BaseLayer.001
+    7400558: Locker|Cylinder4520|Take 001|BaseLayer
+    7400560: Locker|Cylinder4520|Take 001|BaseLayer.001
+    7400562: Locker|Cylinder4521|Take 001|BaseLayer
+    7400564: Locker|Cylinder4522|Take 001|BaseLayer
+    7400566: Locker|Cylinder4522|Take 001|BaseLayer.001
+    7400568: Locker|Cylinder4523|Take 001|BaseLayer
+    7400570: Locker|Cylinder4524|Take 001|BaseLayer
+    7400572: Locker|Cylinder4525|Take 001|BaseLayer
+    7400574: Locker|Cylinder4525|Take 001|BaseLayer.001
+    7400576: Locker|Cylinder4526|Take 001|BaseLayer
+    7400578: Locker|Cylinder4526|Take 001|BaseLayer.001
+    7400580: Locker|Cylinder4527|Take 001|BaseLayer
+    7400582: Locker|Cylinder4527|Take 001|BaseLayer.001
+    7400584: Locker|Cylinder4528|Take 001|BaseLayer
+    7400586: Locker|Cylinder4528|Take 001|BaseLayer.001
+    7400588: Locker|Cylinder4529|Take 001|BaseLayer
+    7400590: Locker|Cylinder4529|Take 001|BaseLayer.001
+    7400592: Locker|Cylinder4530|Take 001|BaseLayer
+    7400594: Locker|Cylinder4530|Take 001|BaseLayer.001
+    7400596: Locker|Cylinder4531|Take 001|BaseLayer
+    7400598: Locker|Cylinder4531|Take 001|BaseLayer.001
+    7400600: Locker|Cylinder4532|Take 001|BaseLayer
+    7400602: Locker|Cylinder4532|Take 001|BaseLayer.001
+    7400604: Locker|Cylinder4533|Take 001|BaseLayer
+    7400606: Locker|Cylinder4533|Take 001|BaseLayer.001
+    7400608: Locker|Cylinder4534|Take 001|BaseLayer
+    7400610: Locker|Cylinder4534|Take 001|BaseLayer.001
+    7400612: Locker|Cylinder4541|Take 001|BaseLayer
+    7400614: Locker|Cylinder4542|Take 001|BaseLayer
+    7400616: Locker|Cylinder4542|Take 001|BaseLayer.001
+    7400618: Locker|Cylinder4543|Take 001|BaseLayer
+    7400620: Locker|Cylinder4543|Take 001|BaseLayer.001
+    7400622: Locker|Cylinder4544|Take 001|BaseLayer
+    7400624: Locker|Cylinder4544|Take 001|BaseLayer.001
+    7400626: Locker|Cylinder4545|Take 001|BaseLayer
+    7400628: Locker|Cylinder4545|Take 001|BaseLayer.001
+    7400630: Locker|Cylinder4546|Take 001|BaseLayer
+    7400632: Locker|Cylinder4546|Take 001|BaseLayer.001
+    7400634: Locker|Cylinder4547|Take 001|BaseLayer
+    7400636: Locker|Cylinder4548|Take 001|BaseLayer
+    7400638: Locker|Cylinder4549|Take 001|BaseLayer
+    7400640: Locker|Cylinder4550|Take 001|BaseLayer
+    7400642: Locker|Cylinder4551|Take 001|BaseLayer
+    7400644: Locker|Cylinder4552|Take 001|BaseLayer
+    7400646: Locker|Cylinder4553|Take 001|BaseLayer
+    7400648: Locker|Cylinder4554|Take 001|BaseLayer
+    7400650: Locker|Cylinder4555|Take 001|BaseLayer
+    7400652: Locker|Cylinder4556|Take 001|BaseLayer
+    7400654: Locker|Cylinder4557|Take 001|BaseLayer
+    7400656: Locker|Cylinder4558|Take 001|BaseLayer
+    7400658: Locker|Cylinder4559|Take 001|BaseLayer
+    7400660: Locker|Cylinder4560|Take 001|BaseLayer
+    7400662: Locker|Cylinder4561|Take 001|BaseLayer
+    7400664: Locker|Cylinder4562|Take 001|BaseLayer
+    7400666: Locker|Cylinder4563|Take 001|BaseLayer
+    7400668: Locker|Cylinder4564|Take 001|BaseLayer
+    7400670: Locker|Cylinder4565|Take 001|BaseLayer
+    7400672: Locker|Cylinder4566|Take 001|BaseLayer
+    7400674: Locker|Cylinder4769|Take 001|BaseLayer
+    7400676: Locker|Cylinder4770|Take 001|BaseLayer
+    7400678: Locker|Cylinder65ssa007|Take 001|BaseLayer
+    7400680: Locker|Cylinder69ddssa007|Take 001|BaseLayer
+    7400682: Locker|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7400684: Locker|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7400686: Locker|Display_body001|Take 001|BaseLayer
+    7400688: Locker|doctor_stool005|Take 001|BaseLayer
+    7400690: Locker|doctor_stool005|Take 001|BaseLayer.001
+    7400692: Locker|drawer back002aasa|Take 001|BaseLayer
+    7400694: Locker|drawer_box001|Take 001|BaseLayer
+    7400696: Locker|drawer_face003asa1|Take 001|BaseLayer
+    7400698: Locker|drawer_face004|Take 001|BaseLayer
+    7400700: Locker|drawer_frame001|Take 001|BaseLayer
+    7400702: Locker|electrical socket_incubator060|Take 001|BaseLayer
+    7400704: Locker|electrical socket_incubator061|Take 001|BaseLayer
+    7400706: Locker|electrical socket_incubator062|Take 001|BaseLayer
+    7400708: Locker|electrical socket_incubator063|Take 001|BaseLayer
+    7400710: Locker|electrical socket_incubator064|Take 001|BaseLayer
+    7400712: Locker|electrical socket_incubator065|Take 001|BaseLayer
+    7400714: Locker|electrical socket_incubator066|Take 001|BaseLayer
+    7400716: Locker|electrical socket_incubator067|Take 001|BaseLayer
+    7400718: Locker|electrical socket_incubator068|Take 001|BaseLayer
+    7400720: Locker|electrical socket_incubator069|Take 001|BaseLayer
+    7400722: Locker|electrical socket_incubator070|Take 001|BaseLayer
+    7400724: Locker|Enterprise Bedside Locker001|Take 001|BaseLayer
+    7400726: Locker|equipement carrier handle002|Take 001|BaseLayer
+    7400728: Locker|equipment carrier body001|Take 001|BaseLayer
+    7400730: Locker|equipment_carrier_shelf005|Take 001|BaseLayer
+    7400732: Locker|equipment_carrier_shelf006|Take 001|BaseLayer
+    7400734: Locker|equipment_carrier_shelf007|Take 001|BaseLayer
+    7400736: Locker|equipment_carrier_shelf008|Take 001|BaseLayer
+    7400738: Locker|Group042|Take 001|BaseLayer
+    7400740: Locker|Group042|Take 001|BaseLayer.001
+    7400742: Locker|Group043|Take 001|BaseLayer
+    7400744: Locker|Group044|Take 001|BaseLayer
+    7400746: Locker|Group045|Take 001|BaseLayer
+    7400748: Locker|Group12a007|Take 001|BaseLayer
+    7400750: Locker|Group14a007|Take 001|BaseLayer
+    7400752: Locker|handle002|Take 001|BaseLayer
+    7400754: Locker|handle003|Take 001|BaseLayer
+    7400756: Locker|Helix004|Take 001|BaseLayer
+    7400758: Locker|Helix012|Take 001|BaseLayer
+    7400760: Locker|Hospital Bed001|Take 001|BaseLayer
+    7400762: Locker|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7400764: Locker|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7400766: Locker|Hospital_bed_base001|Take 001|BaseLayer
+    7400768: Locker|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7400770: Locker|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7400772: Locker|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7400774: Locker|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7400776: Locker|Hospital_bed_bumper007|Take 001|BaseLayer
+    7400778: Locker|Hospital_bed_bumper008|Take 001|BaseLayer
+    7400780: Locker|Hospital_bed_bumper009|Take 001|BaseLayer
+    7400782: Locker|Hospital_bed_bumper010|Take 001|BaseLayer
+    7400784: Locker|Hospital_bed_button012|Take 001|BaseLayer
+    7400786: Locker|Hospital_bed_button013|Take 001|BaseLayer
+    7400788: Locker|Hospital_bed_button_large005|Take 001|BaseLayer
+    7400790: Locker|Hospital_bed_button_large006|Take 001|BaseLayer
+    7400792: Locker|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7400794: Locker|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7400796: Locker|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7400798: Locker|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7400800: Locker|Hospital_bed_leg003|Take 001|BaseLayer
+    7400802: Locker|Hospital_bed_leg004|Take 001|BaseLayer
+    7400804: Locker|Hospital_bed_leg005|Take 001|BaseLayer
+    7400806: Locker|Hospital_bed_matress001|Take 001|BaseLayer
+    7400808: Locker|Hospital_bed_pedal064|Take 001|BaseLayer
+    7400810: Locker|Hospital_bed_pedal065|Take 001|BaseLayer
+    7400812: Locker|Hospital_bed_pedal066|Take 001|BaseLayer
+    7400814: Locker|Hospital_bed_pedal067|Take 001|BaseLayer
+    7400816: Locker|Hospital_bed_pedal068|Take 001|BaseLayer
+    7400818: Locker|Hospital_bed_pedal069|Take 001|BaseLayer
+    7400820: Locker|Hospital_bed_pedal070|Take 001|BaseLayer
+    7400822: Locker|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7400824: Locker|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7400826: Locker|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7400828: Locker|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7400830: Locker|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7400832: Locker|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7400834: Locker|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7400836: Locker|Hospital_bed_pedals001|Take 001|BaseLayer
+    7400838: Locker|Hospital_bed_piston006|Take 001|BaseLayer
+    7400840: Locker|Hospital_bed_piston007|Take 001|BaseLayer
+    7400842: Locker|Hospital_bed_piston008|Take 001|BaseLayer
+    7400844: Locker|Hospital_bed_piston009|Take 001|BaseLayer
+    7400846: Locker|Hospital_bed_piston010|Take 001|BaseLayer
+    7400848: Locker|Hospital_bed_piston011|Take 001|BaseLayer
+    7400850: Locker|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7400852: Locker|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7400854: Locker|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7400856: Locker|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7400858: Locker|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7400860: Locker|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7400862: Locker|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7400864: Locker|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7400866: Locker|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7400868: Locker|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7400870: Locker|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7400872: Locker|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7400874: Locker|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7400876: Locker|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7400878: Locker|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7400880: Locker|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7400882: Locker|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7400884: Locker|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7400886: Locker|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7400888: Locker|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7400890: Locker|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7400892: Locker|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7400894: Locker|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7400896: Locker|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7400898: Locker|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7400900: Locker|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7400902: Locker|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7400904: Locker|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7400906: Locker|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7400908: Locker|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7400910: Locker|Hospital_bed_pistons002|Take 001|BaseLayer
+    7400912: Locker|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7400914: Locker|Hospital_bed_pole003|Take 001|BaseLayer
+    7400916: Locker|Hospital_bed_pole004|Take 001|BaseLayer
+    7400918: Locker|Hospital_bed_pole005|Take 001|BaseLayer
+    7400920: Locker|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7400922: Locker|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7400924: Locker|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7400926: Locker|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7400928: Locker|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7400930: Locker|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7400932: Locker|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7400934: Locker|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7400936: Locker|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7400938: Locker|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7400940: Locker|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7400942: Locker|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7400944: Locker|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7400946: Locker|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7400948: Locker|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7400950: Locker|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7400952: Locker|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7400954: Locker|Hospital_bed_side_caps023|Take 001|BaseLayer.001
+    7400956: Locker|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7400958: Locker|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7400960: Locker|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7400962: Locker|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7400964: Locker|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7400966: Locker|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7400968: Locker|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7400970: Locker|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7400972: Locker|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7400974: Locker|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7400976: Locker|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7400978: Locker|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7400980: Locker|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7400982: Locker|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7400984: Locker|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7400986: Locker|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7400988: Locker|Hospital_bed_sides001|Take 001|BaseLayer
+    7400990: Locker|Hospital_bed_wheel004|Take 001|BaseLayer
+    7400992: Locker|Hospital_bed_wheel005|Take 001|BaseLayer
+    7400994: Locker|Hospital_bed_wheel006|Take 001|BaseLayer
+    7400996: Locker|Hospital_bed_wheel007|Take 001|BaseLayer
+    7400998: Locker|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7401000: Locker|humidifier001|Take 001|BaseLayer
+    7401002: Locker|Infant_warmer_switch022|Take 001|BaseLayer
+    7401004: Locker|Infant_warmer_switch023|Take 001|BaseLayer
+    7401006: Locker|insuflation tube040|Take 001|BaseLayer
+    7401008: Locker|insuflation tube041|Take 001|BaseLayer
+    7401010: Locker|insuflation tube042|Take 001|BaseLayer
+    7401012: Locker|insuflation tube043|Take 001|BaseLayer
+    7401014: Locker|insuflation tube044|Take 001|BaseLayer
+    7401016: Locker|insuflation tube045|Take 001|BaseLayer
+    7401018: Locker|insuflation tube046|Take 001|BaseLayer
+    7401020: Locker|insuflation tube047|Take 001|BaseLayer
+    7401022: Locker|insuflation tube048|Take 001|BaseLayer
+    7401024: Locker|insuflation tube049|Take 001|BaseLayer
+    7401026: Locker|insuflation tube050|Take 001|BaseLayer
+    7401028: Locker|insuflation tube051|Take 001|BaseLayer
+    7401030: Locker|insuflation tube052|Take 001|BaseLayer
+    7401032: Locker|insuflation tube053|Take 001|BaseLayer
+    7401034: Locker|insuflation tube054|Take 001|BaseLayer
+    7401036: Locker|insuflation tube055|Take 001|BaseLayer
+    7401038: Locker|insuflation tube056|Take 001|BaseLayer
+    7401040: Locker|insuflation tube057|Take 001|BaseLayer
+    7401042: Locker|insuflation tube058|Take 001|BaseLayer
+    7401044: Locker|insuflation tube059|Take 001|BaseLayer
+    7401046: Locker|insuflation tube060|Take 001|BaseLayer
+    7401048: Locker|insuflation tube061|Take 001|BaseLayer
+    7401050: Locker|insuflation tube062|Take 001|BaseLayer
+    7401052: Locker|insuflation tube063|Take 001|BaseLayer
+    7401054: Locker|insuflation tube064|Take 001|BaseLayer
+    7401056: Locker|insuflation tube065|Take 001|BaseLayer
+    7401058: Locker|insuflation tube066|Take 001|BaseLayer
+    7401060: Locker|insuflation tube067|Take 001|BaseLayer
+    7401062: Locker|insuflation tube068|Take 001|BaseLayer
+    7401064: Locker|insuflation tube069|Take 001|BaseLayer
+    7401066: Locker|insuflation tube070|Take 001|BaseLayer
+    7401068: Locker|insuflation tube071|Take 001|BaseLayer
+    7401070: Locker|insuflation tube072|Take 001|BaseLayer
+    7401072: Locker|insuflation tube073|Take 001|BaseLayer
+    7401074: Locker|insuflation tube074|Take 001|BaseLayer
+    7401076: Locker|insuflation tube075|Take 001|BaseLayer
+    7401078: Locker|insuflation tube076|Take 001|BaseLayer
+    7401080: Locker|insuflation tube189|Take 001|BaseLayer
+    7401082: Locker|iv pole007|Take 001|BaseLayer
+    7401084: Locker|lamp_neon064|Take 001|BaseLayer
+    7401086: Locker|lamp_neon065|Take 001|BaseLayer
+    7401088: Locker|lamp_neon066|Take 001|BaseLayer
+    7401090: Locker|lamp_neon067|Take 001|BaseLayer
+    7401092: Locker|lamp_neon068|Take 001|BaseLayer
+    7401094: Locker|lamp_neon069|Take 001|BaseLayer
+    7401096: Locker|lamp_neon070|Take 001|BaseLayer
+    7401098: Locker|lamp_neon071|Take 001|BaseLayer
+    7401100: Locker|Line01assadss007|Take 001|BaseLayer
+    7401102: Locker|Line033|Take 001|BaseLayer
+    7401104: Locker|Line034|Take 001|BaseLayer
+    7401106: Locker|Line035|Take 001|BaseLayer
+    7401108: Locker|Line036|Take 001|BaseLayer
+    7401110: Locker|Line037|Take 001|BaseLayer
+    7401112: Locker|Line038|Take 001|BaseLayer
+    7401114: Locker|Line03bc007|Take 001|BaseLayer
+    7401116: Locker|liquid003|Take 001|BaseLayer
+    7401118: Locker|liquid004|Take 001|BaseLayer
+    7401120: Locker|Locker_bottom001|Take 001|BaseLayer
+    7401122: Locker|Locker_top001|Take 001|BaseLayer
+    7401124: Locker|Locker_tray001|Take 001|BaseLayer
+    7401126: Locker|Medical Console006|Take 001|BaseLayer
+    7401128: Locker|medical device 01back005|Take 001|BaseLayer
+    7401130: Locker|medical device 01back006|Take 001|BaseLayer
+    7401132: Locker|medical device 01back007|Take 001|BaseLayer
+    7401134: Locker|medical device 01back008|Take 001|BaseLayer
+    7401136: Locker|medical device 01body015|Take 001|BaseLayer
+    7401138: Locker|medical device 01body016|Take 001|BaseLayer
+    7401140: Locker|medical device 01body017|Take 001|BaseLayer
+    7401142: Locker|medical device 01body018|Take 001|BaseLayer
+    7401144: Locker|medical device 01body019|Take 001|BaseLayer
+    7401146: Locker|medical device 01front002|Take 001|BaseLayer
+    7401148: Locker|medical device 01front003|Take 001|BaseLayer
+    7401150: Locker|medical device 02front004|Take 001|BaseLayer
+    7401152: Locker|medical device 02front005|Take 001|BaseLayer
+    7401154: Locker|medical device side016|Take 001|BaseLayer
+    7401156: Locker|medical device side017|Take 001|BaseLayer
+    7401158: Locker|medical device side018|Take 001|BaseLayer
+    7401160: Locker|medical device side019|Take 001|BaseLayer
+    7401162: Locker|medical device side020|Take 001|BaseLayer
+    7401164: Locker|medical device side021|Take 001|BaseLayer
+    7401166: Locker|medical device side022|Take 001|BaseLayer
+    7401168: Locker|medical device side023|Take 001|BaseLayer
+    7401170: Locker|medical devices001|Take 001|BaseLayer
+    7401172: Locker|medical_device005|Take 001|BaseLayer
+    7401174: Locker|medical_device006|Take 001|BaseLayer
+    7401176: Locker|medical_device007|Take 001|BaseLayer
+    7401178: Locker|medical_device008|Take 001|BaseLayer
+    7401180: Locker|MEdicalAir001|Take 001|BaseLayer
+    7401182: Locker|medicine bottle 01 cap035|Take 001|BaseLayer
+    7401184: Locker|medicine bottle 01 cap036|Take 001|BaseLayer
+    7401186: Locker|medicine bottle 01 cap037|Take 001|BaseLayer
+    7401188: Locker|medicine bottle 02_ut002|Take 001|BaseLayer
+    7401190: Locker|medicine bottle 037|Take 001|BaseLayer
+    7401192: Locker|medicine bottle 03_v002|Take 001|BaseLayer
+    7401194: Locker|medicine box051|Take 001|BaseLayer
+    7401196: Locker|metal ring 004|Take 001|BaseLayer
+    7401198: Locker|metal ring 005|Take 001|BaseLayer
+    7401200: Locker|metal ring 006|Take 001|BaseLayer
+    7401202: Locker|Mobile_trolley001|Take 001|BaseLayer
+    7401204: Locker|monitor joint 003|Take 001|BaseLayer
+    7401206: Locker|monitor joint 004|Take 001|BaseLayer
+    7401208: Locker|monitor joint019|Take 001|BaseLayer
+    7401210: Locker|monitor screen002|Take 001|BaseLayer
+    7401212: Locker|monitor screen003|Take 001|BaseLayer
+    7401214: Locker|monitor01_body007|Take 001|BaseLayer
+    7401216: Locker|monitor01_body008|Take 001|BaseLayer
+    7401218: Locker|Monitor_ax002|Take 001|BaseLayer
+    7401220: Locker|Monitor_ax003|Take 001|BaseLayer
+    7401222: Locker|MONITOR_PIVOT001|Take 001|BaseLayer
+    7401224: Locker|monitorARM002|Take 001|BaseLayer
+    7401226: Locker|monitorARM003|Take 001|BaseLayer
+    7401228: Locker|mufa albastra017|Take 001|BaseLayer
+    7401230: Locker|mufa albastra018|Take 001|BaseLayer
+    7401232: Locker|mufa albastra019|Take 001|BaseLayer
+    7401234: Locker|mufaalbastra013|Take 001|BaseLayer
+    7401236: Locker|mufaalbastra014|Take 001|BaseLayer
+    7401238: Locker|mufaalbastra015|Take 001|BaseLayer
+    7401240: Locker|mufaalbastra016|Take 001|BaseLayer
+    7401242: Locker|mufaalbastra017|Take 001|BaseLayer
+    7401244: Locker|mufaalbastra018|Take 001|BaseLayer
+    7401246: Locker|mufaalbastra019|Take 001|BaseLayer
+    7401248: Locker|mufaalbastra020|Take 001|BaseLayer
+    7401250: Locker|mufaalbastra021|Take 001|BaseLayer
+    7401252: Locker|mufaalbastra022|Take 001|BaseLayer
+    7401254: Locker|Object4468|Take 001|BaseLayer
+    7401256: Locker|Object4469|Take 001|BaseLayer
+    7401258: Locker|Object4470|Take 001|BaseLayer
+    7401260: Locker|Object4471|Take 001|BaseLayer
+    7401262: Locker|Object4472|Take 001|BaseLayer
+    7401264: Locker|Object4473|Take 001|BaseLayer
+    7401266: Locker|Object4474|Take 001|BaseLayer
+    7401268: Locker|Object4474|Take 001|BaseLayer.001
+    7401270: Locker|Object4475|Take 001|BaseLayer
+    7401272: Locker|Object4475|Take 001|BaseLayer.001
+    7401274: Locker|Object4476|Take 001|BaseLayer
+    7401276: Locker|Object4476|Take 001|BaseLayer.001
+    7401278: Locker|Object4477|Take 001|BaseLayer
+    7401280: Locker|Object4477|Take 001|BaseLayer.001
+    7401282: Locker|Object4478|Take 001|BaseLayer
+    7401284: Locker|Object4478|Take 001|BaseLayer.001
+    7401286: Locker|Object4479|Take 001|BaseLayer
+    7401288: Locker|Object4480|Take 001|BaseLayer
+    7401290: Locker|Object4481|Take 001|BaseLayer
+    7401292: Locker|Object4482|Take 001|BaseLayer
+    7401294: Locker|off button device002|Take 001|BaseLayer
+    7401296: Locker|off button008|Take 001|BaseLayer
+    7401298: Locker|off button009|Take 001|BaseLayer
+    7401300: Locker|off button010|Take 001|BaseLayer
+    7401302: Locker|on button device002|Take 001|BaseLayer
+    7401304: Locker|on button008|Take 001|BaseLayer
+    7401306: Locker|on button009|Take 001|BaseLayer
+    7401308: Locker|on button010|Take 001|BaseLayer
+    7401310: Locker|on/off button008|Take 001|BaseLayer
+    7401312: Locker|on/off button009|Take 001|BaseLayer
+    7401314: Locker|on/off button010|Take 001|BaseLayer
+    7401316: Locker|oxygen socket035|Take 001|BaseLayer
+    7401318: Locker|oxygen socket036|Take 001|BaseLayer
+    7401320: Locker|oxygen socket037|Take 001|BaseLayer
+    7401322: Locker|oxygen socket038|Take 001|BaseLayer
+    7401324: Locker|oxygen socket051|Take 001|BaseLayer
+    7401326: Locker|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7401328: Locker|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7401330: Locker|pillow001|Take 001|BaseLayer
+    7401332: Locker|plugg socket044|Take 001|BaseLayer
+    7401334: Locker|plugg socket045|Take 001|BaseLayer
+    7401336: Locker|plugg socket046|Take 001|BaseLayer
+    7401338: Locker|plugg socket047|Take 001|BaseLayer
+    7401340: Locker|plugg socket048|Take 001|BaseLayer
+    7401342: Locker|plugg socket049|Take 001|BaseLayer
+    7401344: Locker|plugg socket050|Take 001|BaseLayer
+    7401346: Locker|plugg socket051|Take 001|BaseLayer
+    7401348: Locker|plugg socket052|Take 001|BaseLayer
+    7401350: Locker|plugg socket053|Take 001|BaseLayer
+    7401352: Locker|plugg socket054|Take 001|BaseLayer
+    7401354: Locker|plugg socket055|Take 001|BaseLayer
+    7401356: Locker|plugg socket056|Take 001|BaseLayer
+    7401358: Locker|plugg socket057|Take 001|BaseLayer
+    7401360: Locker|plugg015|Take 001|BaseLayer
+    7401362: Locker|plugg016|Take 001|BaseLayer
+    7401364: Locker|plugg017|Take 001|BaseLayer
+    7401366: Locker|plugg018|Take 001|BaseLayer
+    7401368: Locker|plugg019|Take 001|BaseLayer
+    7401370: Locker|plugg020|Take 001|BaseLayer
+    7401372: Locker|plugg021|Take 001|BaseLayer
+    7401374: Locker|plugg022|Take 001|BaseLayer
+    7401376: Locker|plugg023|Take 001|BaseLayer
+    7401378: Locker|plugg024|Take 001|BaseLayer
+    7401380: Locker|plugg025|Take 001|BaseLayer
+    7401382: Locker|plugg026|Take 001|BaseLayer
+    7401384: Locker|plugg027|Take 001|BaseLayer
+    7401386: Locker|roata045|Take 001|BaseLayer
+    7401388: Locker|roata045|Take 001|BaseLayer.001
+    7401390: Locker|roata046|Take 001|BaseLayer
+    7401392: Locker|roata046|Take 001|BaseLayer.001
+    7401394: Locker|roata047|Take 001|BaseLayer
+    7401396: Locker|roata047|Take 001|BaseLayer.001
+    7401398: Locker|roata048|Take 001|BaseLayer
+    7401400: Locker|roata048|Take 001|BaseLayer.001
+    7401402: Locker|roata049|Take 001|BaseLayer
+    7401404: Locker|roata049|Take 001|BaseLayer.001
+    7401406: Locker|round slot016|Take 001|BaseLayer
+    7401408: Locker|round slot017|Take 001|BaseLayer
+    7401410: Locker|round slot018|Take 001|BaseLayer
+    7401412: Locker|round slot019|Take 001|BaseLayer
+    7401414: Locker|round slot020|Take 001|BaseLayer
+    7401416: Locker|round slot021|Take 001|BaseLayer
+    7401418: Locker|round slot022|Take 001|BaseLayer
+    7401420: Locker|round slot023|Take 001|BaseLayer
+    7401422: Locker|round slot024|Take 001|BaseLayer
+    7401424: Locker|round slot025|Take 001|BaseLayer
+    7401426: Locker|Round_button001|Take 001|BaseLayer
+    7401428: Locker|Round_Scart008|Take 001|BaseLayer
+    7401430: Locker|Round_Scart009|Take 001|BaseLayer
+    7401432: Locker|Round_Scart010|Take 001|BaseLayer
+    7401434: Locker|Round_Scart011|Take 001|BaseLayer
+    7401436: Locker|Round_Scart012|Take 001|BaseLayer
+    7401438: Locker|Round_Scart013|Take 001|BaseLayer
+    7401440: Locker|Round_Scart014|Take 001|BaseLayer
+    7401442: Locker|Round_Scart015|Take 001|BaseLayer
+    7401444: Locker|Rubber_bumper016|Take 001|BaseLayer
+    7401446: Locker|Rubber_bumper017|Take 001|BaseLayer
+    7401448: Locker|Rubber_bumper018|Take 001|BaseLayer
+    7401450: Locker|Rubber_bumper019|Take 001|BaseLayer
+    7401452: Locker|Rubber_bumper020|Take 001|BaseLayer
+    7401454: Locker|Rubber_bumper021|Take 001|BaseLayer
+    7401456: Locker|Rubber_bumper022|Take 001|BaseLayer
+    7401458: Locker|Rubber_bumper023|Take 001|BaseLayer
+    7401460: Locker|Rubber_bumper024|Take 001|BaseLayer
+    7401462: Locker|Rubber_bumper_support008|Take 001|BaseLayer
+    7401464: Locker|Rubber_bumper_support009|Take 001|BaseLayer
+    7401466: Locker|Rubber_bumper_support010|Take 001|BaseLayer
+    7401468: Locker|Rubber_bumper_support011|Take 001|BaseLayer
+    7401470: Locker|Rubber_bumper_support012|Take 001|BaseLayer
+    7401472: Locker|Sanitizer003|Take 001|BaseLayer
+    7401474: Locker|Sanitizer004|Take 001|BaseLayer
+    7401476: Locker|scart003|Take 001|BaseLayer
+    7401478: Locker|scart004|Take 001|BaseLayer
+    7401480: Locker|scart005|Take 001|BaseLayer
+    7401482: Locker|Shape002|Take 001|BaseLayer
+    7401484: Locker|shelf edge004|Take 001|BaseLayer
+    7401486: Locker|shelf edge005|Take 001|BaseLayer
+    7401488: Locker|shelf edge006|Take 001|BaseLayer
+    7401490: Locker|shelf edge007|Take 001|BaseLayer
+    7401492: Locker|side panel controls_head_002|Take 001|BaseLayer
+    7401494: Locker|side panel controls_head_003|Take 001|BaseLayer
+    7401496: Locker|side panel_head002|Take 001|BaseLayer
+    7401498: Locker|side panel_head003|Take 001|BaseLayer
+    7401500: Locker|Side_handle002|Take 001|BaseLayer
+    7401502: Locker|Side_handle003|Take 001|BaseLayer
+    7401504: Locker|side_panel_cap005|Take 001|BaseLayer
+    7401506: Locker|side_panel_cap006|Take 001|BaseLayer
+    7401508: Locker|side_panel_cap007|Take 001|BaseLayer
+    7401510: Locker|side_panel_cap008|Take 001|BaseLayer
+    7401512: Locker|sky boom base001|Take 001|BaseLayer
+    7401514: Locker|small_drawer001|Take 001|BaseLayer
+    7401516: Locker|small_hook002|Take 001|BaseLayer
+    7401518: Locker|small_hook003|Take 001|BaseLayer
+    7401520: Locker|socketA068|Take 001|BaseLayer
+    7401522: Locker|socketA069|Take 001|BaseLayer
+    7401524: Locker|socketA070|Take 001|BaseLayer
+    7401526: Locker|socketA071|Take 001|BaseLayer
+    7401528: Locker|socketA072|Take 001|BaseLayer
+    7401530: Locker|socketA073|Take 001|BaseLayer
+    7401532: Locker|socketA074|Take 001|BaseLayer
+    7401534: Locker|socketA075|Take 001|BaseLayer
+    7401536: Locker|socketA076|Take 001|BaseLayer
+    7401538: Locker|socketA077|Take 001|BaseLayer
+    7401540: Locker|socketA078|Take 001|BaseLayer
+    7401542: Locker|socketA079|Take 001|BaseLayer
+    7401544: Locker|socketA080|Take 001|BaseLayer
+    7401546: Locker|socketA081|Take 001|BaseLayer
+    7401548: Locker|socketA082|Take 001|BaseLayer
+    7401550: Locker|socketA083|Take 001|BaseLayer
+    7401552: Locker|socketA084|Take 001|BaseLayer
+    7401554: Locker|socketA085|Take 001|BaseLayer
+    7401556: Locker|socketA086|Take 001|BaseLayer
+    7401558: Locker|socketA087|Take 001|BaseLayer
+    7401560: Locker|socketA088|Take 001|BaseLayer
+    7401562: Locker|socketA089|Take 001|BaseLayer
+    7401564: Locker|socketA090|Take 001|BaseLayer
+    7401566: Locker|socketA091|Take 001|BaseLayer
+    7401568: Locker|socketA092|Take 001|BaseLayer
+    7401570: Locker|socketA093|Take 001|BaseLayer
+    7401572: Locker|SocketB076|Take 001|BaseLayer
+    7401574: Locker|SocketB077|Take 001|BaseLayer
+    7401576: Locker|SocketB078|Take 001|BaseLayer
+    7401578: Locker|SocketB079|Take 001|BaseLayer
+    7401580: Locker|SocketB080|Take 001|BaseLayer
+    7401582: Locker|SocketB081|Take 001|BaseLayer
+    7401584: Locker|SocketB082|Take 001|BaseLayer
+    7401586: Locker|SocketB083|Take 001|BaseLayer
+    7401588: Locker|SocketB084|Take 001|BaseLayer
+    7401590: Locker|SocketB085|Take 001|BaseLayer
+    7401592: Locker|SocketB086|Take 001|BaseLayer
+    7401594: Locker|SocketB087|Take 001|BaseLayer
+    7401596: Locker|SocketB088|Take 001|BaseLayer
+    7401598: Locker|SocketB089|Take 001|BaseLayer
+    7401600: Locker|SocketB090|Take 001|BaseLayer
+    7401602: Locker|SocketB091|Take 001|BaseLayer
+    7401604: Locker|SocketB092|Take 001|BaseLayer
+    7401606: Locker|SocketB093|Take 001|BaseLayer
+    7401608: Locker|SocketB094|Take 001|BaseLayer
+    7401610: Locker|SocketB095|Take 001|BaseLayer
+    7401612: Locker|SocketB096|Take 001|BaseLayer
+    7401614: Locker|SocketB097|Take 001|BaseLayer
+    7401616: Locker|SocketB098|Take 001|BaseLayer
+    7401618: Locker|SocketB099|Take 001|BaseLayer
+    7401620: Locker|sockets012|Take 001|BaseLayer
+    7401622: Locker|sockets013|Take 001|BaseLayer
+    7401624: Locker|sockets014|Take 001|BaseLayer
+    7401626: Locker|sockets015|Take 001|BaseLayer
+    7401628: Locker|support017|Take 001|BaseLayer
+    7401630: Locker|support018|Take 001|BaseLayer
+    7401632: Locker|support019|Take 001|BaseLayer
+    7401634: Locker|support020|Take 001|BaseLayer
+    7401636: Locker|support021|Take 001|BaseLayer
+    7401638: Locker|support022|Take 001|BaseLayer
+    7401640: Locker|support023|Take 001|BaseLayer
+    7401642: Locker|support024|Take 001|BaseLayer
+    7401644: Locker|support025|Take 001|BaseLayer
+    7401646: Locker|support026|Take 001|BaseLayer
+    7401648: Locker|support027|Take 001|BaseLayer
+    7401650: Locker|support028|Take 001|BaseLayer
+    7401652: Locker|support029|Take 001|BaseLayer
+    7401654: Locker|support030|Take 001|BaseLayer
+    7401656: Locker|support031|Take 001|BaseLayer
+    7401658: Locker|support032|Take 001|BaseLayer
+    7401660: Locker|surgical light handle032|Take 001|BaseLayer
+    7401662: Locker|surgical light handle033|Take 001|BaseLayer
+    7401664: Locker|surgical light handle034|Take 001|BaseLayer
+    7401666: Locker|surgical light handle035|Take 001|BaseLayer
+    7401668: Locker|surgical light handle036|Take 001|BaseLayer
+    7401670: Locker|surgical light handle037|Take 001|BaseLayer
+    7401672: Locker|surgical light handle038|Take 001|BaseLayer
+    7401674: Locker|surgical light handle039|Take 001|BaseLayer
+    7401676: Locker|switch_body_incubator104|Take 001|BaseLayer
+    7401678: Locker|switch_body_incubator105|Take 001|BaseLayer
+    7401680: Locker|switch_body_incubator106|Take 001|BaseLayer
+    7401682: Locker|switch_body_incubator107|Take 001|BaseLayer
+    7401684: Locker|switch_body_incubator108|Take 001|BaseLayer
+    7401686: Locker|switch_body_incubator109|Take 001|BaseLayer
+    7401688: Locker|switch_body_incubator110|Take 001|BaseLayer
+    7401690: Locker|switch_body_incubator111|Take 001|BaseLayer
+    7401692: Locker|switch_body_incubator112|Take 001|BaseLayer
+    7401694: Locker|switch_body_incubator113|Take 001|BaseLayer
+    7401696: Locker|switch_body_incubator114|Take 001|BaseLayer
+    7401698: Locker|switch_body_incubator115|Take 001|BaseLayer
+    7401700: Locker|switch_body_incubator116|Take 001|BaseLayer
+    7401702: Locker|switch_body_incubator117|Take 001|BaseLayer
+    7401704: Locker|switch_body_incubator118|Take 001|BaseLayer
+    7401706: Locker|switch_body_incubator164|Take 001|BaseLayer
+    7401708: Locker|switch_incubator030|Take 001|BaseLayer
+    7401710: Locker|switch_incubator031|Take 001|BaseLayer
+    7401712: Locker|switch_incubator032|Take 001|BaseLayer
+    7401714: Locker|switch_incubator033|Take 001|BaseLayer
+    7401716: Locker|switch_incubator034|Take 001|BaseLayer
+    7401718: Locker|usb slot026|Take 001|BaseLayer
+    7401720: Locker|usb slot027|Take 001|BaseLayer
+    7401722: Locker|usb slot028|Take 001|BaseLayer
+    7401724: Locker|usb slot029|Take 001|BaseLayer
+    7401726: Locker|usb slot030|Take 001|BaseLayer
+    7401728: Locker|usb slot031|Take 001|BaseLayer
+    7401730: Locker|usb slot032|Take 001|BaseLayer
+    7401732: Locker|usb slot033|Take 001|BaseLayer
+    7401734: Locker|usb slot034|Take 001|BaseLayer
+    7401736: Locker|usb slot035|Take 001|BaseLayer
+    7401738: Locker|usb slot036|Take 001|BaseLayer
+    7401740: Locker|usb slot037|Take 001|BaseLayer
+    7401742: Locker|usb slot038|Take 001|BaseLayer
+    7401744: Locker|ventilator  bag cap001|Take 001|BaseLayer
+    7401746: Locker|ventilator arm adjustable support001|Take 001|BaseLayer
+    7401748: Locker|ventilator arm handle002|Take 001|BaseLayer
+    7401750: Locker|ventilator arm segment005|Take 001|BaseLayer
+    7401752: Locker|ventilator arm segment006|Take 001|BaseLayer
+    7401754: Locker|ventilator arm segment007|Take 001|BaseLayer
+    7401756: Locker|ventilator arm segment008|Take 001|BaseLayer
+    7401758: Locker|ventilator bag001|Take 001|BaseLayer
+    7401760: Locker|ventilator box002|Take 001|BaseLayer
+    7401762: Locker|ventilator brushed metal002|Take 001|BaseLayer
+    7401764: Locker|ventilator controls 003|Take 001|BaseLayer
+    7401766: Locker|ventilator glass004|Take 001|BaseLayer
+    7401768: Locker|ventilator glass005|Take 001|BaseLayer
+    7401770: Locker|ventilator glass006|Take 001|BaseLayer
+    7401772: Locker|ventilator hose cap 012|Take 001|BaseLayer
+    7401774: Locker|ventilator hose cap 013|Take 001|BaseLayer
+    7401776: Locker|ventilator hose cap 014|Take 001|BaseLayer
+    7401778: Locker|ventilator hose cap 015|Take 001|BaseLayer
+    7401780: Locker|ventilator hose cap 016|Take 001|BaseLayer
+    7401782: Locker|ventilator hose cap 017|Take 001|BaseLayer
+    7401784: Locker|ventilator hose cap005|Take 001|BaseLayer
+    7401786: Locker|ventilator hose cap006|Take 001|BaseLayer
+    7401788: Locker|ventilator hose cap007|Take 001|BaseLayer
+    7401790: Locker|ventilator hose cap008|Take 001|BaseLayer
+    7401792: Locker|ventilator hose output003|Take 001|BaseLayer
+    7401794: Locker|ventilator hose output004|Take 001|BaseLayer
+    7401796: Locker|ventilator hose support 004|Take 001|BaseLayer
+    7401798: Locker|ventilator hose support 005|Take 001|BaseLayer
+    7401800: Locker|ventilator hose support001|Take 001|BaseLayer
+    7401802: Locker|ventilator large button001|Take 001|BaseLayer
+    7401804: Locker|ventilator screen002|Take 001|BaseLayer
+    7401806: Locker|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7401808: Locker|Ventilator_main_body001|Take 001|BaseLayer
+    7401810: Locker|Ventilator_wheel004|Take 001|BaseLayer
+    7401812: Locker|Ventilator_wheel005|Take 001|BaseLayer
+    7401814: Locker|Ventilator_wheel005|Take 001|BaseLayer.001
+    7401816: Locker|Ventilator_wheel006|Take 001|BaseLayer
+    7401818: Locker|Ventilator_wheel007|Take 001|BaseLayer
+    7401820: Locker|ventilatorHose006|Take 001|BaseLayer
+    7401822: Locker|ventilatorHose007|Take 001|BaseLayer
+    7401824: Locker|ventilatorHose008|Take 001|BaseLayer
+    7401826: Locker|ventilatorHose009|Take 001|BaseLayer
+    7401828: Locker|ventilatorHose010|Take 001|BaseLayer
+    7401830: Locker|vga slot031|Take 001|BaseLayer
+    7401832: Locker|vga slot032|Take 001|BaseLayer
+    7401834: Locker|vga slot033|Take 001|BaseLayer
+    7401836: Locker|vga slot034|Take 001|BaseLayer
+    7401838: Locker|vga slot035|Take 001|BaseLayer
+    7401840: Locker|walls|Take 001|BaseLayer
+    7401842: Locker|WardConsole001|Take 001|BaseLayer
+    7401844: Locker|warmer_lamp016|Take 001|BaseLayer
+    7401846: Locker|warmer_lamp017|Take 001|BaseLayer
+    7401848: Locker|Warmer_lamp_blades016|Take 001|BaseLayer
+    7401850: Locker|Warmer_lamp_blades017|Take 001|BaseLayer
+    7401852: Locker|warmer_lamp_glass016|Take 001|BaseLayer
+    7401854: Locker|warmer_lamp_glass017|Take 001|BaseLayer
+    7401856: Locker|warmer_lamp_shade016|Take 001|BaseLayer
+    7401858: Locker|warmer_lamp_shade017|Take 001|BaseLayer
+    7401860: Locker|wheel044|Take 001|BaseLayer
+    7401862: Locker|wheel044|Take 001|BaseLayer.001
+    7401864: Locker|wheel045|Take 001|BaseLayer
+    7401866: Locker|wheel045|Take 001|BaseLayer.001
+    7401868: Locker|wheel046|Take 001|BaseLayer
+    7401870: Locker|wheel047|Take 001|BaseLayer
+    7401872: Locker|wheel048|Take 001|BaseLayer
+    7401874: Locker|wheel049|Take 001|BaseLayer
+    7401876: Locker|wheel050|Take 001|BaseLayer
+    7401878: Locker|wheel051|Take 001|BaseLayer
+    7401880: Locker|wheel052|Take 001|BaseLayer
+    7401882: Locker|Wheel_arm009|Take 001|BaseLayer
+    7401884: Locker|Wheel_arm010|Take 001|BaseLayer
+    7401886: Locker|Wheel_arm010|Take 001|BaseLayer.001
+    7401888: Locker|Wheel_arm011|Take 001|BaseLayer
+    7401890: Locker|Wheel_arm012|Take 001|BaseLayer
+    7401892: Locker|wheel_ax008|Take 001|BaseLayer
+    7401894: Locker|wheel_ax009|Take 001|BaseLayer
+    7401896: Locker|wheel_ax009|Take 001|BaseLayer.001
+    7401898: Locker|wheel_ax010|Take 001|BaseLayer
+    7401900: Locker|wheel_ax011|Take 001|BaseLayer
+    7401902: Locker|wheel_ax012|Take 001|BaseLayer
+    7401904: Locker|wheel_ax013|Take 001|BaseLayer
+    7401906: Locker|wheel_ax014|Take 001|BaseLayer
+    7401908: Locker|wheel_ax015|Take 001|BaseLayer
+    7401910: Locker|wheel_cover005|Take 001|BaseLayer
+    7401912: Locker|wheel_cover006|Take 001|BaseLayer
+    7401914: Locker|wheel_cover007|Take 001|BaseLayer
+    7401916: Locker|wheel_cover008|Take 001|BaseLayer
+    7401918: Locker|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7401920: Locker|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7401922: Locker|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7401924: Locker|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7401926: Locker|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7401928: Locker|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7401930: Locker|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7401932: Locker|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer.001
+    7401934: Locker|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7401936: Locker|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7401938: Locker|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7401940: Locker|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7401942: Locker|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7401944: Locker|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7401946: Locker|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7401948: Locker|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7401950: Locker|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7401952: Locker|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7401954: Locker|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7401956: Locker|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7401958: Locker|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7401960: Locker|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7401962: Locker|Wheel_Hospital_bed130|Take 001|BaseLayer.001
+    7401964: Locker|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7401966: Locker|Wheel_Hospital_bed131|Take 001|BaseLayer.001
+    7401968: Locker|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7401970: Locker|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7401972: Locker|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7401974: Locker|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7401976: Locker|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7401978: Locker|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7401980: Locker|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7401982: Locker|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7401984: Locker|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7401986: Locker|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7401988: Locker|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7401990: Locker|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7401992: Locker|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7401994: Locker|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7401996: Locker|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7401998: Locker|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7402000: Locker|Wheel_Hospital_bed_cap129|Take 001|BaseLayer.001
+    7402002: Locker|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7402004: Locker|Wheel_Hospital_bed_cap130|Take 001|BaseLayer.001
+    7402006: Locker|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7402008: Locker|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7402010: Locker|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7402012: Locker|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7402014: Locker|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7402016: Locker|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7402018: Locker|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7402020: Locker|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7402022: Locker|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7402024: Locker|Wheel_Hospital_bed_case059|Take 001|BaseLayer.001
+    7402026: Locker|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7402028: Locker|wheel_rubber007|Take 001|BaseLayer
+    7402030: Locker|wheel_rubber008|Take 001|BaseLayer
+    7402032: Locker|wheel_rubber008|Take 001|BaseLayer.001
+    7402034: Locker|wheel_rubber009|Take 001|BaseLayer
+    7402036: Locker|wheel_rubber010|Take 001|BaseLayer
+    7402038: Locker|wheel_rubber011|Take 001|BaseLayer
+    7402040: Locker|wheel_rubber012|Take 001|BaseLayer
+    7402042: Locker|wheel_rubber013|Take 001|BaseLayer
+    7402044: Locker|wheel_rubber014|Take 001|BaseLayer
+    7402046: Locker|wheelCenterPivot004|Take 001|BaseLayer
+    7402048: Locker|wheelCenterPivot005|Take 001|BaseLayer
+    7402050: Locker|wheelCenterPivot005|Take 001|BaseLayer.001
+    7402052: Locker|wheelCenterPivot006|Take 001|BaseLayer
+    7402054: Locker|wheelCenterPivot007|Take 001|BaseLayer
+    7402056: Locker|wooden floor|Take 001|BaseLayer
+    7402058: Locker|wooden floor|Take 001|BaseLayer.001
+    7402060: Locker|ceilung|Take 001|BaseLayer
+    7402062: Locker|Cylinder4465|Take 001|BaseLayer
+    7402064: Locker|Cylinder4466|Take 001|BaseLayer
+    7402066: Locker|Cylinder4467|Take 001|BaseLayer
+    7402068: Locker|Cylinder4468|Take 001|BaseLayer
+    7402070: Locker|Cylinder4469|Take 001|BaseLayer
+    7402072: Locker|Cylinder4470|Take 001|BaseLayer
+    7402074: Locker|Cylinder4471|Take 001|BaseLayer
+    7402076: Locker|Cylinder4472|Take 001|BaseLayer
+    7402078: Locker|Cylinder4473|Take 001|BaseLayer
+    7402080: Locker|Cylinder4771|Take 001|BaseLayer
+    7402082: Locker|Cylinder4772|Take 001|BaseLayer
+    7402084: Locker|Cylinder4773|Take 001|BaseLayer
+    7402086: Locker|plinth 2|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ plastic_hospital_bed.005
+    second: {fileID: 2100000, guid: 326efa82a1e7d2c4abeae46efd33a05f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

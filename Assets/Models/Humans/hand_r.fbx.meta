@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: a9ecfc6bbaa058b4c83eade2400ca63e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 3604073074804031871
+    second: Hand|Camera.001|Take 001|Layer 001
+  - first:
+      74: 5475438846666391343
+    second: Hand|Camera.002|Take 001|Layer 001
+  - first:
+      74: 8648358565468463510
+    second: Hand|Camera.003|Take 001|Layer 001
+  - first:
+      74: -7388996507556598478
+    second: Hand|Camera|Take 001|Layer 001
+  - first:
+      74: -1174543405729585513
+    second: Hand|Directional Light.001|Take 001|Layer 001
+  - first:
+      74: 641175344659822251
+    second: Hand|Directional Light.002|Take 001|Layer 001
+  - first:
+      74: -3527918070809013296
+    second: Hand|Directional Light.003|Take 001|Layer 001
+  - first:
+      74: 786594261993653280
+    second: Hand|Directional Light|Take 001|Layer 001
+  - first:
+      74: 8541469953339098617
+    second: Hand|Doctor 11 Operation|Take 001|Layer 001
+  - first:
+      74: 8637453575058026971
+    second: Hand|Doctor 12 Operation|Take 001|Layer 001
+  - first:
+      74: 5848650916496744593
+    second: Hand|Engineer 01 Operation|Take 001|Layer 001
+  - first:
+      74: -3868774602609597614
+    second: Hand|Engineer 02 Operation|Take 001|Layer 001
+  - first:
+      74: -6112559253371702558
+    second: Hand|Texture Group.001|Take 001|Layer 001
+  - first:
+      74: 3253960559422031461
+    second: Hand|Texture Group.002|Take 001|Layer 001
+  - first:
+      74: -5357376846198908836
+    second: Hand|Texture Group.003|Take 001|Layer 001
+  - first:
+      74: -7662710925570417781
+    second: Hand|Texture Group|Take 001|Layer 001
+  - first:
+      74: -4918625115184996439
+    second: Hand|Hand|Hand|Camera.001|Take 001|Layer 001|Hand|Camera.001|Take 00
+  - first:
+      74: 728357527663782478
+    second: Hand|Hand|Hand|Camera.002|Take 001|Layer 001|Hand|Camera.002|Take 00
+  - first:
+      74: -1535453088584843188
+    second: Hand|Hand|Hand|Camera.003|Take 001|Layer 001|Hand|Camera.003|Take 00
+  - first:
+      74: 6002401703593771631
+    second: 'Hand|Hand|Hand|Camera|Take 001|Layer 001|Hand|Camera|Take 001|Layer '
+  - first:
+      74: 1510799112310761144
+    second: Hand|Hand|Hand|Directional Light.001|Take 001|Layer 001|Hand|Directi
+  - first:
+      74: 8945045499881985754
+    second: Hand|Hand|Hand|Directional Light.002|Take 001|Layer 001|Hand|Directi
+  - first:
+      74: -1761702642401539395
+    second: Hand|Hand|Hand|Directional Light.003|Take 001|Layer 001|Hand|Directi
+  - first:
+      74: -1279239067429975636
+    second: Hand|Hand|Hand|Directional Light|Take 001|Layer 001|Hand|Directional
+  - first:
+      74: 4131130894932399282
+    second: Hand|Hand|Hand|Doctor 11 Operation|Take 001|Layer 001|Hand|Doctor 11
+  - first:
+      74: 5380004692258970124
+    second: Hand|Hand|Hand|Doctor 12 Operation|Take 001|Layer 001|Hand|Doctor 12
+  - first:
+      74: -6665013677175796353
+    second: Hand|Hand|Hand|Engineer 01 Operation|Take 001|Layer 001|Hand|Enginee
+  - first:
+      74: -7542619757507724624
+    second: Hand|Hand|Hand|Engineer 02 Operation|Take 001|Layer 001|Hand|Enginee
+  - first:
+      74: 5191542487365724758
+    second: Hand|Hand|Hand|Texture Group.001|Take 001|Layer 001|Hand|Texture Gro
+  - first:
+      74: 5101207136559628582
+    second: Hand|Hand|Hand|Texture Group.002|Take 001|Layer 001|Hand|Texture Gro
+  - first:
+      74: 8350617754620374928
+    second: Hand|Hand|Hand|Texture Group.003|Take 001|Layer 001|Hand|Texture Gro
+  - first:
+      74: 5602221059213195810
+    second: Hand|Hand|Hand|Texture Group|Take 001|Layer 001|Hand|Texture Group|T
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

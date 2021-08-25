@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 56d99765ebd3d7e4cacd73e314b9a5aa
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: BATHROOM_CABINET
+  - first:
+      21: 2100002
+    second: metal aluminium.001
+  - first:
+      21: 2100004
+    second: BATHROOM_CABINET.001
+  - first:
+      21: 2100006
+    second: metal aluminium.002
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: Door
+  - first:
+      74: 7400000
+    second: Door|aluminium_corner002asfa|Take 001|BaseLayer
+  - first:
+      74: 7400002
+    second: Door|aluminium_corner003|Take 001|BaseLayer
+  - first:
+      74: 7400004
+    second: Door|Bedside_table_blat003|Take 001|BaseLayer
+  - first:
+      74: 7400006
+    second: Door|Box23|Take 001|BaseLayer
+  - first:
+      74: 7400008
+    second: Door|Box847|Take 001|BaseLayer
+  - first:
+      74: 7400010
+    second: Door|ceilung|Take 001|BaseLayer
+  - first:
+      74: 7400012
+    second: Door|cupboard|Take 001|BaseLayer
+  - first:
+      74: 7400014
+    second: Door|curtain_hospital_ward|Take 001|BaseLayer
+  - first:
+      74: 7400016
+    second: Door|Cylinder4465|Take 001|BaseLayer
+  - first:
+      74: 7400018
+    second: Door|Cylinder4466|Take 001|BaseLayer
+  - first:
+      74: 7400020
+    second: Door|Cylinder4467|Take 001|BaseLayer
+  - first:
+      74: 7400022
+    second: Door|Cylinder4468|Take 001|BaseLayer
+  - first:
+      74: 7400024
+    second: Door|Cylinder4469|Take 001|BaseLayer
+  - first:
+      74: 7400026
+    second: Door|Cylinder4470|Take 001|BaseLayer
+  - first:
+      74: 7400028
+    second: Door|Cylinder4471|Take 001|BaseLayer
+  - first:
+      74: 7400030
+    second: Door|Cylinder4472|Take 001|BaseLayer
+  - first:
+      74: 7400032
+    second: Door|Cylinder4473|Take 001|BaseLayer
+  - first:
+      74: 7400034
+    second: Door|Cylinder4510|Take 001|BaseLayer.001
+  - first:
+      74: 7400036
+    second: Door|Cylinder4771|Take 001|BaseLayer
+  - first:
+      74: 7400038
+    second: Door|Cylinder4772|Take 001|BaseLayer
+  - first:
+      74: 7400040
+    second: Door|Cylinder4773|Take 001|BaseLayer
+  - first:
+      74: 7400042
+    second: Door|Cylinder65ssa007|Take 001|BaseLayer
+  - first:
+      74: 7400044
+    second: Door|door frame001|Take 001|BaseLayer
+  - first:
+      74: 7400046
+    second: Door|door frame|Take 001|BaseLayer
+  - first:
+      74: 7400048
+    second: Door|drawer back002|Take 001|BaseLayer
+  - first:
+      74: 7400050
+    second: Door|drawer back003223a|Take 001|BaseLayer
+  - first:
+      74: 7400052
+    second: Door|drawer_box001bda|Take 001|BaseLayer
+  - first:
+      74: 7400054
+    second: Door|drawer_box002ra2|Take 001|BaseLayer
+  - first:
+      74: 7400056
+    second: Door|drawer_face003|Take 001|BaseLayer
+  - first:
+      74: 7400058
+    second: Door|drawer_face004vas|Take 001|BaseLayer
+  - first:
+      74: 7400060
+    second: Door|drawer_face005221a|Take 001|BaseLayer
+  - first:
+      74: 7400062
+    second: Door|drawer_face0062231|Take 001|BaseLayer
+  - first:
+      74: 7400064
+    second: Door|drawer_face009|Take 001|BaseLayer
+  - first:
+      74: 7400066
+    second: Door|drawer_frame001bsa|Take 001|BaseLayer
+  - first:
+      74: 7400068
+    second: Door|drawer_frame002|Take 001|BaseLayer
+  - first:
+      74: 7400070
+    second: Door|handle014|Take 001|BaseLayer
+  - first:
+      74: 7400072
+    second: Door|handle015|Take 001|BaseLayer
+  - first:
+      74: 7400074
+    second: Door|handle016|Take 001|BaseLayer
+  - first:
+      74: 7400076
+    second: Door|handle017|Take 001|BaseLayer
+  - first:
+      74: 7400078
+    second: Door|Hospital_bed_base001|Take 001|BaseLayer
+  - first:
+      74: 7400080
+    second: Door|lightwoodborders|Take 001|BaseLayer
+  - first:
+      74: 7400082
+    second: Door|Locker_bottom001bdae|Take 001|BaseLayer
+  - first:
+      74: 7400084
+    second: Door|Locker_bottom002assa|Take 001|BaseLayer
+  - first:
+      74: 7400086
+    second: Door|Locker_bottom004|Take 001|BaseLayer
+  - first:
+      74: 7400088
+    second: Door|Locker_top00122ab|Take 001|BaseLayer
+  - first:
+      74: 7400090
+    second: Door|Locker_top001|Take 001|BaseLayer
+  - first:
+      74: 7400092
+    second: Door|mirror2a|Take 001|BaseLayer
+  - first:
+      74: 7400094
+    second: Door|monitor screen002|Take 001|BaseLayer
+  - first:
+      74: 7400096
+    second: Door|monitor screen003|Take 001|BaseLayer
+  - first:
+      74: 7400098
+    second: Door|Object32|Take 001|BaseLayer
+  - first:
+      74: 7400100
+    second: Door|Object4449|Take 001|BaseLayer
+  - first:
+      74: 7400102
+    second: Door|Object4483|Take 001|BaseLayer
+  - first:
+      74: 7400104
+    second: Door|OptiTherm_cold002|Take 001|BaseLayer
+  - first:
+      74: 7400106
+    second: Door|OptiTherm_handle003|Take 001|BaseLayer
+  - first:
+      74: 7400108
+    second: Door|OptiTherm_tap003|Take 001|BaseLayer
+  - first:
+      74: 7400110
+    second: Door|OptiTherm_tap004|Take 001|BaseLayer
+  - first:
+      74: 7400112
+    second: Door|OptiTherm_warm002|Take 001|BaseLayer
+  - first:
+      74: 7400114
+    second: Door|OptiTherm_water_cap002|Take 001|BaseLayer
+  - first:
+      74: 7400116
+    second: Door|Paper_towel_dispenser1a|Take 001|BaseLayer
+  - first:
+      74: 7400118
+    second: Door|Paper_towel_dispenser_cap|Take 001|BaseLayer
+  - first:
+      74: 7400120
+    second: Door|Paper_towel_dispenser_eye|Take 001|BaseLayer
+  - first:
+      74: 7400122
+    second: Door|Paper_towel_dispenser|Take 001|BaseLayer
+  - first:
+      74: 7400124
+    second: Door|Paper_towel|Take 001|BaseLayer
+  - first:
+      74: 7400126
+    second: Door|Plane13|Take 001|BaseLayer
+  - first:
+      74: 7400128
+    second: Door|Plane17|Take 001|BaseLayer
+  - first:
+      74: 7400130
+    second: Door|Plane183|Take 001|BaseLayer
+  - first:
+      74: 7400132
+    second: Door|Plane184|Take 001|BaseLayer
+  - first:
+      74: 7400134
+    second: Door|Plane185|Take 001|BaseLayer
+  - first:
+      74: 7400136
+    second: Door|plinth 2|Take 001|BaseLayer
+  - first:
+      74: 7400138
+    second: Door|sanitiz|Take 001|BaseLayer
+  - first:
+      74: 7400140
+    second: Door|Soap_gel_dispenser001|Take 001|BaseLayer
+  - first:
+      74: 7400142
+    second: Door|Soap_gel_dispenser1a001|Take 001|BaseLayer
+  - first:
+      74: 7400144
+    second: Door|Soap_gel_dispenser_detail001|Take 001|BaseLayer
+  - first:
+      74: 7400146
+    second: Door|Twyford_Galerie Wash Basin|Take 001|BaseLayer
+  - first:
+      74: 7400148
+    second: Door|ventilator screen002|Take 001|BaseLayer
+  - first:
+      74: 7400150
+    second: Door|walls|Take 001|BaseLayer
+  - first:
+      74: 7400152
+    second: Door|Wash_basin001|Take 001|BaseLayer
+  - first:
+      74: 7400154
+    second: Door|Waste_fitting_slotted_ClickClack001|Take 001|BaseLayer
+  - first:
+      74: 7400156
+    second: Door|wooden floor|Take 001|BaseLayer.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: -7116890023911523178
+    second: Door|Object4491|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

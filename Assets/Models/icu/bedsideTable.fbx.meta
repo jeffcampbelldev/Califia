@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: b187682a06931b14f9dccf4f1cfd65e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: blue_hospital_bed.001
+    2100002: white_ plastic_hospital_bed.002
+    2100004: surgical light black plastic
+    2100006: hospital_bed_ metal1
+    2100008: Chrome.002
+    2100010: cx50_gray
+    2100012: incubator black plastic.003
+    2100014: white_ metal_hospital_bed.001
+    2100016: Aluminum_matted.003
+    2100018: white metal bedsidetable
+    2100020: Plastic_Translucent_sanitizer
+    2100022: mirror
+    2100024: Plastic_Shiny
+    2100026: greenliquid
+    2100028: plastic bottle cap
+    2100030: 02 - Default
+    2100032: 09 - Default
+    2100034: 02 - Default.001
+    2100036: medicine label01
+    2100038: vray 02 - Default
+    2100040: vray medicine label 03
+    2100042: vray medicine label 02
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Bedside_table_blat003
+    7400000: Bedside_table_blat003|_hospital_bed_Leg_wheel059|Take 001|BaseLayer
+    7400002: Bedside_table_blat003|_hospital_bed_Leg_wheel060|Take 001|BaseLayer
+    7400004: Bedside_table_blat003|_hospital_bed_Leg_wheel061|Take 001|BaseLayer
+    7400006: Bedside_table_blat003|_hospital_bed_Leg_wheel062|Take 001|BaseLayer
+    7400008: Bedside_table_blat003|_hospital_bed_Leg_wheel063|Take 001|BaseLayer
+    7400010: Bedside_table_blat003|_hospital_bed_Leg_wheel064|Take 001|BaseLayer
+    7400012: Bedside_table_blat003|_hospital_bed_Leg_wheel065|Take 001|BaseLayer
+    7400014: Bedside_table_blat003|_hospital_bed_Leg_wheel066|Take 001|BaseLayer
+    7400016: Bedside_table_blat003|bedside_table003|Take 001|BaseLayer
+    7400018: Bedside_table_blat003|bedside_table_adjuster003|Take 001|BaseLayer
+    7400020: Bedside_table_blat003|bedside_table_adjuster_axis003|Take 001|BaseLayer
+    7400022: Bedside_table_blat003|Bedside_table_axis003|Take 001|BaseLayer
+    7400024: Bedside_table_blat003|Bedside_table_axis_support005|Take 001|BaseLayer
+    7400026: Bedside_table_blat003|Bedside_table_blat003|Take 001|BaseLayer
+    7400028: Bedside_table_blat003|Bedside_table_border003|Take 001|BaseLayer
+    7400030: Bedside_table_blat003|Bedside_table_borderedge003|Take 001|BaseLayer
+    7400032: Bedside_table_blat003|bedside_table_handle003|Take 001|BaseLayer
+    7400034: Bedside_table_blat003|bedside_table_handle_support003|Take 001|BaseLayer
+    7400036: Bedside_table_blat003|Bedside_table_suppor_bumper013|Take 001|BaseLayer
+    7400038: Bedside_table_blat003|Bedside_table_suppor_bumper014|Take 001|BaseLayer
+    7400040: Bedside_table_blat003|Bedside_table_suppor_bumper015|Take 001|BaseLayer
+    7400042: Bedside_table_blat003|Bedside_table_suppor_bumper016|Take 001|BaseLayer
+    7400044: Bedside_table_blat003|Bedside_table_support010|Take 001|BaseLayer
+    7400046: Bedside_table_blat003|Bedside_table_support011|Take 001|BaseLayer
+    7400048: Bedside_table_blat003|Bedside_table_support012|Take 001|BaseLayer
+    7400050: Bedside_table_blat003|Bedside_table_wheel053|Take 001|BaseLayer
+    7400052: Bedside_table_blat003|Bedside_table_wheel054|Take 001|BaseLayer
+    7400054: Bedside_table_blat003|Bedside_table_wheel055|Take 001|BaseLayer
+    7400056: Bedside_table_blat003|Bedside_table_wheel056|Take 001|BaseLayer
+    7400058: Bedside_table_blat003|bolt503|Take 001|BaseLayer
+    7400060: Bedside_table_blat003|bolt504|Take 001|BaseLayer
+    7400062: Bedside_table_blat003|bolt505|Take 001|BaseLayer
+    7400064: Bedside_table_blat003|bolt506|Take 001|BaseLayer
+    7400066: Bedside_table_blat003|Box206b007|Take 001|BaseLayer
+    7400068: Bedside_table_blat003|Box276|Take 001|BaseLayer
+    7400070: Bedside_table_blat003|Box276|Take 001|BaseLayer.001
+    7400072: Bedside_table_blat003|Box277|Take 001|BaseLayer
+    7400074: Bedside_table_blat003|Box278|Take 001|BaseLayer
+    7400076: Bedside_table_blat003|Box278|Take 001|BaseLayer.001
+    7400078: Bedside_table_blat003|Box279|Take 001|BaseLayer
+    7400080: Bedside_table_blat003|Box279|Take 001|BaseLayer.001
+    7400082: Bedside_table_blat003|Box280|Take 001|BaseLayer
+    7400084: Bedside_table_blat003|bzt040|Take 001|BaseLayer
+    7400086: Bedside_table_blat003|bzt040|Take 001|BaseLayer.001
+    7400088: Bedside_table_blat003|bzt041|Take 001|BaseLayer
+    7400090: Bedside_table_blat003|bzt041|Take 001|BaseLayer.001
+    7400092: Bedside_table_blat003|bzt042|Take 001|BaseLayer
+    7400094: Bedside_table_blat003|bzt042|Take 001|BaseLayer.001
+    7400096: Bedside_table_blat003|bzt043|Take 001|BaseLayer
+    7400098: Bedside_table_blat003|bzt043|Take 001|BaseLayer.001
+    7400100: Bedside_table_blat003|bzt044|Take 001|BaseLayer
+    7400102: Bedside_table_blat003|bzt044|Take 001|BaseLayer.001
+    7400104: Bedside_table_blat003|Circle007|Take 001|BaseLayer
+    7400106: Bedside_table_blat003|Circle007|Take 001|BaseLayer.001
+    7400108: Bedside_table_blat003|curtain_hospital_ward001|Take 001|BaseLayer
+    7400110: Bedside_table_blat003|curtain_hospital_ward007|Take 001|BaseLayer
+    7400112: Bedside_table_blat003|curtain_hospital_ward008|Take 001|BaseLayer
+    7400114: Bedside_table_blat003|curtain_hospital_ward|Take 001|BaseLayer
+    7400116: Bedside_table_blat003|Cylinder04sd007|Take 001|BaseLayer
+    7400118: Bedside_table_blat003|Cylinder172vbbv007|Take 001|BaseLayer
+    7400120: Bedside_table_blat003|Cylinder4510|Take 001|BaseLayer
+    7400122: Bedside_table_blat003|Cylinder4510|Take 001|BaseLayer.001
+    7400124: Bedside_table_blat003|Cylinder4511|Take 001|BaseLayer
+    7400126: Bedside_table_blat003|Cylinder4511|Take 001|BaseLayer.001
+    7400128: Bedside_table_blat003|Cylinder4512|Take 001|BaseLayer
+    7400130: Bedside_table_blat003|Cylinder4512|Take 001|BaseLayer.001
+    7400132: Bedside_table_blat003|Cylinder4513|Take 001|BaseLayer
+    7400134: Bedside_table_blat003|Cylinder4513|Take 001|BaseLayer.001
+    7400136: Bedside_table_blat003|Cylinder4514|Take 001|BaseLayer
+    7400138: Bedside_table_blat003|Cylinder4514|Take 001|BaseLayer.001
+    7400140: Bedside_table_blat003|Cylinder4515|Take 001|BaseLayer
+    7400142: Bedside_table_blat003|Cylinder4515|Take 001|BaseLayer.001
+    7400144: Bedside_table_blat003|Cylinder4516|Take 001|BaseLayer
+    7400146: Bedside_table_blat003|Cylinder4516|Take 001|BaseLayer.001
+    7400148: Bedside_table_blat003|Cylinder4517|Take 001|BaseLayer
+    7400150: Bedside_table_blat003|Cylinder4517|Take 001|BaseLayer.001
+    7400152: Bedside_table_blat003|Cylinder4518|Take 001|BaseLayer
+    7400154: Bedside_table_blat003|Cylinder4518|Take 001|BaseLayer.001
+    7400156: Bedside_table_blat003|Cylinder4519|Take 001|BaseLayer
+    7400158: Bedside_table_blat003|Cylinder4519|Take 001|BaseLayer.001
+    7400160: Bedside_table_blat003|Cylinder4520|Take 001|BaseLayer
+    7400162: Bedside_table_blat003|Cylinder4520|Take 001|BaseLayer.001
+    7400164: Bedside_table_blat003|Cylinder4521|Take 001|BaseLayer
+    7400166: Bedside_table_blat003|Cylinder4522|Take 001|BaseLayer
+    7400168: Bedside_table_blat003|Cylinder4522|Take 001|BaseLayer.001
+    7400170: Bedside_table_blat003|Cylinder4523|Take 001|BaseLayer
+    7400172: Bedside_table_blat003|Cylinder4524|Take 001|BaseLayer
+    7400174: Bedside_table_blat003|Cylinder4525|Take 001|BaseLayer
+    7400176: Bedside_table_blat003|Cylinder4525|Take 001|BaseLayer.001
+    7400178: Bedside_table_blat003|Cylinder4526|Take 001|BaseLayer
+    7400180: Bedside_table_blat003|Cylinder4526|Take 001|BaseLayer.001
+    7400182: Bedside_table_blat003|Cylinder4527|Take 001|BaseLayer
+    7400184: Bedside_table_blat003|Cylinder4527|Take 001|BaseLayer.001
+    7400186: Bedside_table_blat003|Cylinder4528|Take 001|BaseLayer
+    7400188: Bedside_table_blat003|Cylinder4528|Take 001|BaseLayer.001
+    7400190: Bedside_table_blat003|Cylinder4529|Take 001|BaseLayer
+    7400192: Bedside_table_blat003|Cylinder4529|Take 001|BaseLayer.001
+    7400194: Bedside_table_blat003|Cylinder4530|Take 001|BaseLayer
+    7400196: Bedside_table_blat003|Cylinder4530|Take 001|BaseLayer.001
+    7400198: Bedside_table_blat003|Cylinder4531|Take 001|BaseLayer
+    7400200: Bedside_table_blat003|Cylinder4531|Take 001|BaseLayer.001
+    7400202: Bedside_table_blat003|Cylinder4532|Take 001|BaseLayer
+    7400204: Bedside_table_blat003|Cylinder4532|Take 001|BaseLayer.001
+    7400206: Bedside_table_blat003|Cylinder4533|Take 001|BaseLayer
+    7400208: Bedside_table_blat003|Cylinder4533|Take 001|BaseLayer.001
+    7400210: Bedside_table_blat003|Cylinder4534|Take 001|BaseLayer
+    7400212: Bedside_table_blat003|Cylinder4534|Take 001|BaseLayer.001
+    7400214: Bedside_table_blat003|Cylinder4542|Take 001|BaseLayer
+    7400216: Bedside_table_blat003|Cylinder4543|Take 001|BaseLayer
+    7400218: Bedside_table_blat003|Cylinder4544|Take 001|BaseLayer
+    7400220: Bedside_table_blat003|Cylinder4545|Take 001|BaseLayer
+    7400222: Bedside_table_blat003|Cylinder4546|Take 001|BaseLayer
+    7400224: Bedside_table_blat003|Cylinder4769|Take 001|BaseLayer
+    7400226: Bedside_table_blat003|Cylinder4770|Take 001|BaseLayer
+    7400228: Bedside_table_blat003|DisifenctantDispenser_Cap003|Take 001|BaseLayer
+    7400230: Bedside_table_blat003|DisifenctantDispenser_Cap004|Take 001|BaseLayer
+    7400232: Bedside_table_blat003|doctor_stool005|Take 001|BaseLayer
+    7400234: Bedside_table_blat003|doctor_stool005|Take 001|BaseLayer.001
+    7400236: Bedside_table_blat003|Group042|Take 001|BaseLayer
+    7400238: Bedside_table_blat003|Hospital Bed001|Take 001|BaseLayer
+    7400240: Bedside_table_blat003|Hospital_bed_adjustable_frame002|Take 001|BaseLayer
+    7400242: Bedside_table_blat003|Hospital_bed_adjustable_frame003|Take 001|BaseLayer
+    7400244: Bedside_table_blat003|Hospital_bed_base001|Take 001|BaseLayer
+    7400246: Bedside_table_blat003|Hospital_bed_base_cap004|Take 001|BaseLayer
+    7400248: Bedside_table_blat003|Hospital_bed_base_cap005|Take 001|BaseLayer
+    7400250: Bedside_table_blat003|Hospital_bed_base_cap006|Take 001|BaseLayer
+    7400252: Bedside_table_blat003|Hospital_bed_base_cap007|Take 001|BaseLayer
+    7400254: Bedside_table_blat003|Hospital_bed_bumper007|Take 001|BaseLayer
+    7400256: Bedside_table_blat003|Hospital_bed_bumper008|Take 001|BaseLayer
+    7400258: Bedside_table_blat003|Hospital_bed_bumper009|Take 001|BaseLayer
+    7400260: Bedside_table_blat003|Hospital_bed_bumper010|Take 001|BaseLayer
+    7400262: Bedside_table_blat003|Hospital_bed_button012|Take 001|BaseLayer
+    7400264: Bedside_table_blat003|Hospital_bed_button013|Take 001|BaseLayer
+    7400266: Bedside_table_blat003|Hospital_bed_button_large005|Take 001|BaseLayer
+    7400268: Bedside_table_blat003|Hospital_bed_button_large006|Take 001|BaseLayer
+    7400270: Bedside_table_blat003|Hospital_bed_footpanel002|Take 001|BaseLayer
+    7400272: Bedside_table_blat003|Hospital_bed_framepanel003|Take 001|BaseLayer
+    7400274: Bedside_table_blat003|Hospital_bed_framepanel004|Take 001|BaseLayer
+    7400276: Bedside_table_blat003|Hospital_bed_headpanel002|Take 001|BaseLayer
+    7400278: Bedside_table_blat003|Hospital_bed_leg003|Take 001|BaseLayer
+    7400280: Bedside_table_blat003|Hospital_bed_leg004|Take 001|BaseLayer
+    7400282: Bedside_table_blat003|Hospital_bed_leg005|Take 001|BaseLayer
+    7400284: Bedside_table_blat003|Hospital_bed_matress001|Take 001|BaseLayer
+    7400286: Bedside_table_blat003|Hospital_bed_pedal064|Take 001|BaseLayer
+    7400288: Bedside_table_blat003|Hospital_bed_pedal065|Take 001|BaseLayer
+    7400290: Bedside_table_blat003|Hospital_bed_pedal066|Take 001|BaseLayer
+    7400292: Bedside_table_blat003|Hospital_bed_pedal067|Take 001|BaseLayer
+    7400294: Bedside_table_blat003|Hospital_bed_pedal068|Take 001|BaseLayer
+    7400296: Bedside_table_blat003|Hospital_bed_pedal069|Take 001|BaseLayer
+    7400298: Bedside_table_blat003|Hospital_bed_pedal070|Take 001|BaseLayer
+    7400300: Bedside_table_blat003|Hospital_bed_pedal2a001|Take 001|BaseLayer
+    7400302: Bedside_table_blat003|Hospital_bed_Pedal_support003|Take 001|BaseLayer
+    7400304: Bedside_table_blat003|Hospital_bed_Pedal_support004|Take 001|BaseLayer
+    7400306: Bedside_table_blat003|Hospital_bed_Pedal_support_detail005|Take 001|BaseLayer
+    7400308: Bedside_table_blat003|Hospital_bed_Pedal_support_detail006|Take 001|BaseLayer
+    7400310: Bedside_table_blat003|Hospital_bed_Pedal_support_detail007|Take 001|BaseLayer
+    7400312: Bedside_table_blat003|Hospital_bed_Pedal_support_detail008|Take 001|BaseLayer
+    7400314: Bedside_table_blat003|Hospital_bed_pedals001|Take 001|BaseLayer
+    7400316: Bedside_table_blat003|Hospital_bed_piston006|Take 001|BaseLayer
+    7400318: Bedside_table_blat003|Hospital_bed_piston007|Take 001|BaseLayer
+    7400320: Bedside_table_blat003|Hospital_bed_piston008|Take 001|BaseLayer
+    7400322: Bedside_table_blat003|Hospital_bed_piston009|Take 001|BaseLayer
+    7400324: Bedside_table_blat003|Hospital_bed_piston010|Take 001|BaseLayer
+    7400326: Bedside_table_blat003|Hospital_bed_piston011|Take 001|BaseLayer
+    7400328: Bedside_table_blat003|hospital_bed_piston_cap030|Take 001|BaseLayer
+    7400330: Bedside_table_blat003|hospital_bed_piston_cap031|Take 001|BaseLayer
+    7400332: Bedside_table_blat003|hospital_bed_piston_cap032|Take 001|BaseLayer
+    7400334: Bedside_table_blat003|hospital_bed_piston_cap033|Take 001|BaseLayer
+    7400336: Bedside_table_blat003|hospital_bed_piston_cap034|Take 001|BaseLayer
+    7400338: Bedside_table_blat003|hospital_bed_piston_cap035|Take 001|BaseLayer
+    7400340: Bedside_table_blat003|hospital_bed_piston_cap036|Take 001|BaseLayer
+    7400342: Bedside_table_blat003|hospital_bed_piston_cap037|Take 001|BaseLayer
+    7400344: Bedside_table_blat003|hospital_bed_piston_cap038|Take 001|BaseLayer
+    7400346: Bedside_table_blat003|hospital_bed_piston_cap039|Take 001|BaseLayer
+    7400348: Bedside_table_blat003|hospital_bed_piston_cap040|Take 001|BaseLayer
+    7400350: Bedside_table_blat003|hospital_bed_piston_cap041|Take 001|BaseLayer
+    7400352: Bedside_table_blat003|hospital_bed_piston_cap042|Take 001|BaseLayer
+    7400354: Bedside_table_blat003|hospital_bed_piston_cap043|Take 001|BaseLayer
+    7400356: Bedside_table_blat003|hospital_bed_piston_cap044|Take 001|BaseLayer
+    7400358: Bedside_table_blat003|hospital_bed_piston_cap045|Take 001|BaseLayer
+    7400360: Bedside_table_blat003|hospital_bed_piston_cap046|Take 001|BaseLayer
+    7400362: Bedside_table_blat003|hospital_bed_piston_cap047|Take 001|BaseLayer
+    7400364: Bedside_table_blat003|hospital_bed_piston_cap048|Take 001|BaseLayer
+    7400366: Bedside_table_blat003|hospital_bed_piston_cap049|Take 001|BaseLayer
+    7400368: Bedside_table_blat003|hospital_bed_piston_cap050|Take 001|BaseLayer
+    7400370: Bedside_table_blat003|hospital_bed_piston_cap051|Take 001|BaseLayer
+    7400372: Bedside_table_blat003|hospital_bed_piston_cap052|Take 001|BaseLayer
+    7400374: Bedside_table_blat003|hospital_bed_piston_cap053|Take 001|BaseLayer
+    7400376: Bedside_table_blat003|hospital_bed_piston_cap054|Take 001|BaseLayer
+    7400378: Bedside_table_blat003|hospital_bed_piston_cap055|Take 001|BaseLayer
+    7400380: Bedside_table_blat003|hospital_bed_piston_cap056|Take 001|BaseLayer
+    7400382: Bedside_table_blat003|hospital_bed_piston_cap057|Take 001|BaseLayer
+    7400384: Bedside_table_blat003|hospital_bed_piston_cap058|Take 001|BaseLayer
+    7400386: Bedside_table_blat003|hospital_bed_piston_cap059|Take 001|BaseLayer
+    7400388: Bedside_table_blat003|Hospital_bed_pistons002|Take 001|BaseLayer
+    7400390: Bedside_table_blat003|Hospital_bed_pistons2a001|Take 001|BaseLayer
+    7400392: Bedside_table_blat003|Hospital_bed_pole003|Take 001|BaseLayer
+    7400394: Bedside_table_blat003|Hospital_bed_pole004|Take 001|BaseLayer
+    7400396: Bedside_table_blat003|Hospital_bed_pole005|Take 001|BaseLayer
+    7400398: Bedside_table_blat003|Hospital_bed_pole_support006|Take 001|BaseLayer
+    7400400: Bedside_table_blat003|Hospital_bed_pole_support007|Take 001|BaseLayer
+    7400402: Bedside_table_blat003|Hospital_bed_pole_support008|Take 001|BaseLayer
+    7400404: Bedside_table_blat003|Hospital_bed_pole_support009|Take 001|BaseLayer
+    7400406: Bedside_table_blat003|Hospital_bed_pole_support010|Take 001|BaseLayer
+    7400408: Bedside_table_blat003|Hospital_bed_pole_support011|Take 001|BaseLayer
+    7400410: Bedside_table_blat003|Hospital_bed_side_caps013|Take 001|BaseLayer
+    7400412: Bedside_table_blat003|Hospital_bed_side_caps014|Take 001|BaseLayer
+    7400414: Bedside_table_blat003|Hospital_bed_side_caps015|Take 001|BaseLayer
+    7400416: Bedside_table_blat003|Hospital_bed_side_caps016|Take 001|BaseLayer
+    7400418: Bedside_table_blat003|Hospital_bed_side_caps017|Take 001|BaseLayer
+    7400420: Bedside_table_blat003|Hospital_bed_side_caps018|Take 001|BaseLayer
+    7400422: Bedside_table_blat003|Hospital_bed_side_caps019|Take 001|BaseLayer
+    7400424: Bedside_table_blat003|Hospital_bed_side_caps020|Take 001|BaseLayer
+    7400426: Bedside_table_blat003|Hospital_bed_side_caps021|Take 001|BaseLayer
+    7400428: Bedside_table_blat003|Hospital_bed_side_caps022|Take 001|BaseLayer
+    7400430: Bedside_table_blat003|Hospital_bed_side_caps023|Take 001|BaseLayer
+    7400432: Bedside_table_blat003|Hospital_bed_side_caps024|Take 001|BaseLayer
+    7400434: Bedside_table_blat003|Hospital_bed_side_caps025|Take 001|BaseLayer
+    7400436: Bedside_table_blat003|Hospital_bed_side_hinge008|Take 001|BaseLayer
+    7400438: Bedside_table_blat003|Hospital_bed_side_hinge009|Take 001|BaseLayer
+    7400440: Bedside_table_blat003|Hospital_bed_side_hinge010|Take 001|BaseLayer
+    7400442: Bedside_table_blat003|Hospital_bed_side_hinge011|Take 001|BaseLayer
+    7400444: Bedside_table_blat003|Hospital_bed_side_hinge012|Take 001|BaseLayer
+    7400446: Bedside_table_blat003|Hospital_bed_side_hinge013|Take 001|BaseLayer
+    7400448: Bedside_table_blat003|Hospital_bed_side_hinge03_cap004|Take 001|BaseLayer
+    7400450: Bedside_table_blat003|Hospital_bed_side_hinge03_cap005|Take 001|BaseLayer
+    7400452: Bedside_table_blat003|hospital_bed_side_panel_hinge004|Take 001|BaseLayer
+    7400454: Bedside_table_blat003|hospital_bed_side_panel_hinge005|Take 001|BaseLayer
+    7400456: Bedside_table_blat003|hospital_bed_side_panel_hinge006|Take 001|BaseLayer
+    7400458: Bedside_table_blat003|hospital_bed_side_panel_hinge007|Take 001|BaseLayer
+    7400460: Bedside_table_blat003|Hospital_bed_sidepanel003|Take 001|BaseLayer
+    7400462: Bedside_table_blat003|Hospital_bed_sidepanel004|Take 001|BaseLayer
+    7400464: Bedside_table_blat003|Hospital_bed_sides001|Take 001|BaseLayer
+    7400466: Bedside_table_blat003|Hospital_bed_wheel004|Take 001|BaseLayer
+    7400468: Bedside_table_blat003|Hospital_bed_wheel005|Take 001|BaseLayer
+    7400470: Bedside_table_blat003|Hospital_bed_wheel006|Take 001|BaseLayer
+    7400472: Bedside_table_blat003|Hospital_bed_wheel007|Take 001|BaseLayer
+    7400474: Bedside_table_blat003|Hospital_bedIV_pole_support007|Take 001|BaseLayer
+    7400476: Bedside_table_blat003|liquid003|Take 001|BaseLayer
+    7400478: Bedside_table_blat003|liquid004|Take 001|BaseLayer
+    7400480: Bedside_table_blat003|medicine bottle 01 cap035|Take 001|BaseLayer
+    7400482: Bedside_table_blat003|medicine bottle 01 cap036|Take 001|BaseLayer
+    7400484: Bedside_table_blat003|medicine bottle 01 cap037|Take 001|BaseLayer
+    7400486: Bedside_table_blat003|medicine bottle 02_ut002|Take 001|BaseLayer
+    7400488: Bedside_table_blat003|medicine bottle 037|Take 001|BaseLayer
+    7400490: Bedside_table_blat003|medicine bottle 03_v002|Take 001|BaseLayer
+    7400492: Bedside_table_blat003|medicine box051|Take 001|BaseLayer
+    7400494: Bedside_table_blat003|Object4474|Take 001|BaseLayer
+    7400496: Bedside_table_blat003|Object4474|Take 001|BaseLayer.001
+    7400498: Bedside_table_blat003|Object4475|Take 001|BaseLayer
+    7400500: Bedside_table_blat003|Object4475|Take 001|BaseLayer.001
+    7400502: Bedside_table_blat003|Object4476|Take 001|BaseLayer
+    7400504: Bedside_table_blat003|Object4476|Take 001|BaseLayer.001
+    7400506: Bedside_table_blat003|Object4477|Take 001|BaseLayer
+    7400508: Bedside_table_blat003|Object4477|Take 001|BaseLayer.001
+    7400510: Bedside_table_blat003|Object4478|Take 001|BaseLayer
+    7400512: Bedside_table_blat003|Object4478|Take 001|BaseLayer.001
+    7400514: Bedside_table_blat003|padding_hospital_bed_panels004|Take 001|BaseLayer
+    7400516: Bedside_table_blat003|padding_hospital_bed_panels005|Take 001|BaseLayer
+    7400518: Bedside_table_blat003|pillow001|Take 001|BaseLayer
+    7400520: Bedside_table_blat003|roata045|Take 001|BaseLayer
+    7400522: Bedside_table_blat003|roata045|Take 001|BaseLayer.001
+    7400524: Bedside_table_blat003|roata046|Take 001|BaseLayer
+    7400526: Bedside_table_blat003|roata046|Take 001|BaseLayer.001
+    7400528: Bedside_table_blat003|roata047|Take 001|BaseLayer
+    7400530: Bedside_table_blat003|roata047|Take 001|BaseLayer.001
+    7400532: Bedside_table_blat003|roata048|Take 001|BaseLayer
+    7400534: Bedside_table_blat003|roata048|Take 001|BaseLayer.001
+    7400536: Bedside_table_blat003|roata049|Take 001|BaseLayer
+    7400538: Bedside_table_blat003|roata049|Take 001|BaseLayer.001
+    7400540: Bedside_table_blat003|Rubber_bumper016|Take 001|BaseLayer
+    7400542: Bedside_table_blat003|Rubber_bumper017|Take 001|BaseLayer
+    7400544: Bedside_table_blat003|Rubber_bumper018|Take 001|BaseLayer
+    7400546: Bedside_table_blat003|Rubber_bumper019|Take 001|BaseLayer
+    7400548: Bedside_table_blat003|Rubber_bumper020|Take 001|BaseLayer
+    7400550: Bedside_table_blat003|Rubber_bumper021|Take 001|BaseLayer
+    7400552: Bedside_table_blat003|Rubber_bumper022|Take 001|BaseLayer
+    7400554: Bedside_table_blat003|Rubber_bumper023|Take 001|BaseLayer
+    7400556: Bedside_table_blat003|Rubber_bumper024|Take 001|BaseLayer
+    7400558: Bedside_table_blat003|Rubber_bumper_support008|Take 001|BaseLayer
+    7400560: Bedside_table_blat003|Rubber_bumper_support009|Take 001|BaseLayer
+    7400562: Bedside_table_blat003|Rubber_bumper_support010|Take 001|BaseLayer
+    7400564: Bedside_table_blat003|Rubber_bumper_support011|Take 001|BaseLayer
+    7400566: Bedside_table_blat003|Rubber_bumper_support012|Take 001|BaseLayer
+    7400568: Bedside_table_blat003|Sanitizer003|Take 001|BaseLayer
+    7400570: Bedside_table_blat003|Sanitizer004|Take 001|BaseLayer
+    7400572: Bedside_table_blat003|side panel controls_head_002|Take 001|BaseLayer
+    7400574: Bedside_table_blat003|side panel controls_head_003|Take 001|BaseLayer
+    7400576: Bedside_table_blat003|side panel_head002|Take 001|BaseLayer
+    7400578: Bedside_table_blat003|side panel_head003|Take 001|BaseLayer
+    7400580: Bedside_table_blat003|side_panel_cap005|Take 001|BaseLayer
+    7400582: Bedside_table_blat003|side_panel_cap006|Take 001|BaseLayer
+    7400584: Bedside_table_blat003|side_panel_cap007|Take 001|BaseLayer
+    7400586: Bedside_table_blat003|side_panel_cap008|Take 001|BaseLayer
+    7400588: Bedside_table_blat003|Ventilator_wheel005|Take 001|BaseLayer
+    7400590: Bedside_table_blat003|walls|Take 001|BaseLayer
+    7400592: Bedside_table_blat003|wheel044|Take 001|BaseLayer
+    7400594: Bedside_table_blat003|wheel045|Take 001|BaseLayer
+    7400596: Bedside_table_blat003|Wheel_arm010|Take 001|BaseLayer
+    7400598: Bedside_table_blat003|wheel_ax009|Take 001|BaseLayer
+    7400600: Bedside_table_blat003|Wheel_Hospital_axys_wheel053|Take 001|BaseLayer
+    7400602: Bedside_table_blat003|Wheel_Hospital_axys_wheel054|Take 001|BaseLayer
+    7400604: Bedside_table_blat003|Wheel_Hospital_axys_wheel055|Take 001|BaseLayer
+    7400606: Bedside_table_blat003|Wheel_Hospital_axys_wheel056|Take 001|BaseLayer
+    7400608: Bedside_table_blat003|Wheel_Hospital_axys_wheel057|Take 001|BaseLayer
+    7400610: Bedside_table_blat003|Wheel_Hospital_axys_wheel058|Take 001|BaseLayer
+    7400612: Bedside_table_blat003|Wheel_Hospital_axys_wheel059|Take 001|BaseLayer
+    7400614: Bedside_table_blat003|Wheel_Hospital_axys_wheel060|Take 001|BaseLayer
+    7400616: Bedside_table_blat003|Wheel_Hospital_bed118|Take 001|BaseLayer
+    7400618: Bedside_table_blat003|Wheel_Hospital_bed119|Take 001|BaseLayer
+    7400620: Bedside_table_blat003|Wheel_Hospital_bed120|Take 001|BaseLayer
+    7400622: Bedside_table_blat003|Wheel_Hospital_bed121|Take 001|BaseLayer
+    7400624: Bedside_table_blat003|Wheel_Hospital_bed122|Take 001|BaseLayer
+    7400626: Bedside_table_blat003|Wheel_Hospital_bed123|Take 001|BaseLayer
+    7400628: Bedside_table_blat003|Wheel_Hospital_bed124|Take 001|BaseLayer
+    7400630: Bedside_table_blat003|Wheel_Hospital_bed125|Take 001|BaseLayer
+    7400632: Bedside_table_blat003|Wheel_Hospital_bed126|Take 001|BaseLayer
+    7400634: Bedside_table_blat003|Wheel_Hospital_bed127|Take 001|BaseLayer
+    7400636: Bedside_table_blat003|Wheel_Hospital_bed128|Take 001|BaseLayer
+    7400638: Bedside_table_blat003|Wheel_Hospital_bed129|Take 001|BaseLayer
+    7400640: Bedside_table_blat003|Wheel_Hospital_bed130|Take 001|BaseLayer
+    7400642: Bedside_table_blat003|Wheel_Hospital_bed131|Take 001|BaseLayer
+    7400644: Bedside_table_blat003|Wheel_Hospital_bed132|Take 001|BaseLayer
+    7400646: Bedside_table_blat003|Wheel_Hospital_bed133|Take 001|BaseLayer
+    7400648: Bedside_table_blat003|Wheel_Hospital_bed_cap116|Take 001|BaseLayer
+    7400650: Bedside_table_blat003|Wheel_Hospital_bed_cap117|Take 001|BaseLayer
+    7400652: Bedside_table_blat003|Wheel_Hospital_bed_cap118|Take 001|BaseLayer
+    7400654: Bedside_table_blat003|Wheel_Hospital_bed_cap119|Take 001|BaseLayer
+    7400656: Bedside_table_blat003|Wheel_Hospital_bed_cap120|Take 001|BaseLayer
+    7400658: Bedside_table_blat003|Wheel_Hospital_bed_cap121|Take 001|BaseLayer
+    7400660: Bedside_table_blat003|Wheel_Hospital_bed_cap122|Take 001|BaseLayer
+    7400662: Bedside_table_blat003|Wheel_Hospital_bed_cap123|Take 001|BaseLayer
+    7400664: Bedside_table_blat003|Wheel_Hospital_bed_cap124|Take 001|BaseLayer
+    7400666: Bedside_table_blat003|Wheel_Hospital_bed_cap125|Take 001|BaseLayer
+    7400668: Bedside_table_blat003|Wheel_Hospital_bed_cap126|Take 001|BaseLayer
+    7400670: Bedside_table_blat003|Wheel_Hospital_bed_cap127|Take 001|BaseLayer
+    7400672: Bedside_table_blat003|Wheel_Hospital_bed_cap128|Take 001|BaseLayer
+    7400674: Bedside_table_blat003|Wheel_Hospital_bed_cap129|Take 001|BaseLayer
+    7400676: Bedside_table_blat003|Wheel_Hospital_bed_cap130|Take 001|BaseLayer
+    7400678: Bedside_table_blat003|Wheel_Hospital_bed_cap131|Take 001|BaseLayer
+    7400680: Bedside_table_blat003|Wheel_Hospital_bed_cap132|Take 001|BaseLayer
+    7400682: Bedside_table_blat003|Wheel_Hospital_bed_case053|Take 001|BaseLayer
+    7400684: Bedside_table_blat003|Wheel_Hospital_bed_case054|Take 001|BaseLayer
+    7400686: Bedside_table_blat003|Wheel_Hospital_bed_case055|Take 001|BaseLayer
+    7400688: Bedside_table_blat003|Wheel_Hospital_bed_case056|Take 001|BaseLayer
+    7400690: Bedside_table_blat003|Wheel_Hospital_bed_case057|Take 001|BaseLayer
+    7400692: Bedside_table_blat003|Wheel_Hospital_bed_case058|Take 001|BaseLayer
+    7400694: Bedside_table_blat003|Wheel_Hospital_bed_case059|Take 001|BaseLayer
+    7400696: Bedside_table_blat003|Wheel_Hospital_bed_case060|Take 001|BaseLayer
+    7400698: Bedside_table_blat003|wheel_rubber008|Take 001|BaseLayer
+    7400700: Bedside_table_blat003|wheelCenterPivot005|Take 001|BaseLayer
+    7400702: Bedside_table_blat003|wooden floor|Take 001|BaseLayer
+    7400704: Bedside_table_blat003|wooden floor|Take 001|BaseLayer.001
+    7400706: Bedside_table_blat003|Back_display_detail001|Take 001|BaseLayer
+    7400708: Bedside_table_blat003|Blue_light001|Take 001|BaseLayer
+    7400710: Bedside_table_blat003|bolt424|Take 001|BaseLayer
+    7400712: Bedside_table_blat003|bolt425|Take 001|BaseLayer
+    7400714: Bedside_table_blat003|bolt426|Take 001|BaseLayer
+    7400716: Bedside_table_blat003|bolt427|Take 001|BaseLayer
+    7400718: Bedside_table_blat003|bolt431|Take 001|BaseLayer
+    7400720: Bedside_table_blat003|bolt443|Take 001|BaseLayer
+    7400722: Bedside_table_blat003|bolt444|Take 001|BaseLayer
+    7400724: Bedside_table_blat003|bolt445|Take 001|BaseLayer
+    7400726: Bedside_table_blat003|bolt446|Take 001|BaseLayer
+    7400728: Bedside_table_blat003|bolt447|Take 001|BaseLayer
+    7400730: Bedside_table_blat003|bolt448|Take 001|BaseLayer
+    7400732: Bedside_table_blat003|bolt449|Take 001|BaseLayer
+    7400734: Bedside_table_blat003|bolt450|Take 001|BaseLayer
+    7400736: Bedside_table_blat003|bolt451|Take 001|BaseLayer
+    7400738: Bedside_table_blat003|bolt452|Take 001|BaseLayer
+    7400740: Bedside_table_blat003|bolt453|Take 001|BaseLayer
+    7400742: Bedside_table_blat003|bolt454|Take 001|BaseLayer
+    7400744: Bedside_table_blat003|bolt455|Take 001|BaseLayer
+    7400746: Bedside_table_blat003|bolt456|Take 001|BaseLayer
+    7400748: Bedside_table_blat003|bolt457|Take 001|BaseLayer
+    7400750: Bedside_table_blat003|bolt458|Take 001|BaseLayer
+    7400752: Bedside_table_blat003|bolt459|Take 001|BaseLayer
+    7400754: Bedside_table_blat003|bolt460|Take 001|BaseLayer
+    7400756: Bedside_table_blat003|bolt461|Take 001|BaseLayer
+    7400758: Bedside_table_blat003|bolt462|Take 001|BaseLayer
+    7400760: Bedside_table_blat003|bolt463|Take 001|BaseLayer
+    7400762: Bedside_table_blat003|bolt464|Take 001|BaseLayer
+    7400764: Bedside_table_blat003|bolt465|Take 001|BaseLayer
+    7400766: Bedside_table_blat003|bolt466|Take 001|BaseLayer
+    7400768: Bedside_table_blat003|bolt467|Take 001|BaseLayer
+    7400770: Bedside_table_blat003|bolt468|Take 001|BaseLayer
+    7400772: Bedside_table_blat003|bolt469|Take 001|BaseLayer
+    7400774: Bedside_table_blat003|bolt470|Take 001|BaseLayer
+    7400776: Bedside_table_blat003|bolt471|Take 001|BaseLayer
+    7400778: Bedside_table_blat003|bolt472|Take 001|BaseLayer
+    7400780: Bedside_table_blat003|bolt473|Take 001|BaseLayer
+    7400782: Bedside_table_blat003|bolt474|Take 001|BaseLayer
+    7400784: Bedside_table_blat003|bolt475|Take 001|BaseLayer
+    7400786: Bedside_table_blat003|bolt476|Take 001|BaseLayer
+    7400788: Bedside_table_blat003|bolt477|Take 001|BaseLayer
+    7400790: Bedside_table_blat003|bolt478|Take 001|BaseLayer
+    7400792: Bedside_table_blat003|bolt479|Take 001|BaseLayer
+    7400794: Bedside_table_blat003|bolt480|Take 001|BaseLayer
+    7400796: Bedside_table_blat003|bolt481|Take 001|BaseLayer
+    7400798: Bedside_table_blat003|bolt482|Take 001|BaseLayer
+    7400800: Bedside_table_blat003|bolt483|Take 001|BaseLayer
+    7400802: Bedside_table_blat003|bolt484|Take 001|BaseLayer
+    7400804: Bedside_table_blat003|bolt485|Take 001|BaseLayer
+    7400806: Bedside_table_blat003|bolt486|Take 001|BaseLayer
+    7400808: Bedside_table_blat003|bolt487|Take 001|BaseLayer
+    7400810: Bedside_table_blat003|bolt488|Take 001|BaseLayer
+    7400812: Bedside_table_blat003|bolt489|Take 001|BaseLayer
+    7400814: Bedside_table_blat003|bolt490|Take 001|BaseLayer
+    7400816: Bedside_table_blat003|bolt491|Take 001|BaseLayer
+    7400818: Bedside_table_blat003|bolt492|Take 001|BaseLayer
+    7400820: Bedside_table_blat003|bolt493|Take 001|BaseLayer
+    7400822: Bedside_table_blat003|bolt494|Take 001|BaseLayer
+    7400824: Bedside_table_blat003|bolt496|Take 001|BaseLayer
+    7400826: Bedside_table_blat003|bolt497|Take 001|BaseLayer
+    7400828: Bedside_table_blat003|bolt498|Take 001|BaseLayer
+    7400830: Bedside_table_blat003|bolt499|Take 001|BaseLayer
+    7400832: Bedside_table_blat003|bolt500|Take 001|BaseLayer
+    7400834: Bedside_table_blat003|bolt501|Take 001|BaseLayer
+    7400836: Bedside_table_blat003|bolt502|Take 001|BaseLayer
+    7400838: Bedside_table_blat003|bolt503|Take 001|BaseLayer.001
+    7400840: Bedside_table_blat003|bolt504|Take 001|BaseLayer.001
+    7400842: Bedside_table_blat003|bolt505|Take 001|BaseLayer.001
+    7400844: Bedside_table_blat003|bolt506|Take 001|BaseLayer.001
+    7400846: Bedside_table_blat003|bolt507|Take 001|BaseLayer
+    7400848: Bedside_table_blat003|bolt508|Take 001|BaseLayer
+    7400850: Bedside_table_blat003|bolt509|Take 001|BaseLayer
+    7400852: Bedside_table_blat003|bolt510|Take 001|BaseLayer
+    7400854: Bedside_table_blat003|bolt511|Take 001|BaseLayer
+    7400856: Bedside_table_blat003|bolt512|Take 001|BaseLayer
+    7400858: Bedside_table_blat003|bolt513|Take 001|BaseLayer
+    7400860: Bedside_table_blat003|bolt514|Take 001|BaseLayer
+    7400862: Bedside_table_blat003|bolt515|Take 001|BaseLayer
+    7400864: Bedside_table_blat003|bolt516|Take 001|BaseLayer
+    7400866: Bedside_table_blat003|bolt517|Take 001|BaseLayer
+    7400868: Bedside_table_blat003|bolt518|Take 001|BaseLayer
+    7400870: Bedside_table_blat003|boom segment 009|Take 001|BaseLayer
+    7400872: Bedside_table_blat003|boom segment 010|Take 001|BaseLayer
+    7400874: Bedside_table_blat003|boom segment 011|Take 001|BaseLayer
+    7400876: Bedside_table_blat003|BoomArm001|Take 001|BaseLayer
+    7400878: Bedside_table_blat003|BoomMonitor002|Take 001|BaseLayer
+    7400880: Bedside_table_blat003|cable005|Take 001|BaseLayer
+    7400882: Bedside_table_blat003|cable006|Take 001|BaseLayer
+    7400884: Bedside_table_blat003|cable007|Take 001|BaseLayer
+    7400886: Bedside_table_blat003|cable008|Take 001|BaseLayer
+    7400888: Bedside_table_blat003|cable009|Take 001|BaseLayer
+    7400890: Bedside_table_blat003|card slot001|Take 001|BaseLayer
+    7400892: Bedside_table_blat003|Clay_Paky_case001|Take 001|BaseLayer
+    7400894: Bedside_table_blat003|Control_button001|Take 001|BaseLayer
+    7400896: Bedside_table_blat003|cooler001|Take 001|BaseLayer
+    7400898: Bedside_table_blat003|Cooler_fan002|Take 001|BaseLayer
+    7400900: Bedside_table_blat003|Cooler_propeller012|Take 001|BaseLayer
+    7400902: Bedside_table_blat003|Cooler_propeller013|Take 001|BaseLayer
+    7400904: Bedside_table_blat003|Cooler_propeller014|Take 001|BaseLayer
+    7400906: Bedside_table_blat003|Cooler_propeller015|Take 001|BaseLayer
+    7400908: Bedside_table_blat003|Cooler_propeller016|Take 001|BaseLayer
+    7400910: Bedside_table_blat003|Cooler_propeller017|Take 001|BaseLayer
+    7400912: Bedside_table_blat003|Cylinder4509|Take 001|BaseLayer
+    7400914: Bedside_table_blat003|Display_body001|Take 001|BaseLayer
+    7400916: Bedside_table_blat003|equipement carrier handle002|Take 001|BaseLayer
+    7400918: Bedside_table_blat003|equipment carrier body001|Take 001|BaseLayer
+    7400920: Bedside_table_blat003|equipment_carrier_shelf005|Take 001|BaseLayer
+    7400922: Bedside_table_blat003|equipment_carrier_shelf006|Take 001|BaseLayer
+    7400924: Bedside_table_blat003|equipment_carrier_shelf007|Take 001|BaseLayer
+    7400926: Bedside_table_blat003|equipment_carrier_shelf008|Take 001|BaseLayer
+    7400928: Bedside_table_blat003|humidifier001|Take 001|BaseLayer
+    7400930: Bedside_table_blat003|insuflation tube040|Take 001|BaseLayer
+    7400932: Bedside_table_blat003|insuflation tube041|Take 001|BaseLayer
+    7400934: Bedside_table_blat003|insuflation tube042|Take 001|BaseLayer
+    7400936: Bedside_table_blat003|insuflation tube043|Take 001|BaseLayer
+    7400938: Bedside_table_blat003|insuflation tube044|Take 001|BaseLayer
+    7400940: Bedside_table_blat003|insuflation tube045|Take 001|BaseLayer
+    7400942: Bedside_table_blat003|insuflation tube046|Take 001|BaseLayer
+    7400944: Bedside_table_blat003|insuflation tube047|Take 001|BaseLayer
+    7400946: Bedside_table_blat003|insuflation tube049|Take 001|BaseLayer
+    7400948: Bedside_table_blat003|insuflation tube050|Take 001|BaseLayer
+    7400950: Bedside_table_blat003|insuflation tube051|Take 001|BaseLayer
+    7400952: Bedside_table_blat003|insuflation tube052|Take 001|BaseLayer
+    7400954: Bedside_table_blat003|insuflation tube053|Take 001|BaseLayer
+    7400956: Bedside_table_blat003|insuflation tube054|Take 001|BaseLayer
+    7400958: Bedside_table_blat003|insuflation tube055|Take 001|BaseLayer
+    7400960: Bedside_table_blat003|insuflation tube056|Take 001|BaseLayer
+    7400962: Bedside_table_blat003|insuflation tube057|Take 001|BaseLayer
+    7400964: Bedside_table_blat003|insuflation tube058|Take 001|BaseLayer
+    7400966: Bedside_table_blat003|insuflation tube059|Take 001|BaseLayer
+    7400968: Bedside_table_blat003|insuflation tube060|Take 001|BaseLayer
+    7400970: Bedside_table_blat003|insuflation tube061|Take 001|BaseLayer
+    7400972: Bedside_table_blat003|insuflation tube062|Take 001|BaseLayer
+    7400974: Bedside_table_blat003|insuflation tube063|Take 001|BaseLayer
+    7400976: Bedside_table_blat003|insuflation tube064|Take 001|BaseLayer
+    7400978: Bedside_table_blat003|insuflation tube065|Take 001|BaseLayer
+    7400980: Bedside_table_blat003|insuflation tube066|Take 001|BaseLayer
+    7400982: Bedside_table_blat003|insuflation tube067|Take 001|BaseLayer
+    7400984: Bedside_table_blat003|insuflation tube068|Take 001|BaseLayer
+    7400986: Bedside_table_blat003|Line033|Take 001|BaseLayer
+    7400988: Bedside_table_blat003|Locker_tray001|Take 001|BaseLayer
+    7400990: Bedside_table_blat003|medical device 01back005|Take 001|BaseLayer
+    7400992: Bedside_table_blat003|medical device 01back006|Take 001|BaseLayer
+    7400994: Bedside_table_blat003|medical device 01back007|Take 001|BaseLayer
+    7400996: Bedside_table_blat003|medical device 01back008|Take 001|BaseLayer
+    7400998: Bedside_table_blat003|medical device 01body015|Take 001|BaseLayer
+    7401000: Bedside_table_blat003|medical device 01body016|Take 001|BaseLayer
+    7401002: Bedside_table_blat003|medical device 01body017|Take 001|BaseLayer
+    7401004: Bedside_table_blat003|medical device 01body018|Take 001|BaseLayer
+    7401006: Bedside_table_blat003|medical device 01body019|Take 001|BaseLayer
+    7401008: Bedside_table_blat003|medical device 01front002|Take 001|BaseLayer
+    7401010: Bedside_table_blat003|medical device 01front003|Take 001|BaseLayer
+    7401012: Bedside_table_blat003|medical device 02front004|Take 001|BaseLayer
+    7401014: Bedside_table_blat003|medical device 02front005|Take 001|BaseLayer
+    7401016: Bedside_table_blat003|medical device side016|Take 001|BaseLayer
+    7401018: Bedside_table_blat003|medical device side017|Take 001|BaseLayer
+    7401020: Bedside_table_blat003|medical device side018|Take 001|BaseLayer
+    7401022: Bedside_table_blat003|medical device side019|Take 001|BaseLayer
+    7401024: Bedside_table_blat003|medical device side020|Take 001|BaseLayer
+    7401026: Bedside_table_blat003|medical device side021|Take 001|BaseLayer
+    7401028: Bedside_table_blat003|medical device side022|Take 001|BaseLayer
+    7401030: Bedside_table_blat003|medical device side023|Take 001|BaseLayer
+    7401032: Bedside_table_blat003|medical devices001|Take 001|BaseLayer
+    7401034: Bedside_table_blat003|medical_device005|Take 001|BaseLayer
+    7401036: Bedside_table_blat003|medical_device006|Take 001|BaseLayer
+    7401038: Bedside_table_blat003|medical_device007|Take 001|BaseLayer
+    7401040: Bedside_table_blat003|medical_device008|Take 001|BaseLayer
+    7401042: Bedside_table_blat003|metal ring 004|Take 001|BaseLayer
+    7401044: Bedside_table_blat003|metal ring 005|Take 001|BaseLayer
+    7401046: Bedside_table_blat003|metal ring 006|Take 001|BaseLayer
+    7401048: Bedside_table_blat003|Mobile_trolley001|Take 001|BaseLayer
+    7401050: Bedside_table_blat003|monitor joint 003|Take 001|BaseLayer
+    7401052: Bedside_table_blat003|monitor joint 004|Take 001|BaseLayer
+    7401054: Bedside_table_blat003|monitor joint019|Take 001|BaseLayer
+    7401056: Bedside_table_blat003|monitor screen002|Take 001|BaseLayer
+    7401058: Bedside_table_blat003|monitor01_body007|Take 001|BaseLayer
+    7401060: Bedside_table_blat003|Monitor_ax002|Take 001|BaseLayer
+    7401062: Bedside_table_blat003|monitorARM002|Take 001|BaseLayer
+    7401064: Bedside_table_blat003|mufa albastra017|Take 001|BaseLayer
+    7401066: Bedside_table_blat003|mufa albastra018|Take 001|BaseLayer
+    7401068: Bedside_table_blat003|mufa albastra019|Take 001|BaseLayer
+    7401070: Bedside_table_blat003|mufaalbastra013|Take 001|BaseLayer
+    7401072: Bedside_table_blat003|mufaalbastra014|Take 001|BaseLayer
+    7401074: Bedside_table_blat003|mufaalbastra015|Take 001|BaseLayer
+    7401076: Bedside_table_blat003|mufaalbastra016|Take 001|BaseLayer
+    7401078: Bedside_table_blat003|mufaalbastra017|Take 001|BaseLayer
+    7401080: Bedside_table_blat003|mufaalbastra018|Take 001|BaseLayer
+    7401082: Bedside_table_blat003|mufaalbastra019|Take 001|BaseLayer
+    7401084: Bedside_table_blat003|mufaalbastra020|Take 001|BaseLayer
+    7401086: Bedside_table_blat003|mufaalbastra021|Take 001|BaseLayer
+    7401088: Bedside_table_blat003|mufaalbastra022|Take 001|BaseLayer
+    7401090: Bedside_table_blat003|Object4468|Take 001|BaseLayer
+    7401092: Bedside_table_blat003|Object4469|Take 001|BaseLayer
+    7401094: Bedside_table_blat003|Object4470|Take 001|BaseLayer
+    7401096: Bedside_table_blat003|Object4471|Take 001|BaseLayer
+    7401098: Bedside_table_blat003|Object4472|Take 001|BaseLayer
+    7401100: Bedside_table_blat003|Object4473|Take 001|BaseLayer
+    7401102: Bedside_table_blat003|off button device002|Take 001|BaseLayer
+    7401104: Bedside_table_blat003|off button008|Take 001|BaseLayer
+    7401106: Bedside_table_blat003|off button009|Take 001|BaseLayer
+    7401108: Bedside_table_blat003|off button010|Take 001|BaseLayer
+    7401110: Bedside_table_blat003|on button device002|Take 001|BaseLayer
+    7401112: Bedside_table_blat003|on button008|Take 001|BaseLayer
+    7401114: Bedside_table_blat003|on button009|Take 001|BaseLayer
+    7401116: Bedside_table_blat003|on button010|Take 001|BaseLayer
+    7401118: Bedside_table_blat003|on/off button008|Take 001|BaseLayer
+    7401120: Bedside_table_blat003|on/off button009|Take 001|BaseLayer
+    7401122: Bedside_table_blat003|on/off button010|Take 001|BaseLayer
+    7401124: Bedside_table_blat003|plugg socket044|Take 001|BaseLayer
+    7401126: Bedside_table_blat003|plugg socket045|Take 001|BaseLayer
+    7401128: Bedside_table_blat003|plugg socket049|Take 001|BaseLayer
+    7401130: Bedside_table_blat003|plugg socket050|Take 001|BaseLayer
+    7401132: Bedside_table_blat003|plugg socket051|Take 001|BaseLayer
+    7401134: Bedside_table_blat003|plugg015|Take 001|BaseLayer
+    7401136: Bedside_table_blat003|plugg016|Take 001|BaseLayer
+    7401138: Bedside_table_blat003|plugg017|Take 001|BaseLayer
+    7401140: Bedside_table_blat003|plugg018|Take 001|BaseLayer
+    7401142: Bedside_table_blat003|plugg019|Take 001|BaseLayer
+    7401144: Bedside_table_blat003|plugg020|Take 001|BaseLayer
+    7401146: Bedside_table_blat003|plugg021|Take 001|BaseLayer
+    7401148: Bedside_table_blat003|plugg022|Take 001|BaseLayer
+    7401150: Bedside_table_blat003|plugg023|Take 001|BaseLayer
+    7401152: Bedside_table_blat003|plugg024|Take 001|BaseLayer
+    7401154: Bedside_table_blat003|plugg025|Take 001|BaseLayer
+    7401156: Bedside_table_blat003|plugg026|Take 001|BaseLayer
+    7401158: Bedside_table_blat003|plugg027|Take 001|BaseLayer
+    7401160: Bedside_table_blat003|round slot016|Take 001|BaseLayer
+    7401162: Bedside_table_blat003|round slot017|Take 001|BaseLayer
+    7401164: Bedside_table_blat003|round slot018|Take 001|BaseLayer
+    7401166: Bedside_table_blat003|round slot019|Take 001|BaseLayer
+    7401168: Bedside_table_blat003|round slot020|Take 001|BaseLayer
+    7401170: Bedside_table_blat003|round slot021|Take 001|BaseLayer
+    7401172: Bedside_table_blat003|round slot022|Take 001|BaseLayer
+    7401174: Bedside_table_blat003|round slot023|Take 001|BaseLayer
+    7401176: Bedside_table_blat003|round slot024|Take 001|BaseLayer
+    7401178: Bedside_table_blat003|round slot025|Take 001|BaseLayer
+    7401180: Bedside_table_blat003|Round_button001|Take 001|BaseLayer
+    7401182: Bedside_table_blat003|Round_Scart008|Take 001|BaseLayer
+    7401184: Bedside_table_blat003|Round_Scart009|Take 001|BaseLayer
+    7401186: Bedside_table_blat003|Round_Scart010|Take 001|BaseLayer
+    7401188: Bedside_table_blat003|Round_Scart011|Take 001|BaseLayer
+    7401190: Bedside_table_blat003|Round_Scart012|Take 001|BaseLayer
+    7401192: Bedside_table_blat003|Round_Scart013|Take 001|BaseLayer
+    7401194: Bedside_table_blat003|Round_Scart014|Take 001|BaseLayer
+    7401196: Bedside_table_blat003|Round_Scart015|Take 001|BaseLayer
+    7401198: Bedside_table_blat003|scart003|Take 001|BaseLayer
+    7401200: Bedside_table_blat003|scart004|Take 001|BaseLayer
+    7401202: Bedside_table_blat003|scart005|Take 001|BaseLayer
+    7401204: Bedside_table_blat003|Shape002|Take 001|BaseLayer
+    7401206: Bedside_table_blat003|shelf edge004|Take 001|BaseLayer
+    7401208: Bedside_table_blat003|shelf edge005|Take 001|BaseLayer
+    7401210: Bedside_table_blat003|shelf edge006|Take 001|BaseLayer
+    7401212: Bedside_table_blat003|shelf edge007|Take 001|BaseLayer
+    7401214: Bedside_table_blat003|Side_handle002|Take 001|BaseLayer
+    7401216: Bedside_table_blat003|Side_handle003|Take 001|BaseLayer
+    7401218: Bedside_table_blat003|sky boom base001|Take 001|BaseLayer
+    7401220: Bedside_table_blat003|socketA068|Take 001|BaseLayer
+    7401222: Bedside_table_blat003|socketA069|Take 001|BaseLayer
+    7401224: Bedside_table_blat003|socketA071|Take 001|BaseLayer
+    7401226: Bedside_table_blat003|socketA072|Take 001|BaseLayer
+    7401228: Bedside_table_blat003|socketA073|Take 001|BaseLayer
+    7401230: Bedside_table_blat003|socketA074|Take 001|BaseLayer
+    7401232: Bedside_table_blat003|socketA075|Take 001|BaseLayer
+    7401234: Bedside_table_blat003|socketA076|Take 001|BaseLayer
+    7401236: Bedside_table_blat003|socketA077|Take 001|BaseLayer
+    7401238: Bedside_table_blat003|socketA078|Take 001|BaseLayer
+    7401240: Bedside_table_blat003|socketA079|Take 001|BaseLayer
+    7401242: Bedside_table_blat003|socketA080|Take 001|BaseLayer
+    7401244: Bedside_table_blat003|socketA081|Take 001|BaseLayer
+    7401246: Bedside_table_blat003|socketA082|Take 001|BaseLayer
+    7401248: Bedside_table_blat003|socketA083|Take 001|BaseLayer
+    7401250: Bedside_table_blat003|socketA084|Take 001|BaseLayer
+    7401252: Bedside_table_blat003|socketA085|Take 001|BaseLayer
+    7401254: Bedside_table_blat003|socketA086|Take 001|BaseLayer
+    7401256: Bedside_table_blat003|socketA087|Take 001|BaseLayer
+    7401258: Bedside_table_blat003|socketA088|Take 001|BaseLayer
+    7401260: Bedside_table_blat003|socketA089|Take 001|BaseLayer
+    7401262: Bedside_table_blat003|SocketB076|Take 001|BaseLayer
+    7401264: Bedside_table_blat003|SocketB082|Take 001|BaseLayer
+    7401266: Bedside_table_blat003|SocketB083|Take 001|BaseLayer
+    7401268: Bedside_table_blat003|SocketB084|Take 001|BaseLayer
+    7401270: Bedside_table_blat003|SocketB085|Take 001|BaseLayer
+    7401272: Bedside_table_blat003|SocketB086|Take 001|BaseLayer
+    7401274: Bedside_table_blat003|SocketB087|Take 001|BaseLayer
+    7401276: Bedside_table_blat003|SocketB088|Take 001|BaseLayer
+    7401278: Bedside_table_blat003|SocketB089|Take 001|BaseLayer
+    7401280: Bedside_table_blat003|SocketB090|Take 001|BaseLayer
+    7401282: Bedside_table_blat003|SocketB091|Take 001|BaseLayer
+    7401284: Bedside_table_blat003|SocketB092|Take 001|BaseLayer
+    7401286: Bedside_table_blat003|SocketB093|Take 001|BaseLayer
+    7401288: Bedside_table_blat003|SocketB094|Take 001|BaseLayer
+    7401290: Bedside_table_blat003|SocketB095|Take 001|BaseLayer
+    7401292: Bedside_table_blat003|sockets012|Take 001|BaseLayer
+    7401294: Bedside_table_blat003|sockets014|Take 001|BaseLayer
+    7401296: Bedside_table_blat003|sockets015|Take 001|BaseLayer
+    7401298: Bedside_table_blat003|support017|Take 001|BaseLayer
+    7401300: Bedside_table_blat003|support018|Take 001|BaseLayer
+    7401302: Bedside_table_blat003|support019|Take 001|BaseLayer
+    7401304: Bedside_table_blat003|support020|Take 001|BaseLayer
+    7401306: Bedside_table_blat003|support021|Take 001|BaseLayer
+    7401308: Bedside_table_blat003|support022|Take 001|BaseLayer
+    7401310: Bedside_table_blat003|support023|Take 001|BaseLayer
+    7401312: Bedside_table_blat003|support024|Take 001|BaseLayer
+    7401314: Bedside_table_blat003|support025|Take 001|BaseLayer
+    7401316: Bedside_table_blat003|support026|Take 001|BaseLayer
+    7401318: Bedside_table_blat003|support027|Take 001|BaseLayer
+    7401320: Bedside_table_blat003|support028|Take 001|BaseLayer
+    7401322: Bedside_table_blat003|support029|Take 001|BaseLayer
+    7401324: Bedside_table_blat003|support030|Take 001|BaseLayer
+    7401326: Bedside_table_blat003|support031|Take 001|BaseLayer
+    7401328: Bedside_table_blat003|support032|Take 001|BaseLayer
+    7401330: Bedside_table_blat003|surgical light handle032|Take 001|BaseLayer
+    7401332: Bedside_table_blat003|surgical light handle033|Take 001|BaseLayer
+    7401334: Bedside_table_blat003|surgical light handle034|Take 001|BaseLayer
+    7401336: Bedside_table_blat003|surgical light handle035|Take 001|BaseLayer
+    7401338: Bedside_table_blat003|surgical light handle036|Take 001|BaseLayer
+    7401340: Bedside_table_blat003|surgical light handle037|Take 001|BaseLayer
+    7401342: Bedside_table_blat003|surgical light handle038|Take 001|BaseLayer
+    7401344: Bedside_table_blat003|usb slot027|Take 001|BaseLayer
+    7401346: Bedside_table_blat003|usb slot028|Take 001|BaseLayer
+    7401348: Bedside_table_blat003|usb slot029|Take 001|BaseLayer
+    7401350: Bedside_table_blat003|usb slot030|Take 001|BaseLayer
+    7401352: Bedside_table_blat003|usb slot031|Take 001|BaseLayer
+    7401354: Bedside_table_blat003|usb slot032|Take 001|BaseLayer
+    7401356: Bedside_table_blat003|usb slot033|Take 001|BaseLayer
+    7401358: Bedside_table_blat003|usb slot034|Take 001|BaseLayer
+    7401360: Bedside_table_blat003|usb slot035|Take 001|BaseLayer
+    7401362: Bedside_table_blat003|usb slot036|Take 001|BaseLayer
+    7401364: Bedside_table_blat003|usb slot037|Take 001|BaseLayer
+    7401366: Bedside_table_blat003|usb slot038|Take 001|BaseLayer
+    7401368: Bedside_table_blat003|ventilator  bag cap001|Take 001|BaseLayer
+    7401370: Bedside_table_blat003|ventilator arm adjustable support001|Take 001|BaseLayer
+    7401372: Bedside_table_blat003|ventilator arm handle002|Take 001|BaseLayer
+    7401374: Bedside_table_blat003|ventilator arm segment005|Take 001|BaseLayer
+    7401376: Bedside_table_blat003|ventilator arm segment006|Take 001|BaseLayer
+    7401378: Bedside_table_blat003|ventilator arm segment007|Take 001|BaseLayer
+    7401380: Bedside_table_blat003|ventilator arm segment008|Take 001|BaseLayer
+    7401382: Bedside_table_blat003|ventilator bag001|Take 001|BaseLayer
+    7401384: Bedside_table_blat003|ventilator box002|Take 001|BaseLayer
+    7401386: Bedside_table_blat003|ventilator brushed metal002|Take 001|BaseLayer
+    7401388: Bedside_table_blat003|ventilator controls 003|Take 001|BaseLayer
+    7401390: Bedside_table_blat003|ventilator glass004|Take 001|BaseLayer
+    7401392: Bedside_table_blat003|ventilator glass005|Take 001|BaseLayer
+    7401394: Bedside_table_blat003|ventilator glass006|Take 001|BaseLayer
+    7401396: Bedside_table_blat003|ventilator hose cap 012|Take 001|BaseLayer
+    7401398: Bedside_table_blat003|ventilator hose cap 013|Take 001|BaseLayer
+    7401400: Bedside_table_blat003|ventilator hose cap 014|Take 001|BaseLayer
+    7401402: Bedside_table_blat003|ventilator hose cap 015|Take 001|BaseLayer
+    7401404: Bedside_table_blat003|ventilator hose cap 016|Take 001|BaseLayer
+    7401406: Bedside_table_blat003|ventilator hose cap 017|Take 001|BaseLayer
+    7401408: Bedside_table_blat003|ventilator hose cap005|Take 001|BaseLayer
+    7401410: Bedside_table_blat003|ventilator hose cap006|Take 001|BaseLayer
+    7401412: Bedside_table_blat003|ventilator hose cap007|Take 001|BaseLayer
+    7401414: Bedside_table_blat003|ventilator hose cap008|Take 001|BaseLayer
+    7401416: Bedside_table_blat003|ventilator hose output003|Take 001|BaseLayer
+    7401418: Bedside_table_blat003|ventilator hose output004|Take 001|BaseLayer
+    7401420: Bedside_table_blat003|ventilator hose support 004|Take 001|BaseLayer
+    7401422: Bedside_table_blat003|ventilator hose support 005|Take 001|BaseLayer
+    7401424: Bedside_table_blat003|ventilator hose support001|Take 001|BaseLayer
+    7401426: Bedside_table_blat003|ventilator large button001|Take 001|BaseLayer
+    7401428: Bedside_table_blat003|ventilator screen002|Take 001|BaseLayer
+    7401430: Bedside_table_blat003|ventilator_DetailAluminiumPlatte001|Take 001|BaseLayer
+    7401432: Bedside_table_blat003|Ventilator_main_body001|Take 001|BaseLayer
+    7401434: Bedside_table_blat003|Ventilator_wheel004|Take 001|BaseLayer
+    7401436: Bedside_table_blat003|Ventilator_wheel005|Take 001|BaseLayer.001
+    7401438: Bedside_table_blat003|Ventilator_wheel006|Take 001|BaseLayer
+    7401440: Bedside_table_blat003|Ventilator_wheel007|Take 001|BaseLayer
+    7401442: Bedside_table_blat003|ventilatorHose006|Take 001|BaseLayer
+    7401444: Bedside_table_blat003|ventilatorHose007|Take 001|BaseLayer
+    7401446: Bedside_table_blat003|ventilatorHose008|Take 001|BaseLayer
+    7401448: Bedside_table_blat003|ventilatorHose009|Take 001|BaseLayer
+    7401450: Bedside_table_blat003|ventilatorHose010|Take 001|BaseLayer
+    7401452: Bedside_table_blat003|vga slot031|Take 001|BaseLayer
+    7401454: Bedside_table_blat003|vga slot034|Take 001|BaseLayer
+    7401456: Bedside_table_blat003|vga slot035|Take 001|BaseLayer
+    7401458: Bedside_table_blat003|Wheel_arm009|Take 001|BaseLayer
+    7401460: Bedside_table_blat003|Wheel_arm010|Take 001|BaseLayer.001
+    7401462: Bedside_table_blat003|Wheel_arm011|Take 001|BaseLayer
+    7401464: Bedside_table_blat003|Wheel_arm012|Take 001|BaseLayer
+    7401466: Bedside_table_blat003|wheel_ax008|Take 001|BaseLayer
+    7401468: Bedside_table_blat003|wheel_ax009|Take 001|BaseLayer.001
+    7401470: Bedside_table_blat003|wheel_ax010|Take 001|BaseLayer
+    7401472: Bedside_table_blat003|wheel_ax011|Take 001|BaseLayer
+    7401474: Bedside_table_blat003|wheel_rubber007|Take 001|BaseLayer
+    7401476: Bedside_table_blat003|wheel_rubber008|Take 001|BaseLayer.001
+    7401478: Bedside_table_blat003|wheel_rubber009|Take 001|BaseLayer
+    7401480: Bedside_table_blat003|wheel_rubber010|Take 001|BaseLayer
+    7401482: Bedside_table_blat003|wheelCenterPivot004|Take 001|BaseLayer
+    7401484: Bedside_table_blat003|wheelCenterPivot005|Take 001|BaseLayer.001
+    7401486: Bedside_table_blat003|wheelCenterPivot006|Take 001|BaseLayer
+    7401488: Bedside_table_blat003|wheelCenterPivot007|Take 001|BaseLayer
+    7401490: Bedside_table_blat003|Cylinder65ssa007|Take 001|BaseLayer
+    7401492: Bedside_table_blat003|Locker_top001|Take 001|BaseLayer
+    7401494: Bedside_table_blat003|monitor screen003|Take 001|BaseLayer
+    7401496: Bedside_table_blat003|plinth 2|Take 001|BaseLayer
+    7401498: Bedside_table_blat003|ceilung|Take 001|BaseLayer
+    7401500: Bedside_table_blat003|Cylinder4465|Take 001|BaseLayer
+    7401502: Bedside_table_blat003|Cylinder4466|Take 001|BaseLayer
+    7401504: Bedside_table_blat003|Cylinder4467|Take 001|BaseLayer
+    7401506: Bedside_table_blat003|Cylinder4468|Take 001|BaseLayer
+    7401508: Bedside_table_blat003|Cylinder4469|Take 001|BaseLayer
+    7401510: Bedside_table_blat003|Cylinder4470|Take 001|BaseLayer
+    7401512: Bedside_table_blat003|Cylinder4471|Take 001|BaseLayer
+    7401514: Bedside_table_blat003|Cylinder4472|Take 001|BaseLayer
+    7401516: Bedside_table_blat003|Cylinder4473|Take 001|BaseLayer
+    7401518: Bedside_table_blat003|Cylinder4771|Take 001|BaseLayer
+    7401520: Bedside_table_blat003|Cylinder4772|Take 001|BaseLayer
+    7401522: Bedside_table_blat003|Cylinder4773|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white metal bedsidetable
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ metal_hospital_bed.001
+    second: {fileID: 2100000, guid: c0aa2a5ba4d65664eaa514bfa6fca94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_ plastic_hospital_bed.002
+    second: {fileID: 2100000, guid: 326efa82a1e7d2c4abeae46efd33a05f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

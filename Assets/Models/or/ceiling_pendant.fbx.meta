@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 597554cecef98b849a2c1397a546aeba
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7275633755018367303
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Floor
+      Conc - 6" - Rubber Floor - Blue [211487]|Take 001|BaseLay
+  - first:
+      74: 4671858943921010027
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Floor
+      Conc - 6" - Rubber Floor - Dark Blue2 [316164]|Take 001|B
+  - first:
+      74: 5571577645173931537
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Floor
+      Conc - 6" - Rubber Floor - Dark Blue2 [378046]|Take 001|B
+  - first:
+      74: -3203843173375870354
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Floor
+      Conc - 6" - Rubber Floor Dark Blue [316282]|Take 001|Base
+  - first:
+      74: -8339963452882191075
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Maquet_Ceiling_Pendant_8557
+      Maquet_Ceiling_Pendant_8557_76532d8
+  - first:
+      74: -3392277340521486710
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Surgery
+      Stool Surgery Stool [285409]|Take 001|BaseLayer
+  - first:
+      74: -5298720311458425253
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Surgery
+      Stool Surgery Stool [285507]|Take 001|BaseLayer
+  - first:
+      74: -3842899508823572402
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Surgery
+      Stool Surgery Stool [318555]|Take 001|BaseLayer
+  - first:
+      74: 4150235129190268448
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|Table-Overbed_Reed
+      Table-Overbed_Reed [160993]|Take 001|BaseLay
+  - first:
+      74: 405838385192976732
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Anesthesia_Tower
+      26" x 26" [226134]|Take 001|BaseLayer
+  - first:
+      74: 691987044682899191
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Contamination
+      Tray w-Contamination Tray [367117]|Take 001|Bas
+  - first:
+      74: 8443922562536253919
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment - ElectroSurgical Generator ESU w-M_2cc8069
+  - first:
+      74: 3137640473242788175
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment - Olympus Xenon Light Source Contro_875c195
+  - first:
+      74: 5840249646409484779
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment - SurgeryRoom Psymograph w-Medical _d4ab6fd
+  - first:
+      74: 7274996549279543470
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment - Trumpf - i310 i310 FP [263967]|Take 001|B
+  - first:
+      74: -5658659993109775313
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment - Trumpf - i310 i310 FP [320310]|Take 001|B
+  - first:
+      74: 495392018169800215
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-Medical
+      Equipment -Trumpf - Titan Surgery Table Titan_241c58f
+  - first:
+      74: 526358018485982670
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-SurgeryRoom
+      Diffuser - Titus TLF-AA w-SurgeryRoom Dif_2ef9c16
+  - first:
+      74: 3328496032211509500
+    second: Maquet_Ceiling_Pendant_8557 Maquet_Ceiling_Pendant_8557_76532d8|w-SurgeryRoom
+      Diffuser - Titus TLF-AA w-SurgeryRoom Dif_4d09d3c
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &799762254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 799762255}
+  m_Layer: 0
+  m_Name: EmptyTransform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &799762255
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 799762254}
+  m_LocalRotation: {x: 0.24269979, y: 0.75669384, z: -0.44630674, w: 0.41148698}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1171759498325428762}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1171759498325428764
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1171759498325428762}
+  - component: {fileID: 1171759498325428763}
+  m_Layer: 0
+  m_Name: Tubing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1171759498325428762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171759498325428764}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 799762255}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1171759498325428763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171759498325428764}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05905edf37457af4ba5fc075f7e27a1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tubePrefabs:
+  - {fileID: 2085085480564291327, guid: 47c0e0cee9164d64d94d033a7027aa35, type: 3}
+  - {fileID: 5195737495475000768, guid: ceecb19454c8c664699af2c62c937fda, type: 3}
+  - {fileID: 3574665854036445018, guid: 6acc9c6e4606f604c88535f89e088551, type: 3}
+  - {fileID: 6131201005384534011, guid: d60661229a68d49498b92e88663fe00f, type: 3}
+  - {fileID: 3926877361572405926, guid: 148241cf87294a44fafec22662390751, type: 3}
+  - {fileID: 4045817231770965281, guid: 7a17f311d5cefa24dae0c7dd1e696913, type: 3}
+  - {fileID: 8381564133850609849, guid: cb03068862608c04388c46b221fa682e, type: 3}
+  _proximity: 0.15
+  _forwardIncrement: 0.1
+  _rotationIncrement: 36
+  _hitRadius: 0.01
+  positionsGizmosRaw: []
+  _curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: -0
+      outSlope: -0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.19636364
+    - serializedVersion: 3
+      time: 0.4
+      value: 1
+      inSlope: -0.02126459
+      outSlope: -0.02126459
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.27727276
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.19636369
+    - serializedVersion: 3
+      time: 0.6
+      value: 1
+      inSlope: 0.007164537
+      outSlope: 0.007164537
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.24090903
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _layerMask:
+    serializedVersion: 2
+    m_Bits: 2621441
+  _maxIter: 10
+  _maxIterOuter: 50
+  _decimationNumber: 2
